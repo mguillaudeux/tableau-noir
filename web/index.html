@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tableau Noir · l'analyse tactique à la craie</title>
+  <meta name="description" content="Des matchs décortiqués à partir de données ouvertes (Hudl StatsBomb, Wyscout) : stats classiques, structure, pressing, replis, gravité des joueurs.">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;600&family=DM+Mono&family=Nothing+You+Could+Do&family=Work+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Le grain de craie : un bruit qui troue les traits et les fait légèrement trembler -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <filter id="craie" x="-4%" y="-8%" width="108%" height="116%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="2" seed="18" result="bruit"/>
+      <feColorMatrix in="bruit" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2.3 1.85" result="masque"/>
+      <feComposite in="SourceGraphic" in2="masque" operator="in" result="grain"/>
+      <feDisplacementMap in="grain" in2="bruit" scale="1.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="hachures" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="currentColor" stroke-width="2.4"/>
+    </pattern>
+  </svg>
+
+  <header class="topbar">
+    <a class="back" href="https://mguillaudeux.github.io/" data-i18n="back">← Carnet de Morgan</a>
+    <div class="lang" role="group" aria-label="Langue / Language">
+      <button type="button" data-lang="fr" aria-pressed="true">FR</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+  </header>
+
+  <main id="app">
+    <p class="loading" data-i18n="loading">Le coach sort les craies…</p>
+  </main>
+
+  <footer>
+    <div class="credits">
+      <img src="img/statsbomb.png" alt="StatsBomb" width="138" height="22">
+      <p><span data-i18n="credits_sb"></span><br><span data-i18n="credits_wy"></span><br><span data-i18n="credits_fan"></span>
+        <a href="https://github.com/mguillaudeux/tableau-noir" data-i18n="code">Code source</a></p>
+    </div>
+  </footer>
+  <div id="tip" class="tip" hidden></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
