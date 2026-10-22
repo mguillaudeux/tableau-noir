@@ -2,8 +2,9 @@
 
 import { PITCH, byStage, chalkCircle, chalkPath, orient, scale, scoreLine, seedOf, share, sortPlayers, standouts, winner, xgRace } from "./logic.js";
 import { compName, makeT, stageName, teamName } from "./i18n.js";
+import { HEX, bar, drawPitch, el } from "./draw.js";
+import { renderTeamSection as teamSection } from "./sections.js";
 
-const NS = "http://www.w3.org/2000/svg";
 const $ = (s, root = document) => root.querySelector(s);
 const app = $("#app");
 const tip = $("#tip");
@@ -27,14 +28,7 @@ const num = (x, d = 0) => (x == null ? "–" : x.toLocaleString(state.lang === "
 const pct = (x) => (x == null ? "–" : state.lang === "fr" ? `${Math.round(x * 100)} %` : `${Math.round(x * 100)}%`);
 const team = (name) => teamName(name, state.lang);
 const COLORS = { home: "var(--jaune)", away: "var(--bleu)" };
-const HEX = { home: "#e8c268", away: "#8db8d8", craie: "#ece7dc", gris: "#9aa39e", corail: "#e2786a" };
 
-function el(tag, attrs = {}, text) {
-  const e = document.createElementNS(NS, tag);
-  for (const [k, v] of Object.entries(attrs)) if (v != null) e.setAttribute(k, v);
-  if (text != null) e.textContent = text;
-  return e;
-}
 
 function applyI18n() {
   document.documentElement.lang = state.lang;
@@ -51,8 +45,8 @@ async function json(url) {
 
 function route() {
   const h = location.hash.replace(/^#\/?/, "");
-  const [kind, id] = h.split("/");
-  if (kind === "m" && id) return showMatch(id);
+  const [kind, id, section] = h.split("/");
+  if (kind === "m" && id) return showMatch(id, SECTIONS.includes(section) ? section : "s1");
   return showCatalogue(kind === "c" ? id : null);
 }
 
@@ -127,13 +121,18 @@ function matchRow(m) {
 // --- Match ------------------------------------------------------------------------------------
 
 const SECTIONS = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9"];
+const READY = new Set(["s1", "s2", "s3", "s4", "s5"]);
 
-async function showMatch(id) {
-  app.innerHTML = `${masthead(true)}<p class="loading">${esc(t("loading"))}</p>`;
+async function showMatch(id, section = "s1") {
+  const same = state.match?.meta.id === id;
+  if (!same) app.innerHTML = `${masthead(true)}<p class="loading">${esc(t("loading"))}</p>`;
   const [d] = await Promise.all([json(`data/matches/${id}.json`), state.catalogue ?? json("data/catalogue.json").then((c) => { state.catalogue = c; })]);
+  state.context = await json(`data/context/${d.meta.comp}.json`).catch(() => null);
   state.match = d;
+  state.section = section;
   renderMatch();
-  window.scrollTo({ top: 0 });
+  if (!same) window.scrollTo({ top: 0 });
+  else document.querySelector(".sections")?.scrollIntoView({ block: "start" });
 }
 
 function renderMatch() {
@@ -156,9 +155,18 @@ function renderMatch() {
     </section>
     <p class="board-meta">${m.duration > 90 ? `${esc(t("aet"))} · ` : ""}<span class="badge${m.has_360 ? " b360" : ""}">${esc(data)}</span></p>
     <div class="scorers"><div class="home">${scorers("home")}</div><div class="away">${scorers("away")}</div></div>
-    <ul class="sections" aria-label="${esc(t("sections_title"))}">${SECTIONS.map((s, i) => (i === 0
-      ? `<li><a href="#/m/${m.id}" aria-current="page">${esc(t(s))}</a></li>`
+    <ul class="sections" aria-label="${esc(t("sections_title"))}">${SECTIONS.map((s) => (READY.has(s)
+      ? `<li><a href="#/m/${m.id}/${s}"${state.section === s ? ' aria-current="page"' : ""}>${esc(t(s))}</a></li>`
       : `<li><span title="${esc(t("soon"))}">${esc(t(s))}</span></li>`)).join("")}</ul>
+    <div id="section-body"></div>`;
+  const body = $("#section-body");
+  if (state.section === "s1") renderClassic(body);
+  else teamSection(body, state.section, { state, t, esc, num, pct, team, showTip, moveTip, hideTip });
+}
+
+function renderClassic(body) {
+  const m = state.match.meta;
+  body.innerHTML = `
     <section aria-labelledby="s1-title">
       <div class="section-head"><h2 id="s1-title">${esc(t("s1_title"))}</h2><span class="note">${esc(t("s1_note"))}</span></div>
       <div class="grid">
@@ -218,20 +226,6 @@ function drawSheet() {
   }
 }
 
-function bar(svg, frac, side, seed, rtl) {
-  const w = 200;
-  svg.setAttribute("viewBox", `0 0 ${w} 14`);
-  svg.setAttribute("preserveAspectRatio", "none");
-  const len = Math.max(0, frac) * (w - 4);
-  if (len < 1) return;
-  const x0 = rtl ? w - 2 : 2;
-  const x1 = rtl ? w - 2 - len : 2 + len;
-  const g = el("g", { class: "chalk" });
-  for (const [dy, sw, op] of [[7, 10, 0.95], [5, 3, 0.55]]) {
-    g.append(el("path", { d: chalkPath([[x0, dy], [x1, dy]], { amp: 0.8, step: 18, seed: seed + dy }), stroke: HEX[side], "stroke-width": sw, "stroke-linecap": "round", fill: "none", opacity: op }));
-  }
-  svg.append(g);
-}
 
 // Fig. 2 — course aux xG
 function drawRace() {
@@ -291,18 +285,6 @@ function drawRace() {
 }
 
 // Fig. 3 — carte des tirs
-function drawPitch(svg, k, ox, oy, seed = 7) {
-  const P = (x, y) => [ox + x * k, oy + y * k];
-  const line = (pts, s) => svg.append(el("path", { d: chalkPath(pts.map(([a, b]) => P(a, b)), { amp: 1.1, seed: seed + s }), stroke: HEX.craie, "stroke-width": 1.8, fill: "none", opacity: 0.75, "stroke-linejoin": "round" }));
-  line([[0, 0], [105, 0], [105, 68], [0, 68], [0, 0]], 1);
-  line([[52.5, 0], [52.5, 68]], 2);
-  svg.append(el("path", { d: chalkCircle(ox + 52.5 * k, oy + 34 * k, 9.15 * k, { seed: seed + 3, amp: 0.03 }), stroke: HEX.craie, "stroke-width": 1.6, fill: "none", opacity: 0.7 }));
-  for (const [gx, sg] of [[0, 1], [105, -1]]) {
-    line([[gx, 13.84], [gx + sg * 16.5, 13.84], [gx + sg * 16.5, 54.16], [gx, 54.16]], 4 + gx);
-    line([[gx, 24.84], [gx + sg * 5.5, 24.84], [gx + sg * 5.5, 43.16], [gx, 43.16]], 5 + gx);
-    svg.append(el("circle", { cx: ox + (gx + sg * 11) * k, cy: oy + 34 * k, r: 2, fill: HEX.craie, opacity: 0.7 }));
-  }
-}
 
 function drawShots() {
   const d = state.match;

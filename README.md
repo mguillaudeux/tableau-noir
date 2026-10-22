@@ -1,6 +1,6 @@
 # Tableau Noir
 
-**L'analyse tactique du football, à la craie.** Des matchs décortiqués à partir de données ouvertes, avec la même méthode pour tous : d'abord les stats classiques, puis (jalons suivants) la structure, le pressing, le relationnisme, les replis, la gravité des joueurs, la valeur des actions, les classements et les jumeaux.
+**L'analyse tactique du football, à la craie.** Des matchs décortiqués à partir de données ouvertes, avec la même méthode pour tous : les stats classiques, la structure, le pressing, le relationnisme et les replis ; puis (jalons suivants) la gravité des joueurs, la valeur des actions, les classements et les jumeaux.
 
 **Le site** : `web/`, publié par GitHub Pages à chaque push sur `main` ([`pages.yml`](.github/workflows/pages.yml)).
 
@@ -36,6 +36,38 @@ Quelques définitions :
 - **xG** : celui de StatsBomb pour ses matchs. Wyscout n'en fournit pas : le modèle de Tableau Noir ([`xg.py`](src/tableau_noir/xg.py)) est une régression logistique sur 42 499 tirs des cinq grands championnats 2017/18 (distance, angle, tête, coup franc direct) ; un penalty vaut 0,73, le taux de réussite observé.
 
 Contrôle : sur les 292 matchs exportés, les buts recalculés à partir des événements (contre son camp compris) collent exactement au score. Sur la finale 2022, tirs et tirs cadrés (20 / 10 pour l'Argentine, 10 / 5 pour la France) collent aux chiffres officiels.
+
+## Sections 2 à 5 · L'équipe
+
+Calculées dans [`team.py`](src/tableau_noir/team.py). Chaque chiffre est comparé à la moyenne de la compétition (repère ⌀ sur les barres, qui vont du plus petit au plus grand match observé). Le **360** de StatsBomb (Coupe du monde 2022, Euro 2020, Euro 2024) ajoute la position des joueurs visibles à chaque action ; les autres matchs gardent les mesures tirées des événements, et le site le signale.
+
+### 2 · Structure et couloirs
+
+![Finale 2022 : structure](docs/captures/2-structure.png)
+
+- **Positions moyennes** avec et sans le ballon, et la **formation réelle** qu'on en déduit : les joueurs de champ, triés de l'arrière vers l'avant, sont découpés en 3 ou 4 lignes (découpe optimale, ligne arrière de 3 à 5). Sur la finale 2022, l'Argentine annoncée en 4-3-3 joue en 3-4-3 avec le ballon.
+- **Les 5 couloirs** (côté, demi-espace, axe) × 3 tiers : où l'équipe touche le ballon.
+- **Le bloc** (360) : largeur, profondeur, hauteur de la dernière ligne, couloirs occupés dans le camp adverse.
+
+### 3 · Pressing
+
+![Finale 2022 : pressing](docs/captures/3-pressing.png)
+
+- La carte des pressions (Wyscout n'en a pas : tacles, interceptions et fautes à la place).
+- **Temps de récupération** après chaque perte en jeu (passe ratée, contrôle manqué, dribble perdu, suivi d'une touche adverse) : moins de 5 s, 5–10, 10–20, au-delà.
+- PPDA, pressions par minute sans ballon, contre-pressing, hauteur des actions défensives, récupérations hautes.
+
+### 4 · Relationnisme
+
+![Finale 2022 : relationnisme](docs/captures/4-relationnisme.png)
+
+Un **axe positionniste ↔ relationniste** : moyenne des écarts réduits de cinq ingrédients face à la compétition (passes courtes, combinaisons rapides, liberté latérale, proximité autour du ballon, moins les couloirs occupés), avec toutes les équipes du tournoi en points gris. Plus les **réseaux de passes** des deux équipes.
+
+### 5 · Replis
+
+![Finale 2022 : replis](docs/captures/5-replis.png)
+
+Après chaque perte : combien de joueurs sont entre le ballon et leur but au moment de la perte, puis 6 à 10 s plus tard (360), et les tirs concédés dans les 15 s (événements, pour tous les matchs). Deux images 360 montrent le repli le plus net du match. Le 360 ne voit que les joueurs dans le champ de la caméra : ces chiffres sont des minima.
 
 ## La DA « Craie Exacte »
 

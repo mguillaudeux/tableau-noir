@@ -64,6 +64,10 @@ COLUMNS: dict[str, str] = {
     "card": "string",
     "possession": "string",
     "aerial": "boolean",
+    "event_id": "string",  # identifiant de l'événement chez le fournisseur (jointure avec le 360)
+    "recipient": "string",  # receveur d'une passe (StatsBomb seulement)
+    "chain": "int64",  # numéro de la possession (séquence de jeu d'une même équipe)
+    "counterpress": "boolean",  # pression dans les 5 s après une perte (StatsBomb seulement)
 }
 
 
@@ -71,8 +75,21 @@ def frame(rows: list[dict[str, Any]]) -> pd.DataFrame:
     """Table d'événements typée, colonnes dans l'ordre de COLUMNS."""
     df = pd.DataFrame(rows, columns=list(COLUMNS))
     for col, dtype in COLUMNS.items():
+        if dtype == "int64":
+            df[col] = df[col].fillna(-1)
         df[col] = df[col].astype(dtype)  # type: ignore[call-overload]
-    return df.sort_values(["period", "t"], kind="stable").reset_index(drop=True)
+    df = df.sort_values(["period", "t"], kind="stable").reset_index(drop=True)
+    if (df["chain"] < 0).all() and len(df):
+        df["chain"] = chains(df)
+    return df
+
+
+def chains(df: pd.DataFrame) -> pd.Series:
+    """Numérote les possessions quand la source ne le fait pas : une nouvelle possession commence
+    chaque fois que l'équipe qui a le ballon change (ou à chaque nouvelle période)."""
+    team = df["possession"].ffill()
+    new = (team != team.shift()) | (df["period"] != df["period"].shift())
+    return new.cumsum().astype("int64")
 
 
 @dataclass
@@ -108,6 +125,8 @@ class Match:
     players: dict[str, Player] = field(default_factory=dict)
     events: pd.DataFrame = field(default_factory=lambda: frame([]))
     has_360: bool = False
+    frames: pd.DataFrame | None = None  # positions 360 : event_id, teammate, actor, keeper, x, y
+    formations: dict[str, str] = field(default_factory=dict)  # formation de départ annoncée
 
     def team(self, team_id: str) -> Team:
         return self.home if team_id == self.home.id else self.away

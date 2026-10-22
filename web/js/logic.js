@@ -132,3 +132,20 @@ export function standouts(players, n = 3) {
   const score = (p) => p.goals * 2.5 + p.assists * 1.6 + p.xg * 0.8 + p.key_passes * 0.15 + p.progressive * 0.03 + p.def_actions * 0.04;
   return [...players].map((p) => ({ ...p, score: score(p) })).sort((a, b) => b.score - a.score).slice(0, n);
 }
+
+/** Ingrédients de l'indice de relationnisme et leur sens (comme `team.RELATION_KEYS` en Python). */
+export const RELATION_KEYS = [["short_share", 1], ["quick_share", 1], ["roaming", 1], ["proximity", 1], ["lanes", -1]];
+
+/** Indice relationniste d'une équipe : moyenne des écarts réduits (z) des ingrédients
+ * disponibles, par rapport à la compétition. `null` si aucun ingrédient n'est utilisable. */
+export function relationIndex(rel, stats) {
+  const z = [];
+  for (const [key, sign] of RELATION_KEYS) {
+    const v = rel?.[key];
+    const s = stats?.[key];
+    if (v == null || !s || !s.sd) continue;
+    z.push((sign * (v - s.mean)) / s.sd);
+  }
+  if (!z.length) return null;
+  return Math.round((z.reduce((a, b) => a + b, 0) / z.length) * 1000) / 1000;
+}

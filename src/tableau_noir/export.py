@@ -11,7 +11,7 @@ from collections.abc import Iterable
 from pathlib import Path
 from typing import Any
 
-from tableau_noir import classic
+from tableau_noir import classic, team
 from tableau_noir.model import Match
 
 CREDITS = {
@@ -38,11 +38,14 @@ def match_summary(m: Match) -> dict[str, Any]:
     }
 
 
-def match_json(m: Match) -> dict[str, Any]:
+def match_json(m: Match, comp: str) -> dict[str, Any]:
     stats = classic.team_stats(m)
+    side = {m.home.id: "home", m.away.id: "away"}
+    analysis = team.team_analysis(m)
     return {
         "meta": match_summary(m)
         | {
+            "comp": comp,
             "source": m.source,
             "credit": CREDITS[m.source],
             "xg_model": XG_SOURCE[m.source],
@@ -50,18 +53,10 @@ def match_json(m: Match) -> dict[str, Any]:
             "season": m.season,
         },
         "stats": {"home": stats[m.home.id], "away": stats[m.away.id]},
-        "shots": [
-            s | {"side": "home" if s["team"] == m.home.id else "away"}
-            for s in classic.shots_table(m)
-        ],
-        "goals": [
-            g | {"side": "home" if g["team"] == m.home.id else "away"}
-            for g in classic.goals_table(m)
-        ],
-        "players": [
-            p | {"side": "home" if p["team"] == m.home.id else "away"}
-            for p in classic.player_stats(m)
-        ],
+        "shots": [s | {"side": side[s["team"]]} for s in classic.shots_table(m)],
+        "goals": [g | {"side": side[g["team"]]} for g in classic.goals_table(m)],
+        "players": [p | {"side": side[p["team"]]} for p in classic.player_stats(m)],
+        "team": {side[tid]: a for tid, a in analysis.items()},
     }
 
 
@@ -71,14 +66,22 @@ def write_json(data: Any, path: Path) -> Path:
     return path
 
 
-def export(groups: Iterable[tuple[dict[str, Any], list[Match]]], out: Path) -> dict[str, Any]:
-    """`groups` : (description de la compétition, matchs). Écrit le catalogue et les matchs."""
-    catalogue: list[dict[str, Any]] = []
-    for comp, ms in groups:
-        ms = sorted(ms, key=lambda m: m.date)
-        for m in ms:
-            write_json(match_json(m), out / "matches" / f"{m.id}.json")
-        catalogue.append(comp | {"matches": [match_summary(m) for m in ms]})
-    data = {"competitions": catalogue}
+def export_competition(comp: dict[str, Any], matches: Iterable[Match], out: Path) -> dict[str, Any]:
+    """Écrit un fichier par match (au fil de l'eau, pour ne pas garder les images 360 en mémoire),
+    puis le contexte de la compétition. Renvoie l'entrée du catalogue."""
+    summaries, analyses = [], []
+    for m in matches:
+        data = match_json(m, comp["id"])
+        write_json(data, out / "matches" / f"{m.id}.json")
+        summaries.append(match_summary(m))
+        for s in ("home", "away"):
+            t = data["meta"][s]
+            analyses.append((t["id"], t["name"], data["team"][s]))
+    write_json(team.context(analyses), out / "context" / f"{comp['id']}.json")
+    return comp | {"matches": sorted(summaries, key=lambda x: x["date"])}
+
+
+def write_catalogue(entries: list[dict[str, Any]], out: Path) -> dict[str, Any]:
+    data = {"competitions": entries}
     write_json(data, out / "catalogue.json")
     return data

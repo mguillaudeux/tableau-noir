@@ -14,7 +14,8 @@ pytestmark = pytest.mark.integration
 
 
 def load(mid: str) -> dict[str, Any]:
-    return json.loads((DATA / "matches" / f"{mid}.json").read_text(encoding="utf-8"))
+    out: dict[str, Any] = json.loads((DATA / "matches" / f"{mid}.json").read_text(encoding="utf-8"))
+    return out
 
 
 def test_catalogue() -> None:
@@ -65,4 +66,31 @@ def test_finale_2016_wyscout_et_xg_maison() -> None:
 
 def test_pas_de_donnees_brutes_publiees() -> None:
     d = load("sb-3869685")
-    assert set(d) == {"meta", "stats", "shots", "goals", "players"}
+    assert set(d) == {"meta", "stats", "shots", "goals", "players", "team"}
+    # le 360 ne sort que sous forme de deux images d'exemple par équipe, jamais en entier
+    for side in ("home", "away"):
+        ex = d["team"][side]["recovery"]["example"]
+        assert ex is None or set(ex) == {"before", "after", "behind", "behind_after"}
+
+
+def test_analyse_equipe_finale_2022() -> None:
+    d = load("sb-3869685")
+    arg, fra = d["team"]["home"], d["team"]["away"]
+    assert arg["announced"] == "4-3-3"
+    for a in (arg, fra):
+        assert a["shape"]["block"] is not None and a["recovery"]["samples"] > 10
+        assert sum(map(sum, a["shape"]["lanes"])) == pytest.approx(1, abs=1e-3)
+        assert a["pressing"]["source"] == "pressures"
+    # l'Argentine récupère plus vite et concède moins en transition
+    assert arg["pressing"]["regain_5s"] > fra["pressing"]["regain_5s"]
+    assert arg["recovery"]["shots_against"] < fra["recovery"]["shots_against"]
+
+
+def test_contextes() -> None:
+    cat = json.loads((DATA / "catalogue.json").read_text(encoding="utf-8"))
+    for c in cat["competitions"]:
+        ctx = json.loads((DATA / "context" / f"{c['id']}.json").read_text(encoding="utf-8"))
+        assert ctx["teams"], c["id"]
+        assert "short_share" in ctx["stats"]["relation"]
+        has_360 = c["id"] in {"wc-2022", "euro-2024", "euro-2020"}
+        assert bool(ctx["stats"]["block_with"]) == has_360, c["id"]

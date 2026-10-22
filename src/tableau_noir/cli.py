@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import gc
 import json
+from collections.abc import Iterator
 from pathlib import Path
 from typing import Any
 
@@ -52,63 +53,72 @@ def with_xg(m: Match, model: xg.XGModel) -> Match:
     return m
 
 
-def build(out: Path = WEB_DATA) -> dict[str, Any]:
+def _statsbomb_matches(cid: int, seasons: list[int]) -> Iterator[Match]:
+    for sid in seasons:
+        for meta in sb.matches(cid, sid):
+            m = sb.load_match(meta)
+            if m.has_360:
+                m.frames = sb.load_frames(int(meta["match_id"]))
+            yield m
+            m.frames = None
+
+
+def build(out: Path = WEB_DATA, only: set[str] | None = None) -> dict[str, Any]:
     model = xg.XGModel.load(XG_PATH)
-    groups: list[tuple[dict[str, Any], list[Match]]] = []
+    entries: list[dict[str, Any]] = []
     for gid, cid, seasons, kind in STATSBOMB:
-        ms: list[Match] = []
-        name = season = ""
-        for sid in seasons:
-            for meta in sb.matches(cid, sid):
-                m = sb.load_match(meta)
-                name, season = m.competition, m.season
-                ms.append(m)
-        label = season if kind == "tournament" else f"{ms[0].season[:4]}–{ms[-1].season[-4:]}"
-        groups.append(
-            (
-                {
-                    "id": gid,
-                    "name": name,
-                    "season": label,
-                    "kind": kind,
-                    "source": "statsbomb",
-                    "has_360": any(m.has_360 for m in ms),
-                },
-                ms,
-            )
+        if only and gid not in only:
+            continue
+        first = sb.load_match(sb.matches(cid, seasons[0])[0])
+        last = sb.load_match(sb.matches(cid, seasons[-1])[0])
+        label = first.season if kind == "tournament" else f"{first.season[:4]}–{last.season[-4:]}"
+        has_360 = any(
+            m.get("match_status_360") == "available" for s in seasons for m in sb.matches(cid, s)
         )
-        print(f"{gid} : {len(ms)} matchs")
+        comp = {
+            "id": gid,
+            "name": first.competition,
+            "season": label,
+            "kind": kind,
+            "source": "statsbomb",
+            "has_360": has_360,
+        }
+        entries.append(ex.export_competition(comp, _statsbomb_matches(cid, seasons), out))
+        print(f"{gid} : {len(entries[-1]['matches'])} matchs")
     for gid, key, kind in WYSCOUT:
-        ms = [with_xg(m, model) for m in wy.load_competition(key)]
-        comp, season = wy.NAMES[key]
-        groups.append(
-            (
-                {
-                    "id": gid,
-                    "name": comp,
-                    "season": season,
-                    "kind": kind,
-                    "source": "wyscout",
-                    "has_360": False,
-                },
-                ms,
-            )
-        )
-        print(f"{gid} : {len(ms)} matchs")
-    return ex.export(groups, out)
+        if only and gid not in only:
+            continue
+        name, season = wy.NAMES[key]
+        comp = {
+            "id": gid,
+            "name": name,
+            "season": season,
+            "kind": kind,
+            "source": "wyscout",
+            "has_360": False,
+        }
+        ms = (with_xg(m, model) for m in wy.load_competition(key))
+        entries.append(ex.export_competition(comp, ms, out))
+        print(f"{gid} : {len(entries[-1]['matches'])} matchs")
+    if only:
+        old = json.loads((out / "catalogue.json").read_text(encoding="utf-8"))["competitions"]
+        new = {e["id"]: e for e in entries}
+        entries = [new.get(c["id"], c) for c in old]
+    return ex.write_catalogue(entries, out)
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="tableau-noir")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("xg", help="entraîne le modèle d'xG sur les tirs Wyscout")
-    sub.add_parser("export", help="calcule les stats et écrit web/data/")
+    e = sub.add_parser("export", help="calcule les stats et écrit web/data/")
+    e.add_argument("--only", nargs="*", help="ne recalculer que ces compétitions (ex. wc-2022)")
     args = parser.parse_args(argv)
     if args.command == "xg":
         m = train_xg()
         print(f"xG : {m.n_shots} tirs, coefficients {m.coef}, penalty {m.penalty}")
     elif args.command == "export":
-        data = build()
+        data = build(only=set(args.only) if args.only else None)
         print(f"{sum(len(c['matches']) for c in data['competitions'])} matchs exportés")
     return 0
 

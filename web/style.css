@@ -200,3 +200,9 @@ footer { max-width: 1280px; margin: 0 auto; padding: 26px var(--gouttiere) 46px;
   .board { gap: 8px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* Sections 2 à 5 */
+.caveat { font: .78rem/1.5 var(--mono); color: var(--corail); border-left: 2px solid var(--corail); padding: 4px 0 4px 12px; margin: 0 0 22px; max-width: 70ch; }
+.formations { font: 1.35rem var(--main); color: var(--craie-2); margin: 0 0 20px; }
+.formations b { font: 600 1.5rem var(--titre); color: var(--craie); letter-spacing: .03em; margin: 0 4px; white-space: nowrap; }
+.sheet .k small.mean { color: var(--craie); opacity: .7; font-family: var(--mono); margin-top: 2px; }

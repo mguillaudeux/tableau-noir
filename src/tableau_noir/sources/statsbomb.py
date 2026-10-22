@@ -11,6 +11,8 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+import pandas as pd
+
 from tableau_noir.model import PERIOD_OFFSET, PITCH_X, PITCH_Y, Match, Player, Team, frame
 
 BASE = "https://raw.githubusercontent.com/hudl/open-data/master/data/"
@@ -96,6 +98,9 @@ def event_rows(match_id: str, events: list[dict[str, Any]]) -> list[dict[str, An
             "player": str(e["player"]["id"]) if "player" in e else None,
             "possession": str(e["possession_team"]["id"]) if "possession_team" in e else None,
             "set_piece": "open",
+            "event_id": e["id"],
+            "chain": int(e.get("possession", -1)),
+            "counterpress": bool(e.get("counterpress", False)),
         }
         base["x"], base["y"] = _xy(e.get("location"))
         typ = e["type"]["name"]
@@ -115,6 +120,7 @@ def event_rows(match_id: str, events: list[dict[str, Any]]) -> list[dict[str, An
                 "body": _body(p.get("body_part", {}).get("name")),
                 "key_pass": bool(p.get("shot_assist") or p.get("goal_assist")),
                 "assist": bool(p.get("goal_assist")),
+                "recipient": str(p["recipient"]["id"]) if "recipient" in p else None,
             }
             if outcome == "Pass Offside":
                 extra.append(base | {"kind": "offside"})
@@ -256,5 +262,37 @@ def load_match(meta: dict[str, Any], cache: Path = CACHE) -> Match:
         players=players,
         events=frame(event_rows(f"sb-{mid}", [e for e in events if e["period"] <= 4])),
         has_360=meta.get("match_status_360") == "available",
+        formations=_formations(events),
     )
     return m
+
+
+def _formations(events: list[dict[str, Any]]) -> dict[str, str]:
+    """Formation annoncée au coup d'envoi (« 433 » → « 4-3-3 »)."""
+    out: dict[str, str] = {}
+    for e in events:
+        if e["type"]["name"] == "Starting XI":
+            f = str(e.get("tactics", {}).get("formation", ""))
+            out[str(e["team"]["id"])] = "-".join(f)
+    return out
+
+
+def load_frames(match_id: int, cache: Path = CACHE) -> pd.DataFrame:
+    """Les images 360 d'un match : pour chaque événement, les joueurs visibles (en mètres, dans le
+    repère de l'équipe qui réalise l'action, qui attaque vers la droite)."""
+    data: list[dict[str, Any]] = fetch(f"three-sixty/{match_id}.json", cache)
+    rows = []
+    for f in data:
+        for p in f["freeze_frame"]:
+            x, y = p["location"]
+            rows.append(
+                (
+                    f["event_uuid"],
+                    bool(p["teammate"]),
+                    bool(p.get("actor")),
+                    bool(p.get("keeper")),
+                    round(x * SX, 2),
+                    round(y * SY, 2),
+                )
+            )
+    return pd.DataFrame(rows, columns=["event_id", "teammate", "actor", "keeper", "x", "y"])

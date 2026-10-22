@@ -101,6 +101,7 @@ def event_rows(match_id: str, events: list[dict[str, Any]]) -> list[dict[str, An
             "y": y,
             "set_piece": "open",
             "possession": str(e["teamId"]) if name in ON_BALL else None,
+            "event_id": str(e.get("id", "")),
         }
         accurate = True if 1801 in tags else False if 1802 in tags else None
         card = next((c for tag, c in CARDS.items() if tag in tags), None)

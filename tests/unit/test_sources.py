@@ -15,6 +15,8 @@ def sb_event(typ: str, **extra: object) -> dict[str, object]:
         "possession_team": {"id": 1},
         "location": [60.0, 40.0],
         "type": {"name": typ},
+        "id": "e1",
+        "possession": 3,
         **extra,
     }
 

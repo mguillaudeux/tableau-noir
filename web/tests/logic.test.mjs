@@ -1,7 +1,8 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 
-import { byStage, chalkPath, orient, rng, scoreLine, share, sortPlayers, standouts, winner, xgRace } from "../js/logic.js";
+import { byStage, chalkPath, orient, relationIndex, rng, scoreLine, share, sortPlayers, standouts, winner, xgRace } from "../js/logic.js";
+import { STRINGS } from "../js/i18n.js";
 
 test("le hasard de la craie est reproductible", () => {
   const a = rng(4); const b = rng(4);
@@ -45,4 +46,26 @@ test("tri des joueurs", () => {
 test("les hommes forts", () => {
   const p = (name, goals, xg) => ({ name, goals, assists: 0, xg, key_passes: 0, progressive: 0, def_actions: 0 });
   assert.equal(standouts([p("a", 0, 0.1), p("b", 2, 1.2), p("c", 1, 0.3)], 1)[0].name, "b");
+});
+
+test("indice relationniste : même calcul qu'en Python", () => {
+  const stats = { short_share: { mean: 0.5, sd: 0.1 }, lanes: { mean: 4, sd: 0.5 }, roaming: { mean: 8, sd: 0 } };
+  assert.equal(relationIndex({ short_share: 0.6, lanes: 3.5, roaming: 12, proximity: null }, stats), 1);
+  assert.equal(relationIndex({ short_share: null }, stats), null);
+  assert.equal(relationIndex(null, stats), null);
+});
+
+test("chaque texte existe en français et en anglais", () => {
+  const fr = Object.keys(STRINGS.fr).sort();
+  const en = Object.keys(STRINGS.en).sort();
+  assert.deepEqual(fr, en);
+});
+
+test("échelle des barres : étendue de la compétition quand on la connaît", async () => {
+  const { rowScale } = await import("../js/draw.js");
+  const f = rowScale({ home: 0.5, away: 1, mean: 0.75, lo: 0.5, hi: 1 });
+  assert.equal(f(0.5), 0.06);
+  assert.equal(f(1), 1);
+  const g = rowScale({ home: 2, away: 4 });
+  assert.equal(g(2), 0.5);
 });
