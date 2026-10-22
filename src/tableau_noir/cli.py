@@ -12,12 +12,13 @@ from typing import Any
 import pandas as pd
 
 from tableau_noir import export as ex
-from tableau_noir import xg
+from tableau_noir import xg, xt
 from tableau_noir.model import Match
 from tableau_noir.sources import statsbomb as sb
 from tableau_noir.sources import wyscout as wy
 
 XG_PATH = Path("data/processed/xg_wyscout.json")
+XT_PATH = Path("data/processed/xt_wyscout.json")
 WEB_DATA = Path("web/data")
 LEAGUES = ("England", "France", "Germany", "Italy", "Spain")
 
@@ -46,6 +47,21 @@ def train_xg(raw: Path = wy.RAW) -> xg.XGModel:
     return model
 
 
+def train_xt(raw: Path = wy.RAW) -> xt.XTModel:
+    names = ("Pass", "Shot", "Free Kick", "Others on the ball")
+    parts: list[pd.DataFrame] = []
+    for key in LEAGUES:
+        events = json.loads((raw / "events" / f"events_{key}.json").read_text(encoding="utf-8"))
+        rows = wy.event_rows(key, [e for e in events if e["eventName"] in names])
+        df = pd.DataFrame(rows)
+        parts.append(df[df["kind"].isin(("pass", "carry", "shot"))])
+        del events, rows
+        gc.collect()
+    model = xt.fit(pd.concat(parts, ignore_index=True))
+    model.save(XT_PATH)
+    return model
+
+
 def with_xg(m: Match, model: xg.XGModel) -> Match:
     shots = m.events["kind"] == "shot"
     if shots.any():
@@ -65,7 +81,8 @@ def _statsbomb_matches(cid: int, seasons: list[int]) -> Iterator[Match]:
 
 def build(out: Path = WEB_DATA, only: set[str] | None = None) -> dict[str, Any]:
     model = xg.XGModel.load(XG_PATH)
-    entries: list[dict[str, Any]] = []
+    xt_model = xt.XTModel.load(XT_PATH)
+    computed: list[dict[str, Any]] = []
     for gid, cid, seasons, kind in STATSBOMB:
         if only and gid not in only:
             continue
@@ -83,8 +100,8 @@ def build(out: Path = WEB_DATA, only: set[str] | None = None) -> dict[str, Any]:
             "source": "statsbomb",
             "has_360": has_360,
         }
-        entries.append(ex.export_competition(comp, _statsbomb_matches(cid, seasons), out))
-        print(f"{gid} : {len(entries[-1]['matches'])} matchs")
+        computed.append(ex.competition(comp, _statsbomb_matches(cid, seasons), xt_model))
+        print(f"{gid} : {len(computed[-1]['matches'])} matchs", flush=True)
     for gid, key, kind in WYSCOUT:
         if only and gid not in only:
             continue
@@ -98,8 +115,10 @@ def build(out: Path = WEB_DATA, only: set[str] | None = None) -> dict[str, Any]:
             "has_360": False,
         }
         ms = (with_xg(m, model) for m in wy.load_competition(key))
-        entries.append(ex.export_competition(comp, ms, out))
-        print(f"{gid} : {len(entries[-1]['matches'])} matchs")
+        computed.append(ex.competition(comp, ms, xt_model))
+        print(f"{gid} : {len(computed[-1]['matches'])} matchs", flush=True)
+    entries = ex.finish(computed, out)
+    ex.write_json({"grid": [[round(v, 5) for v in col] for col in xt_model.grid]}, out / "xt.json")
     if only:
         old = json.loads((out / "catalogue.json").read_text(encoding="utf-8"))["competitions"]
         new = {e["id"]: e for e in entries}
@@ -111,12 +130,19 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="tableau-noir")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("xg", help="entraîne le modèle d'xG sur les tirs Wyscout")
+    sub.add_parser("notes", help="réécrit le coin de l'analyste sans tout recalculer")
+    sub.add_parser("xt", help="calcule la grille d'expected threat sur les championnats Wyscout")
     e = sub.add_parser("export", help="calcule les stats et écrit web/data/")
     e.add_argument("--only", nargs="*", help="ne recalculer que ces compétitions (ex. wc-2022)")
     args = parser.parse_args(argv)
     if args.command == "xg":
         m = train_xg()
         print(f"xG : {m.n_shots} tirs, coefficients {m.coef}, penalty {m.penalty}")
+    elif args.command == "notes":
+        print(f"{ex.rewrite_notes(WEB_DATA)} matchs commentés")
+    elif args.command == "xt":
+        t = train_xt()
+        print(f"xT : {t.n_actions} actions, case la plus menaçante {max(map(max, t.grid)):.3f}")
     elif args.command == "export":
         data = build(only=set(args.only) if args.only else None)
         print(f"{sum(len(c['matches']) for c in data['competitions'])} matchs exportés")

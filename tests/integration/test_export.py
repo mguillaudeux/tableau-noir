@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -66,7 +67,7 @@ def test_finale_2016_wyscout_et_xg_maison() -> None:
 
 def test_pas_de_donnees_brutes_publiees() -> None:
     d = load("sb-3869685")
-    assert set(d) == {"meta", "stats", "shots", "goals", "players", "team"}
+    assert set(d) == {"meta", "stats", "shots", "goals", "players", "team", "value", "analyst"}
     # le 360 ne sort que sous forme de deux images d'exemple par équipe, jamais en entier
     for side in ("home", "away"):
         ex = d["team"][side]["recovery"]["example"]
@@ -94,3 +95,36 @@ def test_contextes() -> None:
         assert "short_share" in ctx["stats"]["relation"]
         has_360 = c["id"] in {"wc-2022", "euro-2024", "euro-2020"}
         assert bool(ctx["stats"]["block_with"]) == has_360, c["id"]
+
+
+def test_joueurs_et_classements() -> None:
+    cat = json.loads((DATA / "catalogue.json").read_text(encoding="utf-8"))
+    for c in cat["competitions"]:
+        tab = json.loads((DATA / "players" / f"{c['id']}.json").read_text(encoding="utf-8"))
+        assert tab["players"], c["id"]
+        for role, ids in tab["rankings"].items():
+            ranks = [tab["players"][i]["rank"] for i in ids]
+            assert ranks == list(range(1, len(ids) + 1)), (c["id"], role)
+        assert all(
+            len(p.get("twins", [])) == 3 for p in tab["players"].values() if p.get("profile")
+        )
+    wc = json.loads((DATA / "players" / "wc-2022.json").read_text(encoding="utf-8"))
+    top_fw = [wc["players"][i]["name"] for i in wc["rankings"]["FW"][:5]]
+    assert "Kylian Mbappé" in top_fw or "Lionel Messi" in top_fw
+
+
+def test_coin_de_l_analyste_partout() -> None:
+    leftover = re.compile(r"\{(?!T:(home|away):\w+\}|TN:)[^}]*\}")
+    for f in (DATA / "matches").glob("*.json"):
+        d = json.loads(f.read_text(encoding="utf-8"))
+        assert set(d["analyst"]) == {f"s{i}" for i in range(1, 10)}, f.name
+        for note in d["analyst"].values():
+            for lang in ("fr", "en"):
+                text = " ".join([note[lang]["lead"], note[lang]["impact"], *note[lang]["keys"]])
+                assert note[lang]["lead"] and not leftover.search(text), (f.name, text)
+
+
+def test_grille_xt() -> None:
+    grid = json.loads((DATA / "xt.json").read_text(encoding="utf-8"))["grid"]
+    assert len(grid) == 16 and len(grid[0]) == 12
+    assert max(map(max, grid)) == max(grid[15][5], grid[15][6])  # devant le but

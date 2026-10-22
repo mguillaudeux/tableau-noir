@@ -144,6 +144,57 @@ export const STRINGS = {
     rr_shots_h: "dans les 15 s qui suivent une perte en jeu",
     rr_xg: "xG concédés en transition",
     s5_method: "Pour chaque perte de balle en jeu, on prend la première image 360 de l'adversaire, puis une image 6 à 10 s plus tard s'il a toujours le ballon. On compte nos joueurs visibles entre le ballon et notre but (le gardien exclu). Les deux images montrent l'exemple où le repli est le plus spectaculaire : ronds = nos joueurs, croix = adversaires, cercle corail = ballon, hachures = nos 35 derniers mètres. Le 360 ne montre que les joueurs dans le champ de la caméra : les chiffres sont des minima, comparables d'une équipe à l'autre mais pas des effectifs complets. Les tirs et l'xG concédés en transition viennent des événements, ils existent pour tous les matchs.",
+    // Coin de l'analyste
+    analyst_title: "Le coin de l'analyste",
+    analyst_keys: "Les clés",
+    analyst_impact: "Ce que ça a changé",
+    // Sections 6 à 9
+    no_360_gravity: "Pas de 360 pour ce match : la gravité est remplacée par l'attention reçue (actions défensives adverses autour de chaque touche), mesurable partout.",
+    no_table: "Pas de classement disponible pour cette compétition.",
+    s6_title: "Gravité",
+    s6_note: "qui aimante les défenses",
+    fig_magnets: "Fig. 1 — Les aimants : adversaires attirés en plus, à chaque touche (360)",
+    fig_magnets_ev: "Fig. 1 — Les aimants : attention reçue en plus, pour 10 touches",
+    magnets_legend: "position médiane des touches · plus de cercles = plus d'adversaires attirés · les deux équipes sur le même terrain, chacune attaque vers le but adverse",
+    fig_gravity_match: "Fig. 2 — Dans ce match",
+    fig_gravity_comp: "Fig. 3 — Les plus gros aimants de la compétition",
+    s6_method: "Gravité (360) : à chaque touche de balle (passe, conduite, dribble, tir) qui a une image 360, on compte les adversaires (gardien exclu) à moins de 10 m. On retranche la moyenne de la compétition pour une touche dans la même zone (6 bandes de 17,5 m × axe, intérieur, côté) : un milieu axial est toujours plus entouré qu'un latéral, ce n'est pas de la gravité. Le chiffre est l'excès moyen par touche, au moins 15 touches avec image. Attention reçue (toutes les sources) : les actions défensives adverses (pressions, tacles, fautes, interceptions, contres, duels) à moins de 5 m et dans les 2 s d'une touche, au-delà de la moyenne de la zone, pour 10 touches. Le 360 ne montre que les joueurs dans le champ de la caméra.",
+    s7_title: "Valeur des actions",
+    s7_note: "qui fait avancer le ballon vers le danger",
+    fig_xt_map: "Fig. 1 — La carte de la menace et les six gestes les plus précieux",
+    xt_legend: "case claire = ballon dangereux · trait plein = passe, pointillés = conduite · l'équipe attaque vers la droite",
+    fig_xt_race: "Fig. 2 — La course à la menace (xT cumulé)",
+    fig_creators: "Fig. 3 — Les créateurs",
+    col_xt_pass: "xT passes",
+    col_xt_carry: "xT conduites",
+    kind_pass: "passe", kind_carry: "conduite",
+    s7_method: "Expected Threat (xT, méthode de Karun Singh) : le terrain est découpé en 16 × 12 cases, et chaque case reçoit la probabilité que la possession finisse en but en partant de là. Notre grille est calculée sur 1,8 million d'actions des cinq grands championnats 2017/18 (Wyscout) : probabilité de tirer, de marquer, et où va le ballon quand on le joue. Une passe ou une conduite réussie dans le jeu vaut xT(arrivée) − xT(départ) ; un geste raté vaut 0, les coups de pied arrêtés ne comptent pas. Les dribbles sans point d'arrivée ne sont pas valorisés. Wyscout enregistre peu de conduites : sur l'Euro 2016, l'xT vient presque entièrement des passes.",
+    s8_title: "Classements",
+    s8_note: "les meilleurs du tournoi, poste par poste",
+    rank_intro: "Sur toute la compétition, joueurs d'au moins {n} minutes. Les joueurs de ce match sont en couleur.",
+    col_score: "Note",
+    role_GK: "Gardiens", role_CB: "Défenseurs centraux", role_FB: "Latéraux", role_MF: "Milieux", role_FW: "Attaquants",
+    s8_method: "Poste : celui de la feuille de match (gardien, défenseur, milieu, attaquant), les défenseurs étant séparés en centraux et latéraux selon l'endroit où ils touchent le ballon ; sur le tournoi, le poste le plus joué. Chaque indicateur est ramené à 90 minutes (ou en taux) et converti en centile parmi les joueurs du même poste ; la note est la moyenne de ces centiles. Attaquants : xG hors penalty, buts, tirs, xT, passes clés, dribbles. Milieux : xT, passes progressives, passes clés, réussite des passes, actions défensives, duels gagnés. Latéraux : xT, passes progressives, passes clés, actions défensives, duels, dribbles. Centraux : actions défensives, duels, passes progressives, réussite des passes, xT. Gardiens : buts évités (xG des tirs cadrés subis − buts encaissés), arrêts, pourcentage d'arrêts, réussite des passes. Un classement d'indicateurs, pas de talent : un défenseur dans une équipe qui a le ballon défend moins.",
+    s9_title: "Jumeaux",
+    s9_note: "les profils statistiques les plus proches, toutes compétitions confondues",
+    fig_profile: "Fig. 1 — Profil : {a} (couleur) et {b} (craie)",
+    profile_legend: "écart à la moyenne de sa compétition, en écarts-types · à droite = plus que la moyenne",
+    fig_twins: "Fig. 2 — Les trois jumeaux",
+    no_twins: "Aucun joueur de ce match n'a assez de minutes dans la compétition pour avoir des jumeaux.",
+    s9_method: "Profil : dix indicateurs par 90 minutes (xG hors penalty, tirs, xT, passes clés, passes progressives, dribbles, actions défensives, touches, réussite des passes et des duels ; cinq pour les gardiens), réduits dans leur compétition (écart à la moyenne divisé par l'écart-type). Réduire par compétition gomme en partie les différences de comptage entre StatsBomb et Wyscout. Jumeaux : les trois profils les plus proches (similarité cosinus) au même poste, dans toutes les compétitions du site, le joueur lui-même exclu.",
+    m_npxg: "npxG", m_goals: "Buts", m_shots: "Tirs", m_xt: "xT", m_key_passes: "P. clés", m_dribbles: "Dribbles",
+    m_progressive: "Prog.", m_pass_rate: "Passes %", m_def_actions: "Déf.", m_duel_rate: "Duels %", m_prevented: "Buts évités",
+    m_save_pct: "Arrêts %", m_saves: "Arrêts", m_touches: "Touches",
+    mh_npxg: "xG hors penalty par 90 min", mh_goals: "buts par 90 min", mh_shots: "tirs par 90 min", mh_xt: "xT par 90 min",
+    mh_key_passes: "passes clés par 90 min", mh_dribbles: "dribbles réussis par 90 min", mh_progressive: "passes progressives par 90 min",
+    mh_pass_rate: "réussite des passes", mh_def_actions: "tacles, interceptions, dégagements, contres par 90 min",
+    mh_duel_rate: "duels gagnés", mh_prevented: "buts évités par 90 min", mh_save_pct: "pourcentage d'arrêts", mh_saves: "arrêts par 90 min", mh_touches: "touches par 90 min",
+    "comp_wc-2022": "Coupe du monde 2022",
+    "comp_wc-2018": "Coupe du monde 2018",
+    "comp_euro-2024": "Euro 2024",
+    "comp_euro-2020": "Euro 2020",
+    "comp_euro-2016": "Euro 2016",
+    "comp_ucl-finals": "Finales de LDC",
     code: "Code source",
     tab: "tab",
     aet: "a.p.",
@@ -291,6 +342,57 @@ export const STRINGS = {
     rr_shots_h: "within 15 s of an open-play loss",
     rr_xg: "xG conceded in transition",
     s5_method: "For each open-play loss, we take the opponent's first 360 frame, then a frame 6 to 10 s later if they still have the ball. We count our visible players between the ball and our goal (goalkeeper excluded). The two frames show the example with the most striking recovery: circles = our players, crosses = opponents, coral ring = ball, hatching = our last 35 metres. 360 only shows players inside the camera view: the numbers are minimums, comparable between teams but not full head counts. Shots and xG conceded in transition come from events and exist for every match.",
+    // Analyst's corner
+    analyst_title: "The analyst's corner",
+    analyst_keys: "The keys",
+    analyst_impact: "What it changed",
+    // Sections 6 to 9
+    no_360_gravity: "No 360 for this match: gravity is replaced by attention received (opponent defensive actions around each touch), which every source has.",
+    no_table: "No ranking available for this competition.",
+    s6_title: "Gravity",
+    s6_note: "who pulls defences in",
+    fig_magnets: "Fig. 1 — The magnets: extra opponents drawn on every touch (360)",
+    fig_magnets_ev: "Fig. 1 — The magnets: extra attention received, per 10 touches",
+    magnets_legend: "median touch position · more rings = more opponents drawn · both teams on one pitch, each attacking the opponent's goal",
+    fig_gravity_match: "Fig. 2 — In this match",
+    fig_gravity_comp: "Fig. 3 — The competition's biggest magnets",
+    s6_method: "Gravity (360): on every touch (pass, carry, dribble, shot) with a 360 frame, we count opponents (goalkeeper excluded) within 10 m. We subtract the competition average for a touch in the same zone (6 bands of 17.5 m × centre, inside, wide): a central midfielder is always more surrounded than a full-back, and that is not gravity. The number is the average excess per touch, with at least 15 touches with a frame. Attention received (every source): opponent defensive actions (pressures, tackles, fouls, interceptions, blocks, duels) within 5 m and 2 s of a touch, above the zone average, per 10 touches. 360 only shows players inside the camera view.",
+    s7_title: "Action value",
+    s7_note: "who moves the ball towards danger",
+    fig_xt_map: "Fig. 1 — The threat map and the six most valuable actions",
+    xt_legend: "lighter cell = more dangerous ball · solid = pass, dashed = carry · team attacking to the right",
+    fig_xt_race: "Fig. 2 — The threat race (cumulative xT)",
+    fig_creators: "Fig. 3 — The creators",
+    col_xt_pass: "xT passes",
+    col_xt_carry: "xT carries",
+    kind_pass: "pass", kind_carry: "carry",
+    s7_method: "Expected Threat (xT, Karun Singh's method): the pitch is split into 16 × 12 cells, and each cell gets the probability that a possession starting there ends in a goal. Our grid is computed on 1.8 million actions from the big five leagues 2017/18 (Wyscout): probability to shoot, to score, and where the ball goes when it is played. A successful open-play pass or carry is worth xT(end) − xT(start); a failed one is worth 0, and set pieces do not count. Dribbles without an end point are not valued. Wyscout records few carries: at Euro 2016, xT comes almost entirely from passes.",
+    s8_title: "Rankings",
+    s8_note: "the best of the tournament, position by position",
+    rank_intro: "Across the whole competition, players with at least {n} minutes. Players from this match are in colour.",
+    col_score: "Score",
+    role_GK: "Goalkeepers", role_CB: "Centre-backs", role_FB: "Full-backs", role_MF: "Midfielders", role_FW: "Forwards",
+    s8_method: "Position: the one on the team sheet (goalkeeper, defender, midfielder, forward), with defenders split into centre-backs and full-backs from where they touch the ball; over the tournament, the most played position. Each metric is per 90 minutes (or a rate) and turned into a percentile among players in the same position; the score is the mean of those percentiles. Forwards: non-penalty xG, goals, shots, xT, key passes, dribbles. Midfielders: xT, progressive passes, key passes, pass accuracy, defensive actions, duels won. Full-backs: xT, progressive passes, key passes, defensive actions, duels, dribbles. Centre-backs: defensive actions, duels, progressive passes, pass accuracy, xT. Goalkeepers: goals prevented (xG of shots on target faced − goals conceded), saves, save percentage, pass accuracy. A ranking of metrics, not of talent: a defender in a team that keeps the ball defends less.",
+    s9_title: "Twins",
+    s9_note: "the closest statistical profiles, across every competition",
+    fig_profile: "Fig. 1 — Profile: {a} (colour) and {b} (chalk)",
+    profile_legend: "distance from the competition average, in standard deviations · right = above average",
+    fig_twins: "Fig. 2 — The three twins",
+    no_twins: "No player from this match has enough minutes in the competition to have twins.",
+    s9_method: "Profile: ten per-90 metrics (non-penalty xG, shots, xT, key passes, progressive passes, dribbles, defensive actions, touches, pass and duel success; five for goalkeepers), standardised within their competition (distance to the mean divided by the standard deviation). Standardising per competition partly smooths out counting differences between StatsBomb and Wyscout. Twins: the three closest profiles (cosine similarity) in the same position, across every competition on the site, the player himself excluded.",
+    m_npxg: "npxG", m_goals: "Goals", m_shots: "Shots", m_xt: "xT", m_key_passes: "Key p.", m_dribbles: "Dribbles",
+    m_progressive: "Prog.", m_pass_rate: "Pass %", m_def_actions: "Def.", m_duel_rate: "Duels %", m_prevented: "Prevented",
+    m_save_pct: "Save %", m_saves: "Saves", m_touches: "Touches",
+    mh_npxg: "non-penalty xG per 90", mh_goals: "goals per 90", mh_shots: "shots per 90", mh_xt: "xT per 90",
+    mh_key_passes: "key passes per 90", mh_dribbles: "successful dribbles per 90", mh_progressive: "progressive passes per 90",
+    mh_pass_rate: "pass accuracy", mh_def_actions: "tackles, interceptions, clearances, blocks per 90",
+    mh_duel_rate: "duels won", mh_prevented: "goals prevented per 90", mh_save_pct: "save percentage", mh_saves: "saves per 90", mh_touches: "touches per 90",
+    "comp_wc-2022": "2022 World Cup",
+    "comp_wc-2018": "2018 World Cup",
+    "comp_euro-2024": "Euro 2024",
+    "comp_euro-2020": "Euro 2020",
+    "comp_euro-2016": "Euro 2016",
+    "comp_ucl-finals": "UCL finals",
     code: "Source code",
     tab: "pens",
     aet: "a.e.t.",
@@ -309,8 +411,50 @@ const TEAMS_FR = {
   Sweden: "Suède", Switzerland: "Suisse", Tunisia: "Tunisie", Turkey: "Turquie", "United States": "États-Unis",
   Wales: "Pays de Galles", Ukraine: "Ukraine", Iran: "Iran", Ghana: "Ghana", Canada: "Canada", "Costa Rica": "Costa Rica",
   Qatar: "Qatar", Uruguay: "Uruguay", Portugal: "Portugal", France: "France", Nigeria: "Nigeria", Panama: "Panama",
-  "Bayern Munich": "Bayern Munich", "Inter Milan": "Inter",
+  "Bayern Munich": "Bayern Munich", "Inter Milan": "Inter", Barcelona: "Barcelone",
+  "Atlético Madrid": "Atlético de Madrid", "Tottenham Hotspur": "Tottenham",
 };
+
+// Article des noms d'équipe en français : m (le), f (la), p (les), n (aucun, pour les clubs de ville).
+const GENDER_FR = {
+  Brazil: "m", Cameroon: "m", Canada: "m", "Costa Rica": "m", Denmark: "m", Ecuador: "m", Ghana: "m",
+  Iran: "m", Japan: "m", Morocco: "m", Mexico: "m", Nigeria: "m", Panama: "m", Wales: "m", Peru: "m",
+  Portugal: "m", Qatar: "m", Senegal: "m", Uruguay: "m",
+  "Real Madrid": "m", "Bayern Munich": "m", "Borussia Dortmund": "m", "Atlético Madrid": "m",
+  Juventus: "f", "Inter Milan": "f",
+  Netherlands: "p", "United States": "p",
+  Barcelona: "n", Chelsea: "n", Liverpool: "n", "Manchester United": "n", "Tottenham Hotspur": "n",
+};
+const THE_EN = new Set(["Netherlands", "United States", "Czech Republic", "Republic of Ireland"]);
+const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+
+/** Nom d'équipe dans une phrase : sub (« l'Argentine »), Sub, de (« de l'Argentine »), bare, pos (anglais). */
+export function teamForm(name, form, lang) {
+  const n = teamName(name, lang);
+  if (lang !== "fr") {
+    const the = THE_EN.has(name);
+    if (form === "bare") return n;
+    if (form === "pos") { const base = the ? `the ${n}` : n; return base.endsWith("s") ? `${base}'` : `${base}'s`; }
+    const sub = the ? `the ${n}` : n;
+    return form === "Sub" ? cap(sub) : sub;
+  }
+  if (form === "bare") return n;
+  const g = GENDER_FR[name] ?? "f";
+  const vowel = /^[AEIOUÉÈÊÎ]/i.test(n);
+  const art = g === "n" ? "" : g === "p" ? "les " : vowel ? "l'" : g === "m" ? "le " : "la ";
+  if (form === "de") return g === "n" ? `de ${n}` : g === "p" ? `des ${n}` : !vowel && g === "m" ? `du ${n}` : `de ${art}${n}`;
+  // « les Pays-Bas a gagné » sonne faux : au singulier, on passe par la sélection
+  const sub = g === "p" ? `la sélection des ${n}` : `${art}${n}`;
+  return form === "Sub" ? cap(sub) : sub;
+}
+
+/** Remplace les marqueurs d'équipe des textes de l'analyste ({T:home:sub}, {TN:Argentina}). */
+export function fillTeams(text, meta, lang) {
+  const out = String(text)
+    .replace(/\{T:(home|away):(\w+)\}/g, (_, side, form) => teamForm(meta[side].name, form, lang))
+    .replace(/\{TN:([^}]+)\}/g, (_, name) => teamName(name, lang));
+  return out.replace(/(^|[.!?]\s+)([a-zà-ÿ])/g, (_, a, b) => a + b.toUpperCase());
+}
 const COMPETITIONS = {
   fr: { "FIFA World Cup": "Coupe du monde", "UEFA Euro": "Euro", "Champions League": "Finales de LDC" },
   en: { "FIFA World Cup": "World Cup", "UEFA Euro": "Euro", "Champions League": "UCL finals" },

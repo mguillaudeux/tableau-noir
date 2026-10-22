@@ -2,6 +2,7 @@
 
 import { HAND, HEX, compareRows, el, hatchRect, pitchSvg } from "./draw.js";
 import { chalkCircle, chalkPath, relationIndex, scale, seedOf } from "./logic.js";
+import { analystBlock } from "./analyst.js";
 
 const $ = (s, root = document) => root.querySelector(s);
 const SIDES = ["home", "away"];
@@ -14,6 +15,7 @@ export function renderTeamSection(body, section, ctx) {
   ctx.side ??= "home";
   const R = { s2: structure, s3: pressing, s4: relation, s5: recovery }[section];
   body.innerHTML = `<section>${head(section)}${no360}<div id="sec"></div>
+    ${analystBlock(d, section, ctx.state.lang, ctx.t, ctx.esc)}
     <div class="method"><h3>${ctx.esc(ctx.t("method_title"))}</h3><p>${ctx.esc(ctx.t(`${section}_method`))}</p></div></section>`;
   R($("#sec", body), d, ctx);
 }

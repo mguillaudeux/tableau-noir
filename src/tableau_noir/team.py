@@ -63,6 +63,7 @@ def transitions(m: Match) -> pd.DataFrame:
     rows = []
     t_all, team_all, kind_all = ev["t"].to_numpy(), ev["team"].to_numpy(), ev["kind"].to_numpy()
     period_all, sp_all = ev["period"].to_numpy(), ev["set_piece"].to_numpy()
+    minute_all = ev["minute"].to_numpy(int)
     for i in np.flatnonzero(lost.fillna(False).to_numpy(bool)):
         tid, t0, per = team_all[i], t_all[i], period_all[i]
         j, opp_touched, regain, dead = i + 1, False, np.nan, False
@@ -95,9 +96,15 @@ def transitions(m: Match) -> pd.DataFrame:
                 "t": float(t0),
                 "period": int(per),
                 "x_loss": ev.at[i, "x"],
+                # où l'adversaire récupère : la fin de la passe ratée, sinon le lieu de la perte
+                "x_turn": ev.at[i, "ex"]
+                if kind_all[i] == "pass" and pd.notna(ev.at[i, "ex"])
+                else ev.at[i, "x"],
                 "regain": float(regain),
                 "shots_against": int(len(shots)),
                 "xg_against": float(shots["xg"].fillna(0).sum()),
+                "goals_against": int(shots["goal"].fillna(False).astype(bool).sum()),
+                "minute": int(minute_all[i]),
             }
         )
     return pd.DataFrame(rows)
@@ -293,7 +300,7 @@ def pressing(m: Match, tid: str, tr: pd.DataFrame) -> dict[str, Any]:
     bins = [0, 5, 10, 20, np.inf]
     hist = np.histogram(regains, bins=bins)[0] if len(regains) else np.zeros(4)
     opp = tr[tr["team"] != tid] if not tr.empty else tr  # pertes adverses = nos récupérations
-    high = opp[opp["x_loss"].notna() & (opp["x_loss"] <= PITCH_X - 70)] if len(opp) else opp
+    high = opp[opp["x_turn"].notna() & (opp["x_turn"] <= PITCH_X - 70)] if len(opp) else opp
     defensive = ev[ev["kind"].isin(("tackle", "interception", "pressure", "foul", "recovery"))]
     out_minutes = _minutes_without_ball(m, tid)
     return {
@@ -392,6 +399,10 @@ def recovery_runs(m: Match, tid: str, tr: pd.DataFrame) -> dict[str, Any]:
         "losses": int(len(mine)),
         "shots_against": int(mine["shots_against"].sum()) if len(mine) else 0,
         "xg_against": _r(mine["xg_against"].sum(), 2) if len(mine) else 0.0,
+        "goals_against": int(mine["goals_against"].sum()) if len(mine) else 0,
+        "goal_minutes": sorted({int(v) + 1 for v in mine.loc[mine["goals_against"] > 0, "minute"]})
+        if len(mine)
+        else [],
         "behind_ball": None,
         "behind_8s": None,
         "gain": None,

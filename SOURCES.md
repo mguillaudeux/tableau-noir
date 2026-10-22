@@ -16,3 +16,7 @@ Tableau Noir n'utilise que des données ouvertes. Les données brutes ne sont **
 - Licence : CC BY 4.0 (métadonnées CC0).
 - Citation : L. Pappalardo, P. Cintia, A. Rossi, E. Massucco, P. Ferragina, D. Pedreschi, F. Giannotti, « A public data set of spatio-temporal match events in soccer competitions », *Scientific Data* 6, 236 (2019). <https://doi.org/10.1038/s41597-019-0247-7>
 - Crédit affiché : « Données : Wyscout, via Pappalardo et al. (2019), CC BY 4.0 ».
+
+## Méthodes
+
+- Expected Threat : K. Singh, « Introducing Expected Threat (xT) » (2018), karun.in/blog/expected-threat.html. La grille de Tableau Noir est recalculée sur les données Wyscout ci-dessus.

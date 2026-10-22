@@ -11,8 +11,9 @@ from collections.abc import Iterable
 from pathlib import Path
 from typing import Any
 
-from tableau_noir import classic, team
+from tableau_noir import analyst, classic, players, team
 from tableau_noir.model import Match
+from tableau_noir.xt import XTModel
 
 CREDITS = {
     "statsbomb": "Hudl StatsBomb Open Data",
@@ -39,6 +40,7 @@ def match_summary(m: Match) -> dict[str, Any]:
 
 
 def match_json(m: Match, comp: str) -> dict[str, Any]:
+    """Tout ce que le site affiche pour un match, sauf les sections joueurs (voir `match_data`)."""
     stats = classic.team_stats(m)
     side = {m.home.id: "home", m.away.id: "away"}
     analysis = team.team_analysis(m)
@@ -66,19 +68,88 @@ def write_json(data: Any, path: Path) -> Path:
     return path
 
 
-def export_competition(comp: dict[str, Any], matches: Iterable[Match], out: Path) -> dict[str, Any]:
-    """Écrit un fichier par match (au fil de l'eau, pour ne pas garder les images 360 en mémoire),
-    puis le contexte de la compétition. Renvoie l'entrée du catalogue."""
-    summaries, analyses = [], []
+def match_data(m: Match, comp: str, xt_model: XTModel) -> tuple[dict[str, Any], dict[str, Any]]:
+    """Le JSON d'un match, enrichi des données joueurs (xT, poste), et les sommes internes de
+    gravité, qui ne seront converties qu'une fois toute la compétition connue."""
+    data = match_json(m, comp)
+    mp = players.match_players(m, xt_model)
+    for row in data["players"]:
+        row |= mp["rows"].get(row["id"], {})
+    data["value"] = {"actions": mp["actions"], "xt_minutes": mp["xt_minutes"]}
+    return data, mp
+
+
+def competition(
+    comp: dict[str, Any], matches: Iterable[Match], xt_model: XTModel
+) -> dict[str, Any]:
+    """Calcule une compétition entière (en gardant les JSON en mémoire, pas les images 360) :
+    matchs, contexte d'équipe, joueurs. Rien n'est écrit ici : voir `write_competition`."""
+    done: list[tuple[dict[str, Any], dict[str, Any]]] = []
     for m in matches:
-        data = match_json(m, comp["id"])
-        write_json(data, out / "matches" / f"{m.id}.json")
-        summaries.append(match_summary(m))
-        for s in ("home", "away"):
-            t = data["meta"][s]
-            analyses.append((t["id"], t["name"], data["team"][s]))
-    write_json(team.context(analyses), out / "context" / f"{comp['id']}.json")
+        done.append(match_data(m, comp["id"], xt_model))
+    analyses = [
+        (d["meta"][s]["id"], d["meta"][s]["name"], d["team"][s])
+        for d, _ in done
+        for s in ("home", "away")
+    ]
+    table = players.tournament(comp, done)
+    return {
+        "comp": comp,
+        "matches": [d for d, _ in done],
+        "context": team.context(analyses),
+        "players": table,
+    }
+
+
+def write_competition(c: dict[str, Any], out: Path) -> dict[str, Any]:
+    """Écrit les matchs, le contexte et la table des joueurs ; renvoie l'entrée du catalogue."""
+    comp: dict[str, Any] = c["comp"]
+    for d in c["matches"]:
+        write_json(d, out / "matches" / f"{d['meta']['id']}.json")
+    write_json(c["context"], out / "context" / f"{comp['id']}.json")
+    write_json(c["players"], out / "players" / f"{comp['id']}.json")
+    summaries = [match_summary_from(d) for d in c["matches"]]
     return comp | {"matches": sorted(summaries, key=lambda x: x["date"])}
+
+
+def match_summary_from(d: dict[str, Any]) -> dict[str, Any]:
+    keys = ("id", "date", "stage", "home", "away", "duration", "has_360")
+    meta: dict[str, Any] = d["meta"]
+    return {k: meta[k] for k in keys}
+
+
+def finish(computed: list[dict[str, Any]], out: Path) -> list[dict[str, Any]]:
+    """Dernière étape, toutes compétitions connues : jumeaux, coin de l'analyste, écriture.
+    Les tables de joueurs déjà publiées (compétitions non recalculées) servent aux jumeaux."""
+    tables = {c["comp"]["id"]: c["players"] for c in computed}
+    for f in sorted((out / "players").glob("*.json")) if (out / "players").exists() else []:
+        if f.stem not in tables:
+            tables[f.stem] = json.loads(f.read_text(encoding="utf-8"))
+    players.twins(tables)
+    entries = []
+    for c in computed:
+        for d in c["matches"]:
+            d["analyst"] = analyst.match_notes(d, c["context"], c["players"])
+        entries.append(write_competition(c, out))
+    for cid, tab in tables.items():
+        if cid not in {c["comp"]["id"] for c in computed}:
+            write_json(tab, out / "players" / f"{cid}.json")
+    return entries
+
+
+def rewrite_notes(out: Path) -> int:
+    """Réécrit le coin de l'analyste à partir des fichiers déjà publiés, sans tout recalculer
+    (pour retoucher les textes en quelques secondes)."""
+    n = 0
+    for f in sorted((out / "matches").glob("*.json")):
+        d = json.loads(f.read_text(encoding="utf-8"))
+        comp = d["meta"]["comp"]
+        ctx = json.loads((out / "context" / f"{comp}.json").read_text(encoding="utf-8"))
+        table = json.loads((out / "players" / f"{comp}.json").read_text(encoding="utf-8"))
+        d["analyst"] = analyst.match_notes(d, ctx, table)
+        write_json(d, f)
+        n += 1
+    return n
 
 
 def write_catalogue(entries: list[dict[str, Any]], out: Path) -> dict[str, Any]:

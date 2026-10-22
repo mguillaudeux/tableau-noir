@@ -1,6 +1,6 @@
 # Tableau Noir
 
-**L'analyse tactique du football, à la craie.** Des matchs décortiqués à partir de données ouvertes, avec la même méthode pour tous : les stats classiques, la structure, le pressing, le relationnisme et les replis ; puis (jalons suivants) la gravité des joueurs, la valeur des actions, les classements et les jumeaux.
+**L'analyse tactique du football, à la craie.** Des matchs décortiqués à partir de données ouvertes, avec la même méthode pour tous : les stats classiques, la structure, le pressing, le relationnisme, les replis, la gravité des joueurs, la valeur des actions, les classements par poste et les jumeaux. Chaque section se termine par **le coin de l'analyste**, un commentaire écrit à partir des chiffres du match.
 
 **Le site** : `web/`, publié par GitHub Pages à chaque push sur `main` ([`pages.yml`](.github/workflows/pages.yml)).
 
@@ -69,6 +69,40 @@ Un **axe positionniste ↔ relationniste** : moyenne des écarts réduits de cin
 
 Après chaque perte : combien de joueurs sont entre le ballon et leur but au moment de la perte, puis 6 à 10 s plus tard (360), et les tirs concédés dans les 15 s (événements, pour tous les matchs). Deux images 360 montrent le repli le plus net du match. Le 360 ne voit que les joueurs dans le champ de la caméra : ces chiffres sont des minima.
 
+## Sections 6 à 9 · Les joueurs
+
+Calculées dans [`players.py`](src/tableau_noir/players.py) : d'abord match par match, puis sur toute la compétition, puis toutes compétitions confondues pour les jumeaux.
+
+### 6 · Gravité
+
+![Finale 2022 : gravité](docs/captures/6-gravite.png)
+
+Qui aimante les défenses. Avec le 360 : à chaque touche de balle, le nombre d'adversaires à moins de 10 m, **moins la moyenne de la compétition au même endroit** (un milieu axial est toujours plus entouré qu'un latéral). Sans 360 : l'attention reçue, c'est-à-dire les actions défensives adverses à moins de 5 m et 2 s d'une touche, corrigées de la même façon.
+
+### 7 · Valeur des actions (xT)
+
+![Finale 2022 : valeur des actions](docs/captures/7-valeur.png)
+
+Un modèle d'**Expected Threat** maison ([`xt.py`](src/tableau_noir/xt.py), méthode de Karun Singh) : une grille de 16 × 12 cases calculée sur 1,8 million d'actions des cinq grands championnats 2017/18. Chaque passe ou conduite réussie vaut la menace qu'elle ajoute. Le site montre la carte de la menace, les six gestes les plus précieux de chaque équipe, la course à la menace minute par minute et les créateurs.
+
+### 8 · Classements par poste
+
+![Coupe du monde 2022 : classement des milieux](docs/captures/8-classements.png)
+
+Par tournoi, pour les joueurs d'au moins 180 minutes (90 pour les finales de LDC) : gardiens, défenseurs centraux, latéraux, milieux, attaquants. Chaque indicateur par 90 minutes devient un centile parmi les joueurs du même poste ; la note est la moyenne des centiles du poste.
+
+### 9 · Jumeaux
+
+![Mbappé et ses jumeaux](docs/captures/9-jumeaux.png)
+
+Un profil de dix indicateurs par 90 minutes, réduits dans sa compétition (ce qui gomme en partie les différences de comptage entre StatsBomb et Wyscout), puis les trois profils les plus proches au même poste, **toutes compétitions confondues**. Mbappé 2022 ressemble d'abord… à Gareth Bale en finale de Ligue des champions.
+
+## Le coin de l'analyste
+
+![Le coin de l'analyste, finale 2022, section replis](docs/captures/coin-analyste.png)
+
+Pour chacun des 292 matchs et chacune des 9 sections, un commentaire en français et en anglais ([`analyst.py`](src/tableau_noir/analyst.py)) : une accroche, les clés, et ce que ça a changé dans le match. Les textes sont construits à partir des chiffres calculés, sans rien inventer : on repère les écarts entre les équipes et avec la moyenne de la compétition, on les relie au score, puis on les raconte avec des tournures variées (choisies de façon reproductible). Les noms d'équipe sont accordés au moment de l'affichage (« l'Argentine », « du Portugal », « Argentina's »). `just notes` réécrit tous les textes en quelques secondes.
+
 ## La DA « Craie Exacte »
 
 Une ardoise vert-noir, des traits de craie granuleux et doublés, quatre craies au sens fixe : **blanc = le terrain**, **jaune = l'équipe à domicile**, **bleu = l'équipe à l'extérieur**, **corail = l'alerte** (buts, cartons). Les titres sont étroits comme un panneau de stade, les annotations à la main, les chiffres en chasse fixe. [Planche](docs/da/planche-01.jpg), [intention](docs/da/craie-exacte.md).
@@ -78,7 +112,8 @@ Une ardoise vert-noir, des traits de craie granuleux et doublés, quatre craies 
 ```bash
 just setup      # environnement (uv)
 just xg         # modèle d'xG Wyscout (data/raw/wyscout requis)
-just export     # télécharge StatsBomb, calcule tout, écrit web/data/ (≈ 2 min la première fois)
+just xt         # grille d'expected threat Wyscout
+just export     # télécharge StatsBomb, calcule tout, écrit web/data/ (≈ 15 min)
 just serve      # le site : http://localhost:8000
 just test       # tests Python et JavaScript
 ```

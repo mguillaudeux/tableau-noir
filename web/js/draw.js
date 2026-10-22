@@ -9,6 +9,8 @@ export const HAND = "Nothing You Could Do, cursive";
 export function el(tag, attrs = {}, text) {
   const e = document.createElementNS(NS, tag);
   for (const [k, v] of Object.entries(attrs)) if (v != null) e.setAttribute(k, v);
+  // la feuille de style impose une police aux textes des graphiques : un style en ligne l'emporte
+  if (attrs["font-family"]) e.style.fontFamily = attrs["font-family"];
   if (text != null) e.textContent = text;
   return e;
 }

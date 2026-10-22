@@ -12,6 +12,14 @@ setup:
 xg:
     uv run tableau-noir xg
 
+# Calcule la grille d'expected threat (xT) sur les championnats Wyscout
+xt:
+    uv run tableau-noir xt
+
+# Réécrit seulement le coin de l'analyste (quelques secondes)
+notes:
+    uv run tableau-noir notes
+
 # Télécharge les données StatsBomb (cache), calcule les stats et écrit web/data/
 export:
     uv run tableau-noir export

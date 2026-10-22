@@ -4,6 +4,8 @@ import { PITCH, byStage, chalkCircle, chalkPath, orient, scale, scoreLine, seedO
 import { compName, makeT, stageName, teamName } from "./i18n.js";
 import { HEX, bar, drawPitch, el } from "./draw.js";
 import { renderTeamSection as teamSection } from "./sections.js";
+import { renderPlayerSection as playerSection } from "./players.js";
+import { analystBlock } from "./analyst.js";
 
 const $ = (s, root = document) => root.querySelector(s);
 const app = $("#app");
@@ -121,13 +123,17 @@ function matchRow(m) {
 // --- Match ------------------------------------------------------------------------------------
 
 const SECTIONS = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9"];
-const READY = new Set(["s1", "s2", "s3", "s4", "s5"]);
+const READY = new Set(SECTIONS);
 
 async function showMatch(id, section = "s1") {
   const same = state.match?.meta.id === id;
   if (!same) app.innerHTML = `${masthead(true)}<p class="loading">${esc(t("loading"))}</p>`;
   const [d] = await Promise.all([json(`data/matches/${id}.json`), state.catalogue ?? json("data/catalogue.json").then((c) => { state.catalogue = c; })]);
-  state.context = await json(`data/context/${d.meta.comp}.json`).catch(() => null);
+  [state.context, state.players, state.xt] = await Promise.all([
+    json(`data/context/${d.meta.comp}.json`).catch(() => null),
+    json(`data/players/${d.meta.comp}.json`).catch(() => null),
+    json("data/xt.json").catch(() => null),
+  ]);
   state.match = d;
   state.section = section;
   renderMatch();
@@ -161,7 +167,10 @@ function renderMatch() {
     <div id="section-body"></div>`;
   const body = $("#section-body");
   if (state.section === "s1") renderClassic(body);
-  else teamSection(body, state.section, { state, t, esc, num, pct, team, showTip, moveTip, hideTip });
+  else {
+    const ctx = { state, t, esc, num, pct, team, showTip, moveTip, hideTip, json };
+    (["s6", "s7", "s8", "s9"].includes(state.section) ? playerSection : teamSection)(body, state.section, ctx);
+  }
 }
 
 function renderClassic(body) {
@@ -179,6 +188,7 @@ function renderClassic(body) {
         <div class="panel full"><p class="fig">${esc(t("fig_players"))}</p><div id="standouts" class="standouts"></div>
           <div class="tabs" role="tablist" id="tabs"></div><div class="table-wrap"><table class="players" id="players"></table></div></div>
       </div>
+      ${analystBlock(state.match, "s1", state.lang, t, esc)}
       <div class="method"><h3>${esc(t("method_title"))}</h3><p>${esc(m.source === "wyscout" ? t("method_wy") : t("method_sb"))} ${esc(t("method_common"))}</p></div>
     </section>`;
   drawSheet();
