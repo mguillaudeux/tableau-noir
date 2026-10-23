@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une finale d'Euro décidée par un tir à 0,04 xG. Éder, entré en jeu pour 41 minutes, frappe deux fois et marque à la 109e : le Portugal, passé par la Croatie, la Pologne aux tirs au but et le Pays de Galles, est champion d'Europe. La France, qui avait sorti l'Allemagne en demi-finale, a pourtant tiré 18 fois contre 10 et produit 1,37 xG contre 0,75 selon le modèle maison. Mais aucun de ses 7 tirs cadrés n'a trouvé le chemin des filets.",
+   "keys": [
+    "La plus grosse occasion de la finale tombe à la 92e minute : A. Gignac, 0,27 xG, à côté : la balle de titre française.",
+    "La plus grosse occasion manquée portugaise est pour Ricardo Quaresma, à la 80e minute (0,24 xG, cadrée).",
+    "João Moutinho, entré lui aussi en cours de match, délivre la passe décisive en 54 minutes.",
+    "Le Portugal intercepte 57 ballons et en dégage 32, contre 29 interceptions et 13 dégagements français."
+   ],
+   "impact": "La France a dominé l'xG avec 0,62 d'avance, mais une finale se gagne avec un tir, et c'est le Portugal qui l'a eu. Une victoire bâtie sur la résistance de sa défense, puis sur un tir que personne, modèle compris, n'attendait."
+  },
+  "en": {
+   "lead": "A Euro final decided by a 0.04 xG shot. Éder, on for 41 minutes, shoots twice and scores in minute 109: Portugal, who had come through Croatia, Poland on penalties and Wales, are champions of Europe. France, who had knocked out Germany in the semi-final, shot 18 times to 10 and produced 1.37 xG to 0.75 according to the in-house model. Yet none of their 7 shots on target found the net.",
+   "keys": [
+    "The biggest chance of the final comes in minute 92: A. Gignac, 0.27 xG, wide: France's title-winning chance.",
+    "Portugal's biggest missed chance falls to Ricardo Quaresma, in minute 80 (0.24 xG, on target).",
+    "João Moutinho, also a substitute, provides the assist in 54 minutes.",
+    "Portugal make 57 interceptions and 32 clearances, against 29 interceptions and 13 clearances for France."
+   ],
+   "impact": "France led on xG by 0.62, but a final is won with one shot, and Portugal had it. A victory built on defensive resilience, then on a shot nobody, the model included, expected."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La France joue en 3-5-2 avec le ballon et se déploie en 4-2-4 sans lui. Son centre de gravité est à gauche : P. Evra monte à 61 m le long de la ligne (7 m), D. Payet le précède à 74 m et O. Giroud, le plus avancé à 82 m, dérive lui aussi côté gauche (22 m). Le Portugal, en 3-3-2-2, a vécu bas : 39 % de ses touches dans son propre tiers, seulement 19 % dans le dernier.",
+   "keys": [
+    "La France passe 54 % de ses touches dans le tiers central : beaucoup de circulation, peu de pénétration.",
+    "Le Portugal attaque surtout par la gauche (25 % de ses touches), avec Raphaël Guerreiro (6 m de la ligne) et João Mário.",
+    "Nani est le Portugais le plus avancé, à 71 m de son but.",
+    "Côté droit français, B. Sagna (59 m) et M. Sissoko (67 m) se partagent le couloir."
+   ],
+   "impact": "La gauche française faisait face au flanc droit portugais, celui de Cédric Soares et Pepe ; Cédric y a compté 29 actions défensives. Le Portugal a accepté de reculer et de fermer, en misant sur ses latéraux pour ressortir : un plan de survie qui a tenu 120 minutes."
+  },
+  "en": {
+   "lead": "France play a 3-5-2 on the ball and spread into a 4-2-4 without it. Their centre of gravity is on the left: P. Evra pushes up to 61 m along the line (7 m), D. Payet ahead of him at 74 m, and O. Giroud, the most advanced at 82 m, also drifts to the left (22 m). Portugal, in a 3-3-2-2, lived deep: 39% of their touches in their own third, only 19% in the final one.",
+   "keys": [
+    "France spend 54% of their touches in the middle third: lots of circulation, little penetration.",
+    "Portugal attack mostly down the left (25% of their touches), with Raphaël Guerreiro (6 m from the line) and João Mário.",
+    "Nani is Portugal's most advanced player, 71 m from his goal.",
+    "On France's right, B. Sagna (59 m) and M. Sissoko (67 m) share the lane."
+   ],
+   "impact": "France's left faced Portugal's right flank, home of Cédric Soares and Pepe; Cédric racked up 29 defensive actions there. Portugal accepted dropping deep and closing up, relying on their full-backs to get out: a survival plan that lasted 120 minutes."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression chez Wyscout, on lit le pressing par les tacles, interceptions et fautes. Le Portugal défend très bas, à 31,5 m de son but, et ne compte que 2 récupérations hautes de toute la finale, contre 12 pour la France. Mais en volume, c'est lui qui défend le plus : 170 actions défensives contre 106, avec 3,6 actions par minute sans ballon, pile la moyenne du tournoi.",
+   "keys": [
+    "La France défend plus haut (40,5 m) mais moins souvent : 2,4 actions par minute sans ballon, sous la moyenne (3,6).",
+    "41 % des récupérations françaises prennent plus de 20 secondes.",
+    "Le Portugal récupère 13 % de ses ballons perdus en moins de 5 secondes, la France 16 % (moyenne : 17 %).",
+    "Les PPDA sont proches, 13,1 pour le Portugal et 10,7 pour la France."
+   ],
+   "impact": "Le Portugal a choisi d'attendre et d'intercepter plutôt que d'aller chercher le ballon. Ce bloc bas a privé la France d'espace dans le dernier tiers et a transformé la finale en match de patience, un terrain où le Portugal semblait plus à l'aise."
+  },
+  "en": {
+   "lead": "Wyscout has no pressure events, so the press is read through tackles, interceptions and fouls. Portugal defend very deep, 31.5 m from their goal, and record only 2 high recoveries in the whole final, against 12 for France. But in volume they defend more: 170 defensive actions to 106, with 3.6 actions per minute out of possession, exactly the tournament average.",
+   "keys": [
+    "France defend higher (40.5 m) but less often: 2.4 actions per minute out of possession, below the average (3.6).",
+    "41% of France's regains take longer than 20 seconds.",
+    "Portugal win back 13% of lost balls within 5 seconds, France 16% (average: 17%).",
+    "The PPDAs are close: 13.1 for Portugal, 10.7 for France."
+   ],
+   "impact": "Portugal chose to wait and intercept rather than go hunting for the ball. That deep block denied France space in the final third and turned the final into a test of patience, a terrain on which Portugal seemed more comfortable."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur l'axe relationniste, les rôles sont inversés par rapport à ce qu'on pourrait croire. Le Portugal, 3e équipe la plus relationniste des 24 du tournoi, affiche +0,40 dans cette finale, avec 34 % de combinaisons rapides. La France, à −0,69, fait tourner le ballon derrière : ses deux liens les plus utilisés sont S. Umtiti – L. Koscielny (56 passes) et Umtiti – P. Pogba (55).",
+   "keys": [
+    "Umtiti (194 passes impliquées) et Pogba (192) sont les deux carrefours du match.",
+    "Côté portugais, le carrefour est un défenseur, José Fonte (116), relié à Raphaël Guerreiro par 29 passes.",
+    "Guerreiro – João Mário (25 passes) forme le principal circuit offensif portugais, sur le flanc gauche.",
+    "La France ne joue que 36 % de passes courtes, sous la moyenne du tournoi (42 %)."
+   ],
+   "impact": "La France a eu le ballon, mais elle l'a surtout fait circuler entre ses défenseurs et Pogba, loin du but portugais. Le Portugal, avec moins de possession, combinait en petites touches pour sortir de son camp : de quoi tenir, à défaut de dominer."
+  },
+  "en": {
+   "lead": "On the relational axis, the roles are the reverse of what you might expect. Portugal, the 3rd most relational of the tournament's 24 teams, post +0.40 in this final, with 34% quick combinations. France, at −0.69, circulate the ball at the back: their two busiest links are S. Umtiti – L. Koscielny (56 passes) and Umtiti – P. Pogba (55).",
+   "keys": [
+    "Umtiti (194 passes involved) and Pogba (192) are the two hubs of the match.",
+    "Portugal's hub is a defender, José Fonte (116), linked to Raphaël Guerreiro by 29 passes.",
+    "Guerreiro – João Mário (25 passes) forms Portugal's main attacking circuit, down the left.",
+    "France play only 36% short passes, below the tournament average (42%)."
+   ],
+   "impact": "France had the ball, but mostly moved it between their defenders and Pogba, far from Portugal's goal. Portugal, with less possession, combined in short touches to get out of their half: enough to hold on, if not to dominate."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un seul tir concédé en transition de chaque côté, mais pas du même poids. Le Portugal n'a laissé qu'une frappe dans les 15 secondes suivant une perte, pour 0,02 xG. La France, elle, a concédé un tir à 0,24 xG dans cette situation, presque le double de la moyenne du tournoi (0,13 xG) à elle seule. Aucun but n'est né d'une transition.",
+   "keys": [
+    "La France a perdu 77 ballons dans le jeu, le Portugal 59.",
+    "Moyenne du tournoi : 1,6 tir concédé en transition par match. Les deux finalistes ont fait bien mieux.",
+    "Le but d'Éder, à la 109e, ne vient pas d'une transition."
+   ],
+   "impact": "Le Portugal a perdu peu de ballons et n'a presque rien laissé derrière lui. Une finale aussi verrouillée s'est finalement débloquée sur un tir improbable, pas sur une contre-attaque."
+  },
+  "en": {
+   "lead": "One transition shot conceded on each side, but not of the same weight. Portugal allowed just one effort within 15 seconds of a loss, worth 0.02 xG. France conceded one worth 0.24 xG in that situation, almost double the tournament average (0.13 xG) on its own. No goal came from a transition.",
+   "keys": [
+    "France lost 77 balls in open play, Portugal 59.",
+    "Tournament average: 1.6 shots conceded in transition per match. Both finalists did much better.",
+    "Éder's goal in minute 109 did not come from a transition."
+   ],
+   "impact": "Portugal lost few balls and left almost nothing behind them. A final this locked down was finally unlocked by an improbable shot, not by a counter-attack."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit l'attention reçue, et le Portugal savait qui surveiller : M. Sissoko (1,75 action défensive de plus que la normale pour 10 touches) et K. Coman (1,51), les deux Français les plus entourés. Le détail troublant est en bas du tableau : A. Griezmann, auteur de 6 buts dans ce tournoi, reçoit moins d'attention que la normale (−0,37).",
+   "keys": [
+    "Côté portugais, Adrien Silva (0,66) et Nani (0,48) attiraient le plus les Français.",
+    "D. Payet (0,56) et O. Giroud (0,21) complètent le top 6.",
+    "Ricardo Quaresma est le joueur le moins surveillé du match (−0,60).",
+    "Raphaël Guerreiro (−0,37) relançait sans être pressé, à égalité avec Griezmann."
+   ],
+   "impact": "Laisser Griezmann relativement libre n'a pas coûté au Portugal : l'homme aux 6 buts n'a pas marqué. Tout indique que le danger venait d'ailleurs, de Sissoko et Coman, et que le Portugal l'avait bien identifié."
+  },
+  "en": {
+   "lead": "Without 360 data we read attention received, and Portugal knew whom to watch: M. Sissoko (1.75 extra defensive actions per 10 touches) and K. Coman (1.51), France's two most crowded players. The puzzling detail sits at the bottom: A. Griezmann, scorer of 6 goals in the tournament, draws less attention than normal (−0.37).",
+   "keys": [
+    "For Portugal, Adrien Silva (0.66) and Nani (0.48) drew the French most.",
+    "D. Payet (0.56) and O. Giroud (0.21) complete the top 6.",
+    "Ricardo Quaresma is the least watched player in the match (−0.60).",
+    "Raphaël Guerreiro (−0.37) played out unpressed, level with Griezmann."
+   ],
+   "impact": "Leaving Griezmann relatively free did not cost Portugal: the man with 6 goals did not score. Everything suggests the danger came from elsewhere, from Sissoko and Coman, and that Portugal had read it well."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La France a créé 2,42 xT, presque le double du Portugal (1,35), et sa menace a culminé en seconde période (1,21). Le plus gros créateur du match est un latéral : P. Evra, 0,50 xT, soit 21 % de la menace française, dont une passe à +0,14 à la 74e et une autre à +0,13 à la 112e. Côté portugais, la menace venait aussi des côtés : Raphaël Guerreiro (0,37 xT, 27 %) et Cédric Soares (0,34, 25 %).",
+   "keys": [
+    "K. Coman, deuxième créateur du match (0,39 xT), signe une passe à +0,14 à la 66e.",
+    "Le Portugal faiblit au fil des périodes : 0,66 xT en première mi-temps, 0,52 en seconde, 0,18 en prolongation.",
+    "La France garde 0,49 xT en prolongation, mais c'est le Portugal qui marque.",
+    "S. Umtiti (0,31 xT) est le défenseur central le plus créatif du match."
+   ],
+   "impact": "Toute la logique de la menace penchait vers la France, surtout en seconde période. Le Portugal a produit de moins en moins, puis a marqué au moment où il menaçait le moins : le genre de paradoxe que seule une finale sait offrir."
+  },
+  "en": {
+   "lead": "France created 2.42 xT, almost double Portugal's 1.35, and their threat peaked in the second half (1.21). The biggest creator of the match is a full-back: P. Evra, 0.50 xT, 21% of France's threat, including a +0.14 pass in minute 74 and another worth +0.13 in minute 112. Portugal's threat also came from the flanks: Raphaël Guerreiro (0.37 xT, 27%) and Cédric Soares (0.34, 25%).",
+   "keys": [
+    "K. Coman, the match's second-biggest creator (0.39 xT), plays a +0.14 pass in minute 66.",
+    "Portugal fade period by period: 0.66 xT in the first half, 0.52 in the second, 0.18 in extra time.",
+    "France still produce 0.49 xT in extra time, but it is Portugal who score.",
+    "S. Umtiti (0.31 xT) is the most creative centre-back in the match."
+   ],
+   "impact": "Every thread of the threat data pointed towards France, especially in the second half. Portugal produced less and less, then scored just when they were threatening least: the kind of paradox only a final can deliver."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le Portugal a gagné avec l'un des meilleurs latéraux du tournoi : Raphaël Guerreiro, 3e des 67 latéraux classés (note de 77) et l'un des trois meneurs du poste à l'Euro. En défense centrale, Pepe est 4e sur 33, juste derrière L. Koscielny (3e). En face, A. Griezmann termine 3e des 46 attaquants, avec 6 buts et 2 passes décisives.",
+   "keys": [
+    "Cristiano Ronaldo est 7e des attaquants, avec 3 buts et une passe décisive sur le tournoi.",
+    "Au milieu, P. Pogba (7e), William Carvalho (8e) et B. Matuidi (9e) se suivent dans le classement des 90 milieux.",
+    "K. Coman est 10e des attaquants en seulement 271 minutes.",
+    "João Moutinho, passeur décisif en finale, est 22e des milieux."
+   ],
+   "impact": "Les classements montrent deux équipes très proches, poste par poste. Le Portugal avait une défense et un milieu au niveau de ceux de la France ; il a suffi d'un remplaçant, absent de ce tableau, pour faire pencher la balance."
+  },
+  "en": {
+   "lead": "Portugal won with one of the best full-backs of the tournament: Raphaël Guerreiro, 3rd of 67 ranked full-backs (score of 77) and one of the position's three leaders at the Euro. At centre-back, Pepe is 4th of 33, just behind L. Koscielny (3rd). Opposite, A. Griezmann finishes 3rd of 46 forwards, with 6 goals and 2 assists.",
+   "keys": [
+    "Cristiano Ronaldo is 7th among forwards, with 3 goals and an assist in the tournament.",
+    "In midfield, P. Pogba (7th), William Carvalho (8th) and B. Matuidi (9th) sit one after another among the 90 midfielders.",
+    "K. Coman is 10th among forwards in just 271 minutes.",
+    "João Moutinho, who provided the assist in the final, is 22nd among midfielders."
+   ],
+   "impact": "The rankings show two very close teams, position by position. Portugal had a defence and midfield on a par with France's; all it took was a substitute, absent from this table, to tip the balance."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Joli clin d'œil des jumeaux : Cristiano Ronaldo et Antoine Griezmann se renvoient la balle. Le deuxième jumeau de Ronaldo est A. Griezmann à l'Euro 2016 (90 %), et le premier jumeau de Griezmann est Cristiano Ronaldo en finale de Ligue des champions (92 %). Les deux stars de cette finale avaient, statistiquement, le même profil d'attaquant complet.",
+   "keys": [
+    "Le premier jumeau de Ronaldo est Kai Havertz à l'Euro 2024 (92 %).",
+    "Raphaël Guerreiro ressemble à 92 % à Philipp Lahm en finale de Ligue des champions, puis à Marcelo (89 %).",
+    "D. Payet a pour jumeaux Y. Konoplyanka et David Silva à l'Euro 2016, 90 % chacun.",
+    "K. Coman se rapproche de Jamal Musiala au Mondial 2022 (92 %) et de Kvara à l'Euro 2024 (90 %)."
+   ],
+   "impact": "Deux attaquants jumeaux, mais une finale qui ne s'est décidée ni par l'un ni par l'autre. Le latéral jumeau de Lahm, Guerreiro, a sans doute pesé davantage, et le but est venu d'un remplaçant absent de ces tableaux."
+  },
+  "en": {
+   "lead": "A nice nod from the twins: Cristiano Ronaldo and Antoine Griezmann mirror each other. Ronaldo's second twin is A. Griezmann at Euro 2016 (90%), and Griezmann's first twin is Cristiano Ronaldo in a Champions League final (92%). The two stars of this final had, statistically, the same complete-forward profile.",
+   "keys": [
+    "Ronaldo's first twin is Kai Havertz at Euro 2024 (92%).",
+    "Raphaël Guerreiro is 92% similar to Philipp Lahm in a Champions League final, then to Marcelo (89%).",
+    "D. Payet's twins are Y. Konoplyanka and David Silva at Euro 2016, 90% each.",
+    "K. Coman resembles Jamal Musiala at the 2022 World Cup (92%) and Kvara at Euro 2024 (90%)."
+   ],
+   "impact": "Two twin forwards, yet a final decided by neither of them. Guerreiro, Lahm's twin at full-back, probably weighed more, and the goal came from a substitute who appears in none of these tables."
+  }
+ }
+}

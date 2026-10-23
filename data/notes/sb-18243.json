@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un derby madrilène en finale, et rien ne sépare les deux équipes : 2,58 xG pour le Real, 2,54 pour l'Atlético, un écart de 0,04. Sergio Ramos ouvre le score à la 15e minute, Yannick Carrasco égalise à la 79e, et tout se décide aux tirs au but, 5-3 pour le Real. Le tournant le plus cruel arrive juste après la pause : Antoine Griezmann manque un penalty à la 48e minute, une occasion à 0,78 xG.",
+   "keys": [
+    "Le Real tire 26 fois, mais n'en cadre que 7 : beaucoup de volume, peu de précision.",
+    "Hors penalty, l'avantage revient au Real : 2,58 npxG contre 1,75 pour l'Atlético.",
+    "Luka Modrić distribue 7 passes clés à lui seul ; le Real en totalise 20, contre 12 pour l'Atlético.",
+    "Gareth Bale, 9 tirs, 8 dribbles, 3 passes clés et une passe décisive : l'un des hommes les plus actifs de la finale, sans marquer."
+   ],
+   "impact": "Une finale décidée aux tirs au but entre deux équipes à égalité quasi parfaite d'xG : impossible d'y voir autre chose qu'une pièce lancée en l'air. Si l'on cherche un moment charnière, c'est le penalty manqué de la 48e : transformé, il plaçait l'Atlético devant avec toute la deuxième mi-temps pour défendre."
+  },
+  "en": {
+   "lead": "A Madrid derby in a final, and nothing separates the two sides: 2.58 xG for Real, 2.54 for Atlético, a gap of 0.04. Sergio Ramos opens the scoring in minute 15, Yannick Carrasco equalises in minute 79, and it all comes down to penalties, 5-3 to Real. The cruellest turning point comes just after the break: Antoine Griezmann misses a penalty in minute 48, a 0.78 xG chance.",
+   "keys": [
+    "Real shoot 26 times but put only 7 on target: plenty of volume, little accuracy.",
+    "Strip out penalties and the edge goes to Real: 2.58 npxG against 1.75 for Atlético.",
+    "Luka Modrić hands out 7 key passes on his own; Real total 20, against 12 for Atlético.",
+    "Gareth Bale, 9 shots, 8 dribbles, 3 key passes and an assist: one of the busiest men in the final, without scoring."
+   ],
+   "impact": "A final settled on penalties between two sides almost exactly level on xG: hard to see it as anything but a coin toss. If you want a hinge moment, it is the missed penalty in minute 48: scored, it would have put Atlético ahead with the whole second half to defend."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Balle au pied, l'Atlético se transforme en une curiosité tactique : un 3-1-6. Ses deux latéraux, Filipe Luis et Juanfran, montent à 63 m de leur but, l'un à 5 m de la ligne gauche, l'autre à 66 m, c'est-à-dire collés aux deux touches. Le Real, annoncé en 4-1-2-2-1, se range en 3-4-3 avec le ballon, avec Marcelo haut à gauche (52 m) et un trio offensif très resserré.",
+   "keys": [
+    "Cristiano Ronaldo (66 m, 25 m de la gauche) et Karim Benzema (67 m, 27 m) occupent presque la même zone : les deux attaquants se marchaient sur les pieds côté gauche.",
+    "Gareth Bale, lui, se place au cœur du jeu, à 69 m et 37 m de la gauche : plus un numéro 10 qu'un ailier.",
+    "L'Atlético touche 24 % de ses ballons dans le couloir gauche, celui de Filipe Luis.",
+    "Sans le ballon, l'Atlético redescend en 3-5-2 et le Real en 3-3-3-1."
+   ],
+   "impact": "Deux équipes avec beaucoup de monde devant et des latéraux haut perchés : difficile d'imaginer un match fermé. On peut y voir l'origine de ce total d'xG élevé de part et d'autre, et d'une finale où chaque camp a eu de quoi gagner."
+  },
+  "en": {
+   "lead": "On the ball, Atlético turn into a tactical curiosity: a 3-1-6. Their two full-backs, Filipe Luis and Juanfran, push up to 63 m from goal, one 5 m from the left line, the other at 66 m, which means hugging both touchlines. Real, announced in a 4-1-2-2-1, line up as a 3-4-3 in possession, with Marcelo high on the left (52 m) and a very tight front three.",
+   "keys": [
+    "Cristiano Ronaldo (66 m, 25 m from the left) and Karim Benzema (67 m, 27 m) occupy almost the same spot: the two forwards were treading on each other's toes on the left.",
+    "Gareth Bale sits at the heart of play, 69 m up and 37 m from the left: more a number 10 than a winger.",
+    "Atlético take 24% of their touches in the left lane, Filipe Luis's lane.",
+    "Without the ball, Atlético drop back into a 3-5-2 and Real into a 3-3-3-1."
+   ],
+   "impact": "Two teams with plenty of bodies up front and full-backs perched high: a closed game was hard to imagine. That plausibly explains the high xG totals on both sides, and a final in which each camp had enough to win it."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ce n'est pas une finale de pressing. Les deux équipes défendent à la même hauteur (44,8 m pour le Real, 44,7 m pour l'Atlético), un peu sous la moyenne de ces finales (45,9 m), et pressent peu : 3,4 et 3,1 pressions par minute, loin des 4,0 habituels. L'Atlético affiche même un PPDA de 20,3 : il laissait le Real faire une vingtaine de passes avant d'intervenir.",
+   "keys": [
+    "Le Real, avec un PPDA de 13,6, a été un peu plus agressif, avec 10 récupérations hautes contre 8.",
+    "Contre-pressing : 22 % des pressions de l'Atlético suivent immédiatement une perte, contre 16 % pour le Real.",
+    "Ni l'une ni l'autre ne récupère vite : 25 % des pertes du Real et 22 % de celles de l'Atlético reviennent en moins de 5 s.",
+    "Le Real a laissé l'Atlético garder le ballon (55 % de possession), mais en multipliant les pressions : 171 contre 129."
+   ],
+   "impact": "Deux blocs prudents, aucun ne voulant prendre le risque de se découvrir : ce n'est sans doute pas un hasard si la finale est allée au bout de la prolongation. Le ballon circulait, mais personne ne le récupérait assez haut pour tuer le match."
+  },
+  "en": {
+   "lead": "This was not a pressing final. Both teams defend at the same height (44.8 m for Real, 44.7 m for Atlético), slightly below the average of these finals (45.9 m), and press little: 3.4 and 3.1 pressures per minute, far from the usual 4.0. Atlético even post a PPDA of 20.3: they let Real string together around twenty passes before stepping in.",
+   "keys": [
+    "Real, with a PPDA of 13.6, were a little more aggressive, with 10 high recoveries to 8.",
+    "Counter-pressing: 22% of Atlético's pressures come right after a loss, against 16% for Real.",
+    "Neither side wins the ball back quickly: 25% of Real's losses and 22% of Atlético's come back within 5 s.",
+    "Real let Atlético keep the ball (55% possession), but piled up pressures: 171 against 129."
+   ],
+   "impact": "Two cautious blocks, neither willing to leave itself exposed: it is probably no coincidence that the final went the full distance of extra time. The ball moved around, but nobody won it high enough to kill the game."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ici, deux équipes relationnistes se font face : +0,58 pour le Real, +0,41 pour l'Atlético. Sur l'ensemble des finales classées, ce sont d'ailleurs le 1er (l'Atlético) et le 3e (le Real) plus relationnistes sur 11. Mais leurs réseaux n'ont rien à voir : l'Atlético passe tout par un triangle Koke – Gabi – Filipe Luis, quand le Real répartit le jeu entre Marcelo, Modrić et Casemiro.",
+   "keys": [
+    "Koke est impliqué dans 188 passes, Gabi dans 174 : à eux deux, ils tenaient le ballon de l'Atlético.",
+    "Koke – Gabi et Koke – Filipe Luis : 43 passes chacun, les deux liens les plus utilisés de toute la finale.",
+    "Le Real joue plus vite à deux ou trois : 38 % de combinaisons rapides, au-dessus de la moyenne (33 %).",
+    "Côté Real, Marcelo et Modrić sont à égalité comme carrefours (89 passes chacun), et le lien le plus fort est Ramos – Marcelo (25)."
+   ],
+   "impact": "L'Atlético a eu le ballon plus souvent (718 passes contre 640) mais en le faisant transiter par trois joueurs ; le Real, plus dispersé et plus rapide, a fabriqué plus de passes clés. Deux styles proches sur l'axe, deux façons très différentes de les mettre en œuvre."
+  },
+  "en": {
+   "lead": "Here two relational teams meet: +0.58 for Real, +0.41 for Atlético. Across all the ranked finals, they are in fact the 1st (Atlético) and 3rd (Real) most relational of 11. But their networks have nothing in common: Atlético route everything through a Koke – Gabi – Filipe Luis triangle, while Real spread play between Marcelo, Modrić and Casemiro.",
+   "keys": [
+    "Koke is involved in 188 passes, Gabi in 174: between them, they held Atlético's ball.",
+    "Koke – Gabi and Koke – Filipe Luis: 43 passes each, the two busiest links of the whole final.",
+    "Real combine faster in twos and threes: 38% quick combinations, above the average (33%).",
+    "For Real, Marcelo and Modrić tie as hubs (89 passes each), and the strongest link is Ramos – Marcelo (25)."
+   ],
+   "impact": "Atlético had the ball more (718 passes to 640) but funnelled it through three players; Real, more spread out and quicker, produced more key passes. Two similar styles on the axis, two very different ways of putting them into practice."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "En transition, le Real a été une forteresse : un seul tir concédé dans les 15 secondes suivant une perte, pour 0,02 xG. L'Atlético, avec ses latéraux très hauts, a été beaucoup plus exposé : 6 tirs concédés en transition pour 0,46 xG, au-dessus de la moyenne de ces finales (3,0 tirs, 0,26 xG). Aucun but n'est pourtant venu de là.",
+   "keys": [
+    "L'Atlético a perdu 143 ballons dans le jeu, contre 117 pour le Real.",
+    "6 tirs concédés en transition : quand l'Atlético perdait le ballon avec son 3-1-6, le Real trouvait de l'espace.",
+    "Les deux buts de la finale, celui de Ramos comme celui de Carrasco, sont nés hors transition."
+   ],
+   "impact": "Le Real a eu les meilleures contre-attaques, et ne les a pas converties. Tout indique que le pari offensif de l'Atlético, avec ses deux latéraux en attaque, aurait pu lui coûter plus cher : il s'en tire sans encaisser en transition, mais en laissant de la place derrière."
+  },
+  "en": {
+   "lead": "In transition, Real were a fortress: a single shot conceded within 15 seconds of losing the ball, worth 0.02 xG. Atlético, with their full-backs pushed very high, were far more exposed: 6 shots conceded in transition for 0.46 xG, above the average of these finals (3.0 shots, 0.26 xG). Yet no goal came from it.",
+   "keys": [
+    "Atlético lost 143 balls in open play, against 117 for Real.",
+    "6 shots conceded in transition: whenever Atlético lost the ball in their 3-1-6, Real found space.",
+    "Both goals of the final, Ramos's and Carrasco's, came outside transitions."
+   ],
+   "impact": "Real had the better counter-attacks and did not convert them. Everything suggests Atlético's attacking gamble, with both full-backs up front, could have cost them more: they got away without conceding in transition, but left space behind."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue, et un nom écrase tous les autres : Fernando Torres, 4,71 actions défensives adverses de plus que la normale pour 10 touches. C'est presque le niveau du record de toutes les finales, détenu par... Fernando Torres lui-même, sous le maillot de Chelsea (4,82). Le Real l'a pris en étau chaque fois qu'il touchait le ballon.",
+   "keys": [
+    "Derrière Torres, Lucas Vázquez (2,11) est le joueur du Real le plus serré, devant Gareth Bale (1,07).",
+    "Yannick Carrasco attire 2,03 : il a pourtant réussi 10 dribbles et marqué à la 79e minute.",
+    "Les latéraux du Real ont joué tranquilles : Daniel Carvajal à −2,14 et Danilo à −1,99.",
+    "Saúl Ñíguez (1,35) complète le trio de l'Atlético le plus surveillé."
+   ],
+   "impact": "Le Real a concentré ses efforts sur l'avant-centre adverse, et Torres n'a pas marqué. Mais en laissant de l'air ailleurs, il a laissé Carrasco faire mal : l'attention a une limite."
+  },
+  "en": {
+   "lead": "Without 360, we measure attention received, and one name dwarfs all the others: Fernando Torres, 4.71 extra opponent defensive actions per 10 touches. That is almost the record across all finals, held by... Fernando Torres himself, in a Chelsea shirt (4.82). Real squeezed him every time he touched the ball.",
+   "keys": [
+    "Behind Torres, Lucas Vázquez (2.11) is Real's most closely marked player, ahead of Gareth Bale (1.07).",
+    "Yannick Carrasco draws 2.03: yet he still completed 10 dribbles and scored in minute 79.",
+    "Real's full-backs had a quiet time: Daniel Carvajal at −2.14 and Danilo at −1.99.",
+    "Saúl Ñíguez (1.35) completes Atlético's most watched trio."
+   ],
+   "impact": "Real focused their efforts on the opposing centre-forward, and Torres did not score. But by giving air elsewhere, they let Carrasco hurt them: attention has its limits."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Les deux buts de la finale sont nés des deux gestes les plus menaçants de chaque camp. À la 15e minute, une passe de Gareth Bale (+0,22 xT) mène au but de Ramos ; à la 79e, une passe de Juanfran (+0,36 xT, le plus gros geste du match) mène à celui de Carrasco. Sur l'ensemble, c'est encore l'égalité ou presque : 2,19 xT pour le Real, 2,03 pour l'Atlético.",
+   "keys": [
+    "Le meilleur créateur du match est un latéral : Filipe Luis, 0,55 xT, soit 27 % de la menace de l'Atlético.",
+    "L'Atlético a fait sa deuxième mi-temps à fond : 1,16 xT, plus que le Real sur la même période (0,80).",
+    "En prolongation, l'Atlético s'éteint (0,30 xT), quand le Real continue au même rythme (0,80).",
+    "Bale crée 0,44 xT, dont 0,24 en conduites de balle : sa capacité à porter le ballon a pesé toute la soirée."
+   ],
+   "impact": "L'Atlético a dominé la deuxième mi-temps, a égalisé, puis a manqué d'essence en prolongation. Le Real, plus régulier dans sa menace, a tenu jusqu'aux tirs au but, où plus aucun chiffre ne compte."
+  },
+  "en": {
+   "lead": "Both goals of the final came from each side's most threatening actions. In minute 15, a Gareth Bale pass (+0.22 xT) leads to Ramos's goal; in minute 79, a Juanfran pass (+0.36 xT, the biggest action of the match) leads to Carrasco's. Overall it is close to level again: 2.19 xT for Real, 2.03 for Atlético.",
+   "keys": [
+    "The best creator of the match is a full-back: Filipe Luis, 0.55 xT, or 27% of Atlético's threat.",
+    "Atlético went all out in the second half: 1.16 xT, more than Real over the same period (0.80).",
+    "In extra time Atlético fade (0.30 xT), while Real keep the same pace (0.80).",
+    "Bale creates 0.44 xT, 0.24 of it from carries: his ability to carry the ball weighed all night."
+   ],
+   "impact": "Atlético dominated the second half, equalised, then ran out of fuel in extra time. Real, steadier in their threat, held on until penalties, where no number counts any more."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les classements de ces finales ont des airs de derby : les deux numéros un de leur poste sont sur la pelouse. Gabi est toujours le meilleur des 37 milieux et Marcelo le meilleur des 32 latéraux, avec une note de 83. Nouveauté : Jan Oblak entre dans le tableau, 3e des 16 gardiens avec une note de 66.",
+   "keys": [
+    "Gareth Bale est 2e des 34 attaquants (note de 82), avec 3 buts et 1 passe décisive sur l'ensemble des finales.",
+    "Filipe Luis, le créateur numéro un de ce match, est 4e des latéraux.",
+    "Casemiro apparaît au 8e rang des milieux, avec un but en 309 minutes.",
+    "Cristiano Ronaldo reste 5e des attaquants, malgré 526 minutes jouées."
+   ],
+   "impact": "La finale opposait les deux meilleurs à leur poste, Gabi et Marcelo, et deux latéraux gauches du top 4 : Marcelo d'un côté, Filipe Luis de l'autre. Pas étonnant que le duel ait été aussi serré."
+  },
+  "en": {
+   "lead": "The rankings across these finals have a derby feel: both number ones in their positions are on the pitch. Gabi is still the best of 37 midfielders and Marcelo the best of 32 full-backs, with a score of 83. New entry: Jan Oblak joins the table, 3rd of 16 goalkeepers with a score of 66.",
+   "keys": [
+    "Gareth Bale is 2nd of 34 forwards (score of 82), with 3 goals and 1 assist across the finals.",
+    "Filipe Luis, the top creator of this match, is 4th among full-backs.",
+    "Casemiro appears 8th among midfielders, with one goal in 309 minutes.",
+    "Cristiano Ronaldo stays 5th among forwards, despite 526 minutes played."
+   ],
+   "impact": "The final pitted the two best in their positions, Gabi and Marcelo, against each other, along with two left-backs from the top 4: Marcelo on one side, Filipe Luis on the other. No wonder the contest was so tight."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Jan Oblak est Kasper Schmeichel à l'Euro 2020, à 96 % : deux gardiens au profil statistique presque identique. Côté Real, Casemiro trouve ses plus proches voisins chez M. Topal à l'Euro 2016 (88 %) et N'Golo Kanté au Mondial 2018 (85 %) : des récupérateurs purs. Et Bale reste ce qu'il est dans toutes ses finales : un Mbappé avant l'heure (97 %).",
+   "keys": [
+    "Filipe Luis ressemble à K. Walker à l'Euro 2016 (88 %) et à M. Olsson (87 %) : un latéral qui attaque autant qu'il défend.",
+    "Isco a pour jumeau Andrés Iniesta en finale de Ligue des champions (91 %), puis Marco Verratti (89 %).",
+    "Modrić colle à Mateo Kovačić au Mondial 2022 (94 %).",
+    "Cristiano Ronaldo trouve son double chez Kai Havertz à l'Euro 2024 (97 %)."
+   ],
+   "impact": "Le milieu du Real réunissait trois profils bien distincts : un récupérateur à la Kanté, un passeur à la Kovačić et un créateur à la Iniesta en la personne d'Isco. Cette variété lui a donné des solutions jusqu'à la 120e minute."
+  },
+  "en": {
+   "lead": "Jan Oblak's twin is Kasper Schmeichel at Euro 2020, at 96%: two goalkeepers with an almost identical statistical profile. For Real, Casemiro finds his closest neighbours in M. Topal at Euro 2016 (88%) and N'Golo Kanté at the 2018 World Cup (85%): pure ball-winners. And Bale is what he is in all his finals: an Mbappé before his time (97%).",
+   "keys": [
+    "Filipe Luis resembles K. Walker at Euro 2016 (88%) and M. Olsson (87%): a full-back who attacks as much as he defends.",
+    "Isco's twin is Andrés Iniesta in a Champions League final (91%), then Marco Verratti (89%).",
+    "Modrić sticks closely to Mateo Kovačić at the 2022 World Cup (94%).",
+    "Cristiano Ronaldo finds his double in Kai Havertz at Euro 2024 (97%)."
+   ],
+   "impact": "Real's midfield brought together three very different profiles: a Kanté-style ball-winner, a Kovačić-style passer and an Iniesta-style creator in Isco. That variety gave them answers right up to minute 120."
+  }
+ }
+}

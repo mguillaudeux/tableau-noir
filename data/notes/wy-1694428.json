@@ -1,0 +1,196 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un huitième de finale de l'Euro 2016 qui ressemble à une injustice statistique. La Croatie a tiré 15 fois pour 2,34 xG (selon notre modèle maison), le Portugal 4 fois pour 0,49. Et pourtant : zéro tir cadré croate en 120 minutes. Le seul but tombe à la 117e minute, signé Ricardo Quaresma, en 33 minutes de jeu et sur son unique tir (0,12 xG).",
+   "keys": [
+    "La plus grosse occasion du match est croate : M. Mandžukić à la 35e minute, 0,73 xG, hors cadre.",
+    "D. Vida rate deux fois, à la 61e (0,35 xG) puis à la 122e (0,26 xG), cette fois dans les dernières secondes.",
+    "Le Portugal termine sans aucune passe clé : il a gagné sans jamais vraiment construire d'occasion.",
+    "La Croatie a eu le ballon 58 % du temps et a fait 748 passes, contre 519."
+   ],
+   "impact": "Avec 2,34 xG contre 0,49, la Croatie aurait dû passer, sur le papier. Mais 15 tirs sans en cadrer un seul, ça ne pardonne pas : le Portugal a attendu son moment et l'a saisi."
+  },
+  "en": {
+   "lead": "A Euro 2016 round-of-16 tie that looks like a statistical injustice. Croatia shot 15 times for 2.34 xG (from our in-house model), Portugal 4 times for 0.49. And yet: zero Croatian shots on target in 120 minutes. The only goal comes in minute 117, from Ricardo Quaresma, in 33 minutes on the pitch and with his only shot (0.12 xG).",
+   "keys": [
+    "The biggest chance of the match was Croatia's: M. Mandžukić in minute 35, 0.73 xG, off target.",
+    "D. Vida missed twice, in minute 61 (0.35 xG) and in minute 122 (0.26 xG), the latter in the dying seconds.",
+    "Portugal finish without a single key pass: they won without ever really building a chance.",
+    "Croatia had 58% of the ball and made 748 passes, against 519."
+   ],
+   "impact": "With 2.34 xG to 0.49, Croatia should have gone through, on paper. But 15 shots without a single one on target is unforgiving: Portugal waited for their moment and took it."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Avec le ballon, la Croatie s'avance en 3-2-5 : cinq joueurs sur la ligne d'attaque, dont D. Srna, latéral droit posté à 66 m de son but et à 63 m de la gauche, presque collé à la touche. Le Portugal, lui, dessine un 3-1-2-4 surprenant : Cristiano Ronaldo, João Mário, André Gomes et Adrien Silva se tiennent tous entre 22 et 26 m de la ligne gauche. Un amas de milieux et d'attaquants sur le même demi-espace.",
+   "keys": [
+    "Sans le ballon, le Portugal se replie en 5-3-2 : avec une ligne de cinq derrière.",
+    "La Croatie passe 35 % de ses touches dans son propre tiers et 26 % seulement dans le dernier.",
+    "Cédric Soares monte à 65 m sur la droite, seul joueur portugais vraiment large de ce côté : le Portugal touche 23 % de ses ballons dans son couloir droit.",
+    "Côté croate, I. Strinić reste bas à gauche (42 m), quand Srna attaque à droite."
+   ],
+   "impact": "Le Portugal a resserré tout son jeu dans l'axe gauche et défendu à cinq derrière : pas de quoi créer, mais de quoi fermer les espaces. La Croatie, malgré ses cinq attaquants, a fini avec des tirs loin du cadre."
+  },
+  "en": {
+   "lead": "In possession, Croatia push up into a 3-2-5: five players on the front line, including D. Srna, a right-back stationed 66 m from his goal and 63 m from the left, almost on the touchline. Portugal draw a surprising 3-1-2-4: Cristiano Ronaldo, João Mário, André Gomes and Adrien Silva all stand between 22 and 26 m from the left line. A cluster of midfielders and forwards in the same half-space.",
+   "keys": [
+    "Without the ball, Portugal drop into a 5-3-2: with a back line of five.",
+    "Croatia spend 35% of their touches in their own third and only 26% in the final third.",
+    "Cédric Soares climbs to 65 m on the right, Portugal's only truly wide player on that side: Portugal take 23% of their touches in their right lane.",
+    "For Croatia, I. Strinić stays deep on the left (42 m), while Srna attacks on the right."
+   ],
+   "impact": "Portugal squeezed all their play into the left-centre and defended with five at the back: not enough to create, but enough to close the spaces. Croatia, for all their five forwards, ended up with shots that missed the target."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression dans les données Wyscout, le pressing se lit par les tacles, interceptions et fautes. Et la Croatie a été la plus agressive : un PPDA de 5,0, contre 8,6 pour le Portugal, et des actions défensives à 42,8 m de son but, au-dessus de la moyenne du tournoi (38,3 m). Le Portugal a défendu beaucoup plus bas, à 36,3 m, mais a quand même compté plus de récupérations hautes (14 contre 10).",
+   "keys": [
+    "Le Portugal intercepte 78 ballons, la Croatie 64 : un bloc bas qui coupe les trajectoires.",
+    "28 fautes portugaises contre 11 croates : le Portugal a cassé le rythme dès qu'il le pouvait.",
+    "Cédric Soares et M. Badelj totalisent chacun 32 actions défensives : les deux plus gros chantiers du match.",
+    "Les deux équipes récupèrent peu de ballons en moins de 5 secondes : 14 % pour la Croatie, 15 % pour le Portugal (moyenne : 17 %)."
+   ],
+   "impact": "Un bloc bas, beaucoup d'interceptions et beaucoup de fautes : le Portugal a joué ce huitième pour ne pas perdre, et ça a fonctionné jusqu'à la 117e minute. Ce n'est sans doute pas un hasard si, face à ce bloc, aucun des 15 tirs croates n'a trouvé le cadre."
+  },
+  "en": {
+   "lead": "With no pressure events in the Wyscout data, pressing is read through tackles, interceptions and fouls. And Croatia were the more aggressive side: a PPDA of 5.0, against 8.6 for Portugal, and defensive actions 42.8 m from their goal, above the tournament average (38.3 m). Portugal defended much deeper, at 36.3 m, but still registered more high recoveries (14 to 10).",
+   "keys": [
+    "Portugal intercept 78 balls, Croatia 64: a deep block cutting passing lanes.",
+    "28 Portuguese fouls against 11 Croatian: Portugal broke up the rhythm whenever they could.",
+    "Cédric Soares and M. Badelj each total 32 defensive actions: the two hardest workers of the match.",
+    "Neither team wins the ball back quickly: 14% within 5 seconds for Croatia, 15% for Portugal (average: 17%)."
+   ],
+   "impact": "A deep block, lots of interceptions and lots of fouls: Portugal played this last-16 tie not to lose, and it worked until minute 117. It is probably no coincidence that, against that block, none of Croatia's 15 shots found the target."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Deux philosophies opposées dans ce huitième. Sur l'ensemble de l'Euro, la Croatie est la 2e équipe la plus positionniste (−0,56), juste derrière l'Italie, et elle le confirme ici (−0,17) : un jeu par postes, articulé autour de L. Modrić, impliqué dans 184 passes. Le Portugal, 3e équipe la plus relationniste du tournoi, joue ici à +0,30, avec 37 % de combinaisons rapides (moyenne : 31 %).",
+   "keys": [
+    "Le lien le plus utilisé du match est V. Ćorluka – L. Modrić (44 passes) : la relance croate passait par son meneur.",
+    "Srna – Modrić (36 passes) : l'autre artère du jeu croate, vers le couloir droit.",
+    "Raphaël Guerreiro est le carrefour portugais (77 passes) et apparaît dans les trois liens les plus forts de son équipe.",
+    "La Croatie se classe 23e sur 24 en jeu relationniste, le Portugal 3e."
+   ],
+   "impact": "La Croatie a fait tourner le ballon en ordre, poste après poste, sans jamais déséquilibrer le bloc portugais. Le Portugal, avec bien moins de ballons, jouait en petits groupes autour de Guerreiro : un style qui convient mieux à une équipe qui attend son heure."
+  },
+  "en": {
+   "lead": "Two opposing philosophies in this last-16 tie. Across the whole Euro, Croatia are the 2nd most positional team (−0.56), just behind Italy, and they confirm it here (−0.17): a position-based game built around L. Modrić, involved in 184 passes. Portugal, the tournament's 3rd most relational side, play at +0.30 here, with 37% quick combinations (average: 31%).",
+   "keys": [
+    "The busiest link of the match is V. Ćorluka – L. Modrić (44 passes): Croatia's build-up went through their playmaker.",
+    "Srna – Modrić (36 passes): the other artery of Croatia's play, towards the right lane.",
+    "Raphaël Guerreiro is Portugal's hub (77 passes) and appears in all three of his team's strongest links.",
+    "Croatia rank 23rd of 24 for relational play, Portugal 3rd."
+   ],
+   "impact": "Croatia moved the ball in order, position by position, without ever unsettling Portugal's block. Portugal, with far less of the ball, played in small groups around Guerreiro: a style that suits a team biding its time."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le Portugal n'a laissé aucune contre-attaque à la Croatie : zéro tir concédé dans les 15 secondes suivant une perte. À l'inverse, la Croatie a trouvé de l'espace sur les pertes portugaises : 3 tirs en transition pour 0,36 xG, près de trois fois la moyenne du tournoi (0,13 xG). Sans en convertir aucun.",
+   "keys": [
+    "0 tir et 0,00 xG concédés en transition par la Croatie, sur 100 ballons perdus.",
+    "Le Portugal concède 3 tirs en transition, contre 1,6 en moyenne dans le tournoi.",
+    "Le but de Quaresma à la 117e minute ne vient pas d'une transition."
+   ],
+   "impact": "Même en transition, la Croatie a eu les meilleures situations et n'en a rien tiré. Le Portugal, solide à la perte comme en bloc bas, n'a quasiment rien offert, puis a marqué sur sa seule vraie occasion."
+  },
+  "en": {
+   "lead": "Portugal gave Croatia no counter-attacks at all: zero shots conceded within 15 seconds of a loss. Croatia, on the other hand, found space after Portuguese losses: 3 shots in transition for 0.36 xG, nearly three times the tournament average (0.13 xG). Without converting any of them.",
+   "keys": [
+    "0 shots and 0.00 xG conceded in transition by Croatia, from 100 lost balls.",
+    "Portugal concede 3 shots in transition, against 1.6 on average in the tournament.",
+    "Quaresma's goal in minute 117 did not come from a transition."
+   ],
+   "impact": "Even in transition, Croatia had the better situations and got nothing from them. Portugal, solid when losing the ball as in their deep block, gave away almost nothing, then scored from their one real chance."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit ici l'attention reçue, et ce huitième a été étonnamment calme sur ce plan : le plus surveillé, I. Rakitić, n'attire que 0,51 action défensive de plus que la normale pour 10 touches. Ricardo Quaresma suit de près (0,49), alors qu'il n'a joué que 33 minutes. Pour comparaison, le plus gros aimant du tournoi, K. Lafferty, atteint 4,09.",
+   "keys": [
+    "L. Modrić (0,41) et M. Brozović (0,40) complètent le trio croate le plus surveillé.",
+    "Côté portugais, João Mário (−0,57) et Pepe (−0,35) ont joué presque sans être dérangés.",
+    "D. Srna (−0,55) aussi a eu de l'air sur son côté droit, et il en a profité pour devenir le premier créateur du match."
+   ],
+   "impact": "Personne n'a vraiment été pris en étau : tout indique que le Portugal défendait la zone plus que les hommes. Résultat, les créateurs croates ont pu jouer, mais devant un mur plutôt qu'un marquage, ce qui a donné beaucoup de tirs mal placés."
+  },
+  "en": {
+   "lead": "Without 360, we read attention received here, and this last-16 tie was surprisingly calm on that front: the most watched player, I. Rakitić, draws only 0.51 extra defensive actions per 10 touches. Ricardo Quaresma is close behind (0.49), despite playing only 33 minutes. For comparison, the biggest magnet of the tournament, K. Lafferty, reaches 4.09.",
+   "keys": [
+    "L. Modrić (0.41) and M. Brozović (0.40) complete Croatia's most watched trio.",
+    "For Portugal, João Mário (−0.57) and Pepe (−0.35) played almost undisturbed.",
+    "D. Srna (−0.55) also had room on his right flank, and he used it to become the top creator of the match."
+   ],
+   "impact": "Nobody was really squeezed: everything suggests Portugal defended space more than men. As a result, Croatia's creators could play, but in front of a wall rather than a marker, which produced lots of poorly placed shots."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La menace croate a grimpé tout au long du match : 0,27 xT en première mi-temps, 0,64 en deuxième, puis 1,43 en prolongation. Autrement dit, la Croatie a été plus dangereuse en prolongation que pendant tout le temps réglementaire. Et c'est précisément dans cette période que le Portugal a marqué. Le premier créateur du match est un latéral, D. Srna, 0,66 xT, soit 28 % de la menace croate.",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Srna à la 122e minute (+0,37 xT), de 86 à 102 m : tout indique qu'elle amène l'occasion de Vida, à la même minute.",
+    "V. Ćorluka, défenseur central, est le deuxième créateur croate (0,51 xT), avec 22 passes progressives.",
+    "Côté portugais, William Carvalho produit 28 % de la menace (0,33 xT), avec une passe à +0,14 xT à la 111e minute.",
+    "Total : 2,34 xT pour la Croatie, 1,18 pour le Portugal."
+   ],
+   "impact": "La Croatie poussait de plus en plus fort, et le Portugal a frappé au moment où elle était la plus exposée. Un classique : l'équipe qui domine s'ouvre, et celle qui attend la punit."
+  },
+  "en": {
+   "lead": "Croatia's threat climbed throughout the match: 0.27 xT in the first half, 0.64 in the second, then 1.43 in extra time. In other words, Croatia were more dangerous in extra time than in all of normal time. And that is exactly when Portugal scored. The top creator of the match is a full-back, D. Srna, 0.66 xT, or 28% of Croatia's threat.",
+   "keys": [
+    "The most threatening action of the match is a Srna pass in minute 122 (+0.37 xT), from 86 to 102 m: by all signs, the one that set up Vida's chance in the same minute.",
+    "V. Ćorluka, a centre-back, is Croatia's second creator (0.51 xT), with 22 progressive passes.",
+    "For Portugal, William Carvalho produces 28% of the threat (0.33 xT), with a +0.14 xT pass in minute 111.",
+    "Total: 2.34 xT for Croatia, 1.18 for Portugal."
+   ],
+   "impact": "Croatia pushed harder and harder, and Portugal struck when they were most exposed. A classic: the dominant side opens up, and the waiting side punishes it."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le joueur le mieux classé de ce huitième est portugais et latéral : Raphaël Guerreiro, 3e des 67 latéraux de l'Euro 2016, avec une note de 77. Côté croate, L. Modrić pointe au 6e rang des 90 milieux. Et Pepe est le 4e meilleur défenseur central du tournoi sur 33.",
+   "keys": [
+    "Cristiano Ronaldo est 7e des 46 attaquants, avec 3 buts et 1 passe décisive en 625 minutes.",
+    "William Carvalho, 8e des milieux, pointe deux rangs derrière Modrić dans la hiérarchie du poste.",
+    "D. Srna, 8e des latéraux, est le mieux classé des défenseurs croates.",
+    "M. Mandžukić n'est que 19e des attaquants, sans but en 268 minutes."
+   ],
+   "impact": "Le Portugal alignait plus de joueurs bien classés, surtout derrière : Guerreiro, Pepe, Carvalho. Dans un match fermé, c'est cette solidité qui a tenu face au volume croate."
+  },
+  "en": {
+   "lead": "The highest-ranked player in this last-16 tie is Portuguese and a full-back: Raphaël Guerreiro, 3rd of 67 full-backs at Euro 2016, with a score of 77. For Croatia, L. Modrić sits 6th of 90 midfielders. And Pepe is the tournament's 4th best centre-back out of 33.",
+   "keys": [
+    "Cristiano Ronaldo is 7th of 46 forwards, with 3 goals and 1 assist in 625 minutes.",
+    "William Carvalho, 8th among midfielders, sits two places behind Modrić in the position's pecking order.",
+    "D. Srna, 8th among full-backs, is Croatia's highest-ranked defender.",
+    "M. Mandžukić is only 19th among forwards, with no goal in 268 minutes."
+   ],
+   "impact": "Portugal fielded more well-ranked players, especially at the back: Guerreiro, Pepe, Carvalho. In a closed game, that solidity held firm against Croatia's volume."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Raphaël Guerreiro ? Philipp Lahm en finale de Ligue des champions, à 92 %, puis Marcelo (89 %). Rien que ça. Et L. Modrić, version Euro 2016, ressemble d'abord à Frenkie de Jong à l'Euro 2020 (91 %), puis à Gabi en finale de Ligue des champions (90 %).",
+   "keys": [
+    "Cristiano Ronaldo trouve ses plus proches voisins chez Kai Havertz à l'Euro 2024 (92 %), puis A. Griezmann et H. Kane à l'Euro 2016 (90 % chacun).",
+    "Cédric Soares a un jumeau presque parfait : Ahmed Fathy au Mondial 2018 (96 %).",
+    "Rui Patrício ressemble à Mike Maignan à l'Euro 2024 (95 %).",
+    "D. Srna est un profil rare : ses trois jumeaux plafonnent à 80 %."
+   ],
+   "impact": "Avec un Lahm à gauche et un Modrić version de Jong en face, ce huitième opposait des profils de grande classe. Mais c'est un joueur au profil plus rare, Quaresma, dont le jumeau le plus proche (A. Griezmann à l'Euro 2020) n'est qu'à 80 %, qui a fait la différence."
+  },
+  "en": {
+   "lead": "Raphaël Guerreiro's twin? Philipp Lahm in a Champions League final, at 92%, then Marcelo (89%). Not bad company. And L. Modrić, Euro 2016 edition, looks first like Frenkie de Jong at Euro 2020 (91%), then Gabi in a Champions League final (90%).",
+   "keys": [
+    "Cristiano Ronaldo's closest neighbours are Kai Havertz at Euro 2024 (92%), then A. Griezmann and H. Kane at Euro 2016 (90% each).",
+    "Cédric Soares has an almost perfect twin: Ahmed Fathy at the 2018 World Cup (96%).",
+    "Rui Patrício resembles Mike Maignan at Euro 2024 (95%).",
+    "D. Srna is a rare profile: his three twins top out at 80%."
+   ],
+   "impact": "With a Lahm on the left and a de Jong-style Modrić opposite, this tie pitted top-class profiles against each other. But it was a rarer profile, Quaresma, whose closest twin (A. Griezmann at Euro 2020) is only at 80%, who made the difference."
+  }
+ }
+}

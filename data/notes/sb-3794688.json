@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un Angleterre–Allemagne en huitième de finale, et un match d'une sobriété presque déroutante. L'Angleterre n'a tiré que 5 fois, mais 4 de ses tirs étaient cadrés et deux ont fini au fond, à la 75e (Raheem Sterling) puis à la 86e minute (Harry Kane). En xG, les deux équipes sont dos à dos, 1,16 contre 1,06 ; la différence s'est faite sur les grosses occasions, 2 pour l'Angleterre, aucune pour l'Allemagne.",
+   "keys": [
+    "Sterling, homme du match : 1 but sur 0,53 xG, 4 dribbles et 5 actions défensives.",
+    "Les deux passes décisives : Luke Shaw pour Sterling, Jack Grealish pour Kane, ce dernier en seulement 26 minutes de jeu.",
+    "L'Allemagne a tiré plus (9 contre 5) mais n'a cadré que 3 fois.",
+    "La plus grosse occasion manquée est allemande : Robin Gosens à la 53e minute, 0,29 xG, puis Thomas Müller à la 81e (0,28 xG), quand le score n'était que de 1-0."
+   ],
+   "impact": "Ce huitième s'est décidé sur l'efficacité : l'Angleterre a converti ses deux vraies occasions, l'Allemagne a manqué les siennes. Le tir de Müller, à la 81e minute, aurait pu remettre les deux équipes à égalité ; cinq minutes plus tard, Kane fermait la porte."
+  },
+  "en": {
+   "lead": "An England–Germany round of 16, and a match of almost disconcerting restraint. England took only 5 shots, but 4 were on target and two went in, Raheem Sterling in minute 75 and Harry Kane in minute 86. On xG the sides are neck and neck, 1.16 to 1.06; the difference was big chances, 2 for England, none for Germany.",
+   "keys": [
+    "Sterling, man of the match: 1 goal from 0.53 xG, 4 dribbles and 5 defensive actions.",
+    "The two assists: Luke Shaw for Sterling, Jack Grealish for Kane, the latter in just 26 minutes on the pitch.",
+    "Germany shot more (9 to 5) but hit the target only 3 times.",
+    "The biggest misses are German: Robin Gosens in minute 53, 0.29 xG, then Thomas Müller in minute 81 (0.28 xG), when it was still only 1-0."
+   ],
+   "impact": "This tie came down to efficiency: England converted their two real chances, Germany missed theirs. Müller's shot in minute 81 could have levelled it; five minutes later, Kane shut the door."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux 3-4-3 annoncés, deux lectures différentes. L'Angleterre jouait en 3-3-4 avec et sans ballon, avec un couloir droit très offensif : Kieran Trippier à 66 m de son but et Bukayo Saka devant lui, et 27 % des touches anglaises de ce côté. L'Allemagne, en 3-4-2-1, gardait Robin Gosens beaucoup plus bas à gauche, à 41 m de son but seulement. Or le couloir gauche allemand faisait face au côté droit anglais : le duel se jouait là, et Trippier y évoluait bien plus haut que Gosens.",
+   "keys": [
+    "L'Allemagne passe 36 % de ses touches dans son propre tiers et seulement 16 % dans le dernier : beaucoup de ballon, mais loin du but.",
+    "Côté gauche anglais, Luke Shaw est collé à la ligne (5 m), à 57 m de son but, avec Sterling à l'intérieur (16 m de la touche).",
+    "Sans ballon, les deux équipes défendent très bas : dernière ligne à 25,0 m pour l'Angleterre et 24,0 m pour l'Allemagne, sous la moyenne de l'Euro (27,9 m).",
+    "Avec le ballon, l'Allemagne n'occupe que 2,2 couloirs en moyenne, contre 2,6 dans le tournoi : un jeu resserré, qui manquait de largeur."
+   ],
+   "impact": "Deux blocs bas et prudents, et un match qui ne s'ouvre qu'en fin de rencontre. Le but de Sterling naît d'une passe de Shaw, le piston gauche anglais, dont le couloir faisait face à Joshua Kimmich, posté plus haut que Gosens (49 m) : chaque piston avancé laissait un dos à attaquer."
+  },
+  "en": {
+   "lead": "Two announced 3-4-3s, two different readings. England played a 3-3-4 with and without the ball, with a very attacking right lane: Kieran Trippier 66 m from goal with Bukayo Saka ahead of him, and 27% of England's touches on that side. Germany, in a 3-4-2-1, kept Robin Gosens much deeper on the left, only 41 m from goal. And Germany's left faced England's right: that was where the duel was fought, and Trippier played far higher than Gosens.",
+   "keys": [
+    "Germany spend 36% of their touches in their own third and only 16% in the final one: lots of ball, far from goal.",
+    "On England's left, Luke Shaw hugs the line (5 m from it), 57 m from goal, with Sterling inside him (16 m from the touchline).",
+    "Without the ball both teams defend very deep: last line at 25.0 m for England and 24.0 m for Germany, below the Euro average (27.9 m).",
+    "On the ball Germany occupy only 2.2 lanes on average, against 2.6 in the tournament: a narrow game short of width."
+   ],
+   "impact": "Two low, cautious blocks, and a match that only opened up late. Sterling's goal came from a pass by Shaw, England's left wing-back, whose lane faced Joshua Kimmich, stationed higher than Gosens (49 m): every advanced wing-back left space behind to attack."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ni l'une ni l'autre n'a voulu prendre le risque du pressing. L'Angleterre presse à 3,6 actions par minute sans ballon, l'Allemagne à 4,0, toutes deux sous la moyenne de l'Euro (4,5), avec des PPDA très élevés (21,9 et 28,1). La nuance est dans la hauteur : l'Angleterre défend à 53,4 m de son but, bien au-dessus de la moyenne (47,3 m), l'Allemagne à 43,6 m.",
+   "keys": [
+    "Récupérations hautes : 5 pour l'Angleterre, 2 seulement pour l'Allemagne (moyenne du tournoi : 8,2).",
+    "Ballon récupéré en moins de 5 s : 32 % des deux côtés, un peu au-dessus de la moyenne (29 %).",
+    "Contre-pressing : 18 % pour l'Angleterre, 16 % pour l'Allemagne, deux équipes qui préféraient se replacer.",
+    "En volume, l'Angleterre presse un peu plus : 133 pressions contre 120."
+   ],
+   "impact": "Ce pressing timide a fabriqué un match fermé, où chaque occasion valait cher. L'Allemagne, qui récupérait le ballon très bas, avait trop de terrain à parcourir pour menacer, ce qui explique en partie ses 16 % de touches dans le dernier tiers."
+  },
+  "en": {
+   "lead": "Neither side wanted to risk pressing. England press at 3.6 actions per minute out of possession, Germany at 4.0, both below the Euro average (4.5), with very high PPDAs (21.9 and 28.1). The nuance is in the height: England defend 53.4 m from their goal, well above average (47.3 m), Germany at 43.6 m.",
+   "keys": [
+    "High regains: 5 for England, just 2 for Germany (tournament average: 8.2).",
+    "Ball won back within 5 s: 32% on both sides, slightly above average (29%).",
+    "Counter-pressing: 18% for England, 16% for Germany, two teams that preferred to get back into shape.",
+    "In volume, England press slightly more: 133 pressures against 120."
+   ],
+   "impact": "That timid pressing produced a closed game where every chance was precious. Germany, winning the ball very deep, had too much ground to cover to threaten, which partly explains their 16% of touches in the final third."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Un huitième entre deux équipes positionnistes : l'Angleterre à −0,37, l'Allemagne à −0,23, et cette dernière figure parmi les trois plus positionnistes de l'Euro (−0,38 sur le tournoi, 22e sur 24 au classement relationniste). Le jeu allemand passait par sa défense : Mats Hummels est le carrefour (142 passes entre titulaires), devant Toni Kroos (128) et Antonio Rüdiger (103). Côté anglais, les trois carrefours sont Kyle Walker (97), John Stones (96) et Kalvin Phillips (92).",
+   "keys": [
+    "Le duo le plus utilisé du match est Hummels – Ginter, 36 passes : l'Allemagne faisait tourner derrière.",
+    "Très peu de monde autour du ballon : 1,88 coéquipier en moyenne pour l'Angleterre, 1,98 pour l'Allemagne (360).",
+    "L'Allemagne ne joue que 48 % de passes courtes, sous la moyenne de l'Euro (54 %).",
+    "L'Angleterre occupe 3,41 couloirs (360), l'Allemagne 3,05 : plus d'étalement chez les Anglais."
+   ],
+   "impact": "Deux équipes de postes et de patience, et donc peu de combinaisons dans les zones chaudes. Dans ce type de match, la décision vient souvent d'un geste individuel ou d'un couloir : ici, ce sont Shaw et Grealish, puis Sterling et Kane, qui ont fait la différence."
+  },
+  "en": {
+   "lead": "A round of 16 between two positional teams: England at −0.37, Germany at −0.23, and Germany are among the three most positional sides of the Euro (−0.38 over the tournament, 22nd of 24 in the relational ranking). German play went through the back: Mats Hummels is the hub (142 passes between starters), ahead of Toni Kroos (128) and Antonio Rüdiger (103). For England, the three hubs are Kyle Walker (97), John Stones (96) and Kalvin Phillips (92).",
+   "keys": [
+    "The busiest pair of the match is Hummels – Ginter, 36 passes: Germany circulated at the back.",
+    "Very few bodies around the ball: 1.88 teammates on average for England, 1.98 for Germany (360).",
+    "Germany play only 48% short passes, below the Euro average (54%).",
+    "England occupy 3.41 lanes (360), Germany 3.05: England were more spread out."
+   ],
+   "impact": "Two teams of positions and patience, and therefore few combinations in dangerous areas. In that kind of game the decisive moment often comes from an individual action or a flank: here it was Shaw and Grealish, then Sterling and Kane, who made the difference."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voilà le chiffre caché du match : en transition, l'Angleterre a beaucoup souffert sans jamais être punie. Elle concède 2 tirs dans les 15 secondes suivant une perte, pour 0,46 xG, plus de deux fois la moyenne du tournoi (0,20). Son repli était fragile : 4,3 joueurs derrière le ballon à la perte, 4,1 quelques secondes plus tard, et un bloc reformé à 7 ou plus dans 6 % des cas seulement (moyenne : 30 %).",
+   "keys": [
+    "L'Allemagne n'a concédé qu'un seul tir en transition, pour 0,44 xG, et elle encaisse un but en transition en fin de match.",
+    "Le repli allemand se reconstruit mieux : de 4,2 joueurs derrière le ballon à 5,2, et un bloc reformé dans 32 % des cas.",
+    "Exemple 360 côté allemand à la 83e minute : aucun joueur derrière le ballon à la perte, 7 quelques secondes plus tard.",
+    "Côté anglais à la 7e minute : 2 joueurs derrière le ballon à la perte, 7 ensuite."
+   ],
+   "impact": "L'Allemagne a eu les meilleures transitions du match et n'en a rien tiré, l'Angleterre en a eu une et l'a convertie. C'est peut-être la meilleure explication du 2-0 : la menace allemande existait, elle s'est perdue au moment de conclure."
+  },
+  "en": {
+   "lead": "Here is the hidden number of the match: in transition, England suffered a lot without ever being punished. They concede 2 shots within 15 seconds of a loss, worth 0.46 xG, more than twice the tournament average (0.20). Their recovery was fragile: 4.3 players behind the ball at the loss, 4.1 a few seconds later, and a block rebuilt with 7 or more in only 6% of cases (average: 30%).",
+   "keys": [
+    "Germany conceded just one shot in transition, worth 0.44 xG, and they let in a transition goal late in the match.",
+    "Germany's recovery rebuilds better: from 4.2 players behind the ball to 5.2, and a block rebuilt in 32% of cases.",
+    "A 360 example for Germany in minute 83: no players behind the ball at the loss, 7 a few seconds later.",
+    "England in minute 7: 2 players behind the ball at the loss, 7 afterwards."
+   ],
+   "impact": "Germany had the best transitions of the match and got nothing from them; England had one and converted it. That may be the best explanation for the 2-0: the German threat was there, it just vanished at the moment of finishing."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Harry Kane est l'aimant absolu du match : 1,14 adversaire de plus que la normale autour de chacune de ses touches, presque le double du joueur suivant. Derrière lui, trois Allemands, Thomas Müller et Timo Werner (0,61) puis Leon Goretzka (0,58). Kane n'a tiré qu'une fois, et cette frappe a fini au fond.",
+   "keys": [
+    "Bukayo Saka (0,57) est le deuxième Anglais le plus entouré : l'Allemagne surveillait de près le couloir droit anglais.",
+    "Kai Havertz complète le top 6 à 0,48.",
+    "Kyle Walker est le moins sollicité du match (−0,61), devant Rüdiger et Hummels (−0,59) : les relanceurs étaient laissés tranquilles."
+   ],
+   "impact": "Kane a attiré la défense allemande toute la soirée, et on peut y voir l'une des raisons pour lesquelles Sterling a trouvé de l'espace sur le premier but. Puis, sur l'unique tir de Kane, la défense n'a pas suffi."
+  },
+  "en": {
+   "lead": "Harry Kane is the match's ultimate magnet: 1.14 extra opponents around each of his touches, almost double the next player. Behind him come three Germans, Thomas Müller and Timo Werner (0.61) and Leon Goretzka (0.58). Kane shot only once, and that shot went in.",
+   "keys": [
+    "Bukayo Saka (0.57) is the second most crowded Englishman: Germany kept a close eye on England's right lane.",
+    "Kai Havertz rounds off the top 6 at 0.48.",
+    "Kyle Walker is the least troubled player of the match (−0.61), ahead of Rüdiger and Hummels (−0.59): the ball-players at the back were left alone."
+   ],
+   "impact": "Kane drew Germany's defence all evening, which may be one reason Sterling found space for the first goal. Then, on Kane's only shot, the defence was not enough."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Joshua Kimmich a été l'homme le plus créatif de ce huitième : 0,62 xT, 47 % de toute la menace allemande, uniquement à la passe. Son ballon le plus dangereux tombe à la 53e minute (+0,35 xT), la minute de la grosse occasion de Robin Gosens. Côté anglais, son pendant s'appelle Kieran Trippier, 0,51 xT et 38 % de la menace, avec une passe à +0,37 xT dès la 27e minute.",
+   "keys": [
+    "Au total, les deux équipes sont à égalité ou presque : 1,35 xT pour l'Angleterre, 1,31 pour l'Allemagne.",
+    "L'Allemagne menace même davantage en deuxième mi-temps : 0,91 xT contre 0,81.",
+    "La passe de Luke Shaw à la 75e minute (+0,33 xT) est celle du but de Sterling ; celle de Jack Grealish à la 86e (+0,11) celle du but de Kane.",
+    "Kai Havertz, 0,26 xT, est le deuxième créateur allemand, avec une passe de 75 à 98 m à la 32e minute, la minute de l'occasion de Werner."
+   ],
+   "impact": "La menace a été parfaitement équilibrée, et c'est bien ce qui rend ce 2-0 si cruel pour l'Allemagne. Les gestes les plus menaçants du match étaient allemands ou anglais à parts égales ; seuls ceux de Shaw et Grealish ont trouvé un attaquant pour conclure."
+  },
+  "en": {
+   "lead": "Joshua Kimmich was the most creative man in this round of 16: 0.62 xT, 47% of all of Germany's threat, all from passing. His most dangerous ball comes in minute 53 (+0.35 xT), the minute of Robin Gosens' big chance. For England his counterpart was Kieran Trippier, 0.51 xT and 38% of the threat, with a +0.37 xT pass as early as minute 27.",
+   "keys": [
+    "Overall the two teams are level or close to it: 1.35 xT for England, 1.31 for Germany.",
+    "Germany even carry more threat in the second half: 0.91 xT against 0.81.",
+    "Luke Shaw's pass in minute 75 (+0.33 xT) is the one for Sterling's goal; Jack Grealish's in minute 86 (+0.11) the one for Kane's.",
+    "Kai Havertz, 0.26 xT, is Germany's second creator, with a pass from 75 to 98 m in minute 32, the minute of Werner's chance."
+   ],
+   "impact": "The threat was perfectly balanced, which is exactly what makes this 2-0 so cruel for Germany. The most threatening actions of the match were split evenly between the two sides; only Shaw's and Grealish's found a forward to finish them."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur le papier, la qualité individuelle penchait vers l'Allemagne : Toni Kroos est 3e des 80 milieux de l'Euro (note de 80), Mats Hummels 2e des 39 défenseurs centraux (70), Kai Havertz 6e des 59 attaquants (68). Côté anglais, le mieux classé est le gardien, Jordan Pickford, 3e sur 24 (65), avec 708 minutes jouées sur le tournoi. Luke Shaw, 12e des latéraux (67), affiche 1 but et 3 passes décisives.",
+   "keys": [
+    "Raheem Sterling n'est que 22e des attaquants (59), mais il totalise 3 buts et 1 passe décisive en 653 minutes.",
+    "Jack Grealish, 28e des attaquants (51), compte 2 passes décisives en seulement 199 minutes.",
+    "Kroos termine sans but ni passe décisive en 380 minutes : sa note mesure le jeu, pas les statistiques de fin de match.",
+    "Joshua Kimmich, classé latéral, est 22e sur 78 (61)."
+   ],
+   "impact": "Les meilleurs joueurs du classement étaient allemands, et l'Angleterre l'a emporté avec des joueurs plus modestement classés mais décisifs. Les classements mesurent une compétition entière ; un huitième de finale, lui, se joue sur deux gestes."
+  },
+  "en": {
+   "lead": "On paper, individual quality leaned German: Toni Kroos is 3rd of 80 midfielders at the Euro (score of 80), Mats Hummels 2nd of 39 centre-backs (70), Kai Havertz 6th of 59 forwards (68). For England the best-ranked player is the goalkeeper, Jordan Pickford, 3rd of 24 (65), with 708 minutes played in the tournament. Luke Shaw, 12th among full-backs (67), has 1 goal and 3 assists.",
+   "keys": [
+    "Raheem Sterling is only 22nd among forwards (59), but he has 3 goals and 1 assist in 653 minutes.",
+    "Jack Grealish, 28th among forwards (51), has 2 assists in just 199 minutes.",
+    "Kroos ends with no goals or assists in 380 minutes: his score measures his play, not the box-score numbers.",
+    "Joshua Kimmich, ranked as a full-back, is 22nd of 78 (61)."
+   ],
+   "impact": "The best-ranked players were German, and England won with more modestly ranked but decisive ones. Rankings measure a whole competition; a round of 16 is decided by two moments."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le plus joli miroir de ce huitième : Luke Shaw et Joshua Kimmich sont jumeaux à 94 %, dans les deux sens. Or ils se faisaient face, Shaw à gauche côté anglais, Kimmich à droite côté allemand. Les deux ont aussi le même autre voisin, Ali Maâloul au Mondial 2018 (94 % pour Shaw, 92 % pour Kimmich). Deux latéraux créateurs dans le même couloir : c'est Shaw qui a donné la passe décisive.",
+   "keys": [
+    "Toni Kroos a pour jumeau G. Xhaka à l'Euro 2016 (97 %), puis Luka Modrić au Mondial 2022 (92 %).",
+    "Mats Hummels ressemble à Sergio Ramos à l'Euro 2016 (94 %).",
+    "Raheem Sterling rappelle Jamal Musiala à l'Euro 2024 (92 %) et Kylian Mbappé au Mondial 2018 (90 %).",
+    "Kai Havertz a pour plus proche voisin Álvaro Morata à cet Euro (95 %), puis Luis Suárez avec Barcelone en finale de Ligue des champions (92 %)."
+   ],
+   "impact": "Shaw et Kimmich, deux profils quasi identiques dans le même couloir : le duel s'annonçait équilibré, et les chiffres de menace l'ont confirmé. La différence s'est faite au bout de l'action, quand la passe de Shaw a trouvé Sterling."
+  },
+  "en": {
+   "lead": "The neatest mirror of this round of 16: Luke Shaw and Joshua Kimmich are 94% twins, both ways round. And they faced each other, Shaw on England's left, Kimmich on Germany's right. Both also share another neighbour, Ali Maâloul at the 2018 World Cup (94% for Shaw, 92% for Kimmich). Two creative full-backs in the same lane: Shaw was the one who provided the assist.",
+   "keys": [
+    "Toni Kroos' twin is G. Xhaka at Euro 2016 (97%), then Luka Modrić at the 2022 World Cup (92%).",
+    "Mats Hummels resembles Sergio Ramos at Euro 2016 (94%).",
+    "Raheem Sterling recalls Jamal Musiala at Euro 2024 (92%) and Kylian Mbappé at the 2018 World Cup (90%).",
+    "Kai Havertz's closest match is Álvaro Morata at this Euro (95%), then Luis Suárez with Barcelona in a Champions League final (92%)."
+   ],
+   "impact": "Shaw and Kimmich, two near-identical profiles in the same lane: the duel looked even, and the threat numbers confirmed it. The difference came at the end of the move, when Shaw's pass found Sterling."
+  }
+ }
+}

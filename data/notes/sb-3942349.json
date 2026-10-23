@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Cent vingt minutes, zéro but, et une qualification aux tirs au but (5-3) pour la France : un quart de finale qui ressemble à une longue partie d'échecs. Le Portugal arrivait déjà d'un 0-0 contre la Slovénie, passé aux tirs au but ; la France, d'un 1-0 contre la Belgique. Les chiffres racontent un match très équilibré, mais pas symétrique : la France tire plus (20 tirs contre 15), le Portugal tire mieux (1,41 xG contre 1,07). Et aucune des deux équipes ne se crée la moindre grosse occasion.",
+   "keys": [
+    "Le Portugal a eu le ballon (60 % de possession, 927 passes), la France a eu les passes clés : 18 contre 11.",
+    "Les deux plus grosses occasions sont portugaises et valent chacune 0,27 xG : Vitinha à la 63e minute, cadrée, puis Cristiano Ronaldo à la 93e, à côté.",
+    "Ousmane Dembélé a distribué 6 passes clés et réussi 4 dribbles en seulement 54 minutes : le Français le plus inspiré du soir.",
+    "Côté français, Eduardo Camavinga a eu la meilleure balle de but à la 70e minute (0,24 xG), sans cadrer."
+   ],
+   "impact": "Avec un écart de seulement 0,34 xG, ni l'une ni l'autre ne méritait vraiment de passer avant la séance de tirs au but. La France, plus volumineuse mais moins tranchante, n'a pas su transformer ses 18 passes clés en vraies occasions : la loterie a choisi son camp."
+  },
+  "en": {
+   "lead": "A hundred and twenty minutes, no goals, and France through on penalties (5-3): a quarter-final that felt like a long game of chess. Portugal had already come through a 0-0 against Slovenia on penalties; France had beaten Belgium 1-0. The numbers describe a very even match, but not a symmetrical one: France shot more (20 shots to 15), Portugal shot better (1.41 xG to 1.07). And neither side created a single big chance.",
+   "keys": [
+    "Portugal had the ball (60% possession, 927 passes), France had the key passes: 18 to 11.",
+    "The two biggest chances were Portuguese, each worth 0.27 xG: Vitinha in minute 63, on target, then Cristiano Ronaldo in minute 93, wide.",
+    "Ousmane Dembélé delivered 6 key passes and completed 4 dribbles in just 54 minutes: France's most inspired player on the night.",
+    "For France, Eduardo Camavinga had the best look at goal in minute 70 (0.24 xG), but missed the target."
+   ],
+   "impact": "With a gap of only 0.34 xG, neither side really deserved to go through before the shoot-out. France, busier but less incisive, could not turn their 18 key passes into real chances: the lottery picked its side."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le 4-1-2-1-2 annoncé par la France se transformait, ballon au pied, en 3-6-1 : William Saliba restait très bas (26 m de son but), pendant que Theo Hernández et Jules Koundé montaient tous les deux à 69 m, chacun collé à sa ligne. Le Portugal restait en 4-4-1-1 avec le ballon et passait en 4-2-3-1 sans lui, avec un penchant marqué pour la gauche. Rafael Leão y vivait à 4 m de la touche, Nuno Mendes juste derrière, et Cristiano Ronaldo décrochait de ce côté-là aussi.",
+   "keys": [
+    "Le Portugal fait 26 % de ses touches dans le couloir gauche : Leão, Mendes et Ronaldo formaient un trio sur le même flanc.",
+    "Avec le ballon, le bloc portugais s'étalait sur 37,0 m de largeur, bien au-delà de la moyenne du tournoi (31,7 m).",
+    "La France passe 35 % de ses touches dans le dernier tiers, contre 22 % pour le Portugal : moins de ballon, mais plus près du but.",
+    "Sans ballon, la France défendait large (28,0 m, moyenne : 25,3 m) avec une dernière ligne à 28,2 m de son but."
+   ],
+   "impact": "Le Portugal étirait le terrain sans réussir à le percer : tout ce volume à gauche n'a débouché sur aucune grosse occasion. La France, avec ses deux latéraux très hauts, s'installait plus souvent dans le camp adverse, sans trouver non plus la faille."
+  },
+  "en": {
+   "lead": "France's announced 4-1-2-1-2 became a 3-6-1 in possession: William Saliba stayed very deep (26 m from goal) while Theo Hernández and Jules Koundé both pushed up to 69 m, each hugging his touchline. Portugal stayed in a 4-4-1-1 with the ball and switched to a 4-2-3-1 without it, with a strong lean to the left. Rafael Leão lived 4 m from the touchline there, Nuno Mendes just behind him, and Cristiano Ronaldo drifted to that side as well.",
+   "keys": [
+    "Portugal take 26% of their touches in the left lane: Leão, Mendes and Ronaldo formed a trio on the same flank.",
+    "In possession, Portugal's block spread across 37.0 m of width, well beyond the tournament average (31.7 m).",
+    "France spend 35% of their touches in the final third, against 22% for Portugal: less of the ball, but closer to goal.",
+    "Without the ball, France defended wide (28.0 m, average: 25.3 m) with a back line 28.2 m from goal."
+   ],
+   "impact": "Portugal stretched the pitch without managing to pierce it: all that volume on the left produced no big chance. France, with both full-backs very high, settled in the opposition half more often, but could not find the gap either."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Voilà un pressing d'un genre particulier. La France a laissé le Portugal jouer : 1,9 pression par minute sans ballon, moins de la moitié de la moyenne du tournoi (4,2), et un PPDA de 41,4. Mais quand elle perdait le ballon, elle le récupérait vite : 40 % en moins de 5 secondes, 59 % en moins de 10. Une équipe qui attend en bloc, mais qui mord dès que le ballon passe à portée.",
+   "keys": [
+    "Récupérations hautes : 11 pour la France, 5 pour le Portugal. Moins de pressing, mais mieux placé.",
+    "Le Portugal pressait davantage (3,5 pressions par minute, PPDA de 19,7) sans en tirer grand-chose.",
+    "Contre-pressing faible des deux côtés : 13 % pour le Portugal, 10 % pour la France, quand la moyenne est de 19 %.",
+    "Hauteur des actions défensives quasi identique : 46,0 m pour le Portugal, 47,7 m pour la France."
+   ],
+   "impact": "En refusant de presser, la France a accepté de subir la possession portugaise, et le pari a tenu : 927 passes adverses pour aucune grosse occasion. Mais ce choix prudent explique aussi pourquoi le match n'a jamais vraiment décollé."
+  },
+  "en": {
+   "lead": "This was a press of a peculiar kind. France let Portugal play: 1.9 pressures per minute out of possession, less than half the tournament average (4.2), and a PPDA of 41.4. But when they lost the ball, they won it back quickly: 40% within 5 seconds, 59% within 10. A team that waits in a block, but bites as soon as the ball comes within reach.",
+   "keys": [
+    "High regains: 11 for France, 5 for Portugal. Less pressing, but better placed.",
+    "Portugal pressed more (3.5 pressures per minute, PPDA of 19.7) without getting much out of it.",
+    "Weak counter-pressing on both sides: 13% for Portugal, 10% for France, against an average of 19%.",
+    "Height of defensive actions almost identical: 46.0 m for Portugal, 47.7 m for France."
+   ],
+   "impact": "By refusing to press, France accepted Portugal's possession, and the bet held: 927 opposition passes for no big chance. But that cautious choice also explains why the match never really took off."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le réseau de passes portugais a un nom : Pepe. Le défenseur central est impliqué dans 247 passes entre titulaires, et son lien avec Nuno Mendes en compte à lui seul 82. Ce n'est pas un hasard si le Portugal ressort positionniste (−0,49), 19e sur 24 du tournoi : chacun à sa place, et une circulation qui démarre derrière. La France est presque neutre (0,03), avec un cœur au milieu : Aurélien Tchouaméni et N'Golo Kanté.",
+   "keys": [
+    "Pepe – Nuno Mendes, 82 passes : de loin le lien le plus utilisé du match.",
+    "Tchouaméni est le carrefour français (146 passes), devant Kanté (121) ; leur duo totalise 37 passes.",
+    "Kylian Mbappé – Theo Hernández, 20 passes : l'axe gauche français, la voie royale vers l'avant.",
+    "La France joue un peu plus court (61 % de passes courtes contre 58 %) et combine un peu plus vite (37 % contre 34 %)."
+   ],
+   "impact": "Le Portugal faisait tourner le ballon derrière, autour de Pepe, sans parvenir à le faire vivre devant : beaucoup de passes, peu de danger. La France, avec son double pivot au cœur du jeu, n'a pas fait beaucoup mieux, et le 0-0 s'est installé comme une évidence."
+  },
+  "en": {
+   "lead": "Portugal's passing network has a name: Pepe. The centre-back is involved in 247 passes between starters, and his link with Nuno Mendes alone accounts for 82. It is no coincidence that Portugal come out positional (−0.49), 19th of 24 in the tournament: everyone in his spot, and circulation that starts at the back. France are almost neutral (0.03), with a heart in midfield: Aurélien Tchouaméni and N'Golo Kanté.",
+   "keys": [
+    "Pepe – Nuno Mendes, 82 passes: by far the busiest link of the match.",
+    "Tchouaméni is the French hub (146 passes), ahead of Kanté (121); their partnership totals 37 passes.",
+    "Kylian Mbappé – Theo Hernández, 20 passes: the French left axis, the main road forward.",
+    "France play slightly shorter (61% short passes against 58%) and combine slightly quicker (37% against 34%)."
+   ],
+   "impact": "Portugal moved the ball around at the back, through Pepe, without bringing it to life up front: plenty of passes, little danger. France, with their double pivot at the heart of play, did not do much better, and 0-0 settled in as the natural outcome."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un chiffre rare : zéro. Aucune des deux équipes n'a concédé le moindre tir dans les 15 secondes suivant une perte de balle, sur 120 minutes, quand la moyenne du tournoi tourne autour de 2,6 tirs par match. C'est le portrait d'un quart de finale où personne ne voulait prendre de risque. La France, surtout, se repliait en masse.",
+   "keys": [
+    "Au moment de la perte, la France avait 5,2 joueurs derrière le ballon, 5,9 six à dix secondes plus tard (moyenne : 5,6).",
+    "Le Portugal, plus exposé avec 4,6 joueurs derrière le ballon à la perte, reformait tout de même son bloc dans 37 % des cas.",
+    "Exemple 360 à la 108e minute : 4 Français derrière le ballon à la perte, 10 quelques secondes plus tard. Tout le monde rentre.",
+    "Côté portugais, à la 71e : 4 joueurs à la perte, 8 ensuite."
+   ],
+   "impact": "Sans transitions, pas de buts faciles : les deux défenses ont fermé la seule porte qui ouvre souvent les matchs serrés. Le 0-0 n'est pas un accident, c'est le résultat logique de deux équipes qui ne se découvraient jamais."
+  },
+  "en": {
+   "lead": "A rare number: zero. Neither team conceded a single shot within 15 seconds of losing the ball, over 120 minutes, when the tournament average is around 2.6 shots per match. It is the portrait of a quarter-final where nobody wanted to take a risk. France in particular dropped back in numbers.",
+   "keys": [
+    "At the moment of the loss, France had 5.2 players behind the ball, 5.9 six to ten seconds later (average: 5.6).",
+    "Portugal, more exposed with 4.6 players behind the ball at the loss, still rebuilt their block in 37% of cases.",
+    "A 360 example in minute 108: 4 French players behind the ball at the loss, 10 a few seconds later. Everybody gets back.",
+    "For Portugal, in minute 71: 4 players at the loss, 8 afterwards."
+   ],
+   "impact": "No transitions, no easy goals: both defences shut the one door that so often opens tight matches. The 0-0 was no accident, it was the logical outcome of two teams that never left themselves exposed."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le joueur que la défense française surveillait le plus, c'est Cristiano Ronaldo : 0,94 adversaire de plus que la normale autour de chacune de ses touches, le plus haut total du match. Côté français, l'aimant n'est pas Mbappé mais Randal Kolo (0,78), devant Mbappé (0,62). Les attaquants attiraient du monde, mais aucun n'a trouvé l'ouverture.",
+   "keys": [
+    "Youssouf Fofana (0,54) et Marcus Thuram (0,49) attiraient eux aussi les regards.",
+    "Vitinha (0,37) est le seul Portugais hors Ronaldo à figurer dans le haut du classement.",
+    "À l'autre bout, Rúben Dias (−0,93) et Pepe (−0,89) relançaient dans le calme : la France ne venait pas les chercher.",
+    "Saliba (−0,76) a lui aussi passé une soirée tranquille balle au pied."
+   ],
+   "impact": "Ronaldo aspirait les défenseurs, mais le Portugal n'a pas su exploiter l'espace libéré autour de lui. La tranquillité de Pepe et Rúben Dias rejoint le chiffre du pressing : la France leur laissait le ballon, et le Portugal n'en a rien fait de décisif."
+  },
+  "en": {
+   "lead": "The player France's defence watched most closely was Cristiano Ronaldo: 0.94 extra opponents around each of his touches, the highest figure of the match. For France, the magnet was not Mbappé but Randal Kolo (0.78), ahead of Mbappé (0.62). The forwards drew a crowd, but none found the opening.",
+   "keys": [
+    "Youssouf Fofana (0.54) and Marcus Thuram (0.49) also drew attention.",
+    "Vitinha (0.37) is the only Portuguese player besides Ronaldo near the top of the list.",
+    "At the other end, Rúben Dias (−0.93) and Pepe (−0.89) played out in total calm: France did not come for them.",
+    "Saliba (−0.76) also had a quiet night on the ball."
+   ],
+   "impact": "Ronaldo pulled defenders in, but Portugal could not exploit the space freed around him. The calm of Pepe and Rúben Dias matches the pressing numbers: France left them the ball, and Portugal did nothing decisive with it."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "En menace créée, la France passe légèrement devant : 1,99 xT contre 1,77. Et elle termine plus fort, avec 0,76 xT en prolongation, sa meilleure période. Le plus grand créateur du match est Ousmane Dembélé (0,33 xT), presque entièrement balle au pied (0,28 xT en conduites), et en 54 minutes seulement. Aucun geste du match ne dépasse 0,12 xT : un quart de finale sans éclair.",
+   "keys": [
+    "Francisco Conceição a pesé dans la prolongation portugaise : 0,30 xT, et deux des gestes les plus dangereux, à la 93e (+0,12) et à la 108e minute (+0,08).",
+    "Rafael Leão (0,28 xT) et Nuno Mendes (0,26) confirment que le danger portugais venait de la gauche.",
+    "Côté français, les deux actions les plus menaçantes sont des conduites tardives : Bradley Barcola à la 114e et Marcus Thuram à la 121e (+0,09 chacune).",
+    "Le Portugal a produit 0,41 xT en première mi-temps, puis 0,68 dans chacune des deux périodes suivantes."
+   ],
+   "impact": "La menace a été répartie entre beaucoup de joueurs, sans qu'aucun ne parvienne à faire basculer le match. Conceição, Barcola et Thuram ont apporté leur dose de danger en prolongation, mais le dernier geste a toujours manqué."
+  },
+  "en": {
+   "lead": "In threat created, France edge it: 1.99 xT against 1.77. And they finish stronger, with 0.76 xT in extra time, their best period. The biggest creator of the match is Ousmane Dembélé (0.33 xT), almost entirely with the ball at his feet (0.28 xT from carries), and in only 54 minutes. No single action in the match goes beyond 0.12 xT: a quarter-final without a flash of lightning.",
+   "keys": [
+    "Francisco Conceição weighed on Portugal's extra time: 0.30 xT, and two of the most dangerous actions, in minute 93 (+0.12) and minute 108 (+0.08).",
+    "Rafael Leão (0.28 xT) and Nuno Mendes (0.26) confirm that Portugal's danger came from the left.",
+    "For France, the two most threatening actions are late carries: Bradley Barcola in minute 114 and Marcus Thuram in minute 121 (+0.09 each).",
+    "Portugal produced 0.41 xT in the first half, then 0.68 in each of the next two periods."
+   ],
+   "impact": "The threat was spread across many players, without any one of them tipping the match. Conceição, Barcola and Thuram added danger in extra time, but the final touch was always missing."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Ce quart de finale réunissait une collection de latéraux de premier plan. João Cancelo est 1er des 78 latéraux classés sur tout l'Euro (note de 75), Jules Koundé 3e (73) et Nuno Mendes 5e (70). Au milieu, N'Golo Kanté est 5e des 82 milieux, avec la meilleure note de ce match (76). Pas étonnant que les défenses aient eu le dernier mot.",
+   "keys": [
+    "Pepe est 2e des 30 défenseurs centraux du tournoi, avec une note de 70.",
+    "Dans les buts, Mike Maignan (3e sur 24) et Diogo Costa (4e) se tiennent de près.",
+    "Kylian Mbappé est 5e des 49 attaquants, mais ne compte qu'1 but et 1 passe décisive sur le tournoi.",
+    "Aurélien Tchouaméni est 8e des milieux (73), Bruno Fernandes 10e (70)."
+   ],
+   "impact": "Avec autant de défenseurs et de gardiens parmi les mieux classés du tournoi, le 0-0 a une logique : ce match a été gagné par les arrières et perdu par les attaquants. Et c'est aux tirs au but, l'exercice des gardiens, qu'il s'est décidé."
+  },
+  "en": {
+   "lead": "This quarter-final brought together a collection of top-class full-backs. João Cancelo is 1st of 78 ranked full-backs at the whole Euro (score of 75), Jules Koundé 3rd (73) and Nuno Mendes 5th (70). In midfield, N'Golo Kanté is 5th of 82 midfielders, with the best score in this match (76). No wonder the defences had the final word.",
+   "keys": [
+    "Pepe is 2nd of 30 centre-backs in the tournament, with a score of 70.",
+    "In goal, Mike Maignan (3rd of 24) and Diogo Costa (4th) are neck and neck.",
+    "Kylian Mbappé is 5th of 49 forwards, but has only 1 goal and 1 assist in the tournament.",
+    "Aurélien Tchouaméni is 8th among midfielders (73), Bruno Fernandes 10th (70)."
+   ],
+   "impact": "With so many defenders and goalkeepers among the best ranked in the tournament, the 0-0 makes sense: this match was won by the back lines and lost by the forwards. And it was settled by penalties, the goalkeepers' own exercise."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Mike Maignan a un jumeau parfait : Y. Sommer à l'Euro 2016, similaire à 100 %. Rare de trouver une telle correspondance. Aurélien Tchouaméni n'est pas loin, avec E. Dier à l'Euro 2016 (97 %), le profil d'une sentinelle qui récupère et relance. Et Kylian Mbappé a pour double Gareth Bale en finale de Ligue des champions, à 95 %.",
+   "keys": [
+    "Pepe ressemble d'abord à Jan Vertonghen en finale de Ligue des champions (96 %).",
+    "N'Golo Kanté a deux jumeaux à 86 % dans ce même Euro 2024 : Granit Xhaka et son coéquipier Adrien Rabiot.",
+    "Bruno Fernandes ressemble à Kevin De Bruyne à l'Euro 2024 et à Toni Kroos au Mondial 2018 (84 % chacun).",
+    "Eduardo Camavinga est un profil à part : son plus proche jumeau, Corentin Tolisso au Mondial 2018, n'est similaire qu'à 74 %."
+   ],
+   "impact": "Les jumeaux racontent la même histoire que le match : des gardiens, des sentinelles et des défenseurs aux profils très affirmés, face à des attaquants qui n'ont jamais trouvé la faille. Dans un match sans but, ce sont les profils défensifs qui ont donné le ton."
+  },
+  "en": {
+   "lead": "Mike Maignan has a perfect twin: Y. Sommer at Euro 2016, 100% similar. A match that close is rare. Aurélien Tchouaméni is not far behind, with E. Dier at Euro 2016 (97%), the profile of a holding midfielder who wins the ball and moves it on. And Kylian Mbappé's double is Gareth Bale in a Champions League final, at 95%.",
+   "keys": [
+    "Pepe looks first like Jan Vertonghen in a Champions League final (96%).",
+    "N'Golo Kanté has two 86% twins at this same Euro 2024: Granit Xhaka and his team-mate Adrien Rabiot.",
+    "Bruno Fernandes resembles Kevin De Bruyne at Euro 2024 and Toni Kroos at the 2018 World Cup (84% each).",
+    "Eduardo Camavinga is a profile apart: his closest twin, Corentin Tolisso at the 2018 World Cup, is only 74% similar."
+   ],
+   "impact": "The twins tell the same story as the match: goalkeepers, holding midfielders and defenders with very clear-cut profiles, against forwards who never found a way through. In a match without a goal, the defensive profiles set the tone."
+  }
+ }
+}

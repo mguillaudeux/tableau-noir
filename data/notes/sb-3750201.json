@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une finale de Ligue des champions entre deux géants, et des chiffres d'une symétrie presque troublante : 50 % de possession chacun, 1,20 xG pour Barcelone, 1,15 pour Manchester United. La différence tient en un mot : la précision. Barcelone cadre 7 tirs sur 11, United 2 sur 12. Samuel Eto'o ouvre le score à la 10e minute, Lionel Messi double la mise à la 70e, et la coupe part en Catalogne sans que les courbes ne se séparent vraiment.",
+   "keys": [
+    "Eto'o marque sur une occasion à 0,10 xG, Messi sur une à 0,23 xG : deux buts sans grosse occasion.",
+    "La plus grosse occasion manquée est mancunienne : Cristiano Ronaldo à la 72e minute, 0,37 xG, arrêtée. Deux minutes après le 2-0.",
+    "Edwin van der Sar réalise 5 arrêts, Víctor Valdés 2 : le gardien de United a eu bien plus de travail.",
+    "Le plus gros xG individuel de Barcelone est celui… de Carles Puyol (0,51), qui ajoute 23 actions défensives."
+   ],
+   "impact": "Avec 0,05 xG d'écart, cette finale aurait pu basculer de l'autre côté. Barcelone l'a gagnée par la justesse de ses frappes, United l'a perdue faute d'avoir cadré quand il le fallait."
+  },
+  "en": {
+   "lead": "A Champions League final between two giants, and numbers of almost unsettling symmetry: 50% possession each, 1.20 xG for Barcelona, 1.15 for Manchester United. The difference comes down to one word: accuracy. Barcelona put 7 of 11 shots on target, United 2 of 12. Samuel Eto'o opens the scoring in minute 10, Lionel Messi doubles the lead in minute 70, and the trophy heads to Catalonia without the curves ever really separating.",
+   "keys": [
+    "Eto'o scores from a 0.10 xG chance, Messi from a 0.23 xG one: two goals without a big chance.",
+    "The biggest miss belongs to United: Cristiano Ronaldo in minute 72, 0.37 xG, saved. Two minutes after the 2-0.",
+    "Edwin van der Sar makes 5 saves, Víctor Valdés 2: United's keeper had far more to do.",
+    "Barcelona's highest individual xG belongs to… Carles Puyol (0.51), who adds 23 defensive actions."
+   ],
+   "impact": "With an xG gap of 0.05, this final could have gone the other way. Barcelona won it through the precision of their shooting, United lost it by failing to hit the target when it mattered."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Barcelone annonçait un 4-3-3 ; ses positions moyennes dessinent un 3-4-3, avec ou sans ballon. Carles Puyol monte à 57 m sur la droite, Sylvinho à 60 m collé à la ligne gauche (5 m), et c'est Yaya Touré qui se retrouve aux côtés de Gerard Piqué en défense centrale, avec Sergio Busquets juste devant. Devant, Messi se tient au centre, en retrait de Thierry Henry (à gauche) et de Samuel Eto'o (à droite).",
+   "keys": [
+    "Barcelone passe 29 % de ses touches dans l'axe, son couloir préféré.",
+    "Henry, à 76 m de son but et 9 m de la ligne gauche, est le Barcelonais le plus avancé.",
+    "United, annoncé en 4-5-1, se lit en 3-5-2 avec le ballon et en 3-4-2-1 sans lui selon les positions moyennes.",
+    "Côté anglais, Cristiano Ronaldo se tient au centre (29 m de la touche gauche), Wayne Rooney sur la gauche (15 m) : un duo d'attaque décalé."
+   ],
+   "impact": "Avec Messi au cœur du jeu et deux attaquants très hauts sur les côtés, Barcelone étirait la défense de United tout en surchargeant l'axe. À la 70e minute, c'est d'ailleurs une passe de Xavi, le milieu axial, qui tombe à la minute du but de Messi."
+  },
+  "en": {
+   "lead": "Barcelona announced a 4-3-3; their average positions draw a 3-4-3, with or without the ball. Carles Puyol pushes up to 57 m on the right, Sylvinho to 60 m glued to the left line (5 m), and it is Yaya Touré who ends up alongside Gerard Piqué at centre-back, with Sergio Busquets just ahead. Up front, Messi sits centrally, behind Thierry Henry (on the left) and Samuel Eto'o (on the right).",
+   "keys": [
+    "Barcelona play 29% of their touches through the centre, their favourite lane.",
+    "Henry, 76 m from his goal and 9 m from the left line, is Barcelona's most advanced player.",
+    "United, announced in a 4-5-1, read as a 3-5-2 in possession and a 3-4-2-1 without it according to the average positions.",
+    "For United, Cristiano Ronaldo stands centrally (29 m from the left touchline), Wayne Rooney on the left (15 m): an offset strike pair."
+   ],
+   "impact": "With Messi at the heart of things and two forwards very high on the flanks, Barcelona stretched United's defence while overloading the middle. In minute 70, tellingly, a pass from Xavi, the central midfielder, comes in the very minute of Messi's goal."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Barcelone a défendu haut : ses actions défensives se situent à 50,2 m de son but, contre 40,8 m pour United. Et ce bloc avancé a payé : 11 récupérations hautes contre 2. Manchester United, lui, a très peu pressé, avec 2,8 pressions par minute sans ballon, bien sous la moyenne des finales de la compétition (4,0).",
+   "keys": [
+    "PPDA de 16,4 pour Barcelone, 21,3 pour United.",
+    "Barcelone déclenche 23 % de ses pressions juste après une perte, United 15 %.",
+    "Les deux équipes récupèrent vite à peu près autant : 38 % des ballons en moins de 10 secondes pour Barcelone, 40 % pour United.",
+    "Moyenne des finales : 7,6 récupérations hautes par match ; Barcelone en signe 11, United 2."
+   ],
+   "impact": "United a laissé Barcelone construire à sa guise et a reculé jusqu'à 40,8 m de son but. Face à une équipe aussi à l'aise avec le ballon, ce recul a sans doute rendu la finale plus confortable pour les Catalans."
+  },
+  "en": {
+   "lead": "Barcelona defended high: their defensive actions happen 50.2 m from their goal, against 40.8 m for United. And that advanced block paid off: 11 high regains to 2. Manchester United pressed very little, at 2.8 pressures per minute out of possession, well below the average across the competition's finals (4.0).",
+   "keys": [
+    "A PPDA of 16.4 for Barcelona, 21.3 for United.",
+    "Barcelona trigger 23% of their pressures right after a loss, United 15%.",
+    "Both teams win the ball back quickly at roughly the same rate: 38% within 10 seconds for Barcelona, 40% for United.",
+    "The finals average is 7.6 high regains per match; Barcelona record 11, United 2."
+   ],
+   "impact": "United let Barcelona build at will and dropped back to 40.8 m from their goal. Against a team this comfortable on the ball, that probably made the final easier for the Catalans."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Voilà le Barcelone que les chiffres attendaient : indice relationniste de +0,71, 68 % de passes courtes et 42 % de combinaisons rapides. Et au centre de la toile, un trio : Xavi (144 passes entre titulaires), Andrés Iniesta (123) et Lionel Messi (119). Le détail qui dit tout : les trois liens les plus utilisés du match valent 29 passes chacun, et Iniesta est dans les trois.",
+   "keys": [
+    "Iniesta – Messi, Iniesta – Xavi, Iniesta – Sylvinho : 29 passes chacun. Iniesta était le nœud du réseau.",
+    "Sur les 11 équipes classées dans ces finales, Barcelone est la 2e plus relationniste.",
+    "Manchester United est presque neutre (+0,08), avec un réseau qui passe d'abord par Michael Carrick (86 passes) et Nemanja Vidić (85).",
+    "Le lien le plus utilisé de United : John O'Shea – Rio Ferdinand, 24 passes, en défense."
+   ],
+   "impact": "Barcelone a fait vivre le ballon dans les petits espaces, United l'a fait circuler derrière. Ce contraste explique pourquoi deux équipes à 50 % de possession ont livré deux matchs si différents."
+  },
+  "en": {
+   "lead": "Here is the Barcelona the numbers were waiting for: a relational index of +0.71, 68% short passes and 42% quick combinations. And at the centre of the web, a trio: Xavi (144 passes between starters), Andrés Iniesta (123) and Lionel Messi (119). The detail that says it all: the three busiest links of the match are worth 29 passes each, and Iniesta is in all three.",
+   "keys": [
+    "Iniesta – Messi, Iniesta – Xavi, Iniesta – Sylvinho: 29 passes each. Iniesta was the knot of the network.",
+    "Of the 11 teams ranked in these finals, Barcelona are the 2nd most relational.",
+    "Manchester United are almost neutral (+0.08), with a network running first through Michael Carrick (86 passes) and Nemanja Vidić (85).",
+    "United's busiest link: John O'Shea – Rio Ferdinand, 24 passes, at the back."
+   ],
+   "impact": "Barcelona kept the ball alive in tight spaces, United circulated it at the back. That contrast explains why two teams on 50% possession played two such different matches."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Zéro. C'est le nombre de tirs que Barcelone a concédés dans les 15 secondes suivant une perte de balle. Zéro xG en transition. Manchester United, lui, en concède 3 pour 0,46 xG, au-dessus de la moyenne des finales (0,26). Dans un match aussi équilibré, ce genre de détail pèse lourd.",
+   "keys": [
+    "Barcelone perd 85 ballons en jeu ouvert sans jamais être puni en contre.",
+    "United perd 93 ballons et laisse 0,46 xG à Barcelone dans les secondes qui suivent.",
+    "La moyenne des finales est de 3,0 tirs concédés en transition par match."
+   ],
+   "impact": "Tout indique que le contre-pressing barcelonais et sa défense haute ont fermé la porte aux transitions de United. Les Anglais n'ont pu attaquer que face à un bloc en place, et ils n'y ont cadré que 2 tirs."
+  },
+  "en": {
+   "lead": "Zero. That is how many shots Barcelona conceded within 15 seconds of losing the ball. Zero xG in transition. Manchester United concede 3 for 0.46 xG, above the finals average (0.26). In a game this balanced, that kind of detail weighs heavily.",
+   "keys": [
+    "Barcelona lose 85 balls in open play without ever being punished on the break.",
+    "United lose 93 balls and allow Barcelona 0.46 xG in the seconds that follow.",
+    "The finals average is 3.0 transition shots conceded per match."
+   ],
+   "impact": "Everything suggests Barcelona's counter-press and high line shut the door on United's transitions. The English side could only attack a settled block, and put just 2 shots on target against it."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Barcelone savait exactement qui surveiller : les cinq joueurs les plus entourés du match sont tous mancuniens. Anderson en tête (2,80 actions défensives de plus que la normale pour 10 touches), puis Cristiano Ronaldo (2,13), Carlos Tevez (1,99) et Wayne Rooney (1,42). Seul Barcelonais du top 6, Samuel Eto'o (0,41).",
+   "keys": [
+    "Ronaldo, 2,13 : chaque ballon touché attirait du monde, et sa meilleure occasion, à la 72e, a été arrêtée.",
+    "Côté barcelonais, Iniesta (−1,87), Sylvinho (−1,83) et Seydou Kéita (−2,14) jouaient sans pression particulière.",
+    "Eto'o est l'un des plus gros aimants de toutes les finales de la compétition (3,11), cinquième derrière Fernando Torres (4,82).",
+    "Ce soir-là pourtant, United l'a peu entouré : 0,41 seulement."
+   ],
+   "impact": "United n'a jamais pu étouffer Iniesta, laissé libre au cœur du réseau barcelonais. Barcelone, lui, a encerclé chaque attaquant adverse : la différence entre une équipe qui subit et une qui contrôle."
+  },
+  "en": {
+   "lead": "Barcelona knew exactly whom to watch: the five most surrounded players of the match are all from United. Anderson leads (2.80 more defensive actions than normal per 10 touches), then Cristiano Ronaldo (2.13), Carlos Tevez (1.99) and Wayne Rooney (1.42). The only Barcelona player in the top 6 is Samuel Eto'o (0.41).",
+   "keys": [
+    "Ronaldo, 2.13: every touch drew a crowd, and his best chance was saved.",
+    "For Barcelona, Iniesta (−1.87), Sylvinho (−1.83) and Seydou Kéita (−2.14) played without any particular pressure.",
+    "Eto'o is one of the biggest magnets across all the competition's finals (3.11), fifth behind Fernando Torres (4.82).",
+    "That night, though, United barely surrounded him: just 0.41."
+   ],
+   "impact": "United never managed to smother Iniesta, left free at the heart of Barcelona's network. Barcelona surrounded every opposing forward: the difference between a team that suffers and one that controls."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Barcelone a créé 1,43 xT, United 1,06, et les deux équipes ont accéléré après la pause. Les deux plus grands créateurs du match portent le même maillot : Andrés Iniesta (0,37 xT, dont 0,28 en conduites de balle) et Xavi (0,36). À eux deux, plus de la moitié de la menace barcelonaise. Et le geste le plus menaçant de Barcelone tombe à la 70e minute : une passe de Xavi (+0,12 xT), la minute du but de Messi.",
+   "keys": [
+    "Iniesta porte le ballon de 53 à 88 m à la 64e minute : une conduite qui traverse le milieu de United.",
+    "Barcelone produit 1,00 xT en deuxième mi-temps, plus du double de sa première (0,43).",
+    "Le geste le plus menaçant de United est une conduite de Carlos Tevez à la 88e (+0,14), trop tard.",
+    "À la 72e, une passe de Dimitar Berbatov (+0,11) tombe à la minute de la grosse occasion de Ronaldo."
+   ],
+   "impact": "Xavi et Iniesta ont fabriqué la menace, Eto'o et Messi l'ont convertie. United a eu ses moments, surtout en fin de match, mais jamais au bon moment."
+  },
+  "en": {
+   "lead": "Barcelona created 1.43 xT, United 1.06, and both sides stepped it up after the break. The two biggest creators of the match wear the same shirt: Andrés Iniesta (0.37 xT, 0.28 of it from carries) and Xavi (0.36). Between them, more than half of Barcelona's threat. And Barcelona's most threatening action comes in minute 70: a Xavi pass (+0.12 xT), the minute of Messi's goal.",
+   "keys": [
+    "Iniesta carries the ball from 53 to 88 m in minute 64: a run straight through United's midfield.",
+    "Barcelona produce 1.00 xT in the second half, more than double their first (0.43).",
+    "United's most threatening action is a Carlos Tevez carry in minute 88 (+0.14), too late.",
+    "In minute 72, a Dimitar Berbatov pass (+0.11) comes in the minute of Ronaldo's big chance."
+   ],
+   "impact": "Xavi and Iniesta manufactured the threat, Eto'o and Messi converted it. United had their moments, especially late on, but never at the right time."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur l'ensemble des finales de Ligue des champions, Xavi est le 2e des 37 milieux classés, avec 2 passes décisives en 206 minutes. Lionel Messi est 4e des 34 attaquants, avec la meilleure note du match (80) et 2 buts. Andrés Iniesta, 7e des milieux, compte 3 passes décisives. Le milieu barcelonais de cette finale est simplement l'un des plus forts de toute la compétition.",
+   "keys": [
+    "Nemanja Vidić est 3e des 24 défenseurs centraux, Rio Ferdinand 5e : la charnière de United était de très haut niveau.",
+    "Cristiano Ronaldo, 5e des attaquants, totalise 3 buts et 1 passe décisive en 526 minutes de finales.",
+    "Sergio Busquets (15e) et Michael Carrick (16e) se suivent au classement des milieux.",
+    "Vidić fait partie des trois meneurs de son poste, tout comme Xavi au milieu."
+   ],
+   "impact": "Les deux équipes alignaient des joueurs parmi les mieux classés de la compétition. Mais là où United brillait en défense, Barcelone brillait avec le ballon, et c'est le ballon qui a décidé."
+  },
+  "en": {
+   "lead": "Across all the Champions League finals, Xavi is 2nd of 37 ranked midfielders, with 2 assists in 206 minutes. Lionel Messi is 4th of 34 forwards, with the best score in the match (80) and 2 goals. Andrés Iniesta, 7th among midfielders, has 3 assists. Barcelona's midfield in this final is simply one of the strongest in the whole competition.",
+   "keys": [
+    "Nemanja Vidić is 3rd of 24 centre-backs, Rio Ferdinand 5th: United's central pairing was top class.",
+    "Cristiano Ronaldo, 5th among forwards, totals 3 goals and 1 assist in 526 minutes of finals.",
+    "Sergio Busquets (15th) and Michael Carrick (16th) sit next to each other in the midfield ranking.",
+    "Vidić is one of the three leaders in his position, just like Xavi in midfield."
+   ],
+   "impact": "Both teams fielded some of the best-ranked players in the competition. But where United shone in defence, Barcelona shone with the ball, and the ball decided it."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de Xavi est… un autre maître du milieu : Bastian Schweinsteiger en finale de Ligue des champions, à 93 %, à égalité avec Toni Kroos, lui aussi avec le Bayern Munich. Et en troisième position, Andrés Iniesta (92 %). Réciproquement, le premier jumeau d'Iniesta est Xavi. Les deux cerveaux de cette finale sont les reflets l'un de l'autre.",
+   "keys": [
+    "Cristiano Ronaldo a un jumeau presque parfait : Kai Havertz à l'Euro 2024 (97 %), devant Lautaro Martínez et Edinson Cavani (94 %).",
+    "Lionel Messi version 2009 ressemble d'abord à Eden Hazard au Mondial 2018 (90 %), puis à Florian Wirtz à l'Euro 2024 (89 %).",
+    "Sergio Busquets rappelle Mousa Dembélé au Mondial 2018 et Tyler Adams au Mondial 2022 (90 % chacun).",
+    "Nemanja Vidić a pour plus proche voisin Samet Akaydin à l'Euro 2024 (95 %)."
+   ],
+   "impact": "Xavi et Iniesta jumeaux à 92 % : Barcelone alignait deux fois le même cerveau, ce qui aide à comprendre la fluidité de son réseau. Le premier jumeau de Michael Carrick, lui, ne lui ressemble qu'à 81 % (Gaku Shibasaki)."
+  },
+  "en": {
+   "lead": "Xavi's statistical twin is… another midfield master: Bastian Schweinsteiger in a Champions League final, at 93%, level with Toni Kroos, also with Bayern Munich. And in third place, Andrés Iniesta (92%). In return, Iniesta's top twin is Xavi. The two brains of this final are mirror images of each other.",
+   "keys": [
+    "Cristiano Ronaldo has an almost perfect twin: Kai Havertz at Euro 2024 (97%), ahead of Lautaro Martínez and Edinson Cavani (94%).",
+    "Lionel Messi, 2009 version, looks first like Eden Hazard at the 2018 World Cup (90%), then Florian Wirtz at Euro 2024 (89%).",
+    "Sergio Busquets recalls Mousa Dembélé at the 2018 World Cup and Tyler Adams at the 2022 World Cup (90% each).",
+    "Nemanja Vidić's nearest neighbour is Samet Akaydin at Euro 2024 (95%)."
+   ],
+   "impact": "Xavi and Iniesta, 92% twins: Barcelona fielded the same brain twice, which helps explain how fluid their network was. Michael Carrick's closest twin, by contrast, is only 81% similar (Gaku Shibasaki)."
+  }
+ }
+}

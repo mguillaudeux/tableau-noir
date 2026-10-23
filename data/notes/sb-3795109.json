@@ -1,0 +1,202 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Deux équipes lancées se retrouvaient en quart : la Tchéquie avait sorti les Pays-Bas 2-0, le Danemark avait balayé le Pays de Galles 4-0. Ce quart-là s'est décidé en première mi-temps, sur deux buts danois, Delaney dès la 5e minute (0,07 xG) puis Dolberg à la 42e. Schick réduit l'écart à la 49e, mais la Tchéquie ne reviendra pas. Sur l'ensemble du match, l'écart d'xG est minuscule : 1,21 pour le Danemark, 1,16 pour la Tchéquie, soit 0,05.",
+   "keys": [
+    "La Tchéquie tire plus (16 contre 11) et a le ballon (57 %), mais le Danemark cadre davantage : 7 tirs contre 5.",
+    "Thomas Delaney ouvre le score sur une frappe à 0,07 xG : un but qu'on ne marque pas une fois sur dix.",
+    "La plus grosse occasion manquée est danoise : Joakim Maehle à la 82e, une frappe cadrée à 0,22 xG qui aurait tué le match.",
+    "Côté tchèque, Souček à la 19e (0,14 xG, à côté) et Holeš à la 35e (0,13, cadré) ont laissé passer l'égalisation avant la pause.",
+    "Le Danemark dégage 45 ballons, la Tchéquie 20 : les Danois ont passé une bonne partie de la soirée à protéger leur surface."
+   ],
+   "impact": "Un match très équilibré sur le volume, décidé par une frappe improbable en début de match. Le Danemark a ensuite su gérer : il a moins eu le ballon, mais a mieux cadré, et a tenu son avance jusqu'au bout."
+  },
+  "en": {
+   "lead": "Two teams on a roll met in this quarter-final: Czech Republic had knocked out the Netherlands 2-0, Denmark had swept Wales aside 4-0. This one was settled in the first half by two Danish goals, Delaney as early as minute 5 (0.07 xG) and Dolberg in minute 42. Schick pulled one back in minute 49, but the Czechs never drew level. Over the whole match the xG gap is tiny: 1.21 for Denmark, 1.16 for Czech Republic, just 0.05.",
+   "keys": [
+    "Czech Republic shoot more (16 to 11) and have the ball (57%), but Denmark hit the target more: 7 shots to 5.",
+    "Thomas Delaney opens the scoring from a 0.07 xG strike: a goal you would not score one time in ten.",
+    "The biggest miss is Danish: Joakim Maehle in minute 82, a 0.22 xG effort on target that would have killed the game.",
+    "For the Czechs, Souček in minute 19 (0.14 xG, wide) and Holeš in minute 35 (0.13, on target) let the equaliser slip before the break.",
+    "Denmark make 45 clearances, Czech Republic 20: the Danes spent much of the night protecting their box."
+   ],
+   "impact": "A very even match in volume, decided by an improbable strike early on. Denmark then managed it well: less of the ball, but better accuracy, and a lead held to the end."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Les deux équipes trichaient avec leur schéma annoncé. La Tchéquie, en 4-2-3-1 sur le papier, attaquait en 3-4-3, avec Coufal monté à 61 m de son but côté droit et Bořil à gauche, et défendait en 3-2-3-2. Le Danemark, annoncé en 3-4-2-1, attaquait en 3-3-2-2 et se repliait en 4-3-3. Côté danois, tout penchait à droite : 29 % des touches dans ce couloir, celui de Stryger Larsen, placé à 3 m de la ligne.",
+   "keys": [
+    "Le couloir droit danois faisait face au côté gauche tchèque, celui de Jan Bořil.",
+    "Avec le ballon, la dernière ligne tchèque montait à 46,7 m de son but, bien au-dessus de la moyenne du tournoi (41,3 m).",
+    "Le Danemark jouait étroit : 2,0 couloirs occupés avec le ballon, contre 2,6 en moyenne à l'Euro.",
+    "Sans ballon, la dernière ligne danoise reculait à 22,4 m de son but (moyenne : 27,9 m) : un bloc vraiment bas."
+   ],
+   "impact": "Le Danemark a laissé le ballon à une Tchéquie très haute et s'est installé bas. Ce bloc explique sans doute ses 45 dégagements, et peut-être aussi pourquoi la Tchéquie n'a marqué qu'une fois malgré sa domination."
+  },
+  "en": {
+   "lead": "Both teams were cheating on their announced shapes. Czech Republic, a 4-2-3-1 on paper, attacked in a 3-4-3, with Coufal pushed up to 61 m on the right and Bořil on the left, and defended in a 3-2-3-2. Denmark, announced in a 3-4-2-1, attacked in a 3-3-2-2 and dropped into a 4-3-3. On the Danish side everything leaned right: 29% of touches in that lane, Stryger Larsen's, positioned 3 m from the line.",
+   "keys": [
+    "Denmark's right lane faced the Czech left, Jan Bořil's side.",
+    "In possession, the Czech back line pushed up to 46.7 m from goal, well above the tournament average (41.3 m).",
+    "Denmark played narrow: 2.0 lanes occupied in possession, against 2.6 on average at the Euro.",
+    "Out of possession, Denmark's back line dropped to 22.4 m from goal (average: 27.9 m): a truly deep block."
+   ],
+   "impact": "Denmark left the ball to a very high Czech side and settled deep. That block probably explains their 45 clearances, and perhaps also why the Czechs scored only once despite their dominance."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Danemark a pressé davantage, et surtout plus utilement. Avec 4,0 pressions par minute sans ballon et 150 pressions au total, il signe 9 récupérations hautes, au-dessus de la moyenne du tournoi (8,2), contre 4 pour la Tchéquie. Les Tchèques, eux, réagissaient mieux à la perte : 35 % de ballons récupérés en moins de 5 secondes, contre 27 % pour le Danemark.",
+   "keys": [
+    "PPDA serrés : 11,5 pour la Tchéquie, 12,5 pour le Danemark.",
+    "La Tchéquie perd 108 ballons en jeu ouvert, contre 82 pour le Danemark : beaucoup de déchet dans sa domination.",
+    "Le contre-pressing danois (19 %) est pile dans la moyenne de l'Euro ; le tchèque est à 18 %.",
+    "Signe de la patience danoise : 42 % de ses récupérations interviennent plus de 20 secondes après la perte."
+   ],
+   "impact": "Le pressing danois n'a pas produit de but en transition, mais la Tchéquie a perdu beaucoup de ballons face à lui. Une domination tchèque truffée de pertes, face à une équipe qui savait attendre : le scénario idéal pour défendre une avance."
+  },
+  "en": {
+   "lead": "Denmark pressed more, and above all more usefully. With 4.0 pressures per minute out of possession and 150 pressures in total, they made 9 high regains, above the tournament average (8.2), against 4 for Czech Republic. The Czechs, though, reacted better to losing the ball: 35% won back within 5 seconds, against 27% for Denmark.",
+   "keys": [
+    "Close PPDAs: 11.5 for Czech Republic, 12.5 for Denmark.",
+    "Czech Republic lose 108 balls in open play, against 82 for Denmark: plenty of waste in their dominance.",
+    "Denmark's counter-press (19%) sits right on the Euro average; the Czech one is at 18%.",
+    "A sign of Danish patience: 42% of their regains come more than 20 seconds after the loss."
+   ],
+   "impact": "Denmark's press did not produce a transition goal, but the Czechs gave the ball away a lot against it. Czech dominance riddled with losses, against a side happy to wait: the ideal scenario for protecting a lead."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Voilà un quart entre deux équipes du haut du classement relationniste : sur tout le tournoi, la Tchéquie est la plus relationniste des 24 équipes, le Danemark 4e. Et dans ce match précis, c'est même le Danemark qui joue le plus autour du ballon (+0,70, contre +0,47). Les deux réseaux sont d'ailleurs peu denses : le carrefour tchèque, Antonín Barák, n'est impliqué que dans 71 passes, le danois, Pierre-Emile Højbjerg, dans 59.",
+   "keys": [
+    "La Tchéquie ne combine que 28 % de ses passes en une-deux rapides, sous la moyenne de l'Euro (34 %) ; le Danemark est à 36 %.",
+    "Liberté latérale de 16,0 m pour la Tchéquie et 15,0 m pour le Danemark, deux chiffres au-dessus de la moyenne (13,2 m) : beaucoup de déplacements hors des couloirs attitrés.",
+    "Le duo tchèque le plus actif relie Bořil à Barák (21 passes), le danois Højbjerg à Stryger Larsen (14).",
+    "Autour du porteur, 2,35 coéquipiers proches côté tchèque et 2,26 côté danois (360)."
+   ],
+   "impact": "Deux équipes mobiles, qui quittent volontiers leur poste, et des réseaux clairsemés : tout indique un match morcelé, avec peu de longues séquences. Dans ce désordre organisé, le Danemark a été le plus efficace, avec moins de passes mais plus de tirs cadrés."
+  },
+  "en": {
+   "lead": "A quarter-final between two teams near the top of the relational table: across the tournament, Czech Republic are the most relational of the 24 sides, Denmark 4th. And in this particular match it was Denmark who played more around the ball (+0.70, against +0.47). Both networks were thin, too: the Czech hub, Antonín Barák, was involved in just 71 passes, the Danish one, Pierre-Emile Højbjerg, in 59.",
+   "keys": [
+    "Czech Republic combine only 28% of their passes in quick exchanges, below the Euro average (34%); Denmark are at 36%.",
+    "Lateral freedom of 16.0 m for Czech Republic and 15.0 m for Denmark, both above the average (13.2 m): lots of movement out of assigned lanes.",
+    "The busiest Czech pair links Bořil and Barák (21 passes), the Danish one Højbjerg and Stryger Larsen (14).",
+    "Around the ball carrier, 2.35 teammates close by for the Czechs and 2.26 for Denmark (360)."
+   ],
+   "impact": "Two mobile teams, happy to leave their positions, and sparse networks: everything points to a fragmented match with few long sequences. In that organised chaos, Denmark were the more efficient, with fewer passes but more shots on target."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le Danemark a gagné ce quart en se repliant… très peu. Au moment de la perte, 4,6 Danois en moyenne étaient derrière le ballon, et quelques secondes plus tard, 4,0 seulement. Pas un seul bloc reformé à 7 joueurs ou plus : 0 %, quand la moyenne du tournoi est à 30 %. Et pourtant, la Tchéquie n'en a tiré que 3 tirs en transition, pour 0,23 xG.",
+   "keys": [
+    "La Tchéquie ne fait guère mieux : 4,9 joueurs derrière le ballon à la perte, 4,5 ensuite, et 15 % de blocs reformés.",
+    "Elle concède elle aussi 3 tirs dans les 15 secondes suivant une perte, pour 0,30 xG.",
+    "Exemple 360 côté danois à la 29e minute : 1 seul joueur derrière le ballon à la perte, 6 quelques secondes plus tard.",
+    "Côté tchèque, à la 67e : 3 joueurs derrière le ballon, puis 7."
+   ],
+   "impact": "Aucun but n'est né d'une transition, et ni l'une ni l'autre n'a su exploiter les replis timides d'en face. Le Danemark a pris le risque de ne pas revenir en masse, et la Tchéquie ne l'a jamais puni."
+  },
+  "en": {
+   "lead": "Denmark won this quarter-final while retreating… very little. At the moment of the loss, 4.6 Danes on average were behind the ball, and a few seconds later only 4.0. Not a single block of 7 or more rebuilt: 0%, when the tournament average is 30%. And yet the Czechs got only 3 transition shots out of it, worth 0.23 xG.",
+   "keys": [
+    "Czech Republic hardly did better: 4.9 players behind the ball at the loss, 4.5 afterwards, and 15% of blocks rebuilt.",
+    "They also conceded 3 shots within 15 seconds of a loss, worth 0.30 xG.",
+    "A 360 example for Denmark in minute 29: just 1 player behind the ball at the loss, 6 a few seconds later.",
+    "For the Czechs, in minute 67: 3 players behind the ball, then 7."
+   ],
+   "impact": "No goal came from a transition, and neither side exploited the other's timid recovery runs. Denmark took the risk of not getting bodies back, and Czech Republic never punished them."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le grand aimant du match est le buteur danois, Kasper Dolberg : 1,33 adversaire de plus que la normale autour de chacune de ses touches, très loin devant tout le monde. Les Tchèques l'entouraient dès qu'il touchait le ballon, et il a quand même marqué. Derrière lui, deux Tchèques, Lukáš Masopust (0,87) et Antonín Barák (0,71).",
+   "keys": [
+    "Christian Nørgaard (0,64) et Thomas Delaney (0,63), les deux autres Danois du top 6 : le milieu danois était serré de près.",
+    "Michael Krmenčík complète la liste à 0,59.",
+    "À l'autre bout, trois Tchèques : Celustka (−0,83), Brabec (−0,72) et Darida (−0,60) n'étaient presque jamais pressés.",
+    "Pour l'échelle, le plus gros aimant de l'Euro est Marcus Berg, à 1,67."
+   ],
+   "impact": "Les défenseurs tchèques avaient le temps de relancer, mais le Danemark serrait tout ce qui se trouvait plus haut : Masopust et Barák, les relais de la construction tchèque, étaient enfermés. On peut y voir l'une des raisons d'une domination tchèque restée stérile."
+  },
+  "en": {
+   "lead": "The big magnet of the match was Denmark's scorer, Kasper Dolberg: 1.33 extra opponents around each of his touches, far ahead of everyone else. The Czechs swarmed him whenever he touched the ball, and he still scored. Behind him, two Czechs, Lukáš Masopust (0.87) and Antonín Barák (0.71).",
+   "keys": [
+    "Christian Nørgaard (0.64) and Thomas Delaney (0.63), the other two Danes in the top 6: Denmark's midfield was tightly marked.",
+    "Michael Krmenčík rounds out the list at 0.59.",
+    "At the other end, three Czechs: Celustka (−0.83), Brabec (−0.72) and Darida (−0.60) were almost never pressed.",
+    "For scale, the biggest magnet of the Euro is Marcus Berg, at 1.67."
+   ],
+   "impact": "The Czech defenders had time on the ball, but Denmark squeezed everything further up: Masopust and Barák, the relays of the Czech build-up, were boxed in. That may be one reason the Czech dominance stayed sterile."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La menace était tchèque : 2,03 xT, contre 1,46 pour le Danemark, et 1,22 rien qu'en deuxième mi-temps. Le premier créateur du match est Vladimír Coufal (0,50 xT), le latéral droit tchèque. Et deux gestes de latéraux tombent pile aux minutes de deux buts : à la 42e, celle de Dolberg, une passe de Joakim Maehle (+0,14 xT) ; à la 49e, celle de Schick, une passe de Coufal (+0,14 xT).",
+   "keys": [
+    "Coufal pèse 25 % de la menace tchèque, presque tout à la passe (0,44 xT).",
+    "Jan Bořil, l'autre latéral tchèque, est 2e créateur du match (0,34 xT) et signe le geste le plus menaçant, une passe de 68 à 93 m à la 88e minute (+0,15 xT).",
+    "Côté danois, Maehle (0,27 xT, 18 % de son équipe) devance Mikkel Damsgaard, qui crée presque tout en conduite de balle (0,16 xT).",
+    "Patrik Schick, lui aussi, menace surtout balle au pied : 0,15 xT en conduites."
+   ],
+   "impact": "La Tchéquie a créé plus, surtout par ses latéraux, et a fini le match en poussant fort. Mais le mal était fait avant la pause : menée 0-2, elle n'a converti cette pression qu'une fois."
+  },
+  "en": {
+   "lead": "The threat was Czech: 2.03 xT against 1.46 for Denmark, and 1.22 in the second half alone. The match's top creator is Vladimír Coufal (0.50 xT), the Czech right-back. And two full-back actions land in the exact minutes of two goals: in minute 42, Dolberg's, a Joakim Maehle pass (+0.14 xT); in minute 49, Schick's, a Coufal pass (+0.14 xT).",
+   "keys": [
+    "Coufal accounts for 25% of the Czech threat, almost all through passing (0.44 xT).",
+    "Jan Bořil, the other Czech full-back, is the match's 2nd creator (0.34 xT) and makes its most threatening action, a pass from 68 to 93 m in minute 88 (+0.15 xT).",
+    "For Denmark, Maehle (0.27 xT, 18% of his team's) edges Mikkel Damsgaard, who creates almost everything by carrying the ball (0.16 xT).",
+    "Patrik Schick is also mostly a threat with the ball at his feet: 0.15 xT from carries."
+   ],
+   "impact": "Czech Republic created more, mainly through their full-backs, and finished the game pushing hard. But the damage was done before the break: trailing 0-2, they converted that pressure only once."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur latéral de tout l'Euro jouait ce soir-là, et il était tchèque : Vladimír Coufal, 1er des 78 latéraux classés, avec une note de 88 et 2 passes décisives sur le tournoi. Le Danemark, lui, comptait surtout sur la profondeur de son effectif : Stryger Larsen 6e des latéraux, Højbjerg 11e et Delaney 12e des 80 milieux. Un duel entre un soliste et un orchestre.",
+   "keys": [
+    "Pierre-Emile Højbjerg totalise 3 passes décisives en 596 minutes.",
+    "Kasper Dolberg, 23e des 59 attaquants, compte 3 buts en seulement 228 minutes.",
+    "Patrik Schick, juste derrière (24e), a déjà marqué 5 buts dans le tournoi.",
+    "Les deux gardiens se suivent : Kasper Schmeichel 8e, Tomáš Vaclík 9e sur 24."
+   ],
+   "impact": "Un joueur hors norme d'un côté, un collectif homogène de l'autre : le scénario du match ressemble à ces classements. Coufal a été le meilleur créateur de la soirée, mais le Danemark avait plus de joueurs capables de peser."
+  },
+  "en": {
+   "lead": "The best full-back of the whole Euro played that night, and he was Czech: Vladimír Coufal, 1st of 78 ranked full-backs, with a score of 88 and 2 assists in the tournament. Denmark relied more on depth: Stryger Larsen 6th among full-backs, Højbjerg 11th and Delaney 12th of 80 midfielders. A soloist against an orchestra.",
+   "keys": [
+    "Pierre-Emile Højbjerg has 3 assists in 596 minutes.",
+    "Kasper Dolberg, 23rd of 59 forwards, has 3 goals in just 228 minutes.",
+    "Patrik Schick, right behind him (24th), has already scored 5 goals in the tournament.",
+    "The two keepers sit side by side: Kasper Schmeichel 8th, Tomáš Vaclík 9th of 24."
+   ],
+   "impact": "One outstanding player on one side, a balanced group on the other: the story of the match mirrors these rankings. Coufal was the night's best creator, but Denmark had more players able to make a difference."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Kasper Dolberg a des jumeaux de pur avant-centre : M. Gómez à l'Euro 2016 (95 %), puis Á. Szalai et Andrea Belotti (94 % chacun). Un profil de pivot qui attire les défenseurs, et qui colle à son titre d'aimant du match. Pierre-Emile Højbjerg, lui, ressemble d'abord à Éver Banega au Mondial 2018 (94 %), puis à Bastian Schweinsteiger avec le Bayern Munich en finale de Ligue des champions et à Luka Modrić (88 % chacun).",
+   "keys": [
+    "Vladimír Coufal a pour voisins Ramin Rezaeian au Mondial 2022 et T. Meunier à l'Euro 2016 (90 % chacun), puis Kevin Mbabu (88 %).",
+    "Kasper Schmeichel rappelle Jan Oblak avec l'Atlético de Madrid en finale de Ligue des champions (96 %).",
+    "Tomáš Vaclík a pour jumeau Júlio César avec l'Inter, en finale de Ligue des champions (96 %).",
+    "Thomas Delaney est un cas à part : son plus proche voisin, Jung Woo-Young, ne lui ressemble qu'à 75 %."
+   ],
+   "impact": "Un avant-centre au profil de pivot, un milieu au profil de Banega : les jumeaux danois décrivent une équipe solide et directe. Delaney, buteur sans jumeau évident, résume bien ce match à part."
+  },
+  "en": {
+   "lead": "Kasper Dolberg has pure centre-forward twins: M. Gómez at Euro 2016 (95%), then Á. Szalai and Andrea Belotti (94% each). A target-man profile that draws defenders, fitting his status as the match's magnet. Pierre-Emile Højbjerg looks first like Éver Banega at the 2018 World Cup (94%), then Bastian Schweinsteiger with Bayern Munich in a Champions League final and Luka Modrić (88% each).",
+   "keys": [
+    "Vladimír Coufal's neighbours are Ramin Rezaeian at the 2022 World Cup and T. Meunier at Euro 2016 (90% each), then Kevin Mbabu (88%).",
+    "Kasper Schmeichel recalls Jan Oblak with Atlético Madrid in a Champions League final (96%).",
+    "Tomáš Vaclík's twin is Júlio César with Inter in a Champions League final (96%).",
+    "Thomas Delaney is a one-off: his nearest neighbour, Jung Woo-Young, is only 75% similar."
+   ],
+   "impact": "A target-man centre-forward, a Banega-style midfielder: Denmark's twins describe a solid, direct side. Delaney, a scorer with no obvious twin, sums up this unusual match."
+  }
+ }
+}

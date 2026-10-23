@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une finale décidée avant que Tottenham n'ait vraiment touché le ballon : penalty à la 2e minute, Mohamed Salah transforme (0,78 xG), et Liverpool mène pour tout le reste de la soirée. Tottenham a ensuite eu le ballon 66 % du temps, tiré 16 fois dont 8 cadrés, sans jamais marquer. Divock Origi, en 37 minutes de jeu, scelle le 2-0 à la 87e avec son unique tir (0,08 xG).",
+   "keys": [
+    "Hors penalty, Liverpool ne produit que 0,42 xG, contre 0,92 pour Tottenham : les Spurs ont créé plus dans le jeu.",
+    "Liverpool réalise 8 arrêts, Tottenham n'a pourtant eu aucune grosse occasion : beaucoup de tirs cadrés, mais rarement dangereux.",
+    "Les plus grosses occasions manquées sont toutes londoniennes : Dele Alli à la 79e (0,16 xG), Lucas Moura à la 85e (0,13 xG).",
+    "Liverpool ne réussit que 62 % de ses passes, contre 79 % pour Tottenham."
+   ],
+   "impact": "Le penalty de la 2e minute a figé le match : Liverpool a laissé le ballon, Tottenham l'a pris sans savoir quoi en faire. Hors penalty, les Spurs méritaient sans doute mieux, mais une finale se gagne aussi en marquant au bon moment."
+  },
+  "en": {
+   "lead": "A final decided before Tottenham had really touched the ball: a penalty in minute 2, Mohamed Salah converts (0.78 xG), and Liverpool lead for the rest of the night. Tottenham then had 66% of the ball and shot 16 times, 8 on target, without ever scoring. Divock Origi, in 37 minutes on the pitch, seals the 2-0 in minute 87 with his only shot (0.08 xG).",
+   "keys": [
+    "Strip out the penalty and Liverpool produce only 0.42 xG, against 0.92 for Tottenham: Spurs created more from open play.",
+    "Liverpool make 8 saves, yet Tottenham had no big chance: plenty of shots on target, rarely dangerous ones.",
+    "The biggest misses are all Tottenham's: Dele Alli in minute 79 (0.16 xG), Lucas Moura in minute 85 (0.13 xG).",
+    "Liverpool complete only 62% of their passes, against 79% for Tottenham."
+   ],
+   "impact": "The minute-2 penalty froze the game: Liverpool gave up the ball, Tottenham took it without knowing what to do with it. Excluding the penalty, Spurs probably deserved more, but finals are also won by scoring at the right time."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Il y a une curiosité dans les positions moyennes de Tottenham : Dele Alli (70 m, 27 m de la gauche), Son Heung-Min (70 m, 26 m) et Harry Kane (72 m, 29 m) occupent quasiment le même point du terrain. Trois attaquants empilés dans le demi-espace gauche, et personne à droite à part Trippier (47 m). Balle au pied, le 4-2-3-1 annoncé devient un 3-3-4 ; sans le ballon, un 3-5-2.",
+   "keys": [
+    "Tottenham passe 36 % de ses touches dans son propre tiers et seulement 20 % dans le dernier : beaucoup de ballon, mais loin du but adverse.",
+    "Liverpool, avec 34 % de possession, touche 29 % de ses ballons dans le dernier tiers : moins de ballon, mais plus près de la surface.",
+    "Côté Liverpool, le 4-3-3 devient un 3-1-4-2 avec Firmino (80 m) et Salah (85 m) très haut, et un Robertson resté bas (38 m).",
+    "Le jeu de Tottenham passe d'abord par l'axe : 31 % des touches."
+   ],
+   "impact": "En empilant ses attaquants au même endroit, Tottenham s'est privé de largeur et a facilité la tâche de la défense de Liverpool. Tout indique que c'est une des raisons pour lesquelles 66 % de possession n'ont produit aucune grosse occasion."
+  },
+  "en": {
+   "lead": "There is an oddity in Tottenham's average positions: Dele Alli (70 m, 27 m from the left), Son Heung-Min (70 m, 26 m) and Harry Kane (72 m, 29 m) occupy virtually the same point on the pitch. Three forwards stacked in the left half-space, and nobody on the right apart from Trippier (47 m). On the ball, the announced 4-2-3-1 becomes a 3-3-4; without it, a 3-5-2.",
+   "keys": [
+    "Tottenham spend 36% of their touches in their own third and only 20% in the final third: lots of ball, but far from the opposition goal.",
+    "Liverpool, with 34% possession, take 29% of their touches in the final third: less ball, but closer to the box.",
+    "For Liverpool, the 4-3-3 becomes a 3-1-4-2 with Firmino (80 m) and Salah (85 m) very high, and Robertson staying deep (38 m).",
+    "Tottenham's play goes through the middle first: 31% of touches."
+   ],
+   "impact": "By stacking their forwards in the same spot, Tottenham robbed themselves of width and made life easier for Liverpool's defence. Everything suggests this is one reason why 66% possession produced no big chance."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Liverpool a couru, beaucoup : 250 pressions, soit 5,8 par minute sans le ballon, bien au-dessus de la moyenne de ces finales (4,0). Mais un pressing d'occupation plus que de récupération : seulement 9 % de contre-pressing (moyenne : 20 %) et 5 récupérations hautes. Tottenham, lui, n'a presque pas pressé (64 pressions, 2,8 par minute).",
+   "keys": [
+    "Les deux PPDA sont énormes, 32,6 pour Tottenham et 32,9 pour Liverpool : très peu d'actions défensives par passe adverse, des deux côtés.",
+    "Tottenham récupère 64 % de ses pertes en moins de 10 secondes, Liverpool seulement 46 %.",
+    "41 % des ballons perdus par Liverpool mettent plus de 20 s à revenir : une fois le ballon perdu, Liverpool attendait.",
+    "Hauteur des actions défensives : 49,8 m pour Liverpool, 48,6 m pour Tottenham, toutes deux au-dessus de la moyenne (45,9 m)."
+   ],
+   "impact": "Liverpool a pressé pour fermer les lignes de passe plus que pour gagner le ballon, et ça a suffi : Tottenham a fait circuler derrière sans trouver d'ouverture. Avec un but d'avance dès la 2e minute, c'était sans doute le plan le plus sûr."
+  },
+  "en": {
+   "lead": "Liverpool ran, a lot: 250 pressures, or 5.8 per minute out of possession, well above the average of these finals (4.0). But it was a press to occupy rather than to win the ball: just 9% counter-pressing (average: 20%) and 5 high recoveries. Tottenham barely pressed at all (64 pressures, 2.8 per minute).",
+   "keys": [
+    "Both PPDAs are huge, 32.6 for Tottenham and 32.9 for Liverpool: very few defensive actions per opponent pass, on both sides.",
+    "Tottenham win back 64% of their losses within 10 seconds, Liverpool just 46%.",
+    "41% of the balls Liverpool lose take more than 20 s to come back: once the ball was gone, Liverpool waited.",
+    "Height of defensive actions: 49.8 m for Liverpool, 48.6 m for Tottenham, both above the average (45.9 m)."
+   ],
+   "impact": "Liverpool pressed to shut passing lanes more than to win the ball, and it was enough: Tottenham circulated at the back without finding an opening. With a lead from minute 2, it was probably the safest plan."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Une finale positionniste des deux côtés : −0,21 pour Tottenham, −0,32 pour Liverpool, avec des passes courtes et des combinaisons rapides sous la moyenne. Le réseau des Spurs dit tout : les trois liens les plus utilisés relient Alderweireld, Vertonghen et Lloris. Le ballon tournait entre les deux centraux et le gardien.",
+   "keys": [
+    "Alderweireld – Vertonghen : 46 passes, de loin le duo le plus actif du match.",
+    "Vertonghen est le carrefour de Tottenham (124 passes), devant Alderweireld (113) : deux défenseurs centraux.",
+    "Côté Liverpool, le carrefour est Andrew Robertson (53 passes), et le lien principal Mané – Robertson (17) : tout passait par le flanc gauche.",
+    "Seulement 26 % de combinaisons rapides pour Liverpool et 29 % pour Tottenham, contre 33 % en moyenne."
+   ],
+   "impact": "Tottenham a eu le ballon, mais pas aux bons endroits : son réseau tournait autour de ses défenseurs. Liverpool, avec 326 passes seulement, n'avait pas besoin de plus pour gérer son avance."
+  },
+  "en": {
+   "lead": "A positional final on both sides: −0.21 for Tottenham, −0.32 for Liverpool, with short passes and quick combinations below average. Spurs' network says it all: their three busiest links connect Alderweireld, Vertonghen and Lloris. The ball went round between the two centre-backs and the goalkeeper.",
+   "keys": [
+    "Alderweireld – Vertonghen: 46 passes, by far the busiest pair of the match.",
+    "Vertonghen is Tottenham's hub (124 passes), ahead of Alderweireld (113): two centre-backs.",
+    "For Liverpool, the hub is Andrew Robertson (53 passes), and the main link Mané – Robertson (17): everything went down the left.",
+    "Only 26% quick combinations for Liverpool and 29% for Tottenham, against 33% on average."
+   ],
+   "impact": "Tottenham had the ball, but not in the right places: their network revolved around their defenders. Liverpool, with just 326 passes, did not need more to manage their lead."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Personne n'a vraiment contre-attaqué dans cette finale. Tottenham a concédé 4 tirs dans les 15 secondes suivant une perte, mais pour seulement 0,10 xG ; Liverpool en a concédé 2, pour 0,10 xG. Les deux chiffres sont sous la moyenne de ces finales (0,26 xG), et aucun but n'est venu d'une transition.",
+   "keys": [
+    "Tottenham perd 118 ballons dans le jeu, Liverpool 94.",
+    "4 tirs concédés en transition par Tottenham, mais tous de faible qualité (0,10 xG au total).",
+    "Liverpool ne concède que 2 tirs en transition : les Spurs n'ont jamais su punir une perte adverse."
+   ],
+   "impact": "Sans transitions, le match s'est joué en attaque placée, terrain où Liverpool, avec les attaquants de Tottenham sous surveillance, n'a presque rien concédé. Tottenham n'a jamais trouvé les espaces d'un match débridé."
+  },
+  "en": {
+   "lead": "Nobody really counter-attacked in this final. Tottenham conceded 4 shots within 15 seconds of losing the ball, but worth only 0.10 xG; Liverpool conceded 2, worth 0.10 xG. Both figures are below the average of these finals (0.26 xG), and no goal came from a transition.",
+   "keys": [
+    "Tottenham lose 118 balls in open play, Liverpool 94.",
+    "4 shots conceded in transition by Tottenham, but all of low quality (0.10 xG in total).",
+    "Liverpool concede only 2 shots in transition: Spurs never managed to punish an opponent's loss."
+   ],
+   "impact": "Without transitions, the match was played in settled attacks, where Liverpool, with Tottenham's forwards under close watch, gave away almost nothing. Tottenham never found the space of an open game."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit l'attention reçue, et Liverpool a fait un choix clair : serrer tous les attaquants de Tottenham. Lucas Moura attire 4,22 actions défensives de plus que la normale pour 10 touches, Son Heung-Min 2,65, Dele Alli 2,29, Harry Kane 2,03. Même Moussa Sissoko, milieu, est sous surveillance (2,13).",
+   "keys": [
+    "Cinq joueurs de Tottenham dans les six plus surveillés du match : Liverpool défendait en meute.",
+    "Côté Liverpool, seul Sadio Mané (2,28) attire vraiment la défense de Tottenham ; sur l'ensemble des finales, il est le 2e plus gros aimant (3,97).",
+    "Les latéraux de Liverpool jouaient tranquilles : Robertson à −2,01, Alexander-Arnold à −1,84.",
+    "Lucas Moura, le plus surveillé, est aussi l'auteur d'une des plus grosses occasions manquées, à la 85e minute."
+   ],
+   "impact": "Chaque attaquant de Tottenham avait un défenseur sur le dos, et aucun n'a eu de grosse occasion. Pendant ce temps, Robertson, laissé libre, devenait le carrefour du jeu de Liverpool."
+  },
+  "en": {
+   "lead": "Without 360, we read attention received, and Liverpool made a clear choice: squeeze every Tottenham attacker. Lucas Moura draws 4.22 extra defensive actions per 10 touches, Son Heung-Min 2.65, Dele Alli 2.29, Harry Kane 2.03. Even Moussa Sissoko, a midfielder, is under watch (2.13).",
+   "keys": [
+    "Five Tottenham players among the six most watched of the match: Liverpool defended as a pack.",
+    "For Liverpool, only Sadio Mané (2.28) really draws Tottenham's defence; across all finals, he is the 2nd biggest magnet (3.97).",
+    "Liverpool's full-backs had a quiet time: Robertson at −2.01, Alexander-Arnold at −1.84.",
+    "Lucas Moura, the most watched, also had one of the biggest misses, in minute 85."
+   ],
+   "impact": "Every Tottenham attacker had a defender on his back, and none got a big chance. Meanwhile Robertson, left alone, became the hub of Liverpool's play."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Tottenham a passé une première mi-temps quasi stérile, 0,19 xT, avant de se réveiller : 1,20 xT après la pause. Au total, les Spurs ont créé presque deux fois plus de menace que Liverpool (1,38 contre 0,75). Leur meilleur créateur est un latéral : Danny Rose, 0,35 xT, soit 25 % de la menace de son équipe.",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Christian Eriksen, de 63 à 92 m, à la 54e minute (+0,15 xT).",
+    "Son Heung-Min crée 0,24 xT en conduites de balle : c'est lui qui portait le ballon vers l'avant.",
+    "Sadio Mané produit 29 % de la menace de Liverpool (0,22 xT).",
+    "Liverpool ne produit que 0,30 xT en première mi-temps et 0,44 en seconde : peu de menace, mais elle a suffi."
+   ],
+   "impact": "La deuxième mi-temps de Tottenham a été la meilleure période de tout le match en menace, mais sans grosse occasion au bout. Liverpool, qui menait depuis la 2e minute, n'avait pas besoin de créer : seulement de tenir."
+  },
+  "en": {
+   "lead": "Tottenham spent an almost sterile first half, 0.19 xT, before waking up: 1.20 xT after the break. In total, Spurs created almost twice as much threat as Liverpool (1.38 to 0.75). Their best creator was a full-back: Danny Rose, 0.35 xT, or 25% of his team's threat.",
+   "keys": [
+    "The most threatening action of the match is a Christian Eriksen pass from 63 to 92 m in minute 54 (+0.15 xT).",
+    "Son Heung-Min creates 0.24 xT from carries: he was the one driving the ball forward.",
+    "Sadio Mané produces 29% of Liverpool's threat (0.22 xT).",
+    "Liverpool produce only 0.30 xT in the first half and 0.44 in the second: little threat, but enough."
+   ],
+   "impact": "Tottenham's second half was the most threatening period of the whole match, but with no big chance at the end of it. Liverpool, ahead since minute 2, did not need to create: only to hold on."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le gardien de Liverpool, Alisson, est le meilleur des 16 gardiens classés de toutes les finales, avec une note de 84, la plus haute de ce match. Avec 8 arrêts pour Liverpool ce soir-là, difficile de contredire le classement. Côté Tottenham, la défense brille aussi : Danny Rose 2e des 32 latéraux, Jan Vertonghen 2e des 24 défenseurs centraux.",
+   "keys": [
+    "Danny Rose obtient une note de 80, le 2e latéral de toutes ces finales derrière Marcelo, en seulement 95 minutes.",
+    "Kieran Trippier est 5e des latéraux : Tottenham avait deux latéraux du top 5.",
+    "Les attaquants de Liverpool sont plus loin : Salah 11e, Mané 12e sur 34.",
+    "Joël Matip, 11e des défenseurs centraux, signe la passe décisive pour Origi."
+   ],
+   "impact": "Les meilleurs joueurs de cette finale, selon nos classements, sont des défenseurs et un gardien. Ça résume bien la soirée : une finale gagnée par la défense de Liverpool, et perdue par une attaque de Tottenham qui n'a jamais percé."
+  },
+  "en": {
+   "lead": "Liverpool's goalkeeper, Alisson, is the best of 16 ranked goalkeepers across all the finals, with a score of 84, the highest in this match. With Liverpool making 8 saves on this night, hard to argue with the ranking. For Tottenham, the defence shines too: Danny Rose 2nd of 32 full-backs, Jan Vertonghen 2nd of 24 centre-backs.",
+   "keys": [
+    "Danny Rose earns a score of 80, the 2nd best full-back of all these finals behind Marcelo, in only 95 minutes.",
+    "Kieran Trippier is 5th among full-backs: Tottenham had two full-backs in the top 5.",
+    "Liverpool's forwards are further down: Salah 11th, Mané 12th of 34.",
+    "Joël Matip, 11th among centre-backs, provides the assist for Origi."
+   ],
+   "impact": "The best players of this final, by our rankings, are defenders and a goalkeeper. That sums up the night: a final won by Liverpool's defence, and lost by a Tottenham attack that never broke through."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Jan Vertonghen est Pepe à l'Euro 2024, similaire à 96 %, devant Rúben Dias à l'Euro 2020 (92 %). Danny Rose ressemble d'abord à Youssouf Sabaly au Mondial 2022 (91 %), puis à Theo Hernández (84 %) et à Marcelo en finale de Ligue des champions (83 %). Et Alisson a pour sosie Vladimir Stojković au Mondial 2018 (94 %).",
+   "keys": [
+    "Mohamed Salah ressemble à Marcel Sabitzer à l'Euro 2024 (91 %) et à Takuma Asano au Mondial 2022 (90 %).",
+    "Sadio Mané a pour plus proche voisin Donyell Malen à l'Euro 2024 (86 %).",
+    "Joël Matip est un profil rare : son jumeau le plus proche, K. Árnason à l'Euro 2016, n'est qu'à 77 %.",
+    "Andrew Robertson ressemble à Przemysław Frankowski à l'Euro 2024 (91 %)."
+   ],
+   "impact": "Les jumeaux de Rose, Theo Hernández et Marcelo, disent bien le rôle qu'il a tenu : un latéral créateur, le premier de son équipe en menace. Tottenham avait les profils pour attaquer ; il lui a manqué la dernière passe."
+  },
+  "en": {
+   "lead": "Jan Vertonghen's twin is Pepe at Euro 2024, 96% similar, ahead of Rúben Dias at Euro 2020 (92%). Danny Rose looks first like Youssouf Sabaly at the 2022 World Cup (91%), then Theo Hernández (84%) and Marcelo in a Champions League final (83%). And Alisson's lookalike is Vladimir Stojković at the 2018 World Cup (94%).",
+   "keys": [
+    "Mohamed Salah resembles Marcel Sabitzer at Euro 2024 (91%) and Takuma Asano at the 2022 World Cup (90%).",
+    "Sadio Mané's closest neighbour is Donyell Malen at Euro 2024 (86%).",
+    "Joël Matip is a rare profile: his nearest twin, K. Árnason at Euro 2016, is only at 77%.",
+    "Andrew Robertson resembles Przemysław Frankowski at Euro 2024 (91%)."
+   ],
+   "impact": "Rose's twins, Theo Hernández and Marcelo, say a lot about the role he played: a creative full-back, his team's top source of threat. Tottenham had the profiles to attack; they lacked the final pass."
+  }
+ }
+}

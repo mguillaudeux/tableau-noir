@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Six buts, et un nom en lettres capitales : Gonçalo Ramos. Triplé à la 17e, à la 51e et à la 67e, une passe décisive en plus, 6 tirs et 1,57 xG en 73 minutes. Le Portugal a pourtant eu moins le ballon (48 %) que la Suisse. Mais il cadre 9 tirs sur 15 et se crée 4 grosses occasions, contre une seule pour les Suisses. Un huitième de finale transformé en récital.",
+   "keys": [
+    "Le Portugal termine à 2,28 xG pour 6 buts : une efficacité hors du commun, avec un dernier but de Rafael Leão sur une frappe à 0,01 xG à la 92e.",
+    "João Félix ne marque pas mais délivre 2 passes décisives.",
+    "Raphaël Guerreiro marque à la 55e et donne une passe décisive : le latéral gauche a tout fait.",
+    "La Suisse sauve l'honneur par Manuel Akanji à la 58e, sur sa plus grosse occasion du match (0,67 xG)."
+   ],
+   "impact": "L'écart d'xG (1,01) justifie la victoire portugaise, pas l'ampleur du score : avec 1,27 xG, la Suisse méritait mieux qu'un seul but. Mais le Portugal a converti presque tout ce qui passait, et un match équilibré sur le papier s'est terminé en déroute."
+  },
+  "en": {
+   "lead": "Six goals, and one name in capital letters: Gonçalo Ramos. A hat-trick in minutes 17, 51 and 67, plus an assist, 6 shots and 1.57 xG in 73 minutes. Yet Portugal had less of the ball (48%) than Switzerland. But they put 9 of 15 shots on target and created 4 big chances, against just one for the Swiss. A Round of 16 tie turned into a recital.",
+   "keys": [
+    "Portugal finished on 2.28 xG for 6 goals: extraordinary efficiency, capped by a Rafael Leão goal from a 0.01 xG shot in minute 92.",
+    "João Félix did not score but delivered 2 assists.",
+    "Raphaël Guerreiro scored in minute 55 and added an assist: the left-back did it all.",
+    "Switzerland saved face through Manuel Akanji in minute 58, from their biggest chance of the match (0.67 xG)."
+   ],
+   "impact": "The xG gap (1.01) justifies Portugal's win, not its size: with 1.27 xG, Switzerland deserved more than one goal. But Portugal converted almost everything that came their way, and a game that looked balanced on paper ended in a rout."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le 4-3-3 portugais devient, avec le ballon, un étonnant 3-6-1 : William Carvalho recule pour former la première ligne avec Rúben Dias et Pepe, les deux latéraux Guerreiro et Dalot montent à hauteur des milieux (55 m), et Gonçalo Ramos se retrouve seul devant, à 82 m de son but. En face, la Suisse annonce un 3-5-2 et attaque en 3-3-3-1, avec une largeur impressionnante : 36,5 m avec le ballon, contre 31,7 m en moyenne dans le tournoi.",
+   "keys": [
+    "Avec le ballon, la dernière ligne portugaise reste basse, à 34,4 m de son but (moyenne du tournoi : 40,3 m) : le Portugal construisait de loin.",
+    "Sans ballon, en revanche, le Portugal remonte sa ligne à 31,5 m, au-dessus de la moyenne (28,4 m).",
+    "Ruben Vargas se colle à la ligne gauche suisse (4 m de la touche) : le couloir gauche concentre 25 % des touches suisses.",
+    "Le Portugal ne passe que 19 % de ses touches dans le dernier tiers : peu de présence, beaucoup d'efficacité."
+   ],
+   "impact": "Le Portugal a accepté de construire bas et de laisser la Suisse s'étaler, puis il a frappé vite vers Ramos, seul en pointe. Tout indique que cette structure, avec six joueurs au milieu, a permis de contrôler l'axe et de lancer l'avant-centre dès que l'occasion se présentait."
+  },
+  "en": {
+   "lead": "Portugal's 4-3-3 became, in possession, a surprising 3-6-1: William Carvalho dropped to form the first line with Rúben Dias and Pepe, full-backs Guerreiro and Dalot pushed up level with the midfield (55 m), and Gonçalo Ramos was left alone up front, 82 m from his own goal. Opposite, Switzerland announced a 3-5-2 and attacked in a 3-3-3-1, with impressive width: 36.5 m in possession, against 31.7 m on average in the tournament.",
+   "keys": [
+    "In possession, Portugal's back line stayed deep, 34.4 m from goal (tournament average: 40.3 m): Portugal built from far back.",
+    "Without the ball, on the other hand, Portugal pushed their line up to 31.5 m, above average (28.4 m).",
+    "Ruben Vargas hugged Switzerland's left touchline (4 m from it): the left lane took 25% of Swiss touches.",
+    "Portugal had only 19% of their touches in the final third: little presence, plenty of efficiency."
+   ],
+   "impact": "Portugal were happy to build deep and let Switzerland spread out, then struck quickly towards Ramos, alone up top. Everything suggests that this structure, with six players in midfield, let them control the centre and release the striker whenever the chance arose."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Portugal a pressé fort, mais pas haut. 4,8 pressions par minute sans ballon, bien au-dessus de la moyenne du tournoi (3,7), et 172 pressions au total : une débauche d'énergie. Pourtant, seulement 3 récupérations hautes, et 12 % de contre-pressing. La Suisse a fait l'inverse : moins de pressions (3,3 par minute), mais des actions défensives très hautes, à 56,1 m de son but.",
+   "keys": [
+    "Contre-pressing : 29 % des pressions suisses, 12 % des portugaises (moyenne du tournoi : 21 %).",
+    "La Suisse compte 7 récupérations hautes, plus du double du Portugal (3).",
+    "Les PPDA sont presque identiques : 21,2 pour le Portugal, 20,1 pour la Suisse.",
+    "Quand le Portugal perdait le ballon, il ne le revoyait pas avant 20 secondes dans 41 % des cas : il ne cherchait pas à le récupérer tout de suite."
+   ],
+   "impact": "Le pressing suisse a été plus ambitieux, mais il a laissé de l'espace dans son dos. Le Portugal, lui, pressait au milieu sans se découvrir : un pressing moins spectaculaire, mais qui gardait l'équipe compacte."
+  },
+  "en": {
+   "lead": "Portugal pressed hard, but not high. 4.8 pressures per minute out of possession, well above the tournament average (3.7), and 172 pressures in total: a huge outlay of energy. Yet only 3 high regains and 12% counter-pressing. Switzerland did the opposite: fewer pressures (3.3 per minute), but very high defensive actions, 56.1 m from their own goal.",
+   "keys": [
+    "Counter-pressing: 29% of Swiss pressures, 12% of Portuguese ones (tournament average: 21%).",
+    "Switzerland had 7 high regains, more than double Portugal's 3.",
+    "The PPDAs are almost identical: 21.2 for Portugal, 20.1 for Switzerland.",
+    "When Portugal lost the ball, they did not see it again for over 20 seconds 41% of the time: they were not trying to win it back straight away."
+   ],
+   "impact": "Switzerland's press was more ambitious, but it left space behind. Portugal pressed in midfield without exposing themselves: a less spectacular press, but one that kept the team compact."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Indice relationniste de +1,00 : sur ce match, le Portugal a joué l'un des footballs les plus relationnistes qu'on puisse mesurer dans ce tournoi, dans la zone de l'Arabie saoudite, l'équipe la plus relationniste de la compétition. Petits triangles, 58 % de passes courtes, 38 % de combinaisons rapides, une liberté latérale de 14,4 m. La Suisse, à −0,35, était l'exact opposé : 49 % de passes courtes et un jeu de postes.",
+   "keys": [
+    "Le carrefour portugais est William Carvalho (94 passes), devant Bernardo Silva (75) et Pepe (73).",
+    "Le lien Bernardo Silva – Guerreiro (15 passes) dessine le côté gauche, là où le Portugal combinait.",
+    "Côté suisse, le duo le plus actif est Shaqiri – Edimilson Fernandes (25 passes), à droite.",
+    "Sur l'ensemble du tournoi, le Portugal est 4e au classement relationniste sur 32 équipes, la Suisse 28e."
+   ],
+   "impact": "Le jeu court portugais a désorganisé un bloc suisse plus rigide, et on peut y voir l'origine de bien des situations de but. La Suisse, avec ses postes fixes, a tourné autour de Xhaka (92 passes) sans jamais trouver l'accélération."
+  },
+  "en": {
+   "lead": "A relational index of +1.00: in this match Portugal played some of the most relational football measured at the tournament, in the territory of Saudi Arabia, the most relational team of the competition. Little triangles, 58% short passes, 38% quick combinations, lateral freedom of 14.4 m. Switzerland, at −0.35, were the exact opposite: 49% short passes and a positional game.",
+   "keys": [
+    "Portugal's hub was William Carvalho (94 passes), ahead of Bernardo Silva (75) and Pepe (73).",
+    "The Bernardo Silva – Guerreiro link (15 passes) traces the left side, where Portugal combined.",
+    "For Switzerland, the busiest pair was Shaqiri – Edimilson Fernandes (25 passes), on the right.",
+    "Over the whole tournament, Portugal rank 4th of 32 teams on the relational scale, Switzerland 28th."
+   ],
+   "impact": "Portugal's short game unsettled a stiffer Swiss block, and that is probably where many of the scoring chances came from. Switzerland, with their fixed positions, revolved around Xhaka (92 passes) without ever finding a change of pace."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Pas une seule transition dangereuse pour le Portugal : 1 tir concédé dans les 15 secondes après une perte, pour 0,06 xG. Le repli portugais a été exemplaire : 5,7 joueurs derrière le ballon au moment de la perte, 6,7 quelques secondes plus tard, et un bloc de 7 ou plus reformé dans 56 % des cas, presque le double de la moyenne du tournoi (29 %). La Suisse n'a jamais pu contrer.",
+   "keys": [
+    "La Suisse se replie bien elle aussi : 6,1 joueurs derrière le ballon à la perte, et seulement 2 tirs concédés en transition (0,12 xG).",
+    "Exemple 360 portugais à la 90e minute : 4 joueurs derrière le ballon à la perte, 8 quelques secondes plus tard.",
+    "Exemple suisse à la 69e : 5 joueurs derrière le ballon à la perte, 9 ensuite.",
+    "Aucun des 7 buts du match n'est venu d'une transition."
+   ],
+   "impact": "Les deux équipes se sont protégées en transition, ce qui rend le 6-1 encore plus parlant : les buts portugais ne sont pas venus d'erreurs suisses à la perte du ballon. Le Portugal a gagné le match dans le jeu, pas dans le désordre."
+  },
+  "en": {
+   "lead": "Not a single dangerous transition against Portugal: 1 shot conceded within 15 seconds of a loss, worth 0.06 xG. Portugal's recovery was exemplary: 5.7 players behind the ball at the moment of the loss, 6.7 a few seconds later, and a block of 7 or more rebuilt in 56% of cases, almost double the tournament average (29%). Switzerland could never counter.",
+   "keys": [
+    "Switzerland recovered well too: 6.1 players behind the ball at the loss, and only 2 shots conceded in transition (0.12 xG).",
+    "A Portuguese 360 example in minute 90: 4 players behind the ball at the loss, 8 a few seconds later.",
+    "A Swiss example in minute 69: 5 players behind the ball at the loss, 9 afterwards.",
+    "None of the 7 goals in the match came from a transition."
+   ],
+   "impact": "Both teams protected themselves in transition, which makes the 6-1 even more telling: Portugal's goals did not come from Swiss mistakes on losing the ball. Portugal won this game through play, not chaos."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Les deux plus gros aimants du match sont suisses : Djibril Sow (1,04 adversaire de plus que la normale par touche) et Breel Embolo (0,98). Les Portugais, eux, entouraient étroitement le milieu suisse. Côté portugais, ce sont des noms moins attendus qui attiraient le plus : Ricardo Horta (0,78), Vitinha (0,69) et João Félix (0,67).",
+   "keys": [
+    "Remo Freuler (0,62) complète le trio suisse : le milieu de la Suisse était constamment entouré.",
+    "Félix, 0,67 : il attirait du monde et a donné 2 passes décisives, signe qu'il savait quoi faire de cette attention.",
+    "Pepe (−0,55), Akanji (−0,53) et Eray Cömert (−0,42) étaient les plus libres du match : deux défenses peu pressées.",
+    "Aucun joueur ne dépasse 1,04 : une gravité modérée, loin des plus gros aimants du tournoi."
+   ],
+   "impact": "La Suisse avait ses aimants au milieu, mais l'attention qu'ils attiraient n'a pas débouché sur des occasions. Le Portugal, plus collectif, n'avait pas besoin d'aimant : ses buts sont venus du mouvement et des combinaisons."
+  },
+  "en": {
+   "lead": "The two biggest magnets of the match were Swiss: Djibril Sow (1.04 extra opponents per touch) and Breel Embolo (0.98). The Portuguese kept a tight ring around Switzerland's midfield. For Portugal, the players drawing the most attention were less prominent names: Ricardo Horta (0.78), Vitinha (0.69) and João Félix (0.67).",
+   "keys": [
+    "Remo Freuler (0.62) completes the Swiss trio: Switzerland's midfield was constantly surrounded.",
+    "Félix, 0.67: he drew a crowd and delivered 2 assists, a sign he knew what to do with the attention.",
+    "Pepe (−0.55), Akanji (−0.53) and Eray Cömert (−0.42) were the freest players of the match: two lightly pressed defences.",
+    "No player topped 1.04: moderate gravity, far from the biggest magnets of the tournament."
+   ],
+   "impact": "Switzerland had their magnets in midfield, but the attention they drew did not lead to chances. Portugal, more collective, did not need a magnet: their goals came from movement and combinations."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Gonçalo Ramos n'a pas seulement fini les actions, il les a portées : 0,36 xT, entièrement en conduites de balle (0,38 en conduites, −0,02 à la passe), soit 26 % de la menace portugaise. Son geste le plus menaçant tombe à la 67e minute, une course de 91 à 98 m (+0,33 xT) : la minute de son troisième but. La Suisse, elle, n'a produit que 0,70 xT, moitié moins que le Portugal (1,37).",
+   "keys": [
+    "Le geste suisse le plus menaçant ne vaut que +0,05 xT (Shaqiri, 80e) : la Suisse n'a jamais vraiment approché la surface avec danger.",
+    "La passe de Bruno Fernandes à la 43e (+0,15 xT, de 68 à 94 m) tombe dans la minute de la grosse occasion de Ramos (0,32 xG).",
+    "La conduite de Bernardo Silva à la 17e (+0,08 xT, de 83 à 97 m) tombe dans la minute du premier but de Ramos.",
+    "Le Portugal produit exactement autant de menace dans chaque mi-temps : 0,69 puis 0,68 xT."
+   ],
+   "impact": "Le Portugal a créé une menace régulière, sans temps faible, quand la Suisse n'a jamais trouvé le chemin. Le plus gros créateur suisse est d'ailleurs un défenseur central, Akanji (0,14 xT, 20 % de la menace) : tout est dit sur la difficulté suisse à progresser."
+  },
+  "en": {
+   "lead": "Gonçalo Ramos did not just finish moves, he carried them: 0.36 xT, entirely through carries (0.38 from carries, −0.02 from passes), 26% of Portugal's threat. His most threatening action came in minute 67, a run from 91 to 98 m (+0.33 xT): the minute of his third goal. Switzerland produced only 0.70 xT, half of Portugal's 1.37.",
+   "keys": [
+    "Switzerland's most threatening action was worth just +0.05 xT (Shaqiri, minute 80): the Swiss never really approached the box with danger.",
+    "Bruno Fernandes's pass in minute 43 (+0.15 xT, from 68 to 94 m) came in the minute of Ramos's big chance (0.32 xG).",
+    "Bernardo Silva's carry in minute 17 (+0.08 xT, from 83 to 97 m) came in the minute of Ramos's first goal.",
+    "Portugal produced exactly the same threat in each half: 0.69 then 0.68 xT."
+   ],
+   "impact": "Portugal created steady threat with no lull, while Switzerland never found a way. Switzerland's top creator was in fact a centre-back, Akanji (0.14 xT, 20% of the threat): that says it all about their struggle to progress."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le Portugalais le mieux classé du tournoi est un latéral : Diogo Dalot, 6e des 98 latéraux, avec une note de 71. Côté suisse, Manuel Akanji est 9e des 42 défenseurs centraux et Granit Xhaka 18e des 97 milieux. Gonçalo Ramos, lui, ne figure pas parmi les joueurs du match classés ici (seuil de 180 minutes) : le héros du soir reste hors classement.",
+   "keys": [
+    "Bruno Fernandes, classé attaquant, totalise 2 buts et 3 passes décisives dans la compétition (26e sur 77).",
+    "João Félix est 21e des attaquants, avec 1 but et 2 passes décisives.",
+    "Cristiano Ronaldo est 35e des 77 attaquants, avec 1 but en 303 minutes.",
+    "Yann Sommer est 13e des 32 gardiens (note de 59)."
+   ],
+   "impact": "Les classements ne prévoyaient pas une telle déroute : aucun des deux camps n'avait de joueur dans le top 5 de son poste. C'est le collectif portugais, et un avant-centre absent de ces classements, qui ont fait la différence."
+  },
+  "en": {
+   "lead": "Portugal's highest-ranked player of the tournament is a full-back: Diogo Dalot, 6th of 98 full-backs, with a score of 71. For Switzerland, Manuel Akanji is 9th of 42 centre-backs and Granit Xhaka 18th of 97 midfielders. Gonçalo Ramos is not among this match's ranked players (180-minute threshold): the hero of the night stays off the table.",
+   "keys": [
+    "Bruno Fernandes, listed as a forward, totals 2 goals and 3 assists in the competition (26th of 77).",
+    "João Félix is 21st among forwards, with 1 goal and 2 assists.",
+    "Cristiano Ronaldo is 35th of 77 forwards, with 1 goal in 303 minutes.",
+    "Yann Sommer is 13th of 32 goalkeepers (score of 59)."
+   ],
+   "impact": "The rankings did not predict a rout like this: neither side had a player in the top 5 of their position. It was Portugal's collective play, and a centre-forward absent from these rankings, that made the difference."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de João Félix ? Cristiano Ronaldo, version Mondial 2018, à 96 %, et encore à 89 % pour sa version Euro 2024. Un clin d'œil savoureux dans une équipe portugaise où les deux hommes se côtoyaient. Bruno Fernandes, lui, ressemble à Kevin De Bruyne, version 2018 (90 %) puis version 2022 (85 %). Et Rúben Neves a pour sosie à 97 % Granit Xhaka en 2018 : l'adversaire du jour, quatre ans plus tôt.",
+   "keys": [
+    "Granit Xhaka a pour jumeau Mile Jedinak (Mondial 2018, 94 %), devant Pierre-Emile Højbjerg et E. Dier (86 % chacun).",
+    "Manuel Akanji ressemble à 87 % à Piqué (Euro 2016) et à Leonardo Bonucci (Euro 2020).",
+    "Rúben Dias a pour jumeau Jan Vertonghen à l'Euro 2024 (96 %).",
+    "Yann Sommer ressemble à 98 % à R. Almer, à l'Euro 2016."
+   ],
+   "impact": "Les jumeaux racontent un Portugal plein de créateurs au profil de grands meneurs (Ronaldo, De Bruyne), face à une Suisse construite autour de milieux plus défensifs. Ils comparent des profils par 90 minutes, réduits dans leur compétition : un style, pas une garantie de résultat."
+  },
+  "en": {
+   "lead": "João Félix's statistical twin? Cristiano Ronaldo, 2018 World Cup version, at 96%, and still 89% for his Euro 2024 version. A delicious wink in a Portugal side where the two men played together. Bruno Fernandes resembles Kevin De Bruyne, 2018 version (90%) then 2022 version (85%). And Rúben Neves's 97% lookalike is Granit Xhaka in 2018: his opponent on the day, four years earlier.",
+   "keys": [
+    "Granit Xhaka's twin is Mile Jedinak (2018 World Cup, 94%), ahead of Pierre-Emile Højbjerg and E. Dier (86% each).",
+    "Manuel Akanji is 87% similar to Piqué (Euro 2016) and Leonardo Bonucci (Euro 2020).",
+    "Rúben Dias's twin is Jan Vertonghen at Euro 2024 (96%).",
+    "Yann Sommer is 98% similar to R. Almer, at Euro 2016."
+   ],
+   "impact": "The twins describe a Portugal full of creators with star playmaker profiles (Ronaldo, De Bruyne), against a Switzerland built around more defensive midfielders. They compare per-90 profiles standardised within their competition: a style, not a guarantee of results."
+  }
+ }
+}

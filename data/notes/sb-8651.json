@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un quart de finale de Coupe du monde gagné 2-0 avec seulement 2 tirs cadrés : l'Angleterre a été d'une économie redoutable. Sur le papier, la Suède a même produit un peu plus (0,83 xG contre 0,76), mais elle n'a jamais trouvé la faille. Les deux buts anglais viennent de joueurs qu'on n'attendait pas forcément au premier plan : Harry Maguire à la 30e minute, sur une occasion à 0,06 xG, puis Dele Alli à la 59e. Pour une équipe sortie des tirs au but contre la Colombie, c'est une soirée remarquablement calme.",
+   "keys": [
+    "Maguire marque sur un ballon estimé à 0,06 xG : le genre d'occasion qui finit neuf fois sur dix dans les tribunes.",
+    "La Suède cadre 3 tirs sur 8, et Jordan Pickford réalise 3 arrêts : chaque tentative suédoise cadrée a trouvé un gardien.",
+    "Le dégagement comme mode de survie : 35 dégagements suédois, contre 7 côté anglais.",
+    "La plus grosse occasion manquée est suédoise : Viktor Claesson à la 62e minute, 0,24 xG, à côté. Une minute de folie où il retente aussitôt (0,14 xG, cadré)."
+   ],
+   "impact": "Un écart d'xG de 0,07 en faveur du perdant : ce match aurait pu basculer d'un côté comme de l'autre sur le volume. Ce sont la finition anglaise et les gants de Pickford qui ont fait la différence, pas une domination territoriale."
+  },
+  "en": {
+   "lead": "A World Cup quarter-final won 2-0 with just 2 shots on target: England were ruthlessly economical. On paper Sweden even produced slightly more (0.83 xG to 0.76), but they never found a way through. England's goals came from unexpected sources: Harry Maguire in minute 30, from a chance worth 0.06 xG, then Dele Alli in minute 59. For a team fresh from a penalty shoot-out against Colombia, it was a remarkably calm evening.",
+   "keys": [
+    "Maguire scores from a 0.06 xG chance: the kind of ball that usually ends up in the stands.",
+    "Sweden put 3 of their 8 shots on target, and Jordan Pickford makes 3 saves: every Swedish effort on target met a goalkeeper.",
+    "Clearing as a survival mode: 35 clearances for Sweden, 7 for England.",
+    "The biggest miss is Swedish: Viktor Claesson in minute 62, 0.24 xG, wide. A frantic minute in which he tries again straight away (0.14 xG, on target)."
+   ],
+   "impact": "An xG gap of 0.07 in favour of the losing side: on volume alone this game could have gone either way. England's finishing and Pickford's gloves made the difference, not territorial dominance."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Angleterre annonçait un 3-5-2, mais ses positions moyennes racontent un 3-2-4-1 avec le ballon. La raison tient en deux noms : Ashley Young à 3 m de la ligne de touche gauche, Kieran Trippier à 66 m sur la droite, posté à 70 m de son but. Les pistons anglais jouaient quasiment ailiers. En face, le 4-4-2 suédois se lisait en 3-3-4 avec le ballon, avec Augustinsson collé à gauche (4 m de la ligne) et un quatuor offensif aligné entre 57 et 63 m.",
+   "keys": [
+    "Raheem Sterling est le joueur le plus avancé du match, à 82 m de son but en moyenne : il vivait dans le dos de la défense suédoise.",
+    "L'Angleterre passe 33 % de ses touches dans le dernier tiers, la Suède seulement 19 %.",
+    "Sans le ballon, la Suède se range en 3-2-3-2 et l'Angleterre en 3-1-3-3 selon les positions moyennes.",
+    "Les deux équipes se servent de toute la largeur : 24 % des touches dans le couloir droit de chaque côté, sans couloir vraiment privilégié."
+   ],
+   "impact": "Avec des pistons aussi hauts, l'Angleterre installait le jeu chez l'adversaire et obligeait la Suède à défendre bas. Ce n'est sans doute pas un hasard si les Suédois ont passé la soirée à dégager plutôt qu'à construire."
+  },
+  "en": {
+   "lead": "England announced a 3-5-2, but their average positions tell a story of a 3-2-4-1 in possession. Two names explain it: Ashley Young 3 m from the left touchline, Kieran Trippier at 66 m on the right, stationed 70 m from his own goal. England's wing-backs were practically wingers. Opposite, Sweden's 4-4-2 read as a 3-3-4 in possession, with Augustinsson hugging the left (4 m from the line) and an attacking quartet lined up between 57 and 63 m.",
+   "keys": [
+    "Raheem Sterling is the most advanced player on the pitch, 82 m from his own goal on average: he lived behind Sweden's back line.",
+    "England play 33% of their touches in the final third, Sweden only 19%.",
+    "Out of possession, the average positions show Sweden in a 3-2-3-2 and England in a 3-1-3-3.",
+    "Both teams used the full width: 24% of touches in the right lane on each side, with no clearly favoured channel."
+   ],
+   "impact": "With wing-backs that high, England set up camp in the opposition half and forced Sweden to defend deep. It is probably no coincidence that the Swedes spent the night clearing rather than building."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Paradoxe de ce quart : c'est la Suède qui a couru après le ballon, et l'Angleterre qui a défendu plus haut. Les Suédois appliquent 6,8 pressions par minute sans ballon, bien au-dessus de la moyenne du tournoi (5,6), quand les Anglais se contentent de 3,6. Mais la ligne défensive anglaise intervient à 55,5 m de son but, contre 45,1 m pour la Suède : une équipe qui harcèle, une autre qui coupe les lignes sans s'essouffler.",
+   "keys": [
+    "PPDA de 19,2 pour la Suède, 23,7 pour l'Angleterre : deux équipes qui laissaient plutôt jouer, les Anglais encore davantage.",
+    "Le contre-pressing est anglais : 26 % des pressions anglaises tombent juste après une perte, contre 13 % côté suédois (moyenne du tournoi : 19 %).",
+    "Résultat, l'Angleterre récupère 55 % de ses ballons perdus en moins de 10 secondes, la Suède 50 %.",
+    "La Suède compte 8 récupérations hautes, l'Angleterre seulement 3 : l'effort suédois a payé en volume, pas en occasions."
+   ],
+   "impact": "La Suède a dépensé énormément d'énergie pour récupérer des ballons qu'elle n'a pas su transformer en danger. L'Angleterre, elle, a géré son effort et réagi vite à la perte : un pressing d'équipe qui mène au score."
+  },
+  "en": {
+   "lead": "The paradox of this quarter-final: Sweden did the chasing, England defended higher. The Swedes apply 6.8 pressures per minute out of possession, well above the tournament average (5.6), while England settle for 3.6. Yet England's defensive actions happen 55.5 m from their goal, against 45.1 m for Sweden: one side harassing, the other cutting lanes without breaking sweat.",
+   "keys": [
+    "A PPDA of 19.2 for Sweden, 23.7 for England: both teams were happy to let the other play, England even more so.",
+    "The counter-press is English: 26% of England's pressures come right after a loss, against 13% for Sweden (tournament average: 19%).",
+    "As a result, England win back 55% of lost balls within 10 seconds, Sweden 50%.",
+    "Sweden record 8 high regains, England only 3: Sweden's effort paid off in volume, not in chances."
+   ],
+   "impact": "Sweden burned a lot of energy winning back balls they could not turn into danger. England managed their effort and reacted quickly to losses: the press of a team protecting a lead."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ni l'une ni l'autre n'est une équipe de petits triangles, mais l'écart est net. L'Angleterre est presque neutre (−0,02), 8e équipe la plus relationniste sur 32 ; la Suède est franchement positionniste (−0,55). Et le réseau anglais a une forme très particulière : ses trois carrefours sont Kyle Walker, Kieran Trippier et John Stones. Tout passait par le flanc droit, de la défense jusqu'au piston.",
+   "keys": [
+    "Walker est impliqué dans 107 passes entre titulaires, Trippier dans 95, Stones dans 92.",
+    "Le lien le plus utilisé du match : Walker – Stones, 35 passes, puis Walker – Trippier, 33. Une autoroute à droite.",
+    "La Suède ne joue que 44 % de passes courtes, loin de la moyenne du tournoi (53 %) ; l'Angleterre 51 %.",
+    "Côté suédois, les carrefours sont Lindelöf (67 passes), Krafth (66) et Augustinsson (64) : la construction restait l'affaire des défenseurs."
+   ],
+   "impact": "La Suède jouait vite vers l'avant et perdait des ballons, l'Angleterre faisait circuler à droite pour installer Trippier et Lingard (26 passes entre eux). Une possession patiente qui a usé un adversaire qui pressait beaucoup."
+  },
+  "en": {
+   "lead": "Neither side is a little-triangles team, but the gap is clear. England are almost neutral (−0.02), the 8th most relational of 32 teams; Sweden are firmly positional (−0.55). And England's network has a very particular shape: their three hubs are Kyle Walker, Kieran Trippier and John Stones. Everything went down the right, from centre-back to wing-back.",
+   "keys": [
+    "Walker is involved in 107 passes between starters, Trippier in 95, Stones in 92.",
+    "The busiest link of the match: Walker – Stones, 35 passes, then Walker – Trippier, 33. A motorway down the right.",
+    "Sweden play only 44% short passes, far below the tournament average (53%); England 51%.",
+    "For Sweden, the hubs are Lindelöf (67 passes), Krafth (66) and Augustinsson (64): build-up stayed in the defenders' hands."
+   ],
+   "impact": "Sweden played forward quickly and gave the ball away, England circulated down the right to set up Trippier and Lingard (26 passes between them). Patient possession that wore down an opponent pressing hard."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Ce quart n'a pas été une affaire de contres. La Suède n'a concédé que 2 tirs dans les 15 secondes suivant une perte (0,11 xG), l'Angleterre 2 (0,13 xG), toutes deux sous la moyenne du tournoi (0,28 xG). Aucun des deux buts anglais ne naît d'une transition : la différence s'est faite dans le jeu installé.",
+   "keys": [
+    "102 pertes en jeu ouvert pour la Suède, 115 pour l'Angleterre : les Anglais perdaient plus de ballons, sans le payer.",
+    "En moyenne, une équipe du tournoi concède 2,7 tirs en transition par match : les deux équipes font mieux.",
+    "0,13 xG concédés en transition par l'Angleterre : la Suède n'a presque jamais pu lancer de contre dangereux."
+   ],
+   "impact": "Deux équipes bien en place à la perte, donc peu de désordre : il fallait marquer sur attaque placée. L'Angleterre l'a fait deux fois, la Suède jamais."
+  },
+  "en": {
+   "lead": "This quarter-final was not about counter-attacks. Sweden conceded only 2 shots within 15 seconds of a loss (0.11 xG), England 2 (0.13 xG), both below the tournament average (0.28 xG). Neither English goal came from a transition: the difference was made in settled play.",
+   "keys": [
+    "102 open-play losses for Sweden, 115 for England: England gave the ball away more often, without paying for it.",
+    "The average team in the tournament concedes 2.7 transition shots per match: both sides did better.",
+    "0.13 xG conceded in transition by England: Sweden almost never launched a dangerous break."
+   ],
+   "impact": "Two teams well organised when they lost the ball, so little chaos: goals had to come from set attacks. England managed it twice, Sweden never."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le classement de l'attention reçue est d'une netteté rare : les six premiers sont anglais. En tête, Harry Kane, avec 2,60 actions défensives suédoises de plus que la normale pour 10 touches. Derrière lui, Jesse Lingard (2,17) et Raheem Sterling (1,84). Les Suédois savaient exactement qui surveiller ; ils ont simplement oublié les défenseurs.",
+   "keys": [
+    "Kane, 2,60 : chaque ballon qu'il touchait déclenchait une réaction suédoise.",
+    "Même Jordan Henderson (1,29) et Dele Alli (1,25) attiraient davantage que n'importe quel Suédois.",
+    "À l'opposé, Augustinsson (−1,19) et Lindelöf (−0,82) étaient laissés libres par l'Angleterre.",
+    "Pour l'échelle, le plus gros aimant du tournoi est Mehdi Taremi, à 5,35."
+   ],
+   "impact": "La Suède a concentré son attention sur les attaquants anglais, et c'est Maguire, un défenseur, qui a ouvert le score. Quand tout le monde regarde Kane, ce sont les autres qui marquent."
+  },
+  "en": {
+   "lead": "The attention-received ranking is unusually clear-cut: the top six are all English. Harry Kane leads, drawing 2.60 more Swedish defensive actions than normal per 10 touches. Behind him come Jesse Lingard (2.17) and Raheem Sterling (1.84). Sweden knew exactly whom to watch; they just forgot about the defenders.",
+   "keys": [
+    "Kane, 2.60: every ball he touched triggered a Swedish reaction.",
+    "Even Jordan Henderson (1.29) and Dele Alli (1.25) drew more attention than any Swede.",
+    "At the other end, Augustinsson (−1.19) and Lindelöf (−0.82) were left alone by England.",
+    "For scale, the biggest magnet of the tournament is Mehdi Taremi, at 5.35."
+   ],
+   "impact": "Sweden focused on England's forwards, and it was Maguire, a defender, who opened the scoring. When everyone is watching Kane, someone else scores."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Angleterre a créé 1,33 xT par ses passes et conduites, la Suède 0,94. Mais la répartition est révélatrice : l'Angleterre produit de façon égale avant et après la pause (0,66 puis 0,67), tandis que la Suède se réveille seulement en deuxième période (0,22 puis 0,71). Les Suédois n'ont vraiment attaqué qu'après la pause.",
+   "keys": [
+    "Raheem Sterling est le premier créateur du match (0,27 xT), surtout balle au pied (0,18 en conduites).",
+    "Ludwig Augustinsson porte 27 % de la menace suédoise à lui seul (0,25 xT), presque uniquement par la passe.",
+    "Le geste le plus menaçant est une passe de Lingard à la 58e minute (+0,11 xT), de 85 à 102 m : une minute plus tard, Alli double la mise.",
+    "Les meilleurs gestes suédois tombent à la 62e (Toivonen) et à la 71e (Guidetti) : exactement les minutes des grosses occasions manquées de Claesson et de Berg."
+   ],
+   "impact": "La Suède a eu son quart d'heure de menace après l'heure de jeu, et c'est là que Pickford a gardé la porte fermée. L'Angleterre avait déjà fait le travail avec une menace régulière, mieux convertie."
+  },
+  "en": {
+   "lead": "England created 1.33 xT through passes and carries, Sweden 0.94. The split is telling: England produce evenly before and after the break (0.66 then 0.67), while Sweden only wake up in the second half (0.22 then 0.71). The Swedes only really attacked after the break.",
+   "keys": [
+    "Raheem Sterling is the top creator of the match (0.27 xT), mostly with the ball at his feet (0.18 from carries).",
+    "Ludwig Augustinsson carries 27% of Sweden's threat on his own (0.25 xT), almost entirely through passing.",
+    "The most threatening action is a Lingard pass in minute 58 (+0.11 xT), from 85 to 102 m: a minute later, Alli makes it 2-0.",
+    "Sweden's best actions come in minute 62 (Toivonen) and minute 71 (Guidetti): exactly when Claesson and Berg missed their big chances."
+   ],
+   "impact": "Sweden had their spell of threat after the hour, and that is when Pickford kept the door shut. England had already done the job with steady threat, better converted."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur Anglais du tournoi selon nos classements n'est ni Kane ni Sterling : c'est Kieran Trippier, 6e des 123 milieux classés, avec une note de 75. Côté suédois, Andreas Granqvist pointe au 5e rang des 40 défenseurs centraux et compte 2 buts dans la compétition. Deux joueurs de l'ombre, deux piliers.",
+   "keys": [
+    "Kyle Walker est 16e des 88 latéraux, Harry Maguire 27e de la même catégorie : notre modèle range Maguire parmi les latéraux, sans doute la conséquence de sa position excentrée dans la défense à trois.",
+    "Jordan Pickford est 11e des 31 gardiens, avec 716 minutes jouées.",
+    "Raheem Sterling est 21e des 68 attaquants, toujours sans but en 458 minutes (1 passe décisive).",
+    "John Stones, 20e des 40 défenseurs centraux, compte 2 buts dans le tournoi, autant que Granqvist."
+   ],
+   "impact": "Le profil de cette Angleterre se lit dans ce classement : des joueurs de couloir et des défenseurs au premier plan, plus que les attaquants. Ce quart de finale l'a confirmé, avec un but de Maguire et un réseau qui passait par Walker et Trippier."
+  },
+  "en": {
+   "lead": "England's best player of the tournament by our rankings is neither Kane nor Sterling: it is Kieran Trippier, 6th of 123 ranked midfielders, with a score of 75. For Sweden, Andreas Granqvist sits 5th of 40 centre-backs and has 2 goals in the competition. Two unsung players, two pillars.",
+   "keys": [
+    "Kyle Walker is 16th of 88 full-backs, Harry Maguire 27th in the same group: our model files Maguire among the full-backs, probably a consequence of his wide spot in the back three.",
+    "Jordan Pickford is 11th of 31 goalkeepers, with 716 minutes played.",
+    "Raheem Sterling is 21st of 68 forwards, still without a goal in 458 minutes (1 assist).",
+    "John Stones, 20th of 40 centre-backs, has 2 goals in the tournament, as many as Granqvist."
+   ],
+   "impact": "This England side shows in the rankings: wide players and defenders up front, more than the strikers. This quarter-final confirmed it, with a Maguire goal and a network running through Walker and Trippier."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de John Stones est Thiago Silva à la Coupe du monde 2018, similaire à 95 %, à égalité avec Andreas Christensen en 2022. Juste derrière, Sergio Ramos en finale de Ligue des champions (94 %). Stones avait le profil des grands relanceurs de sa génération. Et Kyle Walker, aligné dans la défense à trois, ressemble d'abord à Jan Vertonghen à l'Euro 2020 (94 %) : un central plus qu'un latéral.",
+   "keys": [
+    "Kieran Trippier, milieu de notre classement, a pour jumeaux Kevin De Bruyne à l'Euro 2020 et Joey Veerman à l'Euro 2024 (80 % chacun) : un créateur déguisé en piston.",
+    "Andreas Granqvist ressemble à T. Sivok à l'Euro 2016 (95 %), puis à David Luiz en finale de LDC (92 %).",
+    "Harry Maguire, classé parmi les latéraux, a pour jumeau Jordi Alba en finale de LDC (86 %).",
+    "Jesse Lingard rappelle Andrés Guardado au Mondial 2018 (90 %)."
+   ],
+   "impact": "Ces jumeaux disent la même chose que le reste de l'analyse : l'Angleterre de ce quart construisait avec des défenseurs relanceurs et des pistons créatifs. Trippier en De Bruyne, c'est tout le plan de jeu résumé en une ligne."
+  },
+  "en": {
+   "lead": "John Stones's statistical twin is Thiago Silva at the 2018 World Cup, 95% similar, level with Andreas Christensen in 2022. Just behind comes Sergio Ramos in a Champions League final (94%). Stones had the profile of the great ball-playing defenders of his generation. And Kyle Walker, used in the back three, looks first like Jan Vertonghen at Euro 2020 (94%): more centre-back than full-back.",
+   "keys": [
+    "Kieran Trippier, a midfielder in our rankings, has Kevin De Bruyne at Euro 2020 and Joey Veerman at Euro 2024 as twins (80% each): a creator dressed as a wing-back.",
+    "Andreas Granqvist resembles T. Sivok at Euro 2016 (95%), then David Luiz in a Champions League final (92%).",
+    "Harry Maguire, filed among the full-backs, has Jordi Alba in a Champions League final as his twin (86%).",
+    "Jesse Lingard recalls Andrés Guardado at the 2018 World Cup (90%)."
+   ],
+   "impact": "These twins say the same as the rest of the analysis: this England side built through ball-playing defenders and creative wing-backs. Trippier as De Bruyne sums up the whole game plan in one line."
+  }
+ }
+}

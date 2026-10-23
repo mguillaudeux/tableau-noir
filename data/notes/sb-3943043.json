@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une finale d'Euro, et une Espagne qui a tenu son rang jusqu'au bout. Arrivée là en sortant la Géorgie, l'Allemagne puis la France, elle a dominé l'Angleterre dans tous les compartiments : 16 tirs contre 9, 1,79 xG contre 0,73, 15 passes clés contre 5. Nico Williams ouvre le score à la 47e minute, Cole Palmer égalise à la 73e sur une frappe à 0,04 xG, et Mikel Oyarzabal offre le titre à la 86e. L'Angleterre, rescapée des tirs au but contre la Suisse et vainqueure des Pays-Bas, n'a jamais vraiment eu le ballon.",
+   "keys": [
+    "Les deux buteurs entrés en jeu ont eu peu de temps pour frapper : 24 minutes pour Palmer, 27 pour Oyarzabal.",
+    "Lamine Yamal, passeur décisif, cumule 0,33 xG et 3 passes clés en 89 minutes.",
+    "Jude Bellingham, passeur décisif lui aussi, aligne 11 actions défensives : l'Anglais a couru partout.",
+    "Daniel Olmo (0,25 xG à la 49e) et Álvaro Morata (0,24 à la 55e) auraient pu tuer le match bien plus tôt.",
+    "Passes dans le dernier tiers : 45 pour l'Espagne, 11 seulement pour l'Angleterre."
+   ],
+   "impact": "Le score serré masque une domination nette : avec plus du double d'xG, l'Espagne méritait son titre. L'égalisation de Palmer, sur une frappe que le modèle jugeait presque sans chance, n'a fait que retarder l'issue."
+  },
+  "en": {
+   "lead": "A Euro final, and a Spain side that lived up to its billing to the end. Having knocked out Georgia, Germany and then France to get there, they outplayed England in every department: 16 shots to 9, 1.79 xG to 0.73, 15 key passes to 5. Nico Williams opened the scoring in minute 47, Cole Palmer equalised in minute 73 with a 0.04 xG shot, and Mikel Oyarzabal delivered the title in minute 86. England, survivors of a shoot-out against Switzerland and winners over the Netherlands, never really had the ball.",
+   "keys": [
+    "Both goal-scoring substitutes made the most of very little time: 24 minutes for Palmer, 27 for Oyarzabal.",
+    "Lamine Yamal, the assist-maker, had 0.33 xG and 3 key passes in 89 minutes.",
+    "Jude Bellingham, also an assist-maker, made 11 defensive actions: the Englishman ran everywhere.",
+    "Daniel Olmo (0.25 xG in minute 49) and Álvaro Morata (0.24 in minute 55) could have killed the game much earlier.",
+    "Passes into the final third: 45 for Spain, just 11 for England."
+   ],
+   "impact": "The tight score hides a clear dominance: with more than double the xG, Spain deserved their title. Palmer's equaliser, from a shot the model rated as almost hopeless, only delayed the outcome."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Espagne a étiré l'Angleterre comme un élastique : 36,8 m de largeur avec le ballon, bien au-delà de la moyenne de l'Euro (31,7 m). Annoncée en 4-2-3-1, elle attaquait en 3-5-2 avec deux ailiers collés aux lignes : Nico Williams à 12 m de la touche gauche, Lamine Yamal à 59 m, tout contre la droite. L'Angleterre, elle aussi en 4-2-3-1 sur le papier, se repliait en 3-4-2-1.",
+   "keys": [
+    "Le côté gauche espagnol, Nico Williams et Cucurella (7 m de la touche), faisait face au côté droit anglais, celui de Saka et Walker : c'est Nico Williams qui a ouvert le score.",
+    "L'Angleterre joue 25 % de ses touches dans le couloir droit, autour de Saka (62 m de la touche gauche) et Walker (59 m).",
+    "Les touches espagnoles sont presque parfaitement réparties entre les cinq couloirs, de 17 à 25 % : aucun côté privilégié, toute la largeur exploitée.",
+    "L'Angleterre fait 34 % de ses touches dans son propre tiers, contre 25 % pour l'Espagne."
+   ],
+   "impact": "En occupant toute la largeur, l'Espagne a étiré le bloc anglais d'une ligne de touche à l'autre. Et c'est l'un de ses deux joueurs les plus avancés, Nico Williams (79 m), qui a ouvert le score."
+  },
+  "en": {
+   "lead": "Spain stretched England like an elastic band: 36.8 m wide in possession, well beyond the Euro average (31.7 m). Announced in a 4-2-3-1, they attacked in a 3-5-2 with two wingers hugging the lines: Nico Williams 12 m from the left touchline, Lamine Yamal at 59 m, right up against the other one. England, also a 4-2-3-1 on paper, dropped into a 3-4-2-1.",
+   "keys": [
+    "Spain's left, Nico Williams and Cucurella (7 m from the line), faced England's right, home to Saka and Walker: it was Nico Williams who opened the scoring.",
+    "England make 25% of their touches in the right lane, around Saka (62 m from the left touchline) and Walker (59 m).",
+    "Spain's touches are spread almost perfectly across the five lanes, between 17 and 25%: no favourite side, the full width in use.",
+    "England make 34% of their touches in their own third, against 25% for Spain."
+   ],
+   "impact": "By occupying the full width, Spain stretched England's block from one touchline to the other. And it was one of their two most advanced players, Nico Williams (79 m), who opened the scoring."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "6,5 pressions par minute sans ballon : en finale, l'Espagne a pressé comme une équipe affamée, bien au-dessus de la moyenne de l'Euro (4,2). Avec un PPDA de 11,3 et des actions défensives à 52,7 m de son but, elle ne laissait pas l'Angleterre construire. En face : seulement 323 passes anglaises, et 41 % des ballons perdus par l'Angleterre récupérés au-delà de 20 secondes.",
+   "keys": [
+    "L'Espagne reprend 32 % de ses ballons perdus en moins de 5 secondes, l'Angleterre 20 %.",
+    "Contre-pressing anglais : 15 % des pressions, sous la moyenne du tournoi (19 %).",
+    "L'Angleterre compte pourtant 10 récupérations hautes, contre 8 pour l'Espagne : quand elle montait presser, elle récupérait.",
+    "PPDA anglais de 22,2 : l'Angleterre attendait, l'Espagne chassait."
+   ],
+   "impact": "Ce pressing a privé l'Angleterre de ballons propres, ce qui explique sans doute qu'elle n'ait réussi que 11 passes dans le dernier tiers. Une finale se joue souvent sur la capacité à respirer avec le ballon, et l'Angleterre a passé la soirée en apnée."
+  },
+  "en": {
+   "lead": "6.5 pressures per minute out of possession: in a final, Spain pressed like a hungry team, well above the Euro average (4.2). With a PPDA of 11.3 and defensive actions 52.7 m from their goal, they would not let England build. On the other side: just 323 English passes, and 41% of the balls England lost only won back after more than 20 seconds.",
+   "keys": [
+    "Spain win back 32% of lost balls within 5 seconds, England 20%.",
+    "English counter-pressing: 15% of pressures, below the tournament average (19%).",
+    "England still have 10 high regains, against 8 for Spain: when they did step up, they won the ball.",
+    "England's PPDA of 22.2: England waited, Spain hunted."
+   ],
+   "impact": "That press starved England of clean possession, which probably explains why they managed just 11 passes into the final third. A final often comes down to breathing with the ball, and England spent the night holding their breath."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Surprise de cette finale : la championne d'Europe a joué de manière très positionniste, avec un indice de −0,79, 21e sur 24 au classement des plus relationnistes. Son réseau est d'abord une affaire de défenseurs : Robin Le Normand (147 passes) et Aymeric Laporte (140), reliés par 52 passes. L'Angleterre, plus relationniste (−0,13), jouait plus serrée autour du ballon, avec 2,48 coéquipiers près du porteur.",
+   "keys": [
+    "Daniel Carvajal est le troisième carrefour espagnol (104 passes) : le latéral droit relançait autant qu'il attaquait.",
+    "Même le gardien entre dans le réseau : Unai Simón – Le Normand, 26 passes.",
+    "Le réseau anglais est minuscule : Walker, carrefour de l'équipe, n'est impliqué que dans 58 passes.",
+    "Côté anglais, le lien Saka – Walker (14 passes) confirme l'importance du couloir droit."
+   ],
+   "impact": "L'Espagne a gagné en installant le jeu par ses défenseurs puis en lançant ses ailiers dans la largeur, sans chercher les petits triangles. L'Angleterre, avec si peu de ballons, n'a jamais pu faire vivre son propre réseau."
+  },
+  "en": {
+   "lead": "The surprise of this final: the new European champions played in a very positional way, with an index of −0.79, 21st of 24 in the most-relational ranking. Their network was first of all about defenders: Robin Le Normand (147 passes) and Aymeric Laporte (140), linked by 52 passes. England, more relational (−0.13), played tighter around the ball, with 2.48 teammates near the carrier.",
+   "keys": [
+    "Daniel Carvajal is Spain's third hub (104 passes): the right-back built play as much as he attacked.",
+    "Even the goalkeeper is part of the network: Unai Simón – Le Normand, 26 passes.",
+    "England's network is tiny: Walker, the team's hub, is involved in just 58 passes.",
+    "For England, the Saka – Walker link (14 passes) confirms how much the right lane mattered."
+   ],
+   "impact": "Spain won by setting the game up through their defenders and then releasing their wingers wide, without looking for little triangles. England, with so little of the ball, never managed to bring their own network to life."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "L'Angleterre a souffert à chaque perte de balle : 6 tirs concédés dans les 15 secondes qui suivent, pour 0,51 xG, plus du double de la moyenne de l'Euro (0,23). Elle comptait 4,8 joueurs derrière le ballon au moment de la perte, 5,1 ensuite, sous la moyenne du tournoi (5,6). Mais le bloc ne se reformait à 7 joueurs ou plus que dans 24 % des cas.",
+   "keys": [
+    "L'Espagne, elle, ne concède que 2 tirs en transition pour 0,12 xG.",
+    "Bloc reformé espagnol : 17 % seulement, loin de la moyenne du tournoi (36 %). L'Espagne vivait dangereusement, sans être punie.",
+    "Exemple 360 anglais à la 4e minute : 4 joueurs derrière le ballon à la perte, 9 quelques secondes plus tard.",
+    "Même scénario côté espagnol à la 57e : de 4 à 9 joueurs derrière le ballon."
+   ],
+   "impact": "Aucun des trois buts n'est venu d'une transition, mais l'Espagne a trouvé là une source régulière de tirs. Tout indique que l'Angleterre perdait le ballon en position délicate, sous le pressing espagnol."
+  },
+  "en": {
+   "lead": "England suffered every time they lost the ball: 6 shots conceded within the next 15 seconds, worth 0.51 xG, more than double the Euro average (0.23). They had 4.8 players behind the ball at the moment of the loss, 5.1 afterwards, below the tournament average (5.6). But the block was rebuilt with 7 or more players only 24% of the time.",
+   "keys": [
+    "Spain conceded just 2 shots in transition, worth 0.12 xG.",
+    "Spain's block rebuilt only 17% of the time, far below the tournament average (36%). Spain lived dangerously, without being punished.",
+    "An English 360 example in minute 4: 4 players behind the ball at the loss, 9 a few seconds later.",
+    "Same story for Spain in minute 57: from 4 to 9 players behind the ball."
+   ],
+   "impact": "None of the three goals came from a transition, but Spain found a steady source of shots there. Everything suggests England were losing the ball in awkward positions, under the Spanish press."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Harry Kane a passé la finale cerné : 1,54 adversaire de plus que la normale autour de chacune de ses touches. Phil Foden (1,52) et Kobbie Mainoo (1,31) n'ont guère été mieux lotis. Quatre des cinq joueurs les plus entourés sont anglais, Bellingham compris (1,10) : l'Espagne étouffait chaque Anglais qui recevait au milieu ou devant.",
+   "keys": [
+    "Côté espagnol, Álvaro Morata (1,23) est l'aimant principal, devant Daniel Olmo (0,65).",
+    "Les centraux espagnols relançaient en paix : Le Normand (−0,81) et Laporte (−0,71).",
+    "Kyle Walker (−0,48) est l'Anglais le plus libre, ce qui colle avec son rôle de carrefour de l'équipe."
+   ],
+   "impact": "Ce double constat raconte la finale : l'Angleterre ne pouvait relancer que par Walker, et chaque ballon transmis à Kane, Foden ou Mainoo arrivait dans une forêt espagnole. Pas étonnant qu'elle n'ait réussi que 11 passes dans le dernier tiers."
+  },
+  "en": {
+   "lead": "Harry Kane spent the final hemmed in: 1.54 extra opponents around each of his touches. Phil Foden (1.52) and Kobbie Mainoo (1.31) fared little better. Four of the five most crowded players are English, Bellingham included (1.10): Spain smothered every Englishman who received in midfield or up front.",
+   "keys": [
+    "For Spain, Álvaro Morata (1.23) is the main magnet, ahead of Daniel Olmo (0.65).",
+    "Spain's centre-backs built in peace: Le Normand (−0.81) and Laporte (−0.71).",
+    "Kyle Walker (−0.48) is the freest Englishman, which fits his role as the team's hub."
+   ],
+   "impact": "That double picture tells the story of the final: England could only build through Walker, and every ball played into Kane, Foden or Mainoo arrived in a Spanish forest. Small wonder they managed just 11 passes into the final third."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Espagne a produit 1,86 xT, plus du double de l'Angleterre (0,86), avec une régularité de métronome : 0,93 en première mi-temps, 0,94 en deuxième. Son créateur le plus menaçant est Nico Williams (0,33 xT), surtout balle au pied (0,22 xT en conduites). Mais le geste le plus menaçant du match revient à Rodri, une passe à la 13e minute (+0,28 xT).",
+   "keys": [
+    "Rodri (0,31 xT) et Lamine Yamal (0,29 xT) complètent un trio de créateurs très équilibré.",
+    "À la 86e minute, Cucurella signe une passe de 88 à 97 m (+0,14 xT), la minute du but d'Oyarzabal.",
+    "Bukayo Saka porte 25 % de la menace anglaise (0,21 xT), surtout en conduites (0,18 xT).",
+    "Le geste anglais le plus menaçant, une passe de Luke Shaw à la 25e minute, ne pèse que 0,13 xT."
+   ],
+   "impact": "La menace espagnole était répartie entre plusieurs créateurs, celle de l'Angleterre reposait sur Saka et Bellingham (22 %). Face à une équipe qui menaçait sans cesse, l'Angleterre a égalisé une fois, mais n'a jamais eu les moyens de prendre le dessus."
+  },
+  "en": {
+   "lead": "Spain produced 1.86 xT, more than double England's (0.86), with metronomic consistency: 0.93 in the first half, 0.94 in the second. Their most threatening creator was Nico Williams (0.33 xT), mostly with the ball at his feet (0.22 xT from carries). But the single most threatening action of the match belongs to Rodri, a pass in minute 13 (+0.28 xT).",
+   "keys": [
+    "Rodri (0.31 xT) and Lamine Yamal (0.29 xT) complete a very balanced trio of creators.",
+    "In minute 86, Cucurella played a pass from 88 to 97 m (+0.14 xT), the minute of Oyarzabal's goal.",
+    "Bukayo Saka carries 25% of England's threat (0.21 xT), mostly from carries (0.18 xT).",
+    "England's most threatening action, a Luke Shaw pass in minute 25, is worth just 0.13 xT."
+   ],
+   "impact": "Spain's threat was spread across several creators, while England's rested on Saka and Bellingham (22%). Against a team that threatened constantly, England equalised once but never had the means to take control."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les deux ailiers espagnols de cette finale sont parmi les meilleurs attaquants de l'Euro selon nos classements : Lamine Yamal 2e des 49 attaquants (note de 79), Nico Williams 4e. Yamal termine le tournoi avec 1 but et 4 passes décisives, Williams avec 2 buts et 1 passe décisive. Et l'Espagne place aussi Rodri au 9e rang des 82 milieux.",
+   "keys": [
+    "Mikel Merino est 13e des milieux avec seulement 210 minutes, 1 but à la clé.",
+    "Fabián Ruiz, 17e des milieux, compte 2 buts et 2 passes décisives.",
+    "Daniel Olmo finit le tournoi avec 3 buts et 2 passes décisives, mais n'est que 29e des milieux selon nos critères.",
+    "Côté anglais, Declan Rice est le mieux placé de ce match, 34e des milieux, avec 713 minutes jouées."
+   ],
+   "impact": "L'Espagne alignait deux des cinq meilleurs attaquants du tournoi, et les deux ont pesé : un but pour Williams, une passe décisive pour Yamal. Le contraste avec l'Angleterre, sans joueur dans le haut des classements, résume l'écart vu sur le terrain."
+  },
+  "en": {
+   "lead": "Spain's two wingers in this final are among the best forwards of the Euro by our rankings: Lamine Yamal 2nd of 49 forwards (score of 79), Nico Williams 4th. Yamal ends the tournament with 1 goal and 4 assists, Williams with 2 goals and 1 assist. Spain also place Rodri 9th of 82 midfielders.",
+   "keys": [
+    "Mikel Merino is 13th among midfielders with just 210 minutes, and 1 goal to show for it.",
+    "Fabián Ruiz, 17th among midfielders, has 2 goals and 2 assists.",
+    "Daniel Olmo finishes the tournament with 3 goals and 2 assists, yet ranks only 29th among midfielders by our measures.",
+    "For England, Declan Rice is the highest-ranked player in this match, 34th among midfielders, with 713 minutes played."
+   ],
+   "impact": "Spain fielded two of the five best forwards of the tournament, and both made their mark: a goal for Williams, an assist for Yamal. The contrast with England, with no one near the top of the rankings, sums up the gap seen on the pitch."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Lamine Yamal a des jumeaux brésiliens : Raphinha au Mondial 2022 (99 %), Vinícius Júnior au même Mondial (98 %), puis Neymar en 2018 (91 %). Nico Williams, son compère de l'autre aile, ressemble à Jérémy Doku à l'Euro 2024 (93 %) et à Jamal Musiala au Mondial 2022 (92 %). Deux ailiers, deux familles : les Brésiliens pour l'un, Doku et les créateurs allemands pour l'autre.",
+   "keys": [
+    "Clin d'œil de la finale : le jumeau d'Unai Simón est Jordan Pickford à l'Euro 2024 (94 %), le gardien d'en face.",
+    "Rodri ressemble à Aurélien Tchouaméni au Mondial 2022 et à Granit Xhaka à l'Euro 2024 (92 % chacun).",
+    "Daniel Olmo a pour jumeau Thomas Müller en finale de Ligue des champions (93 %).",
+    "Declan Rice rappelle William Carvalho au Mondial 2022 (87 %), puis Koke et Sergio Busquets."
+   ],
+   "impact": "Les gardiens étaient jumeaux, mais aucun Anglais n'apparaît parmi les sosies des ailiers espagnols : c'est sur les côtés que l'Espagne avait sa signature. Et c'est par un ailier, Nico Williams, que tout a commencé à la 47e minute."
+  },
+  "en": {
+   "lead": "Lamine Yamal has Brazilian twins: Raphinha at the 2022 World Cup (99%), Vinícius Júnior at the same World Cup (98%), then Neymar in 2018 (91%). Nico Williams, his partner on the other wing, resembles Jérémy Doku at Euro 2024 (93%) and Jamal Musiala at the 2022 World Cup (92%). Two wingers, two families: the Brazilians for one, Doku and the German creators for the other.",
+   "keys": [
+    "A wink from the final: Unai Simón's twin is Jordan Pickford at Euro 2024 (94%), the keeper at the other end.",
+    "Rodri resembles Aurélien Tchouaméni at the 2022 World Cup and Granit Xhaka at Euro 2024 (92% each).",
+    "Daniel Olmo's twin is Thomas Müller in a Champions League final (93%).",
+    "Declan Rice recalls William Carvalho at the 2022 World Cup (87%), then Koke and Sergio Busquets."
+   ],
+   "impact": "The goalkeepers were twins, but no English player appears among the Spanish wingers' lookalikes: the flanks were Spain's signature. And it was a winger, Nico Williams, who got it all started in minute 47."
+  }
+ }
+}

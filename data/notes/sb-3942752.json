@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale pliée en un gros quart d'heure, et avec presque rien. La France ouvre le score à la 9e minute par Randal Kolo (0,27 xG), puis l'Espagne renverse tout entre la 21e et la 25e : Lamine Yamal sur une frappe à 0,03 xG, Daniel Olmo sur une autre à 0,07. Au total, l'Espagne gagne avec 0,42 xG et 6 tirs, face à une France qui en produit le double (0,85 xG). Le chemin espagnol (Géorgie, Allemagne) passait par des matchs ouverts ; celui de la France (Belgique 1-0, Portugal aux tirs au but) par la retenue. Ce soir-là, l'efficacité a changé de camp.",
+   "keys": [
+    "Deux buts sur des tirs à 0,03 et 0,07 xG : Yamal et Olmo ont transformé des tirs que personne n'attendait au fond.",
+    "La France a eu plus de tirs (9 contre 6) et deux fois plus de passes clés (8 contre 4).",
+    "Mike Maignan n'a eu aucun arrêt à faire : l'Espagne a cadré 2 tirs et les deux sont entrés.",
+    "Kylian Mbappé : 4 tirs, 0,25 xG et la passe décisive du 1-0, mais sa dernière occasion à la 86e minute (0,10 xG) n'a pas trouvé le cadre."
+   ],
+   "impact": "Sur le papier, la France méritait mieux, avec 0,43 xG d'avance. Mais une demi-finale ne se gagne pas aux occasions : quatre minutes de réalisme absolu ont suffi à l'Espagne, qui a ensuite géré son avance."
+  },
+  "en": {
+   "lead": "A semi-final settled in a quarter of an hour or so, and with almost nothing. France went ahead in minute 9 through Randal Kolo (0.27 xG), then Spain turned it around between minutes 21 and 25: Lamine Yamal with a 0.03 xG shot, Daniel Olmo with another worth 0.07. In total Spain won with 0.42 xG and 6 shots, against a France side that produced twice that (0.85 xG). Spain's road (Georgia, Germany) had run through open games; France's (Belgium 1-0, Portugal on penalties) through restraint. On this night, clinical finishing switched sides.",
+   "keys": [
+    "Two goals from shots worth 0.03 and 0.07 xG: Yamal and Olmo buried efforts nobody expected to go in.",
+    "France had more shots (9 to 6) and twice as many key passes (8 to 4).",
+    "Mike Maignan did not have a single save to make: Spain put 2 shots on target and both went in.",
+    "Kylian Mbappé: 4 shots, 0.25 xG and the assist for 1-0, but his last chance in minute 86 (0.10 xG) missed the target."
+   ],
+   "impact": "On paper France deserved more, with a 0.43 xG lead. But a semi-final is not won on chances: four minutes of total ruthlessness were enough for Spain, who then managed their lead."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Espagne avait un plan limpide : attaquer par la gauche. 31 % de ses touches dans le couloir gauche, où Marc Cucurella montait à 66 m et Nico Williams campait à 80 m, tous deux collés à la ligne. Annoncée en 4-2-3-1, elle jouait en 3-2-4-1 avec le ballon, et reculait en 5-2-3 sans lui, avec une dernière ligne à 23,0 m de son but, très bas. La France, elle, penchait à droite (27 % des touches), où Ousmane Dembélé et Jules Koundé occupaient le couloir.",
+   "keys": [
+    "Le couloir gauche espagnol faisait face au côté droit français : Williams et Cucurella contre Dembélé et Koundé, deux flancs forts qui se neutralisaient.",
+    "Avec le ballon, la France se dessinait en 3-4-3, sa dernière ligne à 47,9 m de son but (moyenne du tournoi : 42,0 m).",
+    "Sans ballon, les Français passaient en 5-2-2-1 et les Espagnols en 5-2-3 : deux équipes à cinq derrière.",
+    "Yamal évoluait à droite, à 68 m de son but : nettement moins haut que Williams (80 m)."
+   ],
+   "impact": "Sans ballon, l'Espagne acceptait de reculer très bas, à 23,0 m de son but, ce qui aide à comprendre pourquoi la France a eu le ballon sans percer. Les deux flancs forts se sont annulés, et le match s'est décidé ailleurs, sur deux frappes."
+  },
+  "en": {
+   "lead": "Spain had a crystal-clear plan: attack down the left. 31% of their touches came in the left lane, where Marc Cucurella pushed up to 66 m and Nico Williams camped at 80 m, both hugging the touchline. Announced in a 4-2-3-1, they played a 3-2-4-1 with the ball and dropped into a 5-2-3 without it, their back line 23.0 m from goal, very deep. France leaned to the right (27% of touches), where Ousmane Dembélé and Jules Koundé occupied the flank.",
+   "keys": [
+    "Spain's left lane faced France's right side: Williams and Cucurella against Dembélé and Koundé, two strong flanks cancelling each other out.",
+    "With the ball, France took the shape of a 3-4-3, their back line 47.9 m from goal (tournament average: 42.0 m).",
+    "Without the ball, France switched to a 5-2-2-1 and Spain to a 5-2-3: two teams with five at the back.",
+    "Yamal operated on the right, 68 m from goal: clearly less advanced than Williams (80 m)."
+   ],
+   "impact": "Without the ball, Spain accepted dropping very deep, 23.0 m from their goal, which helps explain why France had the ball without breaking through. The two strong flanks cancelled out, and the match was decided elsewhere, by two strikes."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "La France a pressé plus, l'Espagne a pressé mieux, du moins au moment de la perte. Les Bleus ont mis beaucoup d'intensité (4,7 pressions par minute, PPDA de 14,5) et récupéré 14 ballons haut, presque trois fois plus que l'Espagne (5). Mais le contre-pressing espagnol était redoutable : 40 % des ballons perdus récupérés en moins de 5 secondes, contre 26 % pour la France.",
+   "keys": [
+    "Contre-pressing : 22 % des pressions espagnoles tombent juste après une perte, contre 12 % pour la France (moyenne : 19 %).",
+    "Les 14 récupérations hautes françaises sont bien au-dessus de la moyenne du tournoi (8,6).",
+    "L'Espagne pressait moins fort (PPDA de 22,0) mais ses actions défensives avaient lieu plus haut, à 51,7 m de son but.",
+    "Au-delà de 5 s, l'Espagne ne récupère presque plus vite : 47 % à 10 s, à peine plus qu'à 5 s."
+   ],
+   "impact": "Le pressing français a donné à la France le ballon dans de bonnes zones, mais pas d'occasions franches : aucune grosse occasion du match. L'Espagne, elle, a misé sur la réaction immédiate à la perte, et sa demi-finale s'est jouée sur des éclairs plutôt que sur une domination."
+  },
+  "en": {
+   "lead": "France pressed more, Spain pressed better, at least at the moment of the loss. Les Bleus brought plenty of intensity (4.7 pressures per minute, PPDA of 14.5) and won 14 balls high up, almost three times as many as Spain (5). But Spain's counter-press was fearsome: 40% of lost balls recovered within 5 seconds, against 26% for France.",
+   "keys": [
+    "Counter-pressing: 22% of Spanish pressures come right after a loss, against 12% for France (average: 19%).",
+    "France's 14 high regains are well above the tournament average (8.6).",
+    "Spain pressed less hard (PPDA of 22.0) but their defensive actions happened higher, 51.7 m from their own goal.",
+    "Beyond 5 s, Spain barely recover any faster: 47% at 10 s, hardly more than at 5 s."
+   ],
+   "impact": "France's press won them the ball in good areas, but not clear chances: there was no big chance in the match. Spain bet on the instant reaction to a loss, and their semi-final turned on flashes rather than domination."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La France a livré ce soir-là un match positionniste à l'extrême : un indice de −0,97, plus bas que la moyenne de la Serbie, l'équipe la plus positionniste du tournoi (−0,80). Seulement 1,69 coéquipier près du ballon en moyenne, 49 % de passes courtes : les Français jouaient chacun dans sa zone, en attendant la verticalité. L'Espagne (−0,20) n'était guère plus relationniste, mais son réseau tournait autour d'un patron, Aymeric Laporte.",
+   "keys": [
+    "Laporte est impliqué dans 138 passes entre titulaires, deux fois plus que le carrefour français, Saliba (69).",
+    "Le lien le plus utilisé côté français : Koundé – Dembélé, 25 passes. Tout le jeu passait par la droite.",
+    "Côté espagnol, Laporte est relié à Cucurella et à Unai Simón par 31 passes chacun : la relance démarrait à gauche.",
+    "L'Espagne enchaîne 36 % de combinaisons rapides, la France 30 % (moyenne du tournoi : 34 %)."
+   ],
+   "impact": "Avec si peu de soutien autour du porteur, la France a eu du mal à enchaîner : beaucoup de ballons récupérés, peu de séquences. Ce jeu très positionniste l'a laissée dépendante d'exploits individuels, et elle n'en a trouvé qu'un, sur le but de Kolo."
+  },
+  "en": {
+   "lead": "France delivered an extremely positional match on the night: an index of −0.97, lower than the average of Serbia, the most positional team of the tournament (−0.80). Only 1.69 team-mates near the ball on average, 49% short passes: the French each played in their own zone, waiting for the vertical ball. Spain (−0.20) were hardly more relational, but their network revolved around one boss, Aymeric Laporte.",
+   "keys": [
+    "Laporte is involved in 138 passes between starters, twice as many as France's hub, Saliba (69).",
+    "France's busiest link: Koundé – Dembélé, 25 passes. Everything went down the right.",
+    "For Spain, Laporte is linked to Cucurella and to Unai Simón by 31 passes each: the build-up started on the left.",
+    "Spain string together 36% quick combinations, France 30% (tournament average: 34%)."
+   ],
+   "impact": "With so little support around the ball carrier, France struggled to string moves together: plenty of balls won, few sequences. That very positional game left them reliant on individual moments, and they found only one, for Kolo's goal."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voici le chiffre le plus étonnant du match : l'Espagne n'a reformé un bloc de 7 joueurs ou plus derrière le ballon que dans 6 % de ses pertes, contre 36 % en moyenne dans le tournoi. À la perte, 3,9 Espagnols seulement derrière le ballon, et toujours 3,9 quelques secondes plus tard. Et pourtant, la France n'en a tiré qu'un tir en transition, pour 0,12 xG. Le contre-pressing espagnol, qui récupérait vite, a sans doute masqué ce déséquilibre.",
+   "keys": [
+    "La France n'a concédé qu'un tir en transition, pour 0,02 xG : la fragilité n'était pas de son côté.",
+    "Bloc reformé dans 25 % des cas pour la France, sous la moyenne du tournoi (36 %).",
+    "Exemple 360 à la 68e minute : 3 Espagnols derrière le ballon à la perte, 6 ensuite.",
+    "Côté français, à la 45e : 2 joueurs à la perte, 6 quelques secondes plus tard."
+   ],
+   "impact": "L'Espagne a joué avec le feu en se replantant si peu derrière le ballon, mais la France n'a pas su en profiter : une seule transition dangereuse en 90 minutes. Ce fut l'une des occasions manquées de la soirée, moins visible que les tirs de Mbappé."
+  },
+  "en": {
+   "lead": "Here is the most surprising number of the match: Spain rebuilt a block of 7 or more players behind the ball after only 6% of their losses, against 36% on average in the tournament. At the loss, just 3.9 Spaniards behind the ball, and still 3.9 a few seconds later. And yet France got only one shot out of it in transition, worth 0.12 xG. Spain's counter-press, which won the ball back quickly, probably masked that imbalance.",
+   "keys": [
+    "France conceded only one shot in transition, worth 0.02 xG: the fragility was not on their side.",
+    "Block rebuilt in 25% of cases for France, below the tournament average (36%).",
+    "A 360 example in minute 68: 3 Spaniards behind the ball at the loss, 6 afterwards.",
+    "For France, in minute 45: 2 players at the loss, 6 a few seconds later."
+   ],
+   "impact": "Spain played with fire by getting so few players back behind the ball, but France could not take advantage: a single dangerous transition in 90 minutes. That was one of the missed opportunities of the night, less visible than Mbappé's shots."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Les aimants de cette demi-finale portaient presque tous le maillot espagnol. Álvaro Morata attirait 1,14 adversaire de plus que la normale autour de chacune de ses touches, Mikel Merino 1,12, Daniel Olmo 0,80. La France gardait un œil très serré sur les milieux et attaquants axiaux espagnols. Seul Français dans le top 6 : Adrien Rabiot (0,63).",
+   "keys": [
+    "Morata a pesé sans marquer : en fixant la défense centrale, il a pu libérer de l'espace pour les autres.",
+    "Olmo, malgré 0,80 de gravité, a trouvé l'espace pour marquer à la 25e minute.",
+    "Mikel Oyarzabal (0,47) et Fabián Ruiz (0,52) complètent la liste espagnole.",
+    "William Saliba (−0,80) a relancé sans être inquiété : l'Espagne lui laissait le ballon."
+   ],
+   "impact": "La France a concentré son attention sur l'axe espagnol, et c'est pourtant sur deux tirs que personne ne craignait (0,03 et 0,07 xG) qu'elle a été punie. Surveiller les bons joueurs ne suffit pas quand l'adversaire réussit l'improbable."
+  },
+  "en": {
+   "lead": "The magnets of this semi-final nearly all wore Spanish shirts. Álvaro Morata drew 1.14 extra opponents around each of his touches, Mikel Merino 1.12, Daniel Olmo 0.80. France kept a very close eye on Spain's central midfielders and forwards. The only Frenchman in the top 6: Adrien Rabiot (0.63).",
+   "keys": [
+    "Morata weighed on the game without scoring: by pinning the centre-backs, he may have freed space for others.",
+    "Olmo, despite a 0.80 gravity, found space to score in minute 25.",
+    "Mikel Oyarzabal (0.47) and Fabián Ruiz (0.52) complete the Spanish list.",
+    "William Saliba (−0.80) played out untroubled: Spain left him the ball."
+   ],
+   "impact": "France focused their attention on Spain's central players, and yet they were punished by two shots nobody feared (0.03 and 0.07 xG). Watching the right players is not enough when the opponent pulls off the improbable."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Deux équipes, deux génies, et une répartition de la menace qui dit tout. Lamine Yamal produit 0,59 xT, soit 45 % de toute la menace espagnole ; Kylian Mbappé 0,56, soit 32 % de celle de la France. Mbappé signe la passe la plus menaçante de la France à la 9e minute (+0,33 xT), la minute du but de Kolo, dont il est le passeur décisif. Yamal, lui, avait déjà délivré une passe à +0,34 xT dès la 5e minute, celle de l'occasion manquée par Fabián Ruiz.",
+   "keys": [
+    "L'Espagne produit 1,00 xT en première mi-temps, puis seulement 0,30 après la pause : elle a tout fait avant le repos.",
+    "La France fait l'inverse : 0,80 xT avant la pause, 0,96 après, sans parvenir à revenir.",
+    "À la 25e, une conduite de Daniel Olmo (+0,11 xT) dans la surface : la minute de son but.",
+    "Ousmane Dembélé a créé 0,25 xT, presque tout en conduites de balle (0,20)."
+   ],
+   "impact": "L'Espagne a concentré toute sa menace sur une demi-heure, puis s'est repliée ; la France a poussé en seconde période sans trouver la faille. Au total, la France a créé plus (1,76 xT contre 1,31), mais la menace espagnole est arrivée au bon moment."
+  },
+  "en": {
+   "lead": "Two teams, two geniuses, and a split of the threat that says it all. Lamine Yamal produced 0.59 xT, 45% of all of Spain's threat; Kylian Mbappé 0.56, 32% of France's. Mbappé delivered France's most threatening pass in minute 9 (+0.33 xT), the minute of Kolo's goal, which he assisted. Yamal had already played a +0.34 xT pass in minute 5, the minute of Fabián Ruiz's missed chance.",
+   "keys": [
+    "Spain produced 1.00 xT in the first half, then only 0.30 after the break: they did everything before the interval.",
+    "France did the opposite: 0.80 xT before the break, 0.96 after, without managing to come back.",
+    "In minute 25, a carry by Daniel Olmo (+0.11 xT) in the box: the minute of his goal.",
+    "Ousmane Dembélé created 0.25 xT, almost all of it from carries (0.20)."
+   ],
+   "impact": "Spain concentrated all their threat into half an hour, then sat back; France pushed in the second half without finding the gap. Overall France created more (1.76 xT against 1.31), but Spain's threat arrived at the right moment."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les classements promettaient une demi-finale serrée, et ils avaient raison. Lamine Yamal est 2e des 49 attaquants de l'Euro (note de 79), avec 4 passes décisives et 1 but, ce but-là. En face, la France aligne trois des meilleurs de leur poste : Adrien Rabiot 3e des 82 milieux (77), Jules Koundé 3e des 78 latéraux (73) et Mike Maignan 3e des 24 gardiens (68).",
+   "keys": [
+    "N'Golo Kanté est 5e des milieux (76), Aurélien Tchouaméni 8e (73) : trois milieux français dans le top 8 du poste.",
+    "Nico Williams est 4e des attaquants (71), juste devant Kylian Mbappé (5e, 70).",
+    "Mbappé termine l'Euro avec 1 but et 1 passe décisive, la sienne de ce soir-là.",
+    "Rabiot n'a joué que 381 minutes sur le tournoi, mais avec une note parmi les plus hautes de son poste."
+   ],
+   "impact": "La France avait trois milieux parmi les huit meilleurs du tournoi, mais l'Espagne avait l'attaquant qui fait basculer un match en une frappe. Les classements mesurent la régularité ; ce soir-là, il a suffi d'un éclair de Yamal."
+  },
+  "en": {
+   "lead": "The rankings promised a tight semi-final, and they were right. Lamine Yamal is 2nd of 49 forwards at the Euro (score of 79), with 4 assists and 1 goal, this very goal. Opposite, France fielded three of the best in their positions: Adrien Rabiot 3rd of 82 midfielders (77), Jules Koundé 3rd of 78 full-backs (73) and Mike Maignan 3rd of 24 goalkeepers (68).",
+   "keys": [
+    "N'Golo Kanté is 5th among midfielders (76), Aurélien Tchouaméni 8th (73): three French midfielders in the top 8 of the position.",
+    "Nico Williams is 4th among forwards (71), just ahead of Kylian Mbappé (5th, 70).",
+    "Mbappé finishes the Euro with 1 goal and 1 assist, the latter coming on this night.",
+    "Rabiot played only 381 minutes in the tournament, but with one of the highest scores in his position."
+   ],
+   "impact": "France had three of the tournament's eight best midfielders, but Spain had the forward who can swing a match with one strike. Rankings measure consistency; on this night, one flash from Yamal was enough."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Trois Brésiliens pour décrire Lamine Yamal : Raphinha (99 %), Vinícius Júnior (98 %), tous deux au Mondial 2022, et Neymar au Mondial 2018 (91 %). Le profil est sans ambiguïté, celui d'un ailier qui provoque et fait la différence seul. Côté français, la surprise vient d'Adrien Rabiot : après son coéquipier N'Golo Kanté (86 %), ses jumeaux sont Luka Modrić (83 %) et Mesut Özil (81 %), au Mondial 2018.",
+   "keys": [
+    "Kylian Mbappé a pour double Gareth Bale en finale de Ligue des champions (95 %).",
+    "Rodri ressemble d'abord à Aurélien Tchouaméni au Mondial 2022 (92 %) : deux sentinelles face à face dans cette demi-finale.",
+    "Tchouaméni, lui, a pour jumeau E. Dier à l'Euro 2016 (97 %).",
+    "Jules Koundé rappelle Josip Juranović (89 %) et Philipp Lahm en finale de Ligue des champions (87 %)."
+   ],
+   "impact": "Les jumeaux résument l'opposition : une Espagne aux ailiers taillés comme des Brésiliens, une France aux milieux comparés à Modrić, Xhaka ou Dier. Ce soir-là, ce sont les dribbleurs qui ont eu le dernier mot."
+  },
+  "en": {
+   "lead": "Three Brazilians to describe Lamine Yamal: Raphinha (99%), Vinícius Júnior (98%), both at the 2022 World Cup, and Neymar at the 2018 World Cup (91%). The profile is unambiguous: a winger who takes players on and makes the difference alone. For France, the surprise is Adrien Rabiot: after his team-mate N'Golo Kanté (86%), his twins are Luka Modrić (83%) and Mesut Özil (81%), at the 2018 World Cup.",
+   "keys": [
+    "Kylian Mbappé's double is Gareth Bale in a Champions League final (95%).",
+    "Rodri looks first like Aurélien Tchouaméni at the 2022 World Cup (92%): two holding midfielders face to face in this semi-final.",
+    "Tchouaméni's own twin is E. Dier at Euro 2016 (97%).",
+    "Jules Koundé recalls Josip Juranović (89%) and Philipp Lahm in a Champions League final (87%)."
+   ],
+   "impact": "The twins sum up the contest: a Spain with Brazilian-cut wingers, a France with midfielders compared to Modrić, Xhaka or Dier. On this night, the dribblers had the last word."
+  }
+ }
+}

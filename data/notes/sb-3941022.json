@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le héros de ce huitième de finale de l'Euro 2024 est un défenseur central. Merih Demiral marque dès la 1re minute, double la mise à la 59e, puis passe le reste du match à repousser une Autriche déchaînée : 23 actions défensives. Car l'Autriche a tout tenté, 21 tirs et 2,49 xG contre 6 tirs et 0,88 xG, mais n'a marqué qu'une fois, par Michael Gregoritsch à la 66e minute. La Turquie passe avec deux tirs décisifs et une forteresse dans sa surface.",
+   "keys": [
+    "Demiral : 2 buts sur 3 tirs pour 0,72 xG, et le plus gros total d'actions défensives du match.",
+    "Gregoritsch, entré pour 50 minutes, a cumulé 0,82 xG en 4 tirs : son but valait à lui seul 0,58 xG.",
+    "Christoph Baumgartner signe trois des plus grosses occasions manquées du match, à la 46e, à la 84e et à la 95e minute (0,23 xG pour la dernière, cadrée).",
+    "Marko Arnautović a lui aussi cadré sans marquer, à la 51e minute (0,30 xG).",
+    "Dégagements : 45 pour la Turquie, 8 pour l'Autriche. Tout le match en une ligne."
+   ],
+   "impact": "Avec un tel écart d'xG, l'Autriche aurait dû passer dans la plupart des scénarios. Mais la Turquie a marqué dès la 1re minute, puis a tenu sa surface avec acharnement, et l'Autriche a manqué de réussite au pire moment."
+  },
+  "en": {
+   "lead": "The hero of this Euro 2024 Round of 16 tie was a centre-back. Merih Demiral scored in minute 1, doubled the lead in minute 59, then spent the rest of the match repelling a rampant Austria: 23 defensive actions. Austria threw everything at it, 21 shots and 2.49 xG against 6 shots and 0.88 xG, but scored only once, through Michael Gregoritsch in minute 66. Turkey went through on two decisive shots and a fortress in their box.",
+   "keys": [
+    "Demiral: 2 goals from 3 shots worth 0.72 xG, and the biggest defensive-action total of the match.",
+    "Gregoritsch, on for 50 minutes, racked up 0.82 xG from 4 shots: his goal alone was worth 0.58 xG.",
+    "Christoph Baumgartner accounts for three of the biggest misses of the match, in minutes 46, 84 and 95 (0.23 xG for the last one, on target).",
+    "Marko Arnautović also hit the target without scoring, in minute 51 (0.30 xG).",
+    "Clearances: 45 for Turkey, 8 for Austria. The whole match in one line."
+   ],
+   "impact": "With an xG gap like that, Austria would have gone through in most scenarios. But Turkey scored in minute 1, then defended their box relentlessly, and Austria's luck ran out at the worst time."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Autriche avait annoncé un 4-2-3-1 ; avec le ballon, elle attaquait en 3-2-5, cinq joueurs alignés entre 74 et 79 m de son but, Posch compris à 68 m sur la droite. Une vague de maillots dans la moitié adverse, avec 34 % des touches dans le dernier tiers. La Turquie, en face, défendait en 3-2-4-1 très bas : dernière ligne à 24,4 m de son but, contre 29,2 m en moyenne à l'Euro, et un bloc de 20,1 m de profondeur.",
+   "keys": [
+    "La Turquie joue 33 % de ses touches dans le couloir gauche, celui de Ferdi Kadioglu et Kenan Yildiz, tous deux à 6 m de la touche.",
+    "Ce couloir gauche turc faisait face au côté droit autrichien, celui de Stefan Posch (63 m de la touche gauche) et Romano Schmid (59 m).",
+    "L'Autriche fait 31 % de ses touches dans l'axe : elle cherchait à percer par le centre autant que par les côtés.",
+    "Avec le ballon, la dernière ligne autrichienne montait à 49,2 m, bien au-dessus de la moyenne du tournoi (42,0 m)."
+   ],
+   "impact": "Cinq joueurs autrichiens au contact d'une défense regroupée, c'est beaucoup de tirs mais peu d'espace : ce n'est sans doute pas un hasard si 21 tirs n'ont donné qu'un but. Et l'on peut voir dans le duel Posch – Kadioglu, sur le même couloir, le cœur tactique du match."
+  },
+  "en": {
+   "lead": "Austria announced a 4-2-3-1; with the ball, they attacked in a 3-2-5, five players lined up between 74 and 79 m from their goal, plus Posch at 68 m on the right. A wave of shirts in the opposition half, with 34% of touches in the final third. Turkey defended in a very deep 3-2-4-1: back line 24.4 m from goal, against a Euro average of 29.2 m, and a block 20.1 m deep.",
+   "keys": [
+    "Turkey make 33% of their touches in the left lane, home to Ferdi Kadioglu and Kenan Yildiz, both 6 m from the touchline.",
+    "That Turkish left faced Austria's right, home to Stefan Posch (63 m from the left touchline) and Romano Schmid (59 m).",
+    "Austria make 31% of their touches through the middle: they tried to break through centrally as much as out wide.",
+    "In possession, Austria's back line pushed up to 49.2 m, well above the tournament average (42.0 m)."
+   ],
+   "impact": "Five Austrian players up against a packed defence means plenty of shots but little space: probably no coincidence that 21 shots produced just one goal. And the Posch – Kadioglu duel, down the same lane, looks like the tactical heart of the match."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "L'Autriche a fait de ce match une chasse au ballon permanente : 5,0 pressions par minute sans ballon (moyenne de l'Euro : 4,2), des actions défensives à 54,8 m de son but, et surtout 18 récupérations hautes, plus du double de la moyenne (8,6). Quand elle perdait le ballon, elle le reprenait dans 40 % des cas en moins de 5 secondes, et dans 71 % des cas en moins de 10.",
+   "keys": [
+    "La Turquie défend à 39,0 m de son but, bien plus bas que l'Autriche (54,8 m).",
+    "Côté turc, 39 % des ballons perdus ne sont récupérés qu'après plus de 20 secondes.",
+    "La Turquie compte tout de même 10 récupérations hautes, au-dessus de la moyenne du tournoi.",
+    "Les deux équipes contre-pressent dans la norme : 21 % des pressions pour l'Autriche, 20 % pour la Turquie."
+   ],
+   "impact": "Ce pressing a permis à l'Autriche de camper dans le camp turc pendant presque tout le match. Mais récupérer haut ne suffit pas quand l'adversaire a déjà un bloc regroupé devant sa surface : les ballons volés se sont transformés en tirs, pas en buts."
+  },
+  "en": {
+   "lead": "Austria turned this match into a non-stop ball hunt: 5.0 pressures per minute out of possession (Euro average: 4.2), defensive actions 54.8 m from their goal, and above all 18 high regains, more than double the average (8.6). When they lost the ball, they won it back within 5 seconds 40% of the time, and within 10 seconds 71% of the time.",
+   "keys": [
+    "Turkey defend 39.0 m from their goal, far deeper than Austria (54.8 m).",
+    "For Turkey, 39% of lost balls were only won back after more than 20 seconds.",
+    "Turkey still managed 10 high regains, above the tournament average.",
+    "Both teams counter-pressed at the norm: 21% of pressures for Austria, 20% for Turkey."
+   ],
+   "impact": "That press let Austria camp in Turkey's half for almost the whole match. But winning the ball high is not enough when the opponent already has a packed block in front of its box: the stolen balls turned into shots, not goals."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ni très relationniste, ni très positionniste : les deux équipes se tiennent près du centre de l'échelle, la Turquie à +0,08, l'Autriche à −0,04. La différence est dans le réseau. L'Autriche relançait par Kevin Danso, impliqué dans 115 passes, avec Nicolas Seiwald (31 passes ensemble) puis Stefan Posch (25). La Turquie s'appuyait sur son côté gauche, autour d'Abdülkerim Bardakcı et Ferdi Kadioglu.",
+   "keys": [
+    "Le lien turc le plus utilisé, Kadioglu – Bardakcı (24 passes), confirme le penchant gauche de la Turquie.",
+    "Orkun Kökçü est à égalité avec Bardakcı comme carrefour turc (82 passes chacun).",
+    "L'Autriche entoure mieux le porteur : 2,34 coéquipiers proches contre 2,03 pour la Turquie.",
+    "La Turquie joue 62 % de passes courtes, au-dessus de la moyenne du tournoi (56 %)."
+   ],
+   "impact": "L'Autriche avait le ballon et la structure pour le faire circuler, la Turquie se contentait de sortir proprement par la gauche. Le match ne s'est pas décidé dans le jeu de passes, mais dans les deux surfaces."
+  },
+  "en": {
+   "lead": "Neither very relational nor very positional: both teams sit near the middle of the scale, Turkey at +0.08, Austria at −0.04. The difference is in the network. Austria built through Kevin Danso, involved in 115 passes, with Nicolas Seiwald (31 passes together) and then Stefan Posch (25). Turkey leaned on their left side, around Abdülkerim Bardakcı and Ferdi Kadioglu.",
+   "keys": [
+    "Turkey's busiest link, Kadioglu – Bardakcı (24 passes), confirms their left-sided lean.",
+    "Orkun Kökçü ties with Bardakcı as Turkey's hub (82 passes each).",
+    "Austria supported the carrier better: 2.34 teammates nearby against 2.03 for Turkey.",
+    "Turkey play 62% short passes, above the tournament average (56%)."
+   ],
+   "impact": "Austria had the ball and the structure to move it; Turkey were content to play out cleanly down the left. The match was not decided by passing, but in the two boxes."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voici le chiffre qui aurait dû changer le match : la Turquie a concédé 7 tirs dans les 15 secondes suivant une perte de balle, pour 0,81 xG, plus de trois fois la moyenne de l'Euro (0,23). Tout indique que le pressing autrichien produisait des occasions dès la récupération. Pourtant, la Turquie se repliait bien : 5,7 joueurs derrière le ballon à la perte, 6,4 ensuite, et un bloc reformé dans 48 % des cas.",
+   "keys": [
+    "Exemple 360 turc à la 16e minute : 1 seul joueur derrière le ballon à la perte, 7 quelques secondes plus tard.",
+    "L'Autriche, elle, ne concède qu'un tir en transition, pour 0,01 xG.",
+    "Pourtant, l'Autriche ne reforme son bloc à 7 joueurs ou plus que dans 16 % des cas, loin de la moyenne (36 %).",
+    "À la 20e minute, l'Autriche passe de 4 à 7 joueurs derrière le ballon."
+   ],
+   "impact": "L'Autriche a eu ses occasions en transition, et ne les a pas converties ; la Turquie, qui ne contre-attaquait presque jamais, n'a pas puni le repli autrichien pourtant fragile. Aucun des trois buts n'est venu d'une transition."
+  },
+  "en": {
+   "lead": "Here is the number that should have changed the match: Turkey conceded 7 shots within 15 seconds of losing the ball, worth 0.81 xG, more than three times the Euro average (0.23). Everything suggests Austria's press was creating chances straight from the regain. And yet Turkey's recovery runs were good: 5.7 players behind the ball at the loss, 6.4 afterwards, and a block rebuilt 48% of the time.",
+   "keys": [
+    "A Turkish 360 example in minute 16: just 1 player behind the ball at the loss, 7 a few seconds later.",
+    "Austria conceded just one shot in transition, worth 0.01 xG.",
+    "Yet Austria rebuilt their block with 7 or more players only 16% of the time, far below the average (36%).",
+    "In minute 20, Austria went from 4 to 7 players behind the ball."
+   ],
+   "impact": "Austria got their chances in transition and did not convert them; Turkey, who almost never countered, did not punish Austria's fragile rest defence. None of the three goals came from a transition."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Les plus gros aimants de ce match sont des milieux turcs. Salih Özcan attire 0,87 adversaire de plus que la normale à chaque touche, Orkun Kökçü 0,76 : dès qu'un Turc recevait au milieu, le pressing autrichien se refermait sur lui. Côté autrichien, Marko Arnautović (0,68) et Christoph Baumgartner (0,63) vivaient eux aussi dans la foule.",
+   "keys": [
+    "Kenan Yildiz (0,66) complète le trio turc : le seul attaquant turc régulièrement entouré.",
+    "Romano Schmid (0,52) est le troisième Autrichien de la liste.",
+    "Les trois joueurs les plus libres sont tous autrichiens : Philipp Lienhart (−0,82), Kevin Danso (−0,80) et Maximilian Wöber (−0,75)."
+   ],
+   "impact": "La Turquie laissait relancer les défenseurs autrichiens, et ce n'est sans doute pas un hasard si Danso est devenu le carrefour de l'équipe. Mais devant, Arnautović et Baumgartner n'avaient pas d'espace : on peut y voir une part d'explication aux occasions manquées."
+  },
+  "en": {
+   "lead": "The biggest magnets in this match were Turkish midfielders. Salih Özcan drew 0.87 extra opponents per touch, Orkun Kökçü 0.76: whenever a Turk received in midfield, Austria's press closed in on him. For Austria, Marko Arnautović (0.68) and Christoph Baumgartner (0.63) also lived in a crowd.",
+   "keys": [
+    "Kenan Yildiz (0.66) completes the Turkish trio: the only Turkish forward regularly surrounded.",
+    "Romano Schmid (0.52) is the third Austrian on the list.",
+    "The three freest players are all Austrian: Philipp Lienhart (−0.82), Kevin Danso (−0.80) and Maximilian Wöber (−0.75)."
+   ],
+   "impact": "Turkey let Austria's defenders build, and it is probably no accident that Danso became the team's hub. Up front, though, Arnautović and Baumgartner had no space: that may explain part of the missed chances."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Autriche a produit 3,52 xT, près de cinq fois plus que la Turquie (0,71), et 2,70 rien qu'en deuxième mi-temps. Son créateur en chef est un latéral, Stefan Posch : 1,10 xT, soit 31 % de toute la menace autrichienne. La Turquie, elle, n'a pas produit un seul geste au-dessus de 0,07 xT : deux buts, presque sans menace balle au pied.",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Posch à la 84e minute, de 93 à 100 m (+0,37 xT), la minute d'une occasion de Baumgartner.",
+    "Alexander Prass, entré pour 50 minutes, produit 0,53 xT, dont une passe à +0,36 xT à la 94e minute.",
+    "Maximilian Wöber, défenseur, signe lui aussi un geste à +0,35 xT à la 91e minute : même les défenseurs s'en mêlaient.",
+    "Dès la 3e minute, Philipp Mwene lançait une passe à +0,35 xT : l'Autriche a attaqué d'entrée."
+   ],
+   "impact": "Toute la fin de match autrichienne a été un déluge de menace, avec trois des quatre gestes les plus dangereux entre la 84e et la 94e minute. La Turquie a survécu sans jamais reprendre la main, en défendant sa surface jusqu'au bout."
+  },
+  "en": {
+   "lead": "Austria produced 3.52 xT, almost five times as much as Turkey (0.71), and 2.70 in the second half alone. Their chief creator was a full-back, Stefan Posch: 1.10 xT, 31% of all of Austria's threat. Turkey did not produce a single action above 0.07 xT: two goals, with almost no threat built through passes or carries.",
+   "keys": [
+    "The most threatening action of the match is a Posch pass in minute 84, from 93 to 100 m (+0.37 xT), the minute of one of Baumgartner's chances.",
+    "Alexander Prass, on for 50 minutes, produced 0.53 xT, including a +0.36 xT pass in minute 94.",
+    "Maximilian Wöber, a defender, also had a +0.35 xT action in minute 91: even the defenders joined in.",
+    "As early as minute 3, Philipp Mwene played a +0.35 xT pass: Austria attacked from the start."
+   ],
+   "impact": "Austria's whole finish was a deluge of threat, with three of their four most dangerous actions between minutes 84 and 94. Turkey survived without ever regaining control, defending their box to the very end."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Stefan Posch confirme dans les classements ce qu'il a montré ce soir-là : il est 2e des 78 latéraux de l'Euro (note de 75), derrière João Cancelo. Philipp Mwene est 4e avec seulement 195 minutes. L'Autriche avait les latéraux parmi les mieux notés du tournoi, et Kevin Danso pointe au 5e rang des 30 défenseurs centraux.",
+   "keys": [
+    "Côté turc, Arda Güler est 11e des 49 attaquants, avec 1 but et 2 passes décisives, dont celle de ce match.",
+    "Ferdi Kadioglu est 13e des latéraux, avec 482 minutes jouées dans le tournoi.",
+    "Kaan Ayhan est 18e des 82 milieux.",
+    "Alexander Prass est 18e des latéraux avec 190 minutes."
+   ],
+   "impact": "Les latéraux autrichiens, si bien classés, ont fabriqué l'essentiel de la menace de leur équipe. Mais le joueur décisif du match, Demiral, n'apparaît dans aucun haut de classement : ce huitième s'est joué sur des gestes, pas sur des moyennes."
+  },
+  "en": {
+   "lead": "Stefan Posch's ranking confirms what he showed that night: he is 2nd of 78 full-backs at the Euro (score of 75), behind João Cancelo. Philipp Mwene is 4th with just 195 minutes. Austria had some of the best-rated full-backs of the tournament, and Kevin Danso sits 5th of 30 centre-backs.",
+   "keys": [
+    "For Turkey, Arda Güler is 11th of 49 forwards, with 1 goal and 2 assists, including the one in this match.",
+    "Ferdi Kadioglu is 13th among full-backs, with 482 minutes played in the tournament.",
+    "Kaan Ayhan is 18th of 82 midfielders.",
+    "Alexander Prass is 18th among full-backs with 190 minutes."
+   ],
+   "impact": "Austria's highly ranked full-backs produced most of their team's threat. But the decisive player of the match, Demiral, does not appear near the top of any ranking: this tie was settled by moments, not averages."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Kevin Danso fait sourire : Rúben Dias à l'Euro 2020, similaire à 98 %. Stefan Posch, lui, ressemble avant tout à un compatriote, C. Fuchs à l'Euro 2016 (91 %). Et Arda Güler partage son profil avec Ousmane Dembélé au Mondial 2022 et Nico Williams à l'Euro 2024 (88 % chacun).",
+   "keys": [
+    "Ferdi Kadioglu a pour premier jumeau Theo Hernández au Mondial 2022 (82 %).",
+    "Kaan Ayhan rappelle Ellyes Joris Skhiri au Mondial 2022 (91 %).",
+    "Florian Grillitsch ressemble à Aurélien Tchouaméni à l'Euro 2024 (88 %).",
+    "Philipp Lienhart se rapproche de Stefan de Vrij à l'Euro 2024 (90 %)."
+   ],
+   "impact": "Les jumeaux autrichiens sont des profils de relanceurs et de latéraux offensifs, cohérents avec une équipe qui a construit et attaqué en masse. Il lui a manqué ce que les profils ne mesurent pas : la réussite devant le but."
+  },
+  "en": {
+   "lead": "Kevin Danso's twin raises a smile: Rúben Dias at Euro 2020, 98% similar. Stefan Posch most resembles a compatriot, C. Fuchs at Euro 2016 (91%). And Arda Güler shares his profile with Ousmane Dembélé at the 2022 World Cup and Nico Williams at Euro 2024 (88% each).",
+   "keys": [
+    "Ferdi Kadioglu's first twin is Theo Hernández at the 2022 World Cup (82%).",
+    "Kaan Ayhan recalls Ellyes Joris Skhiri at the 2022 World Cup (91%).",
+    "Florian Grillitsch resembles Aurélien Tchouaméni at Euro 2024 (88%).",
+    "Philipp Lienhart is close to Stefan de Vrij at Euro 2024 (90%)."
+   ],
+   "impact": "Austria's twins are ball-playing defenders and attacking full-backs, consistent with a team that built and attacked in numbers. What they lacked is something profiles do not measure: luck in front of goal."
+  }
+ }
+}

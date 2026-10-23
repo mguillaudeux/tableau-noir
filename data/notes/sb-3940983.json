@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Premier match à élimination directe de l'Euro 2024 pour les deux équipes, et une Allemagne qui frappe à la porte toute la soirée : 15 tirs, 9 cadrés, 2,23 xG. Le Danemark tente 10 fois, mais ne cadre que 2 tirs. Le héros malheureux s'appelle Kasper Schmeichel, avec 7 arrêts. Et l'homme du match en volume, c'est Kai Havertz : 5 tirs, 1,61 xG, un penalty transformé et trois occasions envolées.",
+   "keys": [
+    "Havertz ouvre le score sur penalty à la 53e minute, puis manque une occasion à 0,42 xG à la 59e, hors cadre.",
+    "Jamal Musiala double la mise à la 68e (0,26 xG) ; Nico Schlotterbeck signe la passe décisive du match.",
+    "Hors penalty, l'Allemagne reste devant : 1,44 npxG contre 1,07, avec 13 passes clés contre 8.",
+    "Le tournant danois arrive à la 50e : Rasmus Höjlund, une frappe cadrée à 0,48 xG, trois minutes avant le penalty allemand."
+   ],
+   "impact": "Le Danemark a eu sa chance, la plus grosse du match même, juste avant que l'Allemagne ne prenne l'avantage. Ensuite, la domination allemande a fini par payer : avec 9 tirs cadrés, même un très bon Schmeichel ne pouvait pas tout arrêter."
+  },
+  "en": {
+   "lead": "Both teams' first knockout game of Euro 2024, and a Germany knocking on the door all evening: 15 shots, 9 on target, 2.23 xG. Denmark try 10 times but put only 2 on target. The unlucky hero is Kasper Schmeichel, with 7 saves. And the man of the match by volume is Kai Havertz: 5 shots, 1.61 xG, one penalty scored and three chances gone begging.",
+   "keys": [
+    "Havertz opens the scoring from the spot in minute 53, then misses a 0.42 xG chance off target in minute 59.",
+    "Jamal Musiala doubles the lead in minute 68 (0.26 xG); Nico Schlotterbeck provides the only assist of the match.",
+    "Without the penalty Germany are still ahead: 1.44 npxG to 1.07, with 13 key passes to 8.",
+    "Denmark's turning point comes in minute 50: Rasmus Höjlund, a 0.48 xG shot on target, three minutes before Germany's penalty."
+   ],
+   "impact": "Denmark had their chance, the biggest of the match in fact, just before Germany went ahead. After that, German dominance eventually paid off: with 9 shots on target, even an excellent Schmeichel could not stop everything."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Allemagne annonçait un 4-2-3-1 et a attaqué en 4-3-3 très haut : ses deux centraux, Schlotterbeck et Rüdiger, se tiennent à 48 et 49 m de leur but, presque à la ligne médiane. Kimmich monte à 66 m sur la droite, Raum longe la ligne gauche (4 m de la touche). Le Danemark, aligné en 3-4-2-1, attaque en 3-3-2-2 et défend en 3-3-4, avec Maehle collé à la ligne gauche lui aussi.",
+   "keys": [
+    "Avec le ballon, la dernière ligne allemande se tient à 44,1 m de son but, au-dessus de la moyenne de l'Euro (42,0 m).",
+    "Mais le bloc allemand est étroit : 28,0 m de largeur avec le ballon, contre 31,7 m en moyenne.",
+    "Le Danemark fait 26 % de ses touches dans le couloir gauche et seulement 12 % dans le demi-espace droit : tout passait par Maehle et Eriksen.",
+    "Côté allemand, le couloir droit pèse 23 % des touches, celui de Kimmich et Sané."
+   ],
+   "impact": "En jouant aussi haut et aussi serré, l'Allemagne a enfermé le Danemark dans sa moitié, au prix d'espaces dans son dos. Le côté gauche danois, face à la droite allemande, était la seule vraie porte de sortie des Danois."
+  },
+  "en": {
+   "lead": "Germany announced a 4-2-3-1 and attacked in a very high 4-3-3: their two centre-backs, Schlotterbeck and Rüdiger, stand 48 and 49 m from their goal, almost on the halfway line. Kimmich pushes up to 66 m on the right, Raum runs along the left touchline (4 m from it). Denmark, lined up in a 3-4-2-1, attack in a 3-3-2-2 and defend in a 3-3-4, with Maehle also glued to the left touchline.",
+   "keys": [
+    "In possession, Germany's back line sits 44.1 m from goal, above the Euro average (42.0 m).",
+    "But the German block is narrow: 28.0 m wide with the ball, against 31.7 m on average.",
+    "Denmark make 26% of their touches in the left lane and only 12% in the right half-space: everything went through Maehle and Eriksen.",
+    "For Germany, the right lane accounts for 23% of touches, home of Kimmich and Sané."
+   ],
+   "impact": "By playing so high and so tight, Germany locked Denmark in their own half, at the cost of space behind them. Denmark's left side, facing Germany's right, was their only real way out."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ici, les chiffres racontent une Allemagne qui ne court pas après le ballon, mais qui mord dès qu'elle le perd. Son PPDA de 34,8 est très élevé : elle laissait le Danemark faire tourner. Mais 28 % de ses pressions tombent juste après une perte, bien au-dessus de la moyenne de l'Euro (19 %). Le Danemark, lui, presse davantage en continu : 166 pressions, 4,5 par minute sans ballon.",
+   "keys": [
+    "Récupérations en moins de 5 s : 25 % des deux côtés, sous la moyenne de l'Euro (30 %).",
+    "L'Allemagne presse à 4,0 par minute sans ballon, légèrement sous la moyenne (4,2).",
+    "Récupérations hautes : 8 pour le Danemark, 6 pour l'Allemagne.",
+    "Après une perte, le Danemark met plus de 20 secondes à récupérer le ballon dans 39 % des cas : l'Allemagne savait garder le cuir."
+   ],
+   "impact": "L'Allemagne n'avait pas besoin de presser haut : avec 56 % de possession, elle défendait surtout en gardant le ballon. Le pressing danois, plus actif, n'a pas empêché l'Allemagne de dicter le rythme."
+  },
+  "en": {
+   "lead": "Here the numbers describe a Germany that does not chase the ball but bites the moment it loses it. Their PPDA of 34.8 is very high: they let Denmark pass it around. But 28% of their pressures come right after a loss, well above the Euro average (19%). Denmark press more continuously: 166 pressures, 4.5 per minute out of possession.",
+   "keys": [
+    "Balls regained within 5 s: 25% on both sides, below the Euro average (30%).",
+    "Germany press at 4.0 per minute out of possession, slightly below the average (4.2).",
+    "High regains: 8 for Denmark, 6 for Germany.",
+    "After a loss, Denmark take more than 20 seconds to win the ball back in 39% of cases: Germany knew how to keep it."
+   ],
+   "impact": "Germany did not need to press high: with 56% possession, they mostly defended by keeping the ball. Denmark's more active press did not stop Germany from setting the tempo."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Un huitième de finale entre deux des équipes les plus relationnistes de l'Euro : l'Allemagne est 1re sur 24, le Danemark 3e. Ce soir-là, l'Allemagne affiche +0,51 : 58 % de passes courtes, 40 % de combinaisons rapides, et 2,62 coéquipiers en moyenne autour du porteur. Au centre de la toile, Toni Kroos, impliqué dans 147 passes.",
+   "keys": [
+    "Le lien le plus utilisé du match : Rüdiger – Kimmich, 31 passes. Puis Schlotterbeck – Kroos (23).",
+    "Kimmich (115 passes) et Schlotterbeck (106) complètent le trio de carrefours allemands.",
+    "Le Danemark (+0,23) s'organise autour de Højbjerg (94 passes), Maehle (80) et Eriksen (74).",
+    "Le duo Maehle – Eriksen (21 passes) confirme que le jeu danois passait par la gauche."
+   ],
+   "impact": "Deux équipes qui aiment combiner, mais l'Allemagne l'a fait avec plus de monde et plus de rythme. Kroos en chef d'orchestre, entouré de partenaires proches, a permis à l'Allemagne de garder la main sur le match."
+  },
+  "en": {
+   "lead": "A round of 16 tie between two of the most relational teams of the Euro: Germany are 1st of 24, Denmark 3rd. On the night, Germany post +0.51: 58% short passes, 40% quick combinations, and 2.62 team-mates around the ball carrier on average. At the centre of the web, Toni Kroos, involved in 147 passes.",
+   "keys": [
+    "The busiest link of the match: Rüdiger – Kimmich, 31 passes. Then Schlotterbeck – Kroos (23).",
+    "Kimmich (115 passes) and Schlotterbeck (106) complete Germany's trio of hubs.",
+    "Denmark (+0.23) organise themselves around Højbjerg (94 passes), Maehle (80) and Eriksen (74).",
+    "The Maehle – Eriksen pairing (21 passes) confirms that Denmark's play went down the left."
+   ],
+   "impact": "Two teams who love to combine, but Germany did it with more bodies and more tempo. Kroos as the conductor, surrounded by close partners, kept Germany in control of the match."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Les transitions ont été l'arme des deux équipes, sans jamais faire mouche. L'Allemagne concède 3 tirs dans les 15 secondes suivant une perte, le Danemark 4 : 0,55 xG pour l'Allemagne, 0,64 pour le Danemark, soit plus du double de la moyenne de l'Euro (0,23). Le match aurait pu basculer sur un contre, dans un sens comme dans l'autre.",
+   "keys": [
+    "Le point faible allemand : le nombre de joueurs derrière le ballon baisse après la perte, de 5,8 à 4,8.",
+    "L'Allemagne ne reforme un bloc de 7 joueurs ou plus que dans 23 % des cas, sous la moyenne de l'Euro (36 %).",
+    "Le Danemark, plus discipliné, passe de 5,8 à 6,0 joueurs derrière le ballon et reforme son bloc dans 39 % des cas.",
+    "Exemple 360 dès la 3e minute : 1 seul Danois derrière le ballon à la perte, 9 quelques secondes plus tard."
+   ],
+   "impact": "L'Allemagne a pris des risques en attaquant aussi haut et a laissé des occasions au Danemark en transition. Ce n'est pas là que le match s'est décidé : aucun but n'est venu d'une transition, et l'Allemagne a fait la différence dans le jeu placé."
+  },
+  "en": {
+   "lead": "Transitions were both teams' weapon, without ever hitting the target. Germany concede 3 shots within 15 seconds of losing the ball, Denmark 4: 0.55 xG for Germany, 0.64 for Denmark, more than double the Euro average (0.23). The game could have turned on a counter, either way.",
+   "keys": [
+    "Germany's weak spot: the number of players behind the ball drops after the loss, from 5.8 to 4.8.",
+    "Germany rebuild a block of 7 or more players in only 23% of cases, below the Euro average (36%).",
+    "Denmark, more disciplined, go from 5.8 to 6.0 players behind the ball and rebuild their block in 39% of cases.",
+    "A 360 example as early as minute 3: just 1 Dane behind the ball at the loss, 9 a few seconds later."
+   ],
+   "impact": "Germany took risks by attacking so high and handed Denmark chances in transition. That is not where the game was decided: no goal came from a transition, and Germany made the difference in settled play."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "L'aimant de la soirée est Danois, et c'est un milieu : Thomas Delaney, avec 1,42 adversaire de plus que la normale autour de chacune de ses touches. C'est plus que la meilleure valeur de tout l'Euro sur l'ensemble du tournoi (Denis Dragus, 1,22). Rasmus Höjlund suit (1,17) : la défense allemande serrait de près le cœur du jeu danois.",
+   "keys": [
+    "Côté allemand, c'est Niclas Füllkrug qui attire le plus (0,93), devant Andrich (0,82) et Gündoğan (0,74).",
+    "Gündoğan est d'ailleurs l'un des cinq plus gros aimants de l'Euro, avec 1,01 sur le tournoi.",
+    "Christian Eriksen attire 0,90 adversaire de plus que la normale : le meneur danois ne respirait pas.",
+    "Les défenseurs avaient la paix : Andersen (−0,44), Rüdiger (−0,42) et Vestergaard (−0,36)."
+   ],
+   "impact": "Tout indique que l'Allemagne a voulu couper le Danemark de ses milieux en les entourant à chaque touche. Avec Delaney et Eriksen sous pression constante, les Danois ont eu du mal à construire, et ont surtout existé en transition."
+  },
+  "en": {
+   "lead": "The magnet of the evening is Danish, and a midfielder: Thomas Delaney, with 1.42 extra opponents around each of his touches. That is more than the best figure of the whole Euro over the tournament (Denis Dragus, 1.22). Rasmus Höjlund follows (1.17): Germany's defence stayed tight on the heart of Denmark's play.",
+   "keys": [
+    "For Germany, Niclas Füllkrug draws the most attention (0.93), ahead of Andrich (0.82) and Gündoğan (0.74).",
+    "Gündoğan is in fact one of the five biggest magnets of the Euro, at 1.01 over the tournament.",
+    "Christian Eriksen draws 0.90 extra opponents: Denmark's playmaker had no room to breathe.",
+    "The defenders were left in peace: Andersen (−0.44), Rüdiger (−0.42) and Vestergaard (−0.36)."
+   ],
+   "impact": "Everything suggests Germany set out to cut Denmark off from their midfielders by crowding them on every touch. With Delaney and Eriksen under constant pressure, Denmark struggled to build and mostly lived on transitions."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le meilleur créateur du match est Danois : Pierre-Emile Højbjerg, 0,33 xT, 22 % de toute la menace de son équipe. Côté allemand, la menace est éparpillée, et le premier créateur est... un défenseur central, Antonio Rüdiger (0,21 xT), à égalité avec Kai Havertz. Au total, les deux équipes sont proches : 1,59 xT pour l'Allemagne, 1,49 pour le Danemark.",
+   "keys": [
+    "Havertz crée tout en conduites de balle (0,25 xT) ; ses passes sont même légèrement négatives (−0,04).",
+    "Sa conduite de la 59e minute, de 62 à 95 m (+0,10 xT), précède sa grosse occasion manquée de la même minute.",
+    "Le Danemark se réveille après la pause (0,91 xT contre 0,59) ; la passe de Delaney à la 50e (+0,13 xT) précède l'occasion de Höjlund.",
+    "Rüdiger signe une longue passe de 57 à 94 m à la 10e minute (+0,10 xT) : la relance comme arme offensive."
+   ],
+   "impact": "La menace a été partagée, mais l'Allemagne l'a transformée en tirs cadrés, 9 contre 2. Le Danemark a eu sa meilleure période au début de la seconde mi-temps, juste avant que le penalty allemand ne change tout."
+  },
+  "en": {
+   "lead": "The best creator of the match is Danish: Pierre-Emile Højbjerg, 0.33 xT, 22% of all his team's threat. For Germany the threat is spread out, and their top creator is... a centre-back, Antonio Rüdiger (0.21 xT), level with Kai Havertz. Overall the teams are close: 1.59 xT for Germany, 1.49 for Denmark.",
+   "keys": [
+    "Havertz creates everything through carries (0.25 xT); his passes are even slightly negative (−0.04).",
+    "His carry in minute 59, from 62 to 95 m (+0.10 xT), comes just before his big miss in the same minute.",
+    "Denmark wake up after the break (0.91 xT against 0.59); Delaney's pass in minute 50 (+0.13 xT) comes just before Höjlund's chance.",
+    "Rüdiger plays a long pass from 57 to 94 m in minute 10 (+0.10 xT): build-up as an attacking weapon."
+   ],
+   "impact": "The threat was shared, but Germany turned theirs into shots on target, 9 to 2. Denmark had their best spell at the start of the second half, just before Germany's penalty changed everything."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Toni Kroos est le 2e meilleur milieu de l'Euro selon nos classements, sur 82, avec une note de 77, sans but ni passe décisive : la preuve que ce classement regarde bien plus loin que les statistiques de base. L'Allemagne place aussi trois attaquants dans le top 10 des 49 classés : Florian Wirtz (3e), Kai Havertz (8e) et Jamal Musiala (9e).",
+   "keys": [
+    "Musiala compte 3 buts sur le tournoi, Havertz 2 buts et 1 passe décisive, Wirtz 2 buts en 292 minutes.",
+    "Côté danois, Pierre-Emile Højbjerg est 7e des milieux (note de 74), Jannik Vestergaard 7e des 30 défenseurs centraux.",
+    "Kasper Schmeichel est 7e des 24 gardiens classés.",
+    "Antonio Rüdiger est classé parmi les latéraux (14e sur 78), comme Kimmich (11e)."
+   ],
+   "impact": "L'Allemagne avait plus de talent dans le haut des classements, et ce talent s'est vu dans la finition : deux buts, deux joueurs du top 10 des attaquants. Le Danemark, solide dans tous les compartiments, n'avait pas cet étage supérieur."
+  },
+  "en": {
+   "lead": "Toni Kroos is the Euro's 2nd best midfielder by our rankings, out of 82, with a score of 77, without a goal or an assist: proof that the rankings look far beyond the basic stats. Germany also place three forwards in the top 10 of 49: Florian Wirtz (3rd), Kai Havertz (8th) and Jamal Musiala (9th).",
+   "keys": [
+    "Musiala has 3 goals in the tournament, Havertz 2 goals and 1 assist, Wirtz 2 goals in 292 minutes.",
+    "For Denmark, Pierre-Emile Højbjerg is 7th among midfielders (score of 74), Jannik Vestergaard 7th of 30 centre-backs.",
+    "Kasper Schmeichel is 7th of 24 ranked goalkeepers.",
+    "Antonio Rüdiger is ranked among the full-backs (14th of 78), like Kimmich (11th)."
+   ],
+   "impact": "Germany had more talent at the top of the rankings, and it showed in the finishing: two goals, two players from the top 10 forwards. Denmark, solid in every department, lacked that extra floor."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Toni Kroos ? Bastian Schweinsteiger avec le Bayern Munich en finale de Ligue des champions, à 96 %. Un milieu allemand qui en rappelle un autre, dans la même façon de distribuer. Plus surprenant : Kai Havertz a deux jumeaux à 97 %, Lautaro Martínez au Mondial 2022 et Cristiano Ronaldo avec Manchester United en finale de Ligue des champions.",
+   "keys": [
+    "Jamal Musiala ressemble à Raheem Sterling à l'Euro 2020 (92 %), puis à Kylian Mbappé au Mondial 2022 (91 %).",
+    "Joshua Kimmich a pour jumeaux Luke Shaw (91 %), David Alaba (90 %) et... lui-même à l'Euro 2016 (89 %).",
+    "Antonio Rüdiger ressemble à 98 % à V. Berezutski à l'Euro 2016.",
+    "Côté danois, Pierre-Emile Højbjerg rappelle E. Dier à l'Euro 2016 (92 %)."
+   ],
+   "impact": "Les jumeaux dessinent une Allemagne bâtie autour d'un distributeur à l'ancienne et d'attaquants qui finissent. Dans ce match, Kroos a orienté le jeu et Havertz a eu les occasions : le profil a parlé, même si la finition a mis du temps."
+  },
+  "en": {
+   "lead": "Toni Kroos's twin? Bastian Schweinsteiger with Bayern Munich in a Champions League final, at 96%. One German midfielder recalling another, in the same way of distributing the ball. More surprising: Kai Havertz has two 97% twins, Lautaro Martínez at the 2022 World Cup and Cristiano Ronaldo with Manchester United in a Champions League final.",
+   "keys": [
+    "Jamal Musiala resembles Raheem Sterling at Euro 2020 (92%), then Kylian Mbappé at the 2022 World Cup (91%).",
+    "Joshua Kimmich's twins are Luke Shaw (91%), David Alaba (90%) and... himself at Euro 2016 (89%).",
+    "Antonio Rüdiger is 98% similar to V. Berezutski at Euro 2016.",
+    "For Denmark, Pierre-Emile Højbjerg recalls E. Dier at Euro 2016 (92%)."
+   ],
+   "impact": "The twins sketch a Germany built around an old-school distributor and forwards who finish. In this match Kroos directed play and Havertz got the chances: the profiles spoke, even if the finishing took its time."
+  }
+ }
+}

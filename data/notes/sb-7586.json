@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un huitième de Coupe du monde où la Suède a laissé le ballon à la Suisse et gardé les occasions pour elle. Les Suisses ont eu 65 % de possession, 615 passes contre 304 et 16 tirs contre 12, mais seulement 0,53 xG. La Suède en produit 0,91, et marque l'unique but à la 66e minute par Emil Forsberg, sur une frappe à 0,10 xG. La Suisse termine le match avec un carton rouge.",
+   "keys": [
+    "Les quatre plus grosses occasions manquées sont suédoises : Ekdal à la 41e (0,17 xG), Berg à la 8e et Toivonen à la 49e (0,13 chacun), puis Toivonen encore à la 97e (0,11, cadrée).",
+    "La Suisse obtient 11 corners, contre 3 : beaucoup de pression, peu de vraies occasions.",
+    "La Suède ne réussit que 66 % de ses passes : la conservation n'était visiblement pas sa priorité.",
+    "Ola Toivonen, 1 passe décisive et 2 passes clés : le relais de l'attaque suédoise.",
+    "Les Suédois dégagent 27 ballons, contre 13 pour les Suisses."
+   ],
+   "impact": "Le scénario a souri à la Suède : moins de ballon, plus de danger, et un écart d'xG de 0,38 en sa faveur. La Suisse a eu le contrôle, mais jamais le tranchant, et a fini par payer sur une frappe à 0,10 xG."
+  },
+  "en": {
+   "lead": "A World Cup round-of-16 tie in which Sweden handed Switzerland the ball and kept the chances for themselves. The Swiss had 65% possession, 615 passes to 304 and 16 shots to 12, but only 0.53 xG. Sweden produced 0.91, and scored the only goal in minute 66 through Emil Forsberg, from a 0.10 xG strike. Switzerland finished the match with a red card.",
+   "keys": [
+    "The four biggest misses are all Swedish: Ekdal in minute 41 (0.17 xG), Berg in minute 8 and Toivonen in minute 49 (0.13 each), then Toivonen again in minute 97 (0.11, on target).",
+    "Switzerland win 11 corners, against 3: lots of pressure, few real chances.",
+    "Sweden complete only 66% of their passes: keeping the ball was clearly not the priority.",
+    "Ola Toivonen, 1 assist and 2 key passes: the link man of Sweden's attack.",
+    "The Swedes make 27 clearances, against 13 for the Swiss."
+   ],
+   "impact": "The script suited Sweden: less of the ball, more danger, and an xG gap of 0.38 in their favour. Switzerland had control but never the cutting edge, and eventually paid for it with a 0.10 xG strike."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La Suisse, annoncée en 4-2-3-1, attaquait en 3-2-5 : Ricardo Rodríguez montait à 74 m de son but, à 4 m de la ligne gauche, avec Zuber juste à côté, et Shaqiri tenait la droite. Sans ballon, elle se repliait en 3-2-2-3. La Suède, en 4-4-2 sur le papier, se déployait en 3-3-4 avec le ballon, Augustinsson très haut à gauche (63 m), et défendait en 3-4-3.",
+   "keys": [
+    "Le côté gauche suisse (Rodríguez, Zuber) faisait face au côté droit suédois, où Lustig se tenait bien plus bas, à 46 m de son but.",
+    "La Suisse passe 22 % de ses touches dans le couloir gauche et 21 % dans le demi-espace gauche : c'était sa voie principale.",
+    "La Suède, malgré 35 % de possession, passe 29 % de ses touches dans le dernier tiers, plus que la Suisse (28 %).",
+    "Forsberg, à 73 m de son but et 15 m de la ligne gauche, était l'attaquant suédois le plus avancé."
+   ],
+   "impact": "La Suisse a mis beaucoup de monde devant, mais la Suède, peu à l'aise avec le ballon, n'avait pas besoin de le garder longtemps pour arriver dans le dernier tiers. Le schéma suisse, très offensif, pouvait l'exposer aux ballons rapides vers l'avant."
+  },
+  "en": {
+   "lead": "Switzerland, announced in a 4-2-3-1, attacked in a 3-2-5: Ricardo Rodríguez pushed up to 74 m from his goal, 4 m from the left touchline, with Zuber right next to him, and Shaqiri held the right. Without the ball they dropped into a 3-2-2-3. Sweden, a 4-4-2 on paper, spread into a 3-3-4 in possession, Augustinsson very high on the left (63 m), and defended in a 3-4-3.",
+   "keys": [
+    "Switzerland's left side (Rodríguez, Zuber) faced Sweden's right, where Lustig stayed much deeper, 46 m from his goal.",
+    "Switzerland spend 22% of their touches in the left lane and 21% in the left half-space: their main route.",
+    "Sweden, despite 35% possession, spend 29% of their touches in the final third, more than Switzerland (28%).",
+    "Forsberg, 73 m from his goal and 15 m from the left line, was Sweden's most advanced attacker."
+   ],
+   "impact": "Switzerland committed plenty of bodies forward, but Sweden, uncomfortable on the ball, did not need to keep it long to reach the final third. The very attacking Swiss shape could leave them exposed to quick balls forward."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le pressing suédois est un drôle de paradoxe. Avec 6,7 pressions par minute sans ballon, au-dessus de la moyenne du Mondial (5,6), et 282 pressions au total, la Suède a beaucoup couru. Mais son PPDA de 32,4 montre qu'elle laissait la Suisse enchaîner les passes : tout laisse penser qu'elle pressait pour fermer, pas pour récupérer. Et son contre-pressing est quasi inexistant, 8 % de ses pressions, contre 29 % pour la Suisse.",
+   "keys": [
+    "La Suisse, PPDA de 14,0, intervenait bien plus tôt dans les séquences adverses.",
+    "Hauteur des actions défensives : 49,2 m pour la Suisse, 43,7 m pour la Suède.",
+    "45 % des récupérations suédoises interviennent plus de 20 secondes après la perte : la Suède acceptait de défendre longtemps.",
+    "8 récupérations hautes de chaque côté, juste sous la moyenne du tournoi (8,7)."
+   ],
+   "impact": "Tout indique que la Suède défendait en reculant, en pressant le porteur sans chercher à lui prendre le ballon vite. Face à une Suisse qui contre-pressait fort mais concédait des occasions, ce pari de la patience a payé."
+  },
+  "en": {
+   "lead": "Sweden's press is a strange paradox. With 6.7 pressures per minute out of possession, above the World Cup average (5.6), and 282 pressures in total, Sweden ran a lot. But their PPDA of 32.4 shows they let Switzerland string passes together: everything suggests they pressed to close down, not to win the ball. And their counter-press was almost non-existent, 8% of their pressures, against 29% for Switzerland.",
+   "keys": [
+    "Switzerland, with a PPDA of 14.0, stepped in much earlier in their opponents' sequences.",
+    "Height of defensive actions: 49.2 m for Switzerland, 43.7 m for Sweden.",
+    "45% of Sweden's regains come more than 20 seconds after the loss: Sweden accepted defending for long spells.",
+    "8 high regains each, just below the tournament average (8.7)."
+   ],
+   "impact": "Everything suggests Sweden defended by retreating, pressing the ball carrier without trying to win it back quickly. Against a Swiss side that counter-pressed hard but still conceded chances, that patient approach paid off."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ce huitième opposait deux équipes positionnistes, mais à des degrés très différents. La Suisse l'est franchement (−0,67), 28e sur 32 au classement des plus relationnistes : 44 % de passes courtes seulement, et un réseau très structuré autour de Granit Xhaka (159 passes), Manuel Akanji (136) et Valon Behrami (129). La Suède (−0,26) a joué si peu qu'aucun joueur ne dépasse 39 passes dans son réseau.",
+   "keys": [
+    "Le duo le plus actif du match est suisse : Behrami – Akanji, 35 passes, devant Akanji – Djourou (33).",
+    "Le carrefour suédois est un attaquant, Emil Forsberg (39 passes), devant Lustig (36) et Lindelöf (33).",
+    "Côté suédois, Augustinsson – Forsberg (11) et Toivonen – Forsberg (10) : une bonne partie du jeu offensif passait par le buteur.",
+    "Sur le tournoi, la Suède est 16e sur 32 au classement relationniste."
+   ],
+   "impact": "La Suisse faisait tourner le ballon par ses défenseurs et son milieu, de façon très structurée, sans trouver de raccourci vers le but. La Suède, elle, allait vite vers Forsberg : moins de passes, mais plus directes, et c'est lui qui a marqué."
+  },
+  "en": {
+   "lead": "This round of 16 pitted two positional teams against each other, but to very different degrees. Switzerland are clearly positional (−0.67), 28th of 32 for relational play: only 44% short passes, and a highly structured network around Granit Xhaka (159 passes), Manuel Akanji (136) and Valon Behrami (129). Sweden (−0.26) played so little that no player exceeds 39 passes in their network.",
+   "keys": [
+    "The busiest pair of the match is Swiss: Behrami – Akanji, 35 passes, ahead of Akanji – Djourou (33).",
+    "Sweden's hub is a forward, Emil Forsberg (39 passes), ahead of Lustig (36) and Lindelöf (33).",
+    "For Sweden, Augustinsson – Forsberg (11) and Toivonen – Forsberg (10): much of the attacking play went through the scorer.",
+    "Over the tournament, Sweden rank 16th of 32 for relational play."
+   ],
+   "impact": "Switzerland moved the ball through their defenders and midfield in a very structured way, without finding a shortcut to goal. Sweden went quickly to Forsberg: fewer passes, but more direct, and he was the one who scored."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Les transitions, terrain de jeu attendu d'une Suède sans ballon, n'ont presque rien donné : la Suisse n'a concédé que 3 tirs dans les 15 secondes suivant une perte, pour 0,22 xG. La Suède, elle, n'a quasiment rien laissé : 1 seul tir en transition, pour 0,01 xG. Le but de Forsberg n'est pas né d'un contre.",
+   "keys": [
+    "0,01 xG concédé en transition par la Suède : la Suisse n'a jamais pu la punir sur une perte.",
+    "La Suisse perd 98 ballons en jeu ouvert, la Suède 82.",
+    "Les deux équipes sont sous la moyenne du Mondial en xG concédé en transition (0,28)."
+   ],
+   "impact": "La Suède a été irréprochable à la perte du ballon, et la Suisse n'a pas su exploiter ses rares ballons perdus en contre. Le match s'est donc joué sur attaque placée et sur une seule frappe réussie."
+  },
+  "en": {
+   "lead": "Transitions, the expected playground of a Sweden side without the ball, produced almost nothing: Switzerland conceded only 3 shots within 15 seconds of losing the ball, worth 0.22 xG. Sweden gave away almost nothing: a single transition shot, worth 0.01 xG. Forsberg's goal did not come from a counter.",
+   "keys": [
+    "0.01 xG conceded in transition by Sweden: Switzerland could never punish them on a loss.",
+    "Switzerland lose 98 balls in open play, Sweden 82.",
+    "Both teams sit below the World Cup average for transition xG conceded (0.28)."
+   ],
+   "impact": "Sweden were impeccable when losing the ball, and Switzerland failed to exploit their rare losses on the break. So the match was played out in settled possession, and decided by a single successful strike."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on parle ici d'attention reçue : les actions défensives adverses de plus que la normale pour 10 touches. Et un chiffre écrase tout : Breel Embolo, 6,65. Sur ce seul match, c'est même plus que le joueur le plus surveillé de tout le Mondial, Mehdi Taremi (5,35), même si une valeur sur un match se compare avec prudence à une moyenne de tournoi. Derrière lui, Josip Drmic (2,92) : les Suédois tombaient sur les attaquants suisses.",
+   "keys": [
+    "Côté suédois, Viktor Claesson (1,65) et Ola Toivonen (1,53) étaient les plus surveillés.",
+    "Ricardo Rodríguez (1,30) attirait lui aussi beaucoup de monde dans son couloir.",
+    "À l'opposé, trois Suédois laissés tranquilles : Lustig (−1,59), Granqvist (−1,22) et Lindelöf (−1,08).",
+    "Lustig, peu inquiété, est aussi le premier créateur de menace du match."
+   ],
+   "impact": "La Suède a concentré ses interventions sur les attaquants suisses, Embolo et Drmic en tête, et la Suisse n'a produit que 0,53 xG. Lustig, laissé libre, a pu créer de l'arrière : une défense qui a bien choisi ses cibles."
+  },
+  "en": {
+   "lead": "Without 360 data, this is attention received: extra opposition defensive actions per 10 touches. And one number dwarfs the rest: Breel Embolo, 6.65. In this single match, that is even higher than the most watched player of the entire World Cup, Mehdi Taremi (5.35), although a one-match value should be compared cautiously with a tournament average. Behind him, Josip Drmic (2.92): the Swedes pounced on Switzerland's forwards.",
+   "keys": [
+    "For Sweden, Viktor Claesson (1.65) and Ola Toivonen (1.53) drew the most attention.",
+    "Ricardo Rodríguez (1.30) also attracted plenty of company in his lane.",
+    "At the other end, three Swedes were left alone: Lustig (−1.59), Granqvist (−1.22) and Lindelöf (−1.08).",
+    "Lustig, barely bothered, was also the match's top threat creator."
+   ],
+   "impact": "Sweden focused their interventions on the Swiss forwards, Embolo and Drmic first, and Switzerland produced only 0.53 xG. Lustig, left alone, was free to create from deep: a defence that picked its targets well."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le geste le plus menaçant du match est l'œuvre d'un latéral suédois : Mikael Lustig, une passe à la 41e minute de 91 à 100 m (+0,37 xT), la minute de la grosse occasion manquée d'Ekdal. Lustig finit premier créateur du match (0,39 xT) et pèse 35 % de toute la menace suédoise. Sur l'ensemble, les deux équipes sont proches : 1,25 xT pour la Suisse, 1,11 pour la Suède.",
+   "keys": [
+    "Ricardo Rodríguez est le premier créateur suisse (0,37 xT, 30 % de son équipe), devant Xhaka (0,28) et Shaqiri (0,20).",
+    "La Suède crée surtout avant la pause (0,68 xT), la Suisse surtout après (0,67).",
+    "À la 49e minute, une passe d'Augustinsson de 85 à 99 m (+0,09 xT), la minute de l'occasion de Toivonen.",
+    "Côté suisse, les gestes les plus dangereux viennent des latéraux : Lang à la 6e, Rodríguez à la 86e (+0,14 xT chacun)."
+   ],
+   "impact": "Menace équilibrée, mais pas de même nature : la Suède a transformé sa menace en davantage d'xG (0,91 contre 0,53), la Suisse a buté sur la dernière passe. La seule frappe convertie, celle de Forsberg, a suffi."
+  },
+  "en": {
+   "lead": "The most threatening action of the match belongs to a Swedish full-back: Mikael Lustig, a pass in minute 41 from 91 to 100 m (+0.37 xT), the minute of Ekdal's big miss. Lustig ends up the top creator of the match (0.39 xT) and accounts for 35% of all of Sweden's threat. Overall, the two teams were close: 1.25 xT for Switzerland, 1.11 for Sweden.",
+   "keys": [
+    "Ricardo Rodríguez is Switzerland's top creator (0.37 xT, 30% of his team's), ahead of Xhaka (0.28) and Shaqiri (0.20).",
+    "Sweden created mostly before the break (0.68 xT), Switzerland mostly after it (0.67).",
+    "In minute 49, an Augustinsson pass from 85 to 99 m (+0.09 xT), the minute of Toivonen's chance.",
+    "For Switzerland, the most dangerous actions came from full-backs: Lang in minute 6, Rodríguez in minute 86 (+0.14 xT each)."
+   ],
+   "impact": "Balanced threat, but of a different kind: Sweden turned theirs into more xG (0.91 to 0.53), Switzerland stalled at the final pass. The only strike converted, Forsberg's, was enough."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les deux meilleurs joueurs du match selon les classements sont deux latéraux, et ils se suivent : Ricardo Rodríguez, 9e des 88 latéraux du Mondial (note de 70), et Mikael Lustig, 10e (69). Côté suédois, Andreas Granqvist est 5e des 40 défenseurs centraux, avec 2 buts dans le tournoi. Deux défenses à l'honneur, donc, avant même le coup d'envoi.",
+   "keys": [
+    "Xherdan Shaqiri est 9e des 68 attaquants, avec 1 but et 1 passe décisive.",
+    "Yann Sommer, 9e des 31 gardiens, devance nettement Robin Olsen (20e).",
+    "Granit Xhaka, carrefour du réseau suisse, n'est que 51e des 123 milieux.",
+    "Marcus Berg, 50e des 68 attaquants, n'a pas marqué en 435 minutes de tournoi."
+   ],
+   "impact": "Sur le papier, la Suisse avait les meilleurs profils offensifs et le meilleur gardien. Mais la Suède a gagné avec sa défense, emmenée par Granqvist et Lustig, et une seule frappe réussie : un match de défenseurs."
+  },
+  "en": {
+   "lead": "The two best players of the match by the rankings are both full-backs, and they sit side by side: Ricardo Rodríguez, 9th of the World Cup's 88 full-backs (score of 70), and Mikael Lustig, 10th (69). For Sweden, Andreas Granqvist is 5th of 40 centre-backs, with 2 goals in the tournament. Two defences in the spotlight, then, before a ball was kicked.",
+   "keys": [
+    "Xherdan Shaqiri is 9th of 68 forwards, with 1 goal and 1 assist.",
+    "Yann Sommer, 9th of 31 goalkeepers, ranks well ahead of Robin Olsen (20th).",
+    "Granit Xhaka, the hub of Switzerland's network, is only 51st of 123 midfielders.",
+    "Marcus Berg, 50th of 68 forwards, has not scored in 435 minutes at the tournament."
+   ],
+   "impact": "On paper, Switzerland had the better attacking profiles and the better goalkeeper. But Sweden won with their defence, led by Granqvist and Lustig, and a single successful strike: a defenders' match."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Xherdan Shaqiri est un nom qui pèse : Lionel Messi, version 2022, similaire à 91 %, puis Arjen Robben avec le Bayern Munich en finale de Ligue des champions (88 %) et Messi encore, version 2018 (87 %). Un créateur qui tire et fait jouer. Granit Xhaka, lui, ressemble à Rúben Neves au Mondial 2022 (97 %) et à Jorginho à l'Euro 2024 (95 %) : un relayeur qui distribue.",
+   "keys": [
+    "Valon Behrami a un jumeau presque parfait : Saša Lukić à l'Euro 2024 (99 %), puis Declan Rice (92 %).",
+    "Yann Sommer rappelle Mat Ryan, dans le même Mondial (97 %).",
+    "Andreas Granqvist se rapproche de T. Sivok (95 %) et de David Luiz avec Chelsea en finale de Ligue des champions (92 %).",
+    "Viktor Claesson est un profil rare : son plus proche voisin, Mehdi Taremi, ne lui ressemble qu'à 75 %."
+   ],
+   "impact": "La Suisse alignait des profils de grands distributeurs et un créateur au profil de Messi. Mais dans ce match, c'est la Suède, avec des profils moins clinquants, qui a eu le dernier mot."
+  },
+  "en": {
+   "lead": "Xherdan Shaqiri's twin is a heavyweight name: Lionel Messi, 2022 version, 91% similar, then Arjen Robben with Bayern Munich in a Champions League final (88%) and Messi again, 2018 version (87%). A creator who shoots and brings others into play. Granit Xhaka resembles Rúben Neves at the 2022 World Cup (97%) and Jorginho at Euro 2024 (95%): a distributing midfielder.",
+   "keys": [
+    "Valon Behrami has a near-perfect twin: Saša Lukić at Euro 2024 (99%), then Declan Rice (92%).",
+    "Yann Sommer recalls Mat Ryan at the same World Cup (97%).",
+    "Andreas Granqvist sits close to T. Sivok (95%) and David Luiz with Chelsea in a Champions League final (92%).",
+    "Viktor Claesson is a rare profile: his nearest neighbour, Mehdi Taremi, is only 75% similar."
+   ],
+   "impact": "Switzerland fielded great distributor profiles and a Messi-like creator. But in this match it was Sweden, with less glamorous profiles, who had the last word."
+  }
+ }
+}

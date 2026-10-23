@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale de Coupe du monde entre deux rescapés des tirs au but, et un vainqueur qui n'a pas eu besoin du ballon. La Croatie a eu 60 % de possession, 648 passes et 12 tirs. L'Argentine n'a tiré que 9 fois, mais 7 de ces tirs étaient cadrés, pour 1,86 xG contre 0,41. Trois buts, zéro but encaissé : l'efficacité à l'état pur.",
+   "keys": [
+    "La Croatie ne cadre que 2 tirs sur 12 et ne se crée aucune grosse occasion : beaucoup de ballon, très peu de danger.",
+    "Messi ouvre le score sur penalty à la 34e minute, puis délivre une passe décisive : 1 but, 1 passe décisive, 7 dribbles.",
+    "Julián Álvarez marque deux fois en 74 minutes, sur 2 tirs seulement (0,70 xG) : un taux de conversion parfait.",
+    "Hors penalty, l'Argentine reste devant : 1,08 npxG contre 0,41. Le penalty n'a fait qu'ouvrir une porte déjà entrouverte."
+   ],
+   "impact": "Le score de 3-0 est sévère pour une équipe qui a eu le ballon, mais pas injuste : la Croatie n'a jamais transformé sa possession en menace réelle. L'Argentine a frappé peu, juste et au bon moment, avec deux buts en cinq minutes avant la pause."
+  },
+  "en": {
+   "lead": "A World Cup semi-final between two penalty shoot-out survivors, and a winner who did not need the ball. Croatia had 60% possession, 648 passes and 12 shots. Argentina shot only 9 times, but 7 of those were on target, worth 1.86 xG to 0.41. Three scored, none conceded: efficiency in its purest form.",
+   "keys": [
+    "Croatia put only 2 of 12 shots on target and create no big chances: plenty of ball, very little danger.",
+    "Messi opens the scoring from the spot in minute 34, then adds an assist: 1 goal, 1 assist, 7 dribbles.",
+    "Julián Álvarez scores twice in 74 minutes from just 2 shots (0.70 xG): a perfect conversion rate.",
+    "Even without the penalty Argentina stay ahead: 1.08 npxG to 0.41. The spot kick only opened a door that was already ajar."
+   ],
+   "impact": "A 3-0 scoreline is harsh on a side that had the ball, but not unfair: Croatia never turned possession into real threat. Argentina struck rarely, accurately and at the right time, with two goals in five minutes before half-time."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Argentine annonçait un 4-4-2. Avec le ballon, elle se range en 4-5-1, Álvarez seul en pointe à 80 m de son but et Messi qui décroche à 61 m, dans le demi-espace droit. Sans le ballon, surprise : un 4-2-4, avec quatre joueurs laissés devant. La Croatie, annoncée en 4-3-3, attaque en 3-4-3 : Brozović descend entre les centraux (48 m), Sosa et Juranović montent en pistons à 56 m.",
+   "keys": [
+    "Tagliafico est l'Argentin le plus haut après Álvarez : 66 m de son but, à 6 m de la ligne. Le côté gauche argentin, c'était lui tout seul.",
+    "La Croatie joue très large avec le ballon : 35,9 m entre ses extrêmes, contre 31,7 m en moyenne dans le tournoi.",
+    "Sans ballon, la dernière ligne croate tient à 34,2 m de son but, bien plus haut que la moyenne (28,4 m) et que l'Argentine (28,3 m).",
+    "La Croatie passe 24 % de ses touches dans le couloir gauche, celui de Perišić et Sosa, tous deux à 7 m de la ligne."
+   ],
+   "impact": "Une ligne défensive croate aussi haute laissait un grand espace dans son dos, et ce n'est sans doute pas un hasard si l'Argentine a marqué en courant vers le but. Le 4-2-4 argentin sans ballon, lui, gardait quatre joueurs prêts à partir dès la récupération."
+  },
+  "en": {
+   "lead": "Argentina announced a 4-4-2. In possession they line up in a 4-5-1, Álvarez alone up front 80 m from his own goal and Messi dropping to 61 m, in the right half-space. Out of possession, surprise: a 4-2-4, with four players left up the pitch. Croatia, announced in a 4-3-3, attack in a 3-4-3: Brozović drops between the centre-backs (48 m), Sosa and Juranović push up as wing-backs at 56 m.",
+   "keys": [
+    "Tagliafico is the highest Argentine after Álvarez: 66 m from his goal, 6 m from the touchline. Argentina's left flank was him and him alone.",
+    "Croatia play very wide in possession: 35.9 m between their outermost players, against 31.7 m on average in the tournament.",
+    "Without the ball, Croatia's back line holds at 34.2 m from goal, far higher than the average (28.4 m) and than Argentina (28.3 m).",
+    "Croatia make 24% of their touches in the left lane, home of Perišić and Sosa, both 7 m from the line."
+   ],
+   "impact": "A Croatian back line that high left a lot of grass behind it, and it is probably no coincidence that Argentina scored by running at goal. Argentina's 4-2-4 without the ball kept four players ready to go the moment they won it back."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Celle qui avait le moins le ballon a été celle qui a le plus pressé. L'Argentine aligne 192 pressions, 4,6 par minute sans ballon, au-dessus de la moyenne du tournoi (3,7). La Croatie n'en compte que 98, 3,5 par minute. Les deux PPDA restent pourtant proches (17,0 et 18,1) : l'Argentine pressait beaucoup, mais sans chercher à récupérer tout de suite.",
+   "keys": [
+    "Contre-pressing argentin à 18 %, sous la moyenne du tournoi (21 %) : après une perte, les Argentins préféraient se replacer.",
+    "Résultat : seulement 24 % de récupérations en moins de 5 s, et 39 % des ballons perdus restent plus de 20 secondes chez les Croates.",
+    "La Croatie récupère un peu plus vite (29 % en moins de 5 s), mais défend plus bas : 43,8 m de hauteur moyenne, contre 47,1 m pour l'Argentine.",
+    "Récupérations hautes quasi identiques : 10 pour l'Argentine, 9 pour la Croatie."
+   ],
+   "impact": "L'Argentine a accepté de laisser le ballon, mais pas de laisser jouer : un pressing actif dans son camp, sans se jeter. La Croatie a fait tourner, sans jamais trouver le moyen de transpercer ce bloc qui pressait sans se découvrir."
+  },
+  "en": {
+   "lead": "The side with less of the ball pressed the most. Argentina log 192 pressures, 4.6 per minute out of possession, above the tournament average (3.7). Croatia manage only 98, 3.5 per minute. Yet the two PPDAs are close (17.0 and 18.1): Argentina pressed a lot, but without trying to win the ball back straight away.",
+   "keys": [
+    "Argentina's counter-press sits at 18%, below the tournament average (21%): after losing the ball, they preferred to get back into shape.",
+    "Result: only 24% of balls regained within 5 s, and 39% of lost balls stay with Croatia for more than 20 seconds.",
+    "Croatia win it back slightly faster (29% within 5 s) but defend deeper: an average height of 43.8 m, against 47.1 m for Argentina.",
+    "Almost identical high regains: 10 for Argentina, 9 for Croatia."
+   ],
+   "impact": "Argentina were happy to concede the ball, but not to let Croatia play: an active press in their own half, without lunging in. Croatia kept circulating without ever finding a way through a block that pressed without exposing itself."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur ce match, l'Argentine affiche un indice relationniste de +1,16, plus élevé que celui de l'Arabie saoudite, l'équipe la plus relationniste du tournoi sur l'ensemble de la compétition. Deux passes sur trois sont courtes (67 %), 40 % sont des combinaisons rapides. Et le réseau ne passe pas par les défenseurs : Enzo Fernandez (77 passes), De Paul (65) et Messi (62) forment le triangle central.",
+   "keys": [
+    "Côté argentin, le lien le plus utilisé est Molina – De Paul (19 passes), puis Molina – Messi (15) : le côté droit était la salle des machines.",
+    "La Croatie est pourtant plus relationniste que l'Argentine sur le tournoi : 8e sur 32, contre 11e.",
+    "Le cœur croate bat au milieu : Kovačić impliqué dans 146 passes, Modrić dans 115, et 38 passes entre eux deux.",
+    "La Croatie occupe 3,74 couloirs en moyenne autour du ballon, contre 3,48 pour l'Argentine : elle jouait plus large, l'Argentine plus serré."
+   ],
+   "impact": "L'Argentine a moins touché le ballon, mais chaque possession était une suite de petits triangles autour de Messi. Ce jeu court et resserré lui a permis de sortir du pressing croate et de lancer Álvarez dans les espaces."
+  },
+  "en": {
+   "lead": "In this match Argentina post a relational index of +1.16, higher than that of Saudi Arabia, the tournament's most relational team over the whole competition. Two passes in three are short (67%), 40% are quick combinations. And the network does not run through defenders: Enzo Fernandez (77 passes), De Paul (65) and Messi (62) form the central triangle.",
+   "keys": [
+    "For Argentina, the busiest link is Molina – De Paul (19 passes), then Molina – Messi (15): the right side was the engine room.",
+    "Yet Croatia are more relational than Argentina over the tournament: 8th of 32, against 11th.",
+    "Croatia's heartbeat is in midfield: Kovačić involved in 146 passes, Modrić in 115, and 38 passes between the two.",
+    "Croatia occupy 3.74 lanes on average around the ball, against 3.48 for Argentina: Croatia played wider, Argentina tighter."
+   ],
+   "impact": "Argentina touched the ball less, but every possession was a chain of little triangles around Messi. That short, tight game let them escape Croatia's press and send Álvarez into space."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le deuxième but argentin est né d'une transition, et il a tué le match. À la 39e minute, Álvarez marque juste après une perte croate. Au total, la Croatie ne concède que 2 tirs dans les 15 secondes suivant une perte, mais pour 0,38 xG, au-dessus de la moyenne du tournoi (0,27). L'Argentine, elle, n'en concède qu'un, pour 0,01 xG.",
+   "keys": [
+    "Exemple 360 à la 49e minute : 0 Croate derrière le ballon au moment de la perte, 9 quelques secondes plus tard. Le repli est spectaculaire, mais il part de très loin.",
+    "En moyenne, la Croatie perd le ballon avec 4,8 joueurs derrière lui et en remet 6,4 six à dix secondes après.",
+    "Les Argentins sont déjà en place : 6,2 joueurs derrière le ballon à la perte, et un bloc de 7 ou plus reformé dans 52 % des cas.",
+    "La Croatie reforme son bloc dans 56 % des cas, presque deux fois la moyenne du tournoi (29 %) : elle courait, mais souvent trop tard."
+   ],
+   "impact": "Avec une dernière ligne haute et peu de joueurs derrière le ballon au moment de la perte, la Croatie s'exposait à chaque ballon perdu. Une seule transition a suffi à l'Argentine pour doubler la mise, et à la pause le match était plié."
+  },
+  "en": {
+   "lead": "Argentina's second goal came from a transition, and it killed the game. In minute 39, Álvarez scores just after a Croatian loss. In total Croatia concede only 2 shots within 15 seconds of losing the ball, but worth 0.38 xG, above the tournament average (0.27). Argentina concede just one, worth 0.01 xG.",
+   "keys": [
+    "A 360 example in minute 49: 0 Croatians behind the ball at the moment of the loss, 9 a few seconds later. A spectacular recovery run, but from a long way back.",
+    "On average Croatia lose the ball with 4.8 players behind it and get 6.4 back six to ten seconds later.",
+    "Argentina are already in place: 6.2 players behind the ball at the loss, and a block of 7 or more rebuilt in 52% of cases.",
+    "Croatia rebuild their block in 56% of cases, almost twice the tournament average (29%): they did run back, but often too late."
+   ],
+   "impact": "With a high back line and few players behind the ball when it was lost, Croatia were exposed every time they gave it away. One transition was enough for Argentina to double their lead, and by half-time the game was settled."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Messi aimantait la défense croate comme personne : 1,16 adversaire de plus que la normale autour de chacune de ses touches. C'est exactement la valeur de Lautaro Martínez, 5e plus gros aimant de tout le tournoi. Côté croate, Bruno Petković le talonne (1,15), suivi de Kramarić (0,99) : la défense argentine serrait de près les attaquants adverses.",
+   "keys": [
+    "Álvarez attire 0,84 défenseur de plus que la normale, Dybala 0,89 : derrière Messi, l'Argentine avait d'autres aimants.",
+    "Mario Pašalić (0,81) complète le trio croate : la Croatie était surveillée devant, mais libre derrière.",
+    "Les plus tranquilles : Lovren (−0,64), Otamendi (−0,60) et Juranović (−0,50). Les relanceurs avaient toute la place voulue.",
+    "Messi réussit 7 dribbles malgré cette attention : être entouré ne l'empêchait pas de passer."
+   ],
+   "impact": "La gravité de Messi a ouvert des espaces pour les autres : quand la défense se resserrait sur lui, Álvarez trouvait de la place pour conduire. Les deux buts de l'avant-centre sont, d'une certaine façon, aussi ceux du numéro 10."
+  },
+  "en": {
+   "lead": "Messi pulled Croatia's defence like nobody else: 1.16 extra opponents around each of his touches. That is exactly the figure of Lautaro Martínez, the 5th biggest magnet of the whole tournament. For Croatia, Bruno Petković is right behind him (1.15), followed by Kramarić (0.99): Argentina's defence stayed tight on the Croatian forwards.",
+   "keys": [
+    "Álvarez draws 0.84 extra defenders, Dybala 0.89: behind Messi, Argentina had other magnets.",
+    "Mario Pašalić (0.81) completes the Croatian trio: Croatia were watched up front but left alone at the back.",
+    "The quietest afternoons: Lovren (−0.64), Otamendi (−0.60) and Juranović (−0.50). The ball-players at the back had all the space they wanted.",
+    "Messi completes 7 dribbles despite all that attention: being surrounded did not stop him getting through."
+   ],
+   "impact": "Messi's gravity opened space for others: when the defence closed in on him, Álvarez found room to carry the ball. In a sense, the centre-forward's two goals also belong to the number 10."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le plus grand créateur de menace du match n'est pas Messi, mais Julián Álvarez : 0,53 xT, dont 0,50 en conduites de balle. Un attaquant qui crée en portant le ballon, pas en le passant. Messi suit avec 0,47 xT, et signe le geste le plus menaçant de la soirée : une passe à la 69e minute (+0,27 xT), tout près de la ligne de but, la minute même du deuxième but d'Álvarez.",
+   "keys": [
+    "Álvarez produit 34 % de toute la menace argentine, Messi 30 % : à eux deux, presque tout.",
+    "Sa conduite de la 39e minute (+0,24 xT) précède son premier but, marqué la même minute.",
+    "La Croatie produit 1,15 xT contre 1,55 pour l'Argentine, et son geste le plus menaçant ne dépasse pas +0,13 xT (une passe de Vlašić à la 58e).",
+    "Kovačić est le créateur croate principal : 0,35 xT, 31 % de la menace de son équipe."
+   ],
+   "impact": "La Croatie a progressé (0,79 xT après la pause contre 0,35 avant), mais trop tard et sans gestes décisifs. L'Argentine a concentré sa menace sur deux joueurs, et ces deux joueurs ont marqué les trois buts."
+  },
+  "en": {
+   "lead": "The biggest threat creator of the match is not Messi but Julián Álvarez: 0.53 xT, 0.50 of it from carries. A forward who creates by running with the ball, not by passing it. Messi follows with 0.47 xT and produces the most threatening action of the night: a pass in minute 69 (+0.27 xT) from right by the byline, the very minute of Álvarez's second goal.",
+   "keys": [
+    "Álvarez produces 34% of all of Argentina's threat, Messi 30%: between them, almost everything.",
+    "His carry in minute 39 (+0.24 xT) comes just before his first goal, scored in the same minute.",
+    "Croatia produce 1.15 xT against 1.55 for Argentina, and their most threatening action reaches only +0.13 xT (a Vlašić pass in minute 58).",
+    "Kovačić is Croatia's main creator: 0.35 xT, 31% of his team's threat."
+   ],
+   "impact": "Croatia did improve (0.79 xT after the break against 0.35 before), but too late and without decisive actions. Argentina concentrated their threat on two players, and those two players scored all three goals."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur l'ensemble du tournoi, cette demi-finale opposait la deuxième meilleure note des attaquants, Lionel Messi (2e sur 77, 7 buts et 3 passes décisives), à l'un des milieux les plus complets : Mateo Kovačić, 3e sur 97. Et dans les cages croates, Dominik Livaković figure parmi l'élite : 3e des 32 gardiens classés, note de 80. Même battu trois fois, il reste un des meilleurs du tournoi.",
+   "keys": [
+    "Leandro Paredes est 1er des milieux avec une note de 82, en seulement 235 minutes : le classement récompense l'intensité plus que le volume.",
+    "Mislav Oršić est 6e des attaquants avec 1 but et 2 passes décisives en 187 minutes : un rendement énorme pour si peu de temps de jeu.",
+    "Joško Gvardiol, 8e des 42 défenseurs centraux, a joué les 720 minutes du tournoi.",
+    "Modrić n'est que 27e des milieux (note de 60), juste derrière Enzo Fernandez (26e)."
+   ],
+   "impact": "La Croatie avait plusieurs joueurs dans le haut des classements, mais l'Argentine avait celui qui fait la différence devant. Dans un match où l'Argentine a peu tiré, c'est ce talent concentré qui a converti presque chaque occasion."
+  },
+  "en": {
+   "lead": "Across the whole tournament, this semi-final pitted the second-best forward by score, Lionel Messi (2nd of 77, 7 goals and 3 assists), against one of the most complete midfielders: Mateo Kovačić, 3rd of 97. And in Croatia's goal, Dominik Livaković sits among the elite: 3rd of 32 ranked goalkeepers, a score of 80. Even beaten three times, he remains one of the best of the tournament.",
+   "keys": [
+    "Leandro Paredes is 1st among midfielders with a score of 82 in only 235 minutes: the ranking rewards intensity more than volume.",
+    "Mislav Oršić is 6th among forwards with 1 goal and 2 assists in 187 minutes: huge output for so little playing time.",
+    "Joško Gvardiol, 8th of 42 centre-backs, played all 720 minutes of the tournament.",
+    "Modrić is only 27th among midfielders (score of 60), just behind Enzo Fernandez (26th)."
+   ],
+   "impact": "Croatia had several players high in the rankings, but Argentina had the one who makes the difference up front. In a match where Argentina shot so rarely, that concentrated talent converted almost every chance."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Mateo Kovačić ? Luka Modrić, avec le Real Madrid en finale de Ligue des champions, similaire à 94 %. Le Croate ressemble statistiquement à son propre partenaire du milieu, et on peut y voir une raison des 38 passes échangées entre eux. Et Modrić, lui, rappelle Éver Banega au Mondial 2018 (95 %) puis Toni Kroos à l'Euro 2020 (92 %) : la famille des métronomes.",
+   "keys": [
+    "Dominik Livaković est le jumeau quasi parfait de Marc-André ter Stegen en finale de Ligue des champions : 99 %.",
+    "Dejan Lovren ressemble à Virgil van Dijk, version Mondial 2022 (98 %) puis Euro 2024 (97 %) : un central qui relance beaucoup.",
+    "Joško Gvardiol a pour jumeau Mykola Matvienko à l'Euro 2020 (97 %), devant Rúben Dias (93 %).",
+    "Alexis MacAllister est un profil à part : son jumeau le plus proche, Fernandinho au Mondial 2018, ne lui ressemble qu'à 78 %."
+   ],
+   "impact": "Les jumeaux dessinent une Croatie de techniciens, avec des milieux faits pour garder le ballon et des centraux faits pour le relancer. C'est exactement ce qu'elle a fait, 648 passes à l'appui, sans trouver la clé face à une Argentine plus tranchante."
+  },
+  "en": {
+   "lead": "Mateo Kovačić's twin? Luka Modrić, with Real Madrid in a Champions League final, 94% similar. The Croatian is statistically close to his own midfield partner, which may help explain the 38 passes they exchanged. Modrić in turn recalls Éver Banega at the 2018 World Cup (95%) and Toni Kroos at Euro 2020 (92%): the metronome family.",
+   "keys": [
+    "Dominik Livaković is an almost perfect twin of Marc-André ter Stegen in a Champions League final: 99%.",
+    "Dejan Lovren resembles Virgil van Dijk, the 2022 World Cup version (98%) and the Euro 2024 version (97%): a centre-back who builds a lot.",
+    "Joško Gvardiol's twin is Mykola Matvienko at Euro 2020 (97%), ahead of Rúben Dias (93%).",
+    "Alexis MacAllister is a one-off: his closest twin, Fernandinho at the 2018 World Cup, is only 78% similar."
+   ],
+   "impact": "The twins sketch a Croatia of technicians, midfielders built to keep the ball and centre-backs built to play it out. That is exactly what they did, 648 passes to prove it, without finding the key against a sharper Argentina."
+  }
+ }
+}

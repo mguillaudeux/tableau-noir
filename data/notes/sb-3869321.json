@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un quart de finale en forme de montagnes russes. L'Argentine, sortie de son huitième contre l'Australie (2-1), mène 2-0 à la 73e minute et pèse 1,94 xG contre 0,57 : sur le papier, l'affaire est pliée. Puis Wout Weghorst, entré pour 43 minutes, marque à la 83e et à la 101e avec deux tirs valant 0,27 xG au total. Les Pays-Bas, tombeurs des États-Unis (3-1) au tour précédent, arrachent la prolongation ; l'Argentine passe aux tirs au but, 4-3.",
+   "keys": [
+    "Lionel Messi a tout fait : 1 but sur penalty, 1 passe décisive, 6 tirs, 6 dribbles et 1,01 xG à lui seul.",
+    "Le premier but de Weghorst ne pèse que 0,05 xG : une frappe que le modèle jugeait presque sans espoir.",
+    "Grosses occasions : 2 pour l'Argentine, aucune pour les Pays-Bas, qui marquent pourtant deux fois.",
+    "La dernière balle de match argentine : Lautaro Martínez à la 114e minute, 0,23 xG, hors cadre.",
+    "Un match haché : 37 fautes néerlandaises, 22 argentines, et 8 cartons jaunes pour l'Argentine contre 5."
+   ],
+   "impact": "L'Argentine a été nettement supérieure dans la qualité des occasions, même hors penalty (1,16 npxG contre 0,57). Mais les Pays-Bas ont converti presque tout ce qu'ils ont eu, et il a fallu les tirs au but pour rétablir la logique des xG."
+  },
+  "en": {
+   "lead": "A quarter-final shaped like a rollercoaster. Argentina, through after beating Australia 2-1, lead 2-0 in minute 73 and are worth 1.94 xG to 0.57: on paper, it is done. Then Wout Weghorst, on for 43 minutes, scores in minute 83 and minute 101 from two shots worth 0.27 xG in total. The Netherlands, who knocked out the United States 3-1 in the previous round, drag it to extra time; Argentina go through on penalties, 4-3.",
+   "keys": [
+    "Lionel Messi did everything: 1 penalty goal, 1 assist, 6 shots, 6 dribbles and 1.01 xG on his own.",
+    "Weghorst's first goal is worth just 0.05 xG: a shot the model rated as almost hopeless.",
+    "Big chances: 2 for Argentina, none for the Netherlands, who still scored twice.",
+    "Argentina's last match point: Lautaro Martínez in minute 114, 0.23 xG, off target.",
+    "A choppy night: 37 Dutch fouls to Argentina's 22, and 8 yellow cards for Argentina against 5."
+   ],
+   "impact": "Argentina were clearly better on chance quality, even without the penalty (1.16 npxG to 0.57). But the Netherlands converted almost everything they got, and it took a shoot-out to restore the logic of the xG."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Duel de défenses à trois, mais pas de miroir. Les Pays-Bas, annoncés en 3-4-1-2, s'étalaient en 3-3-3-1 avec deux pistons collés aux lignes : Daley Blind à 5 m de la touche gauche, Denzel Dumfries à 63 m, soit tout contre la droite. L'Argentine passait en 3-2-4-1 avec le ballon et se transformait en 4-2-2-2 sans lui. Et surtout, elle penchait franchement à droite : 28 % de ses touches dans ce couloir, 11 % seulement à gauche.",
+   "keys": [
+    "Côté droit argentin, un vrai quartier général : Molina (63 m de la touche gauche), De Paul (58 m), Romero (62 m) et Messi juste à l'intérieur (48 m).",
+    "Ce côté droit faisait face au flanc gauche néerlandais, celui de Blind, Aké et Gakpo : ce n'est sans doute pas un hasard si l'ouverture du score est venue de Molina, le piston droit.",
+    "Les Pays-Bas occupent 35,6 m de largeur avec le ballon, bien plus que la moyenne du tournoi (31,7 m) : un bloc étiré d'une ligne à l'autre.",
+    "Sans ballon, les deux dernières lignes se tiennent à peu près à la même hauteur : 30,4 m pour les Pays-Bas, 31,1 m pour l'Argentine (moyenne : 28,4 m)."
+   ],
+   "impact": "Le déséquilibre argentin vers la droite a payé une fois, à la 35e minute, quand Molina a surgi de son couloir. Tout indique que l'Argentine cherchait à surcharger ce côté autour de Messi, quitte à laisser l'autre flanc presque vide."
+  },
+  "en": {
+   "lead": "A duel of back threes, but no mirror image. The Netherlands, announced in a 3-4-1-2, spread out into a 3-3-3-1 with two wing-backs hugging the lines: Daley Blind 5 m from the left touchline, Denzel Dumfries at 63 m, right up against the other one. Argentina became a 3-2-4-1 in possession and a 4-2-2-2 without it. Above all, they leaned hard to the right: 28% of their touches in that lane, only 11% on the left.",
+   "keys": [
+    "Argentina's right was a full-blown headquarters: Molina (63 m from the left touchline), De Paul (58 m), Romero (62 m) and Messi just inside (48 m).",
+    "That right side faced the Dutch left, home to Blind, Aké and Gakpo: it is probably no accident that the opener came from Molina, the right wing-back.",
+    "The Netherlands cover 35.6 m of width in possession, well above the tournament average (31.7 m): a block stretched from line to line.",
+    "Out of possession, both back lines sit at roughly the same height: 30.4 m for the Netherlands, 31.1 m for Argentina (average: 28.4 m)."
+   ],
+   "impact": "Argentina's lean to the right paid off once, in minute 35, when Molina burst out of his lane. Everything suggests Argentina wanted to overload that side around Messi, even if it left the other flank almost empty."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Les Pays-Bas ont davantage mordu : PPDA de 11,6 contre 27,9, et 4,6 pressions par minute sans ballon, au-dessus de la moyenne du tournoi (3,7). L'Argentine, elle, attendait plus volontiers, sans pour autant reculer : ses actions défensives se situent à 46,2 m de son but, à peine plus bas que celles des Néerlandais (47,8 m). Curiosité : aucune des deux équipes ne contre-pressait vraiment.",
+   "keys": [
+    "Contre-pressing néerlandais : 12 % des pressions seulement, très loin de la moyenne du tournoi (21 %).",
+    "Ce qui n'empêche pas les Pays-Bas de récupérer 60 % de leurs ballons perdus en moins de 10 secondes, contre 48 % pour l'Argentine.",
+    "Récupérations hautes : 9 pour l'Argentine, pile dans la moyenne, et 6 seulement pour les Pays-Bas.",
+    "Côté argentin, 31 % des ballons perdus ne sont récupérés qu'au-delà de 20 secondes : quand elle perdait le ballon, l'Argentine le laissait souvent filer."
+   ],
+   "impact": "Plus de pression néerlandaise, mais peu de ballons volés haut : ce pressing a surtout gêné l'Argentine sans la mettre en danger. On peut y voir une raison de la menace argentine quasi nulle en deuxième mi-temps, le moment où les Pays-Bas ont repris le match."
+  },
+  "en": {
+   "lead": "The Netherlands bit harder: a PPDA of 11.6 against 27.9, and 4.6 pressures per minute out of possession, above the tournament average (3.7). Argentina were happier to wait, without dropping deep: their defensive actions sit 46.2 m from goal, barely lower than the Dutch (47.8 m). The odd part: neither side really counter-pressed.",
+   "keys": [
+    "Dutch counter-pressing: only 12% of their pressures, far below the tournament average (21%).",
+    "That still did not stop the Netherlands winning back 60% of lost balls within 10 seconds, against 48% for Argentina.",
+    "High regains: 9 for Argentina, right on the average, and only 6 for the Netherlands.",
+    "For Argentina, 31% of lost balls were only won back after more than 20 seconds: when they lost it, they often let it go."
+   ],
+   "impact": "More Dutch pressure, but few balls stolen high up: the press bothered Argentina without really endangering them. It may help explain Argentina's almost non-existent threat in the second half, exactly when the Netherlands got back into the game."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Les Pays-Bas ont joué ce quart en équipe de postes : indice de −0,74, 46 % de passes courtes seulement (moyenne : 53 %), et un réseau entièrement construit autour de Virgil van Dijk. Le capitaine néerlandais est le carrefour du match (140 passes), avec ses deux voisins de défense pour partenaires favoris. L'Argentine (−0,46), 11e équipe la plus relationniste du tournoi, jouait un peu plus serrée autour du ballon : 2,33 coéquipiers proches du porteur contre 2,1.",
+   "keys": [
+    "Les trois duos les plus actifs côté néerlandais passent tous par Van Dijk : Timber (38 passes), Aké (37) et Frenkie de Jong (34).",
+    "Côté argentin, le carrefour est Otamendi (110 passes), devant Enzo Fernandez et De Paul (85 chacun).",
+    "Le duo Molina – De Paul (21 passes) confirme l'importance du couloir droit dans la construction argentine.",
+    "Latitude latérale argentine : 10,5 m, nettement sous la moyenne du tournoi (13,0 m) : chacun gardait son couloir."
+   ],
+   "impact": "Une circulation néerlandaise aussi centrée sur la défense a longtemps produit beaucoup de passes et peu de danger. Le retour néerlandais tient d'ailleurs en deux frappes de Weghorst, servies par les passeurs décisifs du soir, Berghuis et Koopmeiners, plus qu'en une circulation enfin libérée."
+  },
+  "en": {
+   "lead": "The Netherlands played this quarter-final as a team of fixed positions: an index of −0.74, only 46% short passes (average: 53%), and a network built entirely around Virgil van Dijk. The Dutch captain is the hub of the match (140 passes), with his two defensive neighbours as his favourite partners. Argentina (−0.46), the 11th most relational team of the tournament, played a little tighter around the ball: 2.33 teammates near the carrier against 2.1.",
+   "keys": [
+    "The three busiest Dutch pairs all run through Van Dijk: Timber (38 passes), Aké (37) and Frenkie de Jong (34).",
+    "For Argentina, the hub is Otamendi (110 passes), ahead of Enzo Fernandez and De Paul (85 each).",
+    "The Molina – De Paul pairing (21 passes) confirms how much Argentina built down the right.",
+    "Argentina's lateral freedom: 10.5 m, well below the tournament average (13.0 m): everyone held their lane."
+   ],
+   "impact": "Dutch circulation so focused on the back line produced plenty of passes and little danger for a long time. The Dutch comeback, tellingly, came down to two Weghorst finishes set up by the night's assist-makers, Berghuis and Koopmeiners, rather than to circulation suddenly finding a way through."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Zéro. C'est le nombre de tirs que l'Argentine a concédés dans les 15 secondes suivant une perte de balle, sur 110 ballons perdus dans le jeu. Avec 6,2 joueurs derrière le ballon au moment de la perte et 6,5 quelques secondes après, elle a fermé toute porte aux contre-attaques. Les Pays-Bas n'étaient pas loin derrière, avec 3 tirs concédés pour 0,28 xG, dans la moyenne du tournoi.",
+   "keys": [
+    "Bloc reformé à 7 joueurs ou plus : 50 % des cas pour l'Argentine, 48 % pour les Pays-Bas, contre 29 % en moyenne. Deux équipes très prudentes.",
+    "Exemple 360 argentin à la 15e minute : 3 joueurs derrière le ballon à la perte, 9 quelques secondes plus tard.",
+    "Côté néerlandais, à la 29e : 4 joueurs derrière le ballon, puis 8.",
+    "Aucun des quatre buts n'est venu d'une transition."
+   ],
+   "impact": "Avec deux replis aussi solides, ce quart s'est décidé ailleurs : un penalty, une percée de Molina et deux frappes de Weghorst. Les contres n'ont jamais été une arme dans ce match."
+  },
+  "en": {
+   "lead": "Zero. That is how many shots Argentina conceded within 15 seconds of losing the ball, from 110 open-play losses. With 6.2 players behind the ball at the moment of the loss and 6.5 a few seconds later, they shut the door on counter-attacks. The Netherlands were not far behind, with 3 shots conceded for 0.28 xG, right around the tournament average.",
+   "keys": [
+    "Block rebuilt with 7 or more players: 50% of the time for Argentina, 48% for the Netherlands, against an average of 29%. Two very cautious teams.",
+    "An Argentine 360 example in minute 15: 3 players behind the ball at the loss, 9 a few seconds later.",
+    "For the Netherlands, in minute 29: 4 players behind the ball, then 8.",
+    "None of the four goals came from a transition."
+   ],
+   "impact": "With two rest defences this solid, the quarter-final was decided elsewhere: a penalty, a Molina burst and two Weghorst finishes. The counter-attack was never a weapon in this match."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Égalité parfaite en tête de la gravité : Lionel Messi et Steven Bergwijn attirent chacun 1,10 adversaire de plus que la normale par touche. Pour Messi, rien de neuf, chaque ballon reçu déclenchait un regroupement. Pour Bergwijn, la surprise est plus grande : il a été traité comme une star. Lautaro Martínez suit (1,04), lui qui figure au 5e rang des plus gros aimants du tournoi (1,16).",
+   "keys": [
+    "Memphis Depay (0,88) et Luuk de Jong (0,76) complètent la liste néerlandaise : les attaquants néerlandais étaient serrés de près.",
+    "Rodrigo De Paul (0,59) est le seul milieu dans le haut du tableau.",
+    "En bas de l'échelle, Germán Pezzella (−0,89), Van Dijk (−0,74) et Timber (−0,65) relançaient sans être inquiétés."
+   ],
+   "impact": "La liberté laissée à Van Dijk et Timber explique pourquoi le réseau néerlandais passait tant par eux : c'est là que l'Argentine laissait jouer. Le duel s'est donc joué devant, où chaque attaquant était entouré."
+  },
+  "en": {
+   "lead": "A dead heat at the top of the gravity table: Lionel Messi and Steven Bergwijn each drew 1.10 extra opponents per touch. For Messi, nothing new: every ball he received triggered a crowd. For Bergwijn it is more of a surprise: he was treated like a star. Lautaro Martínez follows (1.04), and he ranks 5th among the tournament's biggest magnets (1.16).",
+   "keys": [
+    "Memphis Depay (0.88) and Luuk de Jong (0.76) complete the Dutch list: their forwards were tightly marked.",
+    "Rodrigo De Paul (0.59) is the only midfielder near the top.",
+    "At the bottom of the scale, Germán Pezzella (−0.89), Van Dijk (−0.74) and Timber (−0.65) built play without being bothered."
+   ],
+   "impact": "The freedom given to Van Dijk and Timber explains why the Dutch network ran so much through them: that is where Argentina let them play. The real duel was further up, where every forward was surrounded."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le grand basculement du match se lit dans la menace par période. En première mi-temps, l'Argentine crée 0,57 xT, presque le double des Pays-Bas (0,29). En deuxième, tout s'inverse : 0,71 xT néerlandais contre 0,08 seulement côté argentin. Au total, les deux équipes finissent à égalité ou presque (1,26 contre 1,20), comme le score.",
+   "keys": [
+    "Steven Berghuis est le plus grand créateur du match (0,26 xT, 21 % de la menace néerlandaise), avec la passe la plus dangereuse du match à la 83e minute (+0,14 xT), la minute même du premier but de Weghorst.",
+    "Cody Gakpo enchaîne deux passes menaçantes en fin de match, à la 79e et à la 85e minute (0,10 xT pour la seconde).",
+    "Nahuel Molina produit 0,14 xT balle au pied, dont une conduite à la 35e minute, celle de son but.",
+    "Messi pèse 0,23 xT, soit 19 % de la menace argentine : le génie a créé, mais sans dominer comme dans d'autres matchs."
+   ],
+   "impact": "Tout indique que l'Argentine a levé le pied après la pause : ses 0,08 xT parlent d'eux-mêmes. Les Pays-Bas ont profité de ce vide pour revenir ; en prolongation, l'Argentine a retrouvé de l'élan (0,54 xT) sans pouvoir conclure avant les tirs au but."
+  },
+  "en": {
+   "lead": "The big swing of the match shows up in the threat by period. In the first half, Argentina create 0.57 xT, almost double the Netherlands (0.29). In the second, everything flips: 0.71 xT for the Dutch against just 0.08 for Argentina. Overall, the two teams end up almost level (1.26 to 1.20), just like the score.",
+   "keys": [
+    "Steven Berghuis is the match's top creator (0.26 xT, 21% of Dutch threat), with the most dangerous pass of the game in minute 83 (+0.14 xT), in the very minute of Weghorst's first goal.",
+    "Cody Gakpo strings together two threatening passes late on, in minutes 79 and 85 (0.10 xT for the second).",
+    "Nahuel Molina produces 0.14 xT from carries, including a carry in minute 35, the minute of his goal.",
+    "Messi is worth 0.23 xT, 19% of Argentina's threat: the genius created, without dominating the way he did in other matches."
+   ],
+   "impact": "Everything suggests Argentina eased off after the break: their 0.08 xT speaks for itself. The Netherlands filled that vacuum to come back; in extra time Argentina found their momentum again (0.54 xT) but could not finish it before the shoot-out."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Trois joueurs de ce quart trustent les premières places de leur poste sur le tournoi. Leandro Paredes est 1er des 97 milieux classés (note de 82) malgré seulement 235 minutes jouées. Lionel Messi est 2e des 77 attaquants avec 7 buts et 3 passes décisives. Et Andries Noppert, le gardien néerlandais, est 2e des 32 gardiens, derrière Thibaut Courtois.",
+   "keys": [
+    "Noppert obtient une note de 82 en 509 minutes : les Pays-Bas avaient l'un des tout meilleurs gardiens du tournoi.",
+    "Virgil van Dijk est 13e des 42 défenseurs centraux classés.",
+    "Frenkie de Jong est 19e des milieux, juste devant Ángel Di María (22e).",
+    "Julián Álvarez compte 4 buts dans le tournoi, mais n'est que 29e des attaquants selon nos critères."
+   ],
+   "impact": "Le match s'est terminé aux tirs au but entre deux gardiens, et l'un des deux était parmi les mieux classés du tournoi. Cette fois, c'est pourtant l'autre camp qui est passé : la hiérarchie individuelle ne garantit rien dans une séance."
+  },
+  "en": {
+   "lead": "Three players from this quarter-final sit near the top of their position for the tournament. Leandro Paredes is 1st of 97 ranked midfielders (score of 82) despite playing only 235 minutes. Lionel Messi is 2nd of 77 forwards with 7 goals and 3 assists. And Andries Noppert, the Dutch keeper, is 2nd of 32 goalkeepers, behind Thibaut Courtois.",
+   "keys": [
+    "Noppert gets a score of 82 in 509 minutes: the Netherlands had one of the very best keepers of the tournament.",
+    "Virgil van Dijk is 13th of 42 ranked centre-backs.",
+    "Frenkie de Jong is 19th among midfielders, just ahead of Ángel Di María (22nd).",
+    "Julián Álvarez has 4 goals in the tournament, yet ranks only 29th among forwards by our measures."
+   ],
+   "impact": "The match ended in a shoot-out between two goalkeepers, one of whom was among the best ranked of the tournament. And yet it was the other side that went through: individual rankings guarantee nothing in a shoot-out."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau le plus frappant de ce quart concerne Virgil van Dijk : Dejan Lovren au Mondial 2022, similaire à 98 %. Deux profils de défenseur central presque superposables. Lionel Messi, lui, retrouve ses compagnons habituels : Eden Hazard au Mondial 2018 et Arjen Robben en finale de Ligue des champions (94 % chacun). Le gardien Andries Noppert ressemble à Koen Casteels à l'Euro 2024 (97 %).",
+   "keys": [
+    "Memphis Depay a pour jumeau Enner Valencia au Mondial 2022 (95 %), puis Daniel Olmo (92 %).",
+    "Leandro Paredes ressemble à N. Kanté à l'Euro 2016 et à Granit Xhaka à l'Euro 2020 (93 % chacun).",
+    "Frenkie de Jong n'a pas vraiment de sosie : son plus proche voisin, Rodrigo Bentancur au Mondial 2018, n'est qu'à 81 %.",
+    "Même constat pour Alexis MacAllister, dont le premier jumeau, Fernandinho, ne dépasse pas 78 %."
+   ],
+   "impact": "Des jumeaux très proches pour les défenseurs et les gardiens, beaucoup plus lointains pour les milieux : c'est au milieu de terrain que ce match avait ses profils les plus originaux. Mais il a été décidé aux deux extrémités, dans les surfaces."
+  },
+  "en": {
+   "lead": "The most striking twin in this quarter-final belongs to Virgil van Dijk: Dejan Lovren at the 2022 World Cup, 98% similar. Two almost identical centre-back profiles. Lionel Messi finds his usual companions: Eden Hazard at the 2018 World Cup and Arjen Robben in a Champions League final (94% each). Goalkeeper Andries Noppert resembles Koen Casteels at Euro 2024 (97%).",
+   "keys": [
+    "Memphis Depay's twin is Enner Valencia at the 2022 World Cup (95%), then Daniel Olmo (92%).",
+    "Leandro Paredes resembles N. Kanté at Euro 2016 and Granit Xhaka at Euro 2020 (93% each).",
+    "Frenkie de Jong has no real double: his closest neighbour, Rodrigo Bentancur at the 2018 World Cup, is only 81% similar.",
+    "Same story for Alexis MacAllister, whose first twin, Fernandinho, tops out at 78%."
+   ],
+   "impact": "Very close twins for the defenders and keepers, much more distant ones for the midfielders: the most original profiles of this match were in the middle of the pitch. Yet it was decided at both ends, in the boxes."
+  }
+ }
+}

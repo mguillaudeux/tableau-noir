@@ -1,0 +1,202 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale de l'Euro de 120 minutes, des tirs au but, et une équipe qui a eu le ballon pendant que l'autre gagnait. L'Espagne a tout eu : 67 % de possession, 946 passes contre 425, 16 tirs contre 7 et 1,40 xG contre 0,40. L'Italie, elle, a eu Federico Chiesa, buteur à la 60e minute sur une frappe à 0,05 xG. Morata égalise à la 80e (0,44 xG), puis plus rien jusqu'à la séance, gagnée 4-2 par les Italiens.",
+   "keys": [
+    "Écart d'xG de 1,00 en faveur de l'Espagne : sur le jeu, la demi-finale était espagnole.",
+    "Morata marque en 59 minutes de jeu seulement, avec 0,51 xG sur 2 tirs.",
+    "Daniel Olmo tire 5 fois, réussit 5 dribbles et donne une passe décisive ; il manque aussi la plus grosse occasion du match, à la 25e (0,24 xG, cadrée).",
+    "L'Italie ne réussit que 14 passes dans le dernier tiers, l'Espagne 70 : un monde d'écart.",
+    "Les Italiens se font prendre 8 fois hors-jeu , signe qu'ils cherchaient sans cesse la profondeur."
+   ],
+   "impact": "L'Espagne méritait sans doute davantage sur 120 minutes, mais elle n'a converti qu'une seule de ses occasions, et l'Italie, qui avait déjà sorti l'Autriche puis la Belgique, a survécu jusqu'aux tirs au but. Un hold-up en règle, réussi avec 0,40 xG."
+  },
+  "en": {
+   "lead": "A 120-minute Euro semi-final, penalties, and one team that had the ball while the other won. Spain had everything: 67% possession, 946 passes to 425, 16 shots to 7 and 1.40 xG to 0.40. Italy had Federico Chiesa, scorer in minute 60 from a 0.05 xG strike. Morata levelled in minute 80 (0.44 xG), then nothing until the shoot-out, won 4-2 by the Italians.",
+   "keys": [
+    "An xG gap of 1.00 in Spain's favour: on the run of play, the semi-final was Spanish.",
+    "Morata scores in just 59 minutes on the pitch, with 0.51 xG from 2 shots.",
+    "Daniel Olmo shoots 5 times, completes 5 dribbles and provides an assist; he also misses the biggest chance of the game, in minute 25 (0.24 xG, on target).",
+    "Italy complete just 14 passes into the final third, Spain 70: a world apart.",
+    "Italy are caught offside 8 times, a sign they kept looking for the space in behind."
+   ],
+   "impact": "Spain probably deserved more over 120 minutes, but they converted only one of their chances, and Italy, who had already seen off Austria and Belgium, survived to the shoot-out. A textbook smash-and-grab, pulled off with 0.40 xG."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Voilà une Italie repliée sur elle-même : 39 % de ses touches dans son propre tiers, seulement 17 % dans le dernier. Annoncée en 4-3-3, elle se déployait en 3-3-4 avec le ballon, mais toute sa ligne offensive restait basse : Immobile à 52 m de son but en moyenne, Insigne à 60 m. L'Espagne, elle, s'installait haut dans un 3-5-2, avec Ferrán Torres collé à la ligne gauche (4 m) à 74 m de son but.",
+   "keys": [
+    "Avec le ballon, la dernière ligne espagnole se tenait à 49,0 m de son but, contre 36,5 m pour l'Italie (moyenne du tournoi : 41,3 m).",
+    "L'Italie n'occupait que 1,9 couloir avec le ballon, contre 3,3 pour l'Espagne : un bloc italien compact même en possession.",
+    "Sans ballon, la dernière ligne italienne reculait à 22,3 m de son but, bien en dessous de la moyenne (27,9 m).",
+    "Côté italien, Chiesa jouait à droite (59 m de la ligne gauche), et c'est l'axe qui concentrait le plus de touches (29 %)."
+   ],
+   "impact": "L'Espagne a confisqué le camp italien, et l'Italie a accepté de défendre en bloc bas, en guettant la profondeur. Le pari était risqué, mais Chiesa n'a eu besoin que d'une frappe à 0,05 xG pour marquer."
+  },
+  "en": {
+   "lead": "An Italy pinned back: 39% of their touches in their own third, only 17% in the final third. Announced in a 4-3-3, they spread into a 3-3-4 in possession, but the whole front line stayed deep: Immobile averaged 52 m from his goal, Insigne 60 m. Spain settled high in a 3-5-2, with Ferrán Torres glued to the left touchline (4 m), 74 m from his goal.",
+   "keys": [
+    "In possession, Spain's back line sat 49.0 m from goal, against 36.5 m for Italy (tournament average: 41.3 m).",
+    "Italy occupied only 1.9 lanes in possession, against 3.3 for Spain: a compact Italian block even with the ball.",
+    "Out of possession, Italy's back line dropped to 22.3 m from goal, well below the average (27.9 m).",
+    "For Italy, Chiesa played on the right (59 m from the left line), and the centre took the most touches (29%)."
+   ],
+   "impact": "Spain took over Italy's half, and Italy accepted defending in a low block, waiting for a ball in behind. A risky bet, but Chiesa needed only a 0.05 xG strike to score."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le pressing espagnol de cette demi-finale est d'une rare intensité : PPDA de 8,0, 7,4 pressions par minute sans ballon, soit bien plus que la moyenne du tournoi (4,5). Les actions défensives espagnoles ont lieu en moyenne à 53,6 m de leur but, et 26 % des pressions tombent dans les 5 secondes suivant une perte. Résultat : 13 récupérations hautes, contre 7 pour l'Italie.",
+   "keys": [
+    "L'Italie, à 3,2 pressions par minute et un PPDA de 23,7, laissait volontiers circuler.",
+    "48 % des récupérations italiennes interviennent plus de 20 secondes après la perte : l'Italie attendait son heure.",
+    "L'Espagne récupère 53 % de ses ballons perdus en moins de 10 secondes, l'Italie 40 %.",
+    "219 pressions espagnoles, contre 192 italiennes, alors que l'Espagne n'était privée du ballon qu'un tiers du temps."
+   ],
+   "impact": "Ce pressing a étouffé l'Italie, qui a perdu 106 ballons en jeu ouvert. Mais à force d'étouffer sans marquer, l'Espagne a laissé l'Italie respirer juste assez pour frapper une fois."
+  },
+  "en": {
+   "lead": "Spain's press in this semi-final was ferocious: a PPDA of 8.0 and 7.4 pressures per minute out of possession, far above the tournament average (4.5). Spain's defensive actions came on average 53.6 m from their goal, and 26% of their pressures landed within 5 seconds of a loss. The upshot: 13 high regains, against 7 for Italy.",
+   "keys": [
+    "Italy, at 3.2 pressures per minute and a PPDA of 23.7, happily let the ball go round.",
+    "48% of Italy's regains come more than 20 seconds after the loss: Italy were biding their time.",
+    "Spain win back 53% of lost balls within 10 seconds, Italy 40%.",
+    "219 Spanish pressures against 192 Italian ones, even though Spain spent only a third of the game without the ball."
+   ],
+   "impact": "That press smothered Italy, who lost the ball 106 times in open play. But by smothering without scoring, Spain let Italy breathe just enough to strike once."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le paradoxe de la soirée : l'Espagne, championne du ballon, est positionniste dans ce match (−0,42), quand l'Italie est relationniste (+0,58). Tout s'explique par le réseau espagnol, qui passe d'abord par ses défenseurs : Aymeric Laporte (225 passes), Eric García (213) et Jordi Alba (143). Le duo García – Laporte échange à lui seul 73 passes, presque autant que le carrefour italien n'en touche sur tout le match.",
+   "keys": [
+    "Côté italien, le carrefour est un défenseur aussi, Giorgio Chiellini (78 passes), et le lien le plus utilisé passe par le gardien : Chiellini – Donnarumma (22).",
+    "L'Espagne joue moins court (47 % de passes courtes) mais combine vite : 40 % de combinaisons rapides, au-dessus de la moyenne de l'Euro (34 %).",
+    "L'Espagne occupe 3,6 couloirs en moyenne (360) : toute la largeur du terrain.",
+    "Sur le tournoi, l'Italie est 7e sur 24 au classement des plus relationnistes, l'Espagne 19e."
+   ],
+   "impact": "L'Espagne faisait circuler très large depuis l'arrière, en attendant l'ouverture ; l'Italie, quand elle avait le ballon, jouait en petits groupes pour sortir du pressing. Une domination espagnole patiente, mais qui manquait de passes tranchantes dans la surface."
+  },
+  "en": {
+   "lead": "The paradox of the night: Spain, masters of possession, are positional in this match (−0.42), while Italy are relational (+0.58). It all comes down to Spain's network, which runs first through their defenders: Aymeric Laporte (225 passes), Eric García (213) and Jordi Alba (143). The García – Laporte pair alone exchanged 73 passes, almost as many as Italy's hub was involved in all match.",
+   "keys": [
+    "Italy's hub is a defender too, Giorgio Chiellini (78 passes), and their busiest link goes through the keeper: Chiellini – Donnarumma (22).",
+    "Spain play less short (47% short passes) but combine quickly: 40% quick combinations, above the Euro average (34%).",
+    "Spain occupy 3.6 lanes on average (360): the full width of the pitch.",
+    "Over the tournament, Italy rank 7th of 24 for relational play, Spain 19th."
+   ],
+   "impact": "Spain circulated very wide from the back, waiting for an opening; Italy, when they had the ball, played in small groups to escape the press. Patient Spanish dominance, but short on incisive passes into the box."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "C'est ici que l'Italie a vraiment souffert. Dans les 15 secondes qui suivaient une perte, elle a concédé 8 tirs, pour 0,60 xG, soit trois fois la moyenne du tournoi (0,20). Au moment de la perte, seulement 3,8 Italiens en moyenne se trouvaient derrière le ballon. Et pourtant, aucun but espagnol n'est né d'une transition.",
+   "keys": [
+    "Le repli italien existe, de 3,8 à 5,0 joueurs derrière le ballon, mais le bloc ne se reforme à 7 ou plus que dans 17 % des cas (moyenne : 30 %).",
+    "Exemple 360 à la 39e minute : aucun Italien derrière le ballon au moment de la perte, 6 quelques secondes plus tard.",
+    "L'Espagne, elle, n'a concédé que 2 tirs en transition, pour 0,11 xG.",
+    "Côté espagnol, à la 56e : 2 joueurs derrière le ballon à la perte, puis 9."
+   ],
+   "impact": "Le pressing espagnol mettait souvent l'Italie en déséquilibre à la perte, et huit fois l'Espagne a pu tirer dans la foulée. Qu'aucune de ces frappes n'ait fini au fond est l'une des clés de la qualification italienne."
+  },
+  "en": {
+   "lead": "This is where Italy really suffered. Within 15 seconds of losing the ball, they conceded 8 shots, worth 0.60 xG, three times the tournament average (0.20). At the moment of the loss, only 3.8 Italians on average were behind the ball. And yet no Spanish goal came from a transition.",
+   "keys": [
+    "Italy's recovery run was there, from 3.8 to 5.0 players behind the ball, but the block rebuilt to 7 or more in only 17% of cases (average: 30%).",
+    "A 360 example in minute 39: not a single Italian behind the ball at the loss, 6 a few seconds later.",
+    "Spain conceded only 2 shots in transition, worth 0.11 xG.",
+    "For Spain, in minute 56: 2 players behind the ball at the loss, then 9."
+   ],
+   "impact": "Spain's press often caught Italy off balance at the moment of the loss, and eight times Spain got a shot off straight away. That none of those efforts went in is one of the keys to Italy going through."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le top 6 de la gravité est entièrement italien, et ça dit tout du pressing espagnol. Jorginho et Ciro Immobile mènent avec 1,07 adversaire de plus que la normale autour de chacune de leurs touches, devant Federico Chiesa et Matteo Pessina (1,03), Domenico Berardi (1,00) et Marco Verratti (0,97). Ces Italiens voyaient arriver environ un Espagnol de plus à chacune de leurs touches.",
+   "keys": [
+    "Chiesa, à 1,03, était serré de près, et il a quand même marqué.",
+    "Les trois joueurs les moins entourés sont tous espagnols : Pau Torres (−0,66), Laporte (−0,73) et Eric García (−0,89).",
+    "Laporte et García, laissés libres par l'Italie, sont aussi les deux plus gros carrefours du réseau espagnol.",
+    "Pour l'échelle, le plus gros aimant de l'Euro est Marcus Berg, à 1,67."
+   ],
+   "impact": "L'Italie a laissé relancer les centraux espagnols, sans doute pour mieux fermer le milieu, et l'Espagne a enserré chaque Italien en possession. Deux stratégies défensives opposées, qui expliquent un match à sens unique sur le ballon, mais pas sur le tableau d'affichage."
+  },
+  "en": {
+   "lead": "The gravity top 6 is entirely Italian, which says everything about Spain's press. Jorginho and Ciro Immobile lead with 1.07 extra opponents around each of their touches, ahead of Federico Chiesa and Matteo Pessina (1.03), Domenico Berardi (1.00) and Marco Verratti (0.97). Those Italians saw roughly one extra Spaniard arrive every time they touched the ball.",
+   "keys": [
+    "Chiesa, at 1.03, was tightly marked, and still scored.",
+    "The three least crowded players are all Spanish: Pau Torres (−0.66), Laporte (−0.73) and Eric García (−0.89).",
+    "Laporte and García, left free by Italy, are also the two biggest hubs in Spain's network.",
+    "For scale, the biggest magnet of the Euro is Marcus Berg, at 1.67."
+   ],
+   "impact": "Italy let Spain's centre-backs play, probably to close the middle, and Spain swarmed every Italian in possession. Two opposite defensive approaches, which explain a one-way match on the ball, but not on the scoreboard."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le plus grand créateur de menace de cette demi-finale est un défenseur central : Aymeric Laporte, 0,37 xT, soit 21 % de toute la menace espagnole. Derrière lui, Pedri (0,28) et Eric García (0,23). Au total, l'Espagne crée 1,75 xT, plus du double de l'Italie (0,80), et elle domine chaque période, prolongation comprise (0,23 contre 0,18).",
+   "keys": [
+    "Federico Chiesa porte à lui seul 26 % de la menace italienne (0,21 xT), surtout balle au pied (0,13).",
+    "À la 60e minute, celle de son but, Chiesa signe une conduite dans la surface : 93 m de son but.",
+    "À la 80e, celle de l'égalisation, une passe de Daniel Olmo de 84 à 92 m (+0,13 xT).",
+    "Le geste le plus menaçant du match est une passe de Pedri à la 13e minute (+0,14 xT)."
+   ],
+   "impact": "L'Espagne a créé deux fois plus de menace, mais une bonne part venait de loin, de ses défenseurs. L'Italie, avec très peu, a placé ses quelques ballons dangereux au bon endroit, et c'est le pied de Chiesa qui a fait la différence."
+  },
+  "en": {
+   "lead": "The biggest threat creator in this semi-final is a centre-back: Aymeric Laporte, 0.37 xT, 21% of all of Spain's threat. Behind him, Pedri (0.28) and Eric García (0.23). In total Spain create 1.75 xT, more than double Italy (0.80), and they dominate every period, extra time included (0.23 to 0.18).",
+   "keys": [
+    "Federico Chiesa carries 26% of Italy's threat on his own (0.21 xT), mostly with the ball at his feet (0.13).",
+    "In minute 60, the minute of his goal, Chiesa makes a carry inside the box, 93 m from his own goal.",
+    "In minute 80, the equaliser's minute, a Daniel Olmo pass from 84 to 92 m (+0.13 xT).",
+    "The most threatening action of the match is a Pedri pass in minute 13 (+0.14 xT)."
+   ],
+   "impact": "Spain created twice the threat, but a good share of it came from deep, from their defenders. Italy, with very little, put their few dangerous balls in the right place, and Chiesa's foot made the difference."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Trois numéros 1 sur la pelouse : Marco Verratti, meilleur milieu de l'Euro (1er sur 80), Daniel Olmo, meilleur attaquant (1er sur 59, note de 84), et Aymeric Laporte, meilleur défenseur central (1er sur 39). Deux d'entre eux étaient espagnols. Olmo trône en tête des attaquants sans avoir marqué, avec 3 passes décisives.",
+   "keys": [
+    "Mikel Oyarzabal est 4e des attaquants avec seulement 184 minutes jouées.",
+    "Le milieu espagnol est dense : Busquets 7e, Pedri 9e, Rodri 10e et Koke 13e.",
+    "Côté italien, Lorenzo Insigne est 8e des attaquants, juste devant Gerard Moreno (9e).",
+    "Gianluigi Donnarumma, 5e des gardiens, a déjà joué 736 minutes."
+   ],
+   "impact": "Sur le papier, l'Espagne avait plus de joueurs au sommet des classements. Mais une demi-finale aux tirs au but se joue sur un fil, et les meilleurs créateurs du tournoi n'ont produit qu'un but en 120 minutes."
+  },
+  "en": {
+   "lead": "Three number ones on the pitch: Marco Verratti, the Euro's best midfielder (1st of 80), Daniel Olmo, the best forward (1st of 59, score of 84), and Aymeric Laporte, the best centre-back (1st of 39). Two of them were Spanish. Olmo tops the forwards without having scored, with 3 assists.",
+   "keys": [
+    "Mikel Oyarzabal is 4th among forwards with just 184 minutes played.",
+    "Spain's midfield runs deep: Busquets 7th, Pedri 9th, Rodri 10th and Koke 13th.",
+    "For Italy, Lorenzo Insigne is 8th among forwards, just ahead of Gerard Moreno (9th).",
+    "Gianluigi Donnarumma, 5th among goalkeepers, has already played 736 minutes."
+   ],
+   "impact": "On paper, Spain had more players at the top of the rankings. But a semi-final decided on penalties hangs by a thread, and the tournament's best creators produced only one goal in 120 minutes."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Daniel Olmo, meilleur attaquant de l'Euro selon nos classements, a pour jumeau Arjen Robben avec le Bayern Munich en finale de Ligue des champions (95 %), puis Neymar (91 %) et Lionel Messi (90 %), tous deux au Mondial 2018. Et Mikel Oyarzabal, lui, ressemble d'abord à Messi version 2022 (92 %), puis à Olmo lui-même (89 %). L'Espagne avait deux dribbleurs-créateurs de la même famille.",
+   "keys": [
+    "Aymeric Laporte rappelle Rodri au Mondial 2022 (94 %) et John Stones (92 %) : un central au profil de milieu, ce que confirment ses 0,37 xT.",
+    "Sergio Busquets a pour plus proche voisin Jung Woo-Young au Mondial 2022 (95 %).",
+    "Pedri ressemble à la fois à Nicolò Barella à l'Euro 2024 et à Javier Mascherano au Mondial 2018 (86 % chacun).",
+    "Koke se rapproche de Bastian Schweinsteiger et de Toni Kroos (94 % chacun)."
+   ],
+   "impact": "Une Espagne pleine de profils de très haut niveau, du créateur à la Robben au central à la Rodri. Il ne lui a manqué que ce que les jumeaux ne mesurent pas : la réussite devant le but."
+  },
+  "en": {
+   "lead": "Daniel Olmo, the Euro's best forward by our rankings, has Arjen Robben with Bayern Munich in a Champions League final as his twin (95%), then Neymar (91%) and Lionel Messi (90%), both at the 2018 World Cup. Mikel Oyarzabal looks first like Messi's 2022 version (92%), then Olmo himself (89%). Spain had two dribbler-creators from the same family.",
+   "keys": [
+    "Aymeric Laporte recalls Rodri at the 2022 World Cup (94%) and John Stones (92%): a centre-back with a midfielder's profile, as his 0.37 xT confirms.",
+    "Sergio Busquets's nearest neighbour is Jung Woo-Young at the 2022 World Cup (95%).",
+    "Pedri resembles both Nicolò Barella at Euro 2024 and Javier Mascherano at the 2018 World Cup (86% each).",
+    "Koke sits close to Bastian Schweinsteiger and Toni Kroos (94% each)."
+   ],
+   "impact": "A Spain full of top-level profiles, from the Robben-style creator to the Rodri-style centre-back. All they lacked was what twins cannot measure: luck in front of goal."
+  }
+ }
+}

@@ -1,0 +1,202 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Menée, puis devant 3-1, puis rejointe à la 90e minute, et enfin éliminée aux tirs au but (4-5) : la France a vécu tout un huitième de finale en une soirée. Sur le papier, elle a dominé, 26 tirs contre 13 et 2,65 xG contre 1,85. Mais retirez le penalty suisse et l'écart devient un gouffre : 1,07 npxG pour la Suisse. Le paradoxe, c'est que ce penalty, Ricardo Rodríguez l'a manqué à la 55e minute, et que la Suisse s'est qualifiée quand même.",
+   "keys": [
+    "Karim Benzema marque deux fois en deux minutes (57e et 59e), pour 1,11 xG sur le match.",
+    "Le 3-1 de Paul Pogba à la 75e ne vaut que 0,03 xG : le but le plus improbable de la soirée.",
+    "Haris Seferović répond par deux buts sur 0,44 xG, à la 15e et à la 81e minute.",
+    "Kylian Mbappé : 6 tirs, 0,45 xG, 4 passes clés et 1 passe décisive, mais pas de but.",
+    "Passes clés : 19 pour la France, 10 pour la Suisse. Les Bleus ont créé presque deux fois plus."
+   ],
+   "impact": "Sur 120 minutes, la France a été plus dangereuse, et de loin hors penalty. Mais elle a laissé filer un 3-1 en neuf minutes, et un match qu'elle avait en main s'est décidé sur un exercice où la statistique n'a plus son mot à dire."
+  },
+  "en": {
+   "lead": "Behind, then 3-1 up, then pegged back in minute 90, and finally out on penalties (4-5): France lived a whole tournament in one evening. On paper they dominated, 26 shots to 13 and 2.65 xG to 1.85. Strip out the Swiss penalty and the gap becomes a chasm: 1.07 npxG for Switzerland. The paradox is that Ricardo Rodríguez missed that penalty in minute 55, and Switzerland went through anyway.",
+   "keys": [
+    "Karim Benzema scores twice in two minutes (57 and 59), for 1.11 xG over the match.",
+    "Paul Pogba's 3-1 in minute 75 is worth just 0.03 xG: the most improbable goal of the night.",
+    "Haris Seferović replies with two goals from 0.44 xG, in minutes 15 and 81.",
+    "Kylian Mbappé: 6 shots, 0.45 xG, 4 key passes and 1 assist, but no goal.",
+    "Key passes: 19 for France, 10 for Switzerland. Les Bleus created almost twice as much."
+   ],
+   "impact": "Over 120 minutes France were the more dangerous side, by a distance outside the penalty. But they let a 3-1 lead slip in nine minutes, and a match they controlled was settled by an exercise where the numbers no longer have a say."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Même schéma annoncé des deux côtés, un 3-4-1-2, et deux interprétations opposées. Avec le ballon, la France passait en 3-2-2-3, et ses trois attaquants penchaient tous du même côté : Benzema (22 m de la touche gauche), Mbappé (25 m) et Griezmann (27 m) avaient des positions moyennes presque collées, dans le demi-espace gauche. La Suisse, elle, attaquait par le couloir gauche de Ricardo Rodríguez et Steven Zuber, tous deux à 5 m ou moins de la ligne : 30 % de ses touches y passent.",
+   "keys": [
+    "Adrien Rabiot tenait tout le côté gauche français à lui seul, à 9 m de la touche et 62 m de son but.",
+    "Benjamin Pavard, de l'autre côté, restait plus bas (53 m), collé à la ligne droite : la France ne jouait qu'à 17 % dans le couloir droit.",
+    "Avec le ballon, la dernière ligne française montait à 45,6 m de son but, au-dessus de la moyenne du tournoi (41,3 m).",
+    "Sans ballon, la Suisse reculait : dernière ligne à 26,8 m, bloc à 35,4 m de hauteur."
+   ],
+   "impact": "Le gauche suisse face au droit français : c'est par là que la Suisse a trouvé de l'air, pendant que la France entassait ses attaquants dans le même demi-espace. Ce déséquilibre a sans doute coûté de la largeur aux Bleus quand il a fallu tuer le match."
+  },
+  "en": {
+   "lead": "The same announced shape on both sides, a 3-4-1-2, and two opposite readings of it. In possession France became a 3-2-2-3, and all three forwards leaned the same way: Benzema (22 m from the left touchline), Mbappé (25 m) and Griezmann (27 m) had almost stacked average positions in the left half-space. Switzerland attacked down the left lane of Ricardo Rodríguez and Steven Zuber, both 5 m or less from the line: 30% of their touches went through there.",
+   "keys": [
+    "Adrien Rabiot held France's entire left side on his own, 9 m from the touchline and 62 m from goal.",
+    "Benjamin Pavard, on the other side, stayed deeper (53 m), hugging the right line: France played only 17% in the right lane.",
+    "On the ball, France's last line pushed up to 45.6 m from goal, above the tournament average (41.3 m).",
+    "Without the ball, Switzerland dropped off: last line at 26.8 m, block height 35.4 m."
+   ],
+   "impact": "Swiss left against French right: that is where Switzerland found air, while France crammed their forwards into the same half-space. That imbalance probably cost Les Bleus width when it came to killing the game."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Deux pressings au-dessus de la moyenne de l'Euro, 5,3 et 5,2 pressions par minute sans ballon (moyenne : 4,5), mais une différence de réflexe. La France récupère 40 % de ses ballons perdus en moins de 5 secondes et 60 % en moins de 10, quand la Suisse plafonne à 33 % et 45 %. Les Bleus ont aussi deux fois plus de récupérations hautes, 12 contre 6.",
+   "keys": [
+    "PPDA presque identiques : 15,7 pour la France, 16,4 pour la Suisse.",
+    "La Suisse a pourtant multiplié les efforts : 245 pressions, contre 204 côté français.",
+    "Contre-pressing suisse à 21 %, au-dessus de la moyenne (19 %) ; français à 15 %.",
+    "Hauteur des actions défensives : 46,8 m pour la France, 45,0 m pour la Suisse, deux blocs un peu sous la moyenne (47,3 m)."
+   ],
+   "impact": "La France récupérait vite et haut, ce qui explique en bonne partie ses 26 tirs. Mais un pressing pareil se paie sur 120 minutes, et la Suisse, qui courait plus pour récupérer moins, a tenu jusqu'au bout."
+  },
+  "en": {
+   "lead": "Two presses above the Euro average, 5.3 and 5.2 pressures per minute out of possession (average: 4.5), but different reflexes. France win back 40% of lost balls within 5 seconds and 60% within 10, while Switzerland top out at 33% and 45%. Les Bleus also have twice as many high regains, 12 to 6.",
+   "keys": [
+    "Almost identical PPDA: 15.7 for France, 16.4 for Switzerland.",
+    "Switzerland still put in more effort: 245 pressures against 204 for France.",
+    "Swiss counter-pressing at 21%, above average (19%); French at 15%.",
+    "Height of defensive actions: 46.8 m for France, 45.0 m for Switzerland, both slightly below average (47.3 m)."
+   ],
+   "impact": "France won the ball back fast and high, which goes a long way to explaining their 26 shots. But that kind of pressing costs over 120 minutes, and Switzerland, who ran more to win back less, held on until the end."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La Suisse est la plus relationniste des deux (+0,41, 9e du tournoi) : 58 % de passes courtes, 37 % de combinaisons rapides, et un Granit Xhaka au centre de tout (126 passes entre titulaires). La France est plutôt positionniste (−0,18, 13e sur 24), mais son réseau dessine un triangle très net, tout à gauche : Kimpembe (123), Rabiot (122) et Pogba (121) sont ses trois carrefours, et les trois duos les plus utilisés relient Kimpembe, Rabiot et Kanté.",
+   "keys": [
+    "Kimpembe – Kanté et Rabiot – Kanté : 23 passes chacun. Kimpembe – Rabiot : 22. Le cœur du jeu français avait l'allure d'un triangle fermé.",
+    "Le duo suisse le plus actif est Ricardo Rodríguez – Steven Zuber (29 passes), devant Xhaka – Akanji (28).",
+    "Plus de passes courtes en Suisse (58 %) qu'en France (51 %), quand la moyenne du tournoi est à 54 %.",
+    "Les Suisses occupent 3,19 couloirs en moyenne (360), les Français 3,43 : plus de largeur pour la France, plus de proximité pour la Suisse."
+   ],
+   "impact": "Le triangle gauche français a donné de la fluidité, mais il a concentré le jeu sur un seul flanc. La Suisse, plus collective autour du ballon, a pu ressortir proprement par Xhaka et son côté gauche, même quand elle était menée de deux buts."
+  },
+  "en": {
+   "lead": "Switzerland are the more relational of the two (+0.41, 9th in the tournament): 58% short passes, 37% quick combinations, and Granit Xhaka at the centre of everything (126 passes between starters). France lean positional (−0.18, 13th of 24), but their network draws a clear triangle on the far left: Kimpembe (123), Rabiot (122) and Pogba (121) are their three hubs, and the three busiest pairs link Kimpembe, Rabiot and Kanté.",
+   "keys": [
+    "Kimpembe – Kanté and Rabiot – Kanté: 23 passes each. Kimpembe – Rabiot: 22. The heart of France's play looked like a closed triangle.",
+    "Switzerland's busiest pair is Ricardo Rodríguez – Steven Zuber (29 passes), ahead of Xhaka – Akanji (28).",
+    "More short passes for Switzerland (58%) than France (51%), with the tournament average at 54%.",
+    "The Swiss occupy 3.19 lanes on average (360), the French 3.43: more width for France, more closeness for Switzerland."
+   ],
+   "impact": "France's left-sided triangle brought fluency, but it concentrated play on one flank. Switzerland, more collective around the ball, could still play out cleanly through Xhaka and their left side, even when two goals down."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Les transitions ont donné deux buts, un de chaque côté, et chacun a renversé l'histoire. À la 57e minute, Benzema égalise sur une perte suisse ; à la 90e, Mario Gavranović arrache la prolongation sur une perte française. Sur l'ensemble du match, la Suisse a été la plus exposée : 5 tirs concédés dans les 15 secondes après une perte, pour 0,60 xG, trois fois la moyenne du tournoi (0,20). La France n'en concède qu'un, pour 0,20 xG, mais c'est le plus cher de la soirée.",
+   "keys": [
+    "La France perd le ballon avec 4,9 joueurs derrière lui, puis n'en compte plus que 4,4 quelques secondes après : le repli reculait au lieu de se reformer.",
+    "Bloc reformé à 7 ou plus : 24 % pour la France, 31 % pour la Suisse (moyenne : 30 %).",
+    "Exemple 360 côté suisse à la 44e minute : aucun joueur derrière le ballon à la perte, 8 quelques secondes plus tard.",
+    "Côté français à la 114e : 4 joueurs derrière le ballon à la perte, 8 ensuite."
+   ],
+   "impact": "La France a mieux exploité les pertes suisses sur l'ensemble du match, mais c'est la seule transition concédée qui a compté : celle de la 90e minute. Avec si peu de joueurs derrière le ballon à la perte, le 3-3 de Gavranović n'a rien d'un accident."
+  },
+  "en": {
+   "lead": "Transitions produced two goals, one each way, and each one flipped the story. In minute 57, Benzema equalises from a Swiss loss; in minute 90, Mario Gavranović forces extra time from a French loss. Over the match Switzerland were the more exposed: 5 shots conceded within 15 seconds of a loss, worth 0.60 xG, three times the tournament average (0.20). France concede only one, worth 0.20 xG, but it was the costliest of the night.",
+   "keys": [
+    "France lose the ball with 4.9 players behind it, then have only 4.4 a few seconds later: the recovery shrank instead of re-forming.",
+    "Block rebuilt with 7 or more: 24% for France, 31% for Switzerland (average: 30%).",
+    "A 360 example for Switzerland in minute 44: no players behind the ball at the loss, 8 a few seconds later.",
+    "France in minute 114: 4 players behind the ball at the loss, 8 afterwards."
+   ],
+   "impact": "France exploited Swiss losses better over the match, but the only transition that mattered was the one they conceded in minute 90. With so few players behind the ball at the loss, Gavranović's 3-3 was no accident."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Les quatre plus gros aimants du match sont suisses, et ce sont tous des attaquants : Mario Gavranović (0,84 adversaire de plus que la normale par touche), Admir Mehmedi (0,82), Haris Seferović (0,77) et Breel Embolo (0,76). La Suisse avait un avant-centre qui fixait la défense française à chaque instant, qu'il s'appelle Seferović ou Gavranović. Côté français, Mbappé (0,68) et Benzema (0,54) suivent.",
+   "keys": [
+    "Gavranović, le plus attiré du match, est aussi l'auteur du 3-3 à la 90e minute.",
+    "Seferović, 0,77 par touche, marque deux fois malgré la présence française autour de lui.",
+    "Varane (−0,70) et Lenglet (−0,71) touchaient le ballon dans un grand calme : la Suisse ne pressait pas la relance centrale française.",
+    "Fabian Schär est le moins sollicité de tous (−0,75)."
+   ],
+   "impact": "Les attaquants suisses attiraient la défense française, et ils ont fini par la punir : trois buts pour Seferović et Gavranović, les deux aimants principaux. La France, elle, n'a jamais été gênée à la relance, mais ses attaquants étaient moins entourés que les Suisses."
+  },
+  "en": {
+   "lead": "The four biggest magnets of the match are Swiss, and all four are forwards: Mario Gavranović (0.84 extra opponents per touch), Admir Mehmedi (0.82), Haris Seferović (0.77) and Breel Embolo (0.76). Switzerland always had a centre-forward pinning France's defence, whether his name was Seferović or Gavranović. For France, Mbappé (0.68) and Benzema (0.54) follow.",
+   "keys": [
+    "Gavranović, the most surrounded player of the match, also scored the 3-3 in minute 90.",
+    "Seferović, 0.77 per touch, scores twice despite the French bodies around him.",
+    "Varane (−0.70) and Lenglet (−0.71) had all the time in the world on the ball: Switzerland did not press France's central build-up.",
+    "Fabian Schär is the least troubled of all (−0.75)."
+   ],
+   "impact": "Switzerland's forwards drew France's defence towards them, and in the end they punished it: three goals for Seferović and Gavranović, the two main magnets. France were never bothered in their build-up, but their forwards were less crowded than the Swiss ones."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le plus beau ballon du match est suisse et il tombe au pire moment pour la France : une passe de Kevin Mbabu à la 81e minute (+0,36 xT), la minute du deuxième but de Seferović. Mbabu termine à 0,44 xT, 25 % de la menace suisse, à égalité avec Kylian Mbappé, meilleur créateur français (0,44, réparti entre passes et conduites). Au total, la France crée 2,23 xT contre 1,75.",
+   "keys": [
+    "La Suisse produit 1,03 xT en deuxième mi-temps, plus que la France (0,88) : le retour suisse ne sort pas de nulle part.",
+    "En prolongation, la France reprend la main avec 0,97 xT, contre 0,32 pour la Suisse.",
+    "Steven Zuber délivre une passe à +0,12 xT à la 15e minute, celle de l'ouverture du score.",
+    "Granit Xhaka et Paul Pogba produisent chacun 0,29 xT : deux milieux à l'origine de beaucoup de choses."
+   ],
+   "impact": "La France a créé plus, et surtout en prolongation, sans réussir à conclure. La Suisse a été plus économe, mais ses meilleurs gestes, Zuber à la 15e et Mbabu à la 81e, se sont transformés en buts."
+  },
+  "en": {
+   "lead": "The best ball of the match is Swiss and it comes at the worst possible moment for France: a Kevin Mbabu pass in minute 81 (+0.36 xT), the minute of Seferović's second goal. Mbabu ends on 0.44 xT, 25% of the Swiss threat, level with Kylian Mbappé, France's top creator (0.44, split between passes and carries). Overall, France create 2.23 xT against 1.75.",
+   "keys": [
+    "Switzerland produce 1.03 xT in the second half, more than France (0.88): the Swiss comeback did not come out of nowhere.",
+    "In extra time France take over again with 0.97 xT, against 0.32 for Switzerland.",
+    "Steven Zuber plays a +0.12 xT pass in minute 15, the minute of the opening goal.",
+    "Granit Xhaka and Paul Pogba produce 0.29 xT each: two midfielders at the root of a lot."
+   ],
+   "impact": "France created more, especially in extra time, without finishing it off. Switzerland were more economical, but their best actions, Zuber in minute 15 and Mbabu in minute 81, turned into goals."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Kevin Mbabu est 2e des 78 latéraux classés (note de 78), avec seulement 224 minutes jouées sur l'Euro. Au milieu, le duel Pogba–Xhaka est serré : 5e et 6e des 80 milieux, tous deux notés 72. Et dans les buts, Yann Sommer est 4e des 24 gardiens (64), un détail qui compte dans un match fini aux tirs au but.",
+   "keys": [
+    "Karim Benzema est 7e des 59 attaquants (68) avec 4 buts sur le tournoi.",
+    "Kylian Mbappé, 10e des attaquants (66), termine l'Euro sans but, avec 1 passe décisive en 408 minutes.",
+    "Haris Seferović n'est que 25e des attaquants (55), mais il compte 3 buts, dont deux ce soir-là.",
+    "Ricardo Rodríguez, 9e des latéraux (69), complète un côté gauche suisse très bien classé."
+   ],
+   "impact": "Les classements ne départagent pas vraiment ces deux équipes, ce qui colle avec un 3-3. La Suisse avait le meilleur latéral du match et un gardien du haut du tableau ; la France avait plus d'attaquants cotés, mais un Mbappé qui n'a pas marqué de tout l'Euro."
+  },
+  "en": {
+   "lead": "Kevin Mbabu is 2nd of 78 ranked full-backs (score of 78), with only 224 minutes played at the Euro. In midfield, the Pogba–Xhaka duel is tight: 5th and 6th of 80 midfielders, both scored 72. And in goal, Yann Sommer is 4th of 24 keepers (64), a detail that matters in a match settled on penalties.",
+   "keys": [
+    "Karim Benzema is 7th of 59 forwards (68) with 4 goals in the tournament.",
+    "Kylian Mbappé, 10th among forwards (66), ends the Euro without a goal, with 1 assist in 408 minutes.",
+    "Haris Seferović is only 25th among forwards (55), but has 3 goals, two of them on this night.",
+    "Ricardo Rodríguez, 9th among full-backs (69), completes a highly ranked Swiss left side."
+   ],
+   "impact": "The rankings barely separate these two teams, which fits a 3-3. Switzerland had the best full-back on the pitch and a goalkeeper near the top; France had more highly rated forwards, but an Mbappé who did not score at the whole Euro."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le clin d'œil de la soirée : le jumeau de Kylian Mbappé à cet Euro est Breel Embolo, son adversaire du jour, similaire à 93 %. Et la réciproque est vraie, Embolo ayant Mbappé pour plus proche voisin. Karim Benzema, lui, ressemble à Edinson Cavani au Mondial 2018 et à Cristiano Ronaldo à cet Euro, 95 % chacun.",
+   "keys": [
+    "Granit Xhaka a pour premier jumeau… G. Xhaka à l'Euro 2016 (94 %) : un profil d'une constance rare, puis Leandro Paredes (93 %).",
+    "Paul Pogba rappelle Isco au Mondial 2018 (91 %), puis Renato Sanches et Iniesta (90 %).",
+    "Kevin Mbabu ressemble à Ramin Rezaeian (91 %) et à Vladimír Coufal (88 %), le meilleur latéral de notre classement.",
+    "Raphaël Varane a pour jumeau Rúben Dias à cet Euro (96 %), puis Virgil van Dijk (95 %)."
+   ],
+   "impact": "Mbappé et Embolo, jumeaux à 93 % : deux attaquants au profil statistique presque identique, face à face dans le même huitième. Ce soir-là, aucun des deux n'a marqué, et la qualification s'est jouée ailleurs, sur les pieds de Seferović, de Gavranović puis des tireurs de penalty."
+  },
+  "en": {
+   "lead": "The wink of the night: Kylian Mbappé's twin at this Euro is Breel Embolo, his opponent that evening, 93% similar. It works both ways, with Embolo having Mbappé as his closest match. Karim Benzema looks like Edinson Cavani at the 2018 World Cup and Cristiano Ronaldo at this Euro, 95% each.",
+   "keys": [
+    "Granit Xhaka's first twin is… G. Xhaka at Euro 2016 (94%): a remarkably consistent profile, followed by Leandro Paredes (93%).",
+    "Paul Pogba recalls Isco at the 2018 World Cup (91%), then Renato Sanches and Iniesta (90%).",
+    "Kevin Mbabu resembles Ramin Rezaeian (91%) and Vladimír Coufal (88%), the top full-back in our rankings.",
+    "Raphaël Varane's twin is Rúben Dias at this Euro (96%), then Virgil van Dijk (95%)."
+   ],
+   "impact": "Mbappé and Embolo, 93% twins: two forwards with near-identical statistical profiles, facing each other in the same round of 16. That night neither scored, and the tie was decided elsewhere, by Seferović, Gavranović and then the penalty takers."
+  }
+ }
+}

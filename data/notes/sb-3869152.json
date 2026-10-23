@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Méfiance avec les xG de ce huitième : la Pologne termine devant (1,59 contre 1,13), mais 0,78 viennent du penalty de Lewandowski à la 99e minute, quand tout était joué. Hors penalty, la France mène 1,13 à 0,81. Surtout, elle a cadré 8 tirs contre 2. Le reste, c'est Kylian Mbappé : 2 buts sur des frappes à 0,09 et 0,04 xG, une passe décisive et 7 dribbles.",
+   "keys": [
+    "Mbappé marque à la 74e (0,09 xG) puis à la 91e (0,04 xG) : deux buts à très faible probabilité, deux gestes de finisseur hors norme.",
+    "Giroud ouvre le score juste avant la pause, à la 44e, sur une frappe à 0,29 xG.",
+    "Lewandowski cumule 1,02 xG sur 5 tirs, mais n'a trouvé le chemin des filets que sur penalty.",
+    "Piotr Zieliński a eu la balle d'ouverture du score à la 38e : deux frappes dans la même minute (0,21 et 0,14 xG), aucune au fond."
+   ],
+   "impact": "La Pologne a eu sa fenêtre en première mi-temps avec les occasions de Zieliński, et la France l'a refermée juste avant la pause. Ensuite, Mbappé a transformé des demi-occasions en buts, et le score a pris une ampleur que les xG ne racontent pas."
+  },
+  "en": {
+   "lead": "Be careful with the xG in this Round of 16 tie: Poland finish ahead (1.59 to 1.13), but 0.78 of that comes from Lewandowski's penalty in minute 99, when it was all over. Without penalties, France lead 1.13 to 0.81. Above all, they put 8 shots on target to 2. The rest is Kylian Mbappé: 2 goals from shots worth 0.09 and 0.04 xG, an assist and 7 dribbles.",
+   "keys": [
+    "Mbappé scored in minute 74 (0.09 xG) and again in minute 91 (0.04 xG): two very low-probability goals, two pieces of exceptional finishing.",
+    "Giroud opened the scoring just before half-time, in minute 44, from a 0.29 xG shot.",
+    "Lewandowski piled up 1.02 xG from 5 shots, but only found the net from the spot.",
+    "Piotr Zieliński had the chance to open the scoring in minute 38: two shots in the same minute (0.21 and 0.14 xG), neither went in."
+   ],
+   "impact": "Poland had their window in the first half with Zieliński's chances, and France slammed it shut just before the break. After that, Mbappé turned half-chances into goals, and the scoreline grew to a size the xG does not tell."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La France annonçait un 4-2-3-1 ; avec le ballon, les positions moyennes dessinent un 3-5-2. Koundé reste en retrait à droite pour former une ligne de trois avec Varane et Upamecano, pendant que Theo Hernández monte à 63 m, collé à la ligne gauche, juste derrière Mbappé (79 m, à 9 m de la touche). En face, le 4-1-4-1 polonais se replie en 5-2-3 sans ballon, avec une dernière ligne à 25,0 m de son but.",
+   "keys": [
+    "Le couloir gauche français concentre 28 % des touches : le duo Hernández – Mbappé était la première arme.",
+    "Avec le ballon, la dernière ligne française se tient à 47,2 m de son but, bien plus haut que la moyenne du tournoi (40,3 m).",
+    "La France passe 33 % de ses touches dans le dernier tiers, la Pologne 21 %.",
+    "Sans ballon, le bloc polonais est très court : 19,8 m de profondeur et une hauteur moyenne de 33,0 m."
+   ],
+   "impact": "La Pologne a choisi de défendre bas et serré, et la France a répondu en montant sa ligne et en surchargeant la gauche. Ce n'est sans doute pas un hasard si Mbappé, posté exactement à cet endroit, a fini par trouver les espaces."
+  },
+  "en": {
+   "lead": "France announced a 4-2-3-1; in possession, the average positions draw a 3-5-2. Koundé stayed back on the right to form a back three with Varane and Upamecano, while Theo Hernández pushed up to 63 m, hugging the left touchline, just behind Mbappé (79 m, 9 m from the line). Opposite, Poland's 4-1-4-1 dropped into a 5-2-3 without the ball, with a back line 25.0 m from goal.",
+   "keys": [
+    "France's left lane took 28% of their touches: the Hernández – Mbappé pair was the first weapon.",
+    "In possession, France's back line sat 47.2 m from goal, far higher than the tournament average (40.3 m).",
+    "France had 33% of their touches in the final third, Poland 21%.",
+    "Out of possession, Poland's block was very short: 19.8 m deep with an average height of 33.0 m."
+   ],
+   "impact": "Poland chose to defend low and tight, and France responded by pushing their line up and overloading the left. It is probably no coincidence that Mbappé, stationed exactly there, eventually found the space."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ni la France ni la Pologne n'ont cherché à étouffer l'adversaire. La PPDA française est de 29,8, un chiffre très élevé, et les Bleus ne comptent que 5 récupérations hautes. La Pologne n'a pas fait beaucoup mieux : 3,1 pressions par minute sans ballon, sous la moyenne du tournoi (3,7), et 6 récupérations hautes. Un match de blocs, pas de chasse.",
+   "keys": [
+    "Les deux équipes défendent à la même hauteur : 48,1 m pour la France, 48,6 m pour la Pologne, pile sur la moyenne du tournoi (48,2 m).",
+    "La Pologne contre-presse un peu plus : 24 % de ses pressions, contre 19 % pour la France.",
+    "Après une perte, la Pologne récupère 55 % de ses ballons en moins de 10 s, la France 50 %.",
+    "Récupérations hautes : 5 et 6, loin de la moyenne du tournoi (9,3)."
+   ],
+   "impact": "Sans pressing haut, le match s'est joué sur des attaques placées, terrain où la France avait plus de talent individuel à aligner. La Pologne, en restant dans son bloc, a limité les dégâts pendant une heure, mais elle ne s'est jamais donné les moyens de récupérer le ballon près du but français."
+  },
+  "en": {
+   "lead": "Neither France nor Poland tried to smother the opponent. France's PPDA was a very high 29.8, and they managed only 5 high regains. Poland did not do much better: 3.1 pressures per minute out of possession, below the tournament average (3.7), and 6 high regains. A game of blocks, not of hunting.",
+   "keys": [
+    "Both teams defended at the same height: 48.1 m for France, 48.6 m for Poland, right on the tournament average (48.2 m).",
+    "Poland counter-pressed a little more: 24% of their pressures, against 19% for France.",
+    "After a loss, Poland won back 55% of balls within 10 s, France 50%.",
+    "High regains: 5 and 6, far from the tournament average (9.3)."
+   ],
+   "impact": "With no high press, the game was decided by set attacks, where France had more individual talent to call on. By staying in their block, Poland limited the damage for an hour, but they never gave themselves a way to win the ball back near the French goal."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur ce match, la France joue en relationniste (+0,40) : 59 % de passes courtes et 38 % de combinaisons rapides, bien au-dessus de la moyenne du tournoi (33 %). Étonnant pour une équipe classée seulement 24e sur 32 au classement relationniste de la compétition. Le carrefour s'appelle Aurélien Tchouaméni (129 passes), et les liens les plus forts dessinent deux couloirs : Koundé – Dembélé à droite (26), Mbappé – Hernández à gauche (25).",
+   "keys": [
+    "La Pologne, à −0,48, est franchement positionniste ce jour-là : chacun à son poste, peu de mouvement autour du ballon.",
+    "Le carrefour polonais est un défenseur, Jakub Kiwior (121 passes), et le duo le plus actif est Glik – Kiwior (35).",
+    "Liberté latérale de 11,5 m pour les Polonais, contre 13,0 m pour les Français : la Pologne bougeait peu.",
+    "Tchouaméni – Koundé (24 passes) complète le podium des liens français : la sortie de balle passait à droite."
+   ],
+   "impact": "La France a construit par paires dans chaque couloir, ce qui lui a permis de déplacer le bloc polonais d'un côté à l'autre. La Pologne, coincée dans un jeu de postes, a surtout fait circuler entre ses centraux sans parvenir à avancer."
+  },
+  "en": {
+   "lead": "In this game France played relational football (+0.40): 59% short passes and 38% quick combinations, well above the tournament average (33%). Surprising for a team ranked only 24th of 32 on the competition's relational scale. The hub was Aurélien Tchouaméni (129 passes), and the strongest links trace two lanes: Koundé – Dembélé on the right (26), Mbappé – Hernández on the left (25).",
+   "keys": [
+    "Poland, at −0.48, were openly positional that day: everyone in their spot, little movement around the ball.",
+    "Poland's hub was a defender, Jakub Kiwior (121 passes), and the busiest pair was Glik – Kiwior (35).",
+    "Lateral freedom of 11.5 m for Poland, against 13.0 m for France: Poland moved little.",
+    "Tchouaméni – Koundé (24 passes) completes France's top three links: the build-up went through the right."
+   ],
+   "impact": "France built in pairs down each flank, which let them shift Poland's block from side to side. Poland, stuck in a positional game, mostly circulated between their centre-backs without managing to progress."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le chiffre est rare : la France n'a concédé aucun tir dans les 15 secondes suivant une perte de balle. Zéro tir, 0,00 xG en transition. La moyenne du tournoi est de 2,6 tirs. Pourtant, les Bleus ne perdaient pas le ballon avec beaucoup de monde derrière (4,5 joueurs en moyenne), mais ils revenaient vite : 5,3 quelques secondes plus tard, et un bloc de 7 ou plus reformé dans 35 % des cas.",
+   "keys": [
+    "La Pologne perd le ballon avec seulement 3,8 joueurs derrière lui en moyenne, puis 4,6 : très exposée.",
+    "Elle ne concède pourtant que 3 tirs en transition, pour 0,15 xG : la France n'a pas su en profiter.",
+    "Exemple 360 à la 54e minute : 1 seul Polonais derrière le ballon à la perte, 7 quelques secondes plus tard.",
+    "Bloc reformé à 7 ou plus : 35 % pour la France, 24 % pour la Pologne (moyenne : 29 %)."
+   ],
+   "impact": "Aucun but dans ce match n'est venu d'une transition. La France a verrouillé ses pertes de balle, et la Pologne, malgré un repli fragile, n'a pas été punie de cette façon : le match s'est décidé ailleurs, dans les attaques placées et le talent de Mbappé."
+  },
+  "en": {
+   "lead": "A rare number: France conceded no shots at all within 15 seconds of losing the ball. Zero shots, 0.00 xG in transition. The tournament average is 2.6 shots. Yet France were not losing the ball with many players behind it (4.5 on average), but they got back quickly: 5.3 a few seconds later, and a block of 7 or more rebuilt in 35% of cases.",
+   "keys": [
+    "Poland lost the ball with only 3.8 players behind it on average, then 4.6: very exposed.",
+    "Yet they conceded only 3 shots in transition, worth 0.15 xG: France failed to cash in.",
+    "A 360 example in minute 54: a single Pole behind the ball at the loss, 7 a few seconds later.",
+    "Block rebuilt with 7 or more: 35% for France, 24% for Poland (average: 29%)."
+   ],
+   "impact": "None of the goals in this match came from a transition. France locked down their losses of possession, and Poland, despite a fragile recovery shape, were not punished that way: the game was decided elsewhere, in set attacks and Mbappé's talent."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Olivier Giroud, l'aimant attendu : 1,00 adversaire de plus que la normale autour de chacune de ses touches, le plus haut total du match. Juste derrière, Arkadiusz Milik (0,93) pour la Pologne, puis deux Français, Youssouf Fofana (0,72) et Kingsley Coman (0,66). La gravité de ce match reste modeste : personne ne dépasse 1,00, loin des valeurs des plus gros aimants du tournoi.",
+   "keys": [
+    "Giroud attirait du monde dans l'axe, ce qui pouvait laisser plus d'air à Mbappé sur le côté gauche.",
+    "Les deux ailiers polonais, Frankowski et Kamiński, attiraient 0,55 adversaire de plus chacun.",
+    "Kiwior (−0,93) et Glik (−0,67) ont joué sans pression : la France ne venait pas chercher les centraux polonais.",
+    "Le Français le plus libre est Upamecano (−0,52), logique face à une Pologne qui ne pressait pas."
+   ],
+   "impact": "Giroud a fixé la défense centrale polonaise et a marqué le premier but : sa gravité a été utile des deux manières. Les défenseurs polonais, eux, avaient tout le temps de jouer."
+  },
+  "en": {
+   "lead": "Olivier Giroud, the expected magnet: 1.00 extra opponents around each of his touches, the highest figure of the match. Right behind, Arkadiusz Milik (0.93) for Poland, then two Frenchmen, Youssouf Fofana (0.72) and Kingsley Coman (0.66). The gravity in this game stayed modest: nobody topped 1.00, a long way from the biggest magnets of the tournament.",
+   "keys": [
+    "Giroud drew a crowd in the middle, which may have left Mbappé more room on the left.",
+    "Poland's two wingers, Frankowski and Kamiński, each drew 0.55 extra opponents.",
+    "Kiwior (−0.93) and Glik (−0.67) played without pressure: France did not come for Poland's centre-backs.",
+    "The freest Frenchman was Upamecano (−0.52), logical against a Poland side that did not press."
+   ],
+   "impact": "Giroud pinned Poland's centre-backs and scored the opener: his gravity was useful both ways. Poland's defenders had all the time in the world."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le geste le plus menaçant du match vient d'un milieu défensif : Aurélien Tchouaméni, à la 20e minute, envoie une passe de 74 à 100 m qui vaut +0,38 xT. Il termine meilleur créateur du match avec 0,47 xT, 28 % de la menace française. La France écrase la première mi-temps (1,03 xT contre 0,21), puis la Pologne se réveille après la pause (1,07 contre 0,63). Le problème, c'est que le réveil polonais arrive quand le tableau d'affichage commence à se remplir.",
+   "keys": [
+    "Kamil Grosicki, 0,36 xT, pèse 28 % de la menace polonaise, avec une passe à +0,35 xT à la 94e minute.",
+    "Mbappé produit 0,34 xT, partagé à parts égales entre passes (0,17) et conduites (0,16).",
+    "En première mi-temps, la Pologne ne produit que 0,21 xT : presque rien pendant 45 minutes.",
+    "Kiwior, défenseur central, figure parmi les créateurs polonais (0,18 xT) : la Pologne avançait par ses relances."
+   ],
+   "impact": "La France a fait la différence quand elle dominait la menace, avec le but de Giroud juste avant la pause. La Pologne a fini plus fort, mais une menace qui arrive après le 2-0 de la 74e change rarement l'issue d'un huitième de finale."
+  },
+  "en": {
+   "lead": "The most threatening action of the match came from a defensive midfielder: Aurélien Tchouaméni, in minute 20, played a pass from 74 to 100 m worth +0.38 xT. He finished as the top creator of the match with 0.47 xT, 28% of France's threat. France dominated the first half (1.03 xT to 0.21), then Poland woke up after the break (1.07 to 0.63). The problem: Poland's wake-up call came just as the scoreboard started filling up.",
+   "keys": [
+    "Kamil Grosicki, 0.36 xT, accounts for 28% of Poland's threat, including a +0.35 xT pass in minute 94.",
+    "Mbappé produced 0.34 xT, split evenly between passes (0.17) and carries (0.16).",
+    "In the first half, Poland produced only 0.21 xT: almost nothing for 45 minutes.",
+    "Kiwior, a centre-back, features among Poland's creators (0.18 xT): Poland progressed through their build-up passes."
+   ],
+   "impact": "France made the difference while they dominated the threat, with Giroud's goal just before the break. Poland finished stronger, but threat that arrives after the 2-0 in minute 74 rarely changes the outcome of a Round of 16 tie."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur toute la compétition, Kylian Mbappé est le n°1 des 77 attaquants classés, avec une note de 90, 8 buts et 2 passes décisives. Autour de lui, la France aligne plusieurs joueurs dans le haut des classements : Theo Hernández 9e des 98 latéraux, Aurélien Tchouaméni 10e des 97 milieux, Antoine Griezmann 13e. Côté polonais, le mieux classé est le gardien, Wojciech Szczęsny, 4e des 32 gardiens.",
+   "keys": [
+    "Szczęsny obtient une note de 74, et ses 5 arrêts du soir ont évité un score plus lourd.",
+    "Griezmann, classé milieu, compte 3 passes décisives et aucun but sur le tournoi.",
+    "Giroud est 25e des attaquants avec 4 buts ; Lewandowski 27e, avec 2 buts et 1 passe décisive.",
+    "Piotr Zieliński, auteur des deux grosses occasions polonaises de la 38e minute, n'est que 39e des milieux."
+   ],
+   "impact": "La hiérarchie a parlé : face à une Pologne dont le meilleur élément était le gardien, la France alignait le meilleur attaquant du tournoi et plusieurs cadres parmi les mieux classés. Mbappé a fait ce que son classement annonçait."
+  },
+  "en": {
+   "lead": "Across the competition, Kylian Mbappé is number 1 of 77 ranked forwards, with a score of 90, 8 goals and 2 assists. Around him, France field several players near the top of the rankings: Theo Hernández 9th of 98 full-backs, Aurélien Tchouaméni 10th of 97 midfielders, Antoine Griezmann 13th. For Poland, the highest ranked is the goalkeeper, Wojciech Szczęsny, 4th of 32.",
+   "keys": [
+    "Szczęsny has a score of 74, and his 5 saves on the night kept the score from getting heavier.",
+    "Griezmann, listed as a midfielder, has 3 assists and no goals over the tournament.",
+    "Giroud is 25th among forwards with 4 goals; Lewandowski 27th, with 2 goals and 1 assist.",
+    "Piotr Zieliński, who had Poland's two big chances in minute 38, is only 39th among midfielders."
+   ],
+   "impact": "The pecking order spoke: against a Poland side whose best player was the goalkeeper, France fielded the tournament's top forward and several of its best-ranked regulars. Mbappé did exactly what his ranking promised."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Clin d'œil des jumeaux : Olivier Giroud et Robert Lewandowski, les deux avant-centres du soir, partagent les mêmes sosies statistiques. Giroud ressemble à 98 % à Álvaro Morata (Mondial 2022) et à 97 % à Aleksandar Mitrović (2018) ; Lewandowski, à 94 % à ce même Mitrović et à 93 % à ce même Morata. Deux avant-centres, deux profils presque interchangeables. Et Mbappé ? Gareth Bale en finale de Ligue des champions, à 97 %.",
+   "keys": [
+    "Aurélien Tchouaméni a pour jumeaux Sergio Busquets en 2018 (94 %) et Rodri à l'Euro 2024 (92 %).",
+    "Ousmane Dembélé ressemble à 90 % à Lamine Yamal (Euro 2024) et à Raphinha (Mondial 2022).",
+    "Wojciech Szczęsny a pour jumeaux Devis Epassy (Mondial 2022) et Lukáš Hrádecký (Euro 2020), à 94 % chacun.",
+    "Antoine Griezmann, classé milieu, ressemble d'abord à A. Ramsey à l'Euro 2016 (89 %)."
+   ],
+   "impact": "Giroud et Lewandowski avaient presque le même profil, mais pas le même soutien : l'un avait Mbappé à côté de lui, l'autre a dû attendre un penalty en fin de match. Les jumeaux comparent des profils par 90 minutes, réduits dans leur compétition : ils décrivent un style, pas un niveau."
+  },
+  "en": {
+   "lead": "A wink from the twins: Olivier Giroud and Robert Lewandowski, the two centre-forwards of the night, share the same statistical lookalikes. Giroud is 98% similar to Álvaro Morata (2022 World Cup) and 97% to Aleksandar Mitrović (2018); Lewandowski 94% to that same Mitrović and 93% to that same Morata. Two centre-forwards, two almost interchangeable profiles. And Mbappé? Gareth Bale in a Champions League final, at 97%.",
+   "keys": [
+    "Aurélien Tchouaméni's twins are Sergio Busquets in 2018 (94%) and Rodri at Euro 2024 (92%).",
+    "Ousmane Dembélé is 90% similar to Lamine Yamal (Euro 2024) and Raphinha (2022 World Cup).",
+    "Wojciech Szczęsny's twins are Devis Epassy (2022 World Cup) and Lukáš Hrádecký (Euro 2020), at 94% each.",
+    "Antoine Griezmann, listed as a midfielder, resembles A. Ramsey at Euro 2016 first (89%)."
+   ],
+   "impact": "Giroud and Lewandowski had almost the same profile, but not the same support: one had Mbappé beside him, the other had to wait for a late penalty. Twins compare per-90 profiles standardised within their competition: they describe a style, not a level."
+  }
+ }
+}

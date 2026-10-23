@@ -131,6 +131,11 @@ def main(argv: list[str] | None = None) -> int:
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("xg", help="entraîne le modèle d'xG sur les tirs Wyscout")
     sub.add_parser("notes", help="réécrit le coin de l'analyste sans tout recalculer")
+    fa = sub.add_parser("facts", help="écrit la fiche de faits de chaque match publié")
+    fa.add_argument("--out", default="data/facts", help="dossier de sortie")
+    sub.add_parser("dossier", help="vérifie et publie le dossier France–Argentine")
+    cn = sub.add_parser("check-notes", help="vérifie les chiffres des textes écrits à la main")
+    cn.add_argument("ids", nargs="*", help="identifiants de matchs (tous par défaut)")
     sub.add_parser("xt", help="calcule la grille d'expected threat sur les championnats Wyscout")
     e = sub.add_parser("export", help="calcule les stats et écrit web/data/")
     e.add_argument("--only", nargs="*", help="ne recalculer que ces compétitions (ex. wc-2022)")
@@ -138,6 +143,18 @@ def main(argv: list[str] | None = None) -> int:
     if args.command == "xg":
         m = train_xg()
         print(f"xG : {m.n_shots} tirs, coefficients {m.coef}, penalty {m.penalty}")
+    elif args.command == "facts":
+        print(f"{ex.write_facts(WEB_DATA, Path(args.out))} fiches écrites dans {args.out}")
+    elif args.command == "check-notes":
+        problems = ex.check_notes(WEB_DATA, set(args.ids) or None)
+        for mid, bad in problems.items():
+            print(mid, ", ".join(bad))
+        print(f"{len(problems)} match(s) à corriger")
+        return 1 if problems else 0
+    elif args.command == "dossier":
+        bad = ex.build_dossier(WEB_DATA)
+        print("dossier écrit" + (f" ; nombres introuvables : {', '.join(bad)}" if bad else ""))
+        return 1 if bad else 0
     elif args.command == "notes":
         print(f"{ex.rewrite_notes(WEB_DATA)} matchs commentés")
     elif args.command == "xt":

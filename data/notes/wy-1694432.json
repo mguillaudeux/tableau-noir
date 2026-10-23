@@ -1,0 +1,194 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "L'Espagne a eu le ballon (57 %), l'Italie a eu les occasions. Voilà tout le huitième de finale en une phrase. Les Italiens ne tirent que 11 fois, mais cadrent 7 tirs et cumulent 1,99 xG ; l'Espagne tire 13 fois pour 1,07 xG et aucune grosse occasion. Le premier but est signé par un défenseur, G. Chiellini à la 33e minute (0,59 xG), le second par G. Pellè à la 91e, pour fermer la porte.",
+   "keys": [
+    "Passes clés : 4 pour l'Italie, 1 seule pour l'Espagne malgré 579 passes.",
+    "Grosses occasions : 2 pour l'Italie, 0 pour l'Espagne.",
+    "Le plus dangereux des Espagnols est un défenseur central : Piqué, 3 tirs pour 0,49 xG, dont une frappe cadrée à 0,27 xG à la 89e minute.",
+    "M. Darmian ne joue que 6 minutes, et y trouve le temps de délivrer une passe décisive."
+   ],
+   "impact": "L'Italie a fait plus avec moins : moins de ballon, moins de passes, mais près de deux fois plus d'xG. Le score de 2-0 reflète fidèlement ce que les deux équipes ont réellement créé."
+  },
+  "en": {
+   "lead": "Spain had the ball (57%), Italy had the chances. That is the whole round of 16 tie in one sentence. The Italians shoot only 11 times but put 7 on target and pile up 1.99 xG; Spain shoot 13 times for 1.07 xG and not a single big chance. The first goal comes from a defender, G. Chiellini in minute 33 (0.59 xG), the second from G. Pellè in minute 91, to shut the door.",
+   "keys": [
+    "Key passes: 4 for Italy, just 1 for Spain despite 579 passes.",
+    "Big chances: 2 for Italy, 0 for Spain.",
+    "Spain's most dangerous player is a centre-back: Piqué, 3 shots worth 0.49 xG, including an on-target effort worth 0.27 xG in minute 89.",
+    "M. Darmian plays only 6 minutes and still finds time to provide an assist."
+   ],
+   "impact": "Italy did more with less: less ball, fewer passes, but almost twice the xG. The 2-0 scoreline is a faithful reflection of what each side actually created."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Avec le ballon, l'Italie se dessine en 3-3-3-1 : A. Barzagli, Chiellini et L. Bonucci derrière, M. De Sciglio collé à la ligne gauche (6 m), A. Florenzi haut sur la droite (64 m). Mais elle passe 44 % de ses touches dans son propre tiers : une équipe qui accepte d'attendre. L'Espagne, elle, pousse tout vers l'avant : ses deux latéraux, Jordi Alba et Juanfran, ont une position moyenne à 68 m de leur but, au niveau des milieux offensifs.",
+   "keys": [
+    "L'Espagne joue 42 % de ses touches dans le dernier tiers, l'Italie 21 %.",
+    "Sergio Busquets (54 m) est le seul milieu resté bas : avec Piqué et Sergio Ramos, il forme la base du 3-3-4 espagnol.",
+    "Côté italien, Eder est le plus avancé (71 m), Pellè décroche à 64 m.",
+    "Sans le ballon, l'Espagne se dessine en 4-1-5 : cinq joueurs restaient très haut."
+   ],
+   "impact": "Tant d'Espagnols au-dessus du ballon, c'est autant d'espace dans leur dos. L'Italie n'a pas eu besoin de beaucoup de ballons pour en profiter : 1,99 xG en 11 tirs, c'est le signe d'une équipe qui trouvait de l'espace quand elle attaquait."
+  },
+  "en": {
+   "lead": "In possession Italy take the shape of a 3-3-3-1: A. Barzagli, Chiellini and L. Bonucci at the back, M. De Sciglio hugging the left touchline (6 m), A. Florenzi high on the right (64 m). But they spend 44% of their touches in their own third: a team happy to wait. Spain push everything forward: both full-backs, Jordi Alba and Juanfran, have an average position 68 m from their own goal, level with the attacking midfielders.",
+   "keys": [
+    "Spain play 42% of their touches in the final third, Italy 21%.",
+    "Sergio Busquets (54 m) is the only midfielder who stays deep: with Piqué and Sergio Ramos he forms the base of Spain's 3-3-4.",
+    "For Italy, Eder is the most advanced (71 m), with Pellè dropping off to 64 m.",
+    "Out of possession Spain form a 4-1-5: five players stayed very high."
+   ],
+   "impact": "So many Spaniards above the ball means just as much space behind them. Italy did not need much of the ball to exploit it: 1.99 xG from 11 shots is the mark of a team that found space whenever it attacked."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Les données Wyscout ne contiennent pas d'événements de pression : le pressing se lit ici dans les tacles, interceptions et fautes. Et l'Espagne presse : PPDA de 5,7, actions défensives à 46,7 m de son but, 13 récupérations hautes. L'Italie fait le choix inverse, avec un bloc qui défend à 32,8 m et seulement 3 récupérations hautes. Mais elle intercepte 52 ballons, plus que tout le monde dans ce match.",
+   "keys": [
+    "13 récupérations hautes pour l'Espagne, près du double de la moyenne du tournoi (6,9).",
+    "L'Italie récupère 25 % de ses ballons perdus en moins de 5 secondes, au-dessus de la moyenne (17 %) et de l'Espagne (15 %).",
+    "19 fautes italiennes contre 15 : l'Italie n'hésitait pas à casser le rythme.",
+    "130 actions défensives italiennes, 107 espagnoles : les Italiens ont plus défendu, mais plus bas."
+   ],
+   "impact": "Le pressing espagnol a gagné des ballons haut, mais n'en a tiré aucune grosse occasion. Le bloc italien, lui, a fait exactement ce qu'il devait : laisser venir et couper les passes."
+  },
+  "en": {
+   "lead": "Wyscout data has no pressure events, so the press is read here through tackles, interceptions and fouls. And Spain press: a PPDA of 5.7, defensive actions 46.7 m from their own goal, 13 high regains. Italy make the opposite choice, with a block defending at 32.8 m and only 3 high regains. But they intercept 52 balls, more than anyone else in the match.",
+   "keys": [
+    "13 high regains for Spain, almost double the tournament average (6.9).",
+    "Italy win back 25% of lost balls within 5 seconds, above the average (17%) and above Spain (15%).",
+    "19 Italian fouls to 15: Italy had no qualms about breaking the rhythm.",
+    "130 Italian defensive actions, 107 Spanish: Italy defended more, but deeper."
+   ],
+   "impact": "Spain's press won the ball high but produced no big chance from it. Italy's block did exactly what it had to: let them come and cut the passing lanes."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Un choc de philosophies comme on en voit rarement : l'équipe la plus relationniste du tournoi contre la plus positionniste. Sur l'ensemble de la compétition, l'Espagne est 1re sur 24 (+1,37), l'Italie 24e (−0,79). Sur ce match, l'écart reste net : +0,66 contre −0,44. D'un côté, des triangles autour de Fàbregas (127 passes) et Iniesta (119) ; de l'autre, un réseau qui passe par D. De Rossi (63) et les défenseurs.",
+   "keys": [
+    "Le lien espagnol le plus utilisé, Jordi Alba – Iniesta (25 passes), raconte un côté gauche très actif.",
+    "Fàbregas – David Silva, 24 passes : l'autre moteur du jeu espagnol.",
+    "Côté italien, le duo le plus actif est De Sciglio – Chiellini (16), juste devant G. Buffon – Barzagli (15).",
+    "Passes courtes : 46 % pour l'Espagne, 39 % pour l'Italie (moyenne du tournoi : 42 %)."
+   ],
+   "impact": "Le relationnisme espagnol a monopolisé le ballon, mais le positionnisme italien a gardé chaque joueur à sa place, et chaque espace fermé. Ce soir-là, la rigueur a battu la fluidité."
+  },
+  "en": {
+   "lead": "A clash of philosophies of a kind you rarely see: the most relational team of the tournament against the most positional. Over the whole competition Spain are 1st of 24 (+1.37), Italy 24th (−0.79). In this match the gap is still clear: +0.66 against −0.44. On one side, triangles around Fàbregas (127 passes) and Iniesta (119); on the other, a network running through D. De Rossi (63) and the defenders.",
+   "keys": [
+    "Spain's busiest link, Jordi Alba – Iniesta (25 passes), tells of a very active left side.",
+    "Fàbregas – David Silva, 24 passes: the other engine of Spain's game.",
+    "For Italy the busiest pair is De Sciglio – Chiellini (16), just ahead of G. Buffon – Barzagli (15).",
+    "Short passes: 46% for Spain, 39% for Italy (tournament average: 42%)."
+   ],
+   "impact": "Spain's relational game monopolised the ball, but Italy's positional game kept every player in place and every space shut. That night, discipline beat fluidity."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Des pertes de balle presque sans conséquence : un seul tir concédé en transition de chaque côté, pour 0,02 xG chacun. C'est très en dessous de la moyenne du tournoi (1,6 tir et 0,13 xG). Aucun des deux buts italiens n'est venu d'une contre-attaque. Malgré tous ces Espagnols lancés vers l'avant, l'Italie n'a presque jamais pu les punir dans les 15 secondes.",
+   "keys": [
+    "L'Espagne perd 62 ballons dans le jeu, l'Italie 58.",
+    "Un seul tir italien en transition pour 0,02 xG : la menace italienne est venue d'ailleurs.",
+    "L'Italie, qui défendait bas, n'a concédé qu'un tir après ses propres pertes."
+   ],
+   "impact": "Contrairement à ce qu'on pourrait croire, l'Italie n'a pas gagné en contre. Elle a gagné en attaque placée et sur ses occasions franches, tout en ne laissant presque rien à l'Espagne après ses pertes."
+  },
+  "en": {
+   "lead": "Losses with almost no consequences: one shot conceded in transition on each side, worth 0.02 xG each. That is far below the tournament average (1.6 shots and 0.13 xG). Neither Italian goal came from a counter-attack. Despite all those Spaniards pushed forward, Italy almost never managed to punish them within 15 seconds.",
+   "keys": [
+    "Spain lose 62 balls in open play, Italy 58.",
+    "One Italian shot in transition worth 0.02 xG: Italy's threat came from elsewhere.",
+    "Italy, defending deep, conceded only one shot after their own losses."
+   ],
+   "impact": "Contrary to what you might think, Italy did not win on the break. They won without transitions, through their clear chances, while leaving Spain almost nothing after their losses."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Les quatre joueurs les plus surveillés sont tous italiens : Eder (+1,09), Pellè (+1,08), M. Parolo (+0,88) et E. Giaccherini (+0,6). Les Espagnols, eux, n'ont pas eu droit à cette attention : Iniesta et Morata plafonnent à +0,27.",
+   "keys": [
+    "Nolito (−0,82) et Lucas Vázquez (−0,69) sont les joueurs les moins surveillés du match.",
+    "David Silva (−0,42) a joué presque sans opposition directe.",
+    "Les deux attaquants italiens, Eder et Pellè, attirent les défenseurs presque autant l'un que l'autre."
+   ],
+   "impact": "La défense espagnole s'est jetée sur les attaquants italiens, pendant que les Italiens laissaient les Espagnols toucher le ballon sans les harceler. Deux façons de défendre, et c'est celle de l'Italie qui a payé."
+  },
+  "en": {
+   "lead": "Without 360 data this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. The four most watched players are all Italian: Eder (+1.09), Pellè (+1.08), M. Parolo (+0.88) and E. Giaccherini (+0.6). The Spaniards got nothing like that attention: Iniesta and Morata peak at +0.27.",
+   "keys": [
+    "Nolito (−0.82) and Lucas Vázquez (−0.69) are the least watched players of the match.",
+    "David Silva (−0.42) played almost without direct opposition.",
+    "Italy's two forwards, Eder and Pellè, attract defenders almost equally."
+   ],
+   "impact": "Spain's defence jumped on the Italian forwards, while Italy let the Spaniards have the ball without harassing them. Two ways of defending, and Italy's was the one that paid off."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Surprise : en menace créée, c'est l'Espagne qui gagne, 1,89 xT contre 1,06. Fàbregas en porte le tiers à lui seul (0,63 xT, 33 %), avec le geste le plus menaçant du match à la 49e minute (+0,36 xT). Mais cette menace ne s'est jamais transformée en grosse occasion : 0 pour l'Espagne. L'Italie, elle, produit l'essentiel de sa menace avant la pause (0,73 xT sur 1,06).",
+   "keys": [
+    "Le premier créateur italien est M. De Sciglio (0,34 xT), qui porte 32 % de la menace de son équipe depuis le côté gauche.",
+    "En seconde période, l'Espagne monte à 1,2 xT pendant que l'Italie tombe à 0,33.",
+    "Iniesta (0,37 xT, 20 %) est le deuxième créateur espagnol, loin derrière Fàbregas.",
+    "La seule conduite de balle dans les gestes les plus menaçants est italienne : Eder, de 69 à 94 m, à la 55e minute."
+   ],
+   "impact": "L'Espagne a mieux avancé le ballon, mais l'Italie a mieux transformé sa menace en tirs : moins de xT, presque deux fois plus d'xG. Tout indique une seconde période passée à défendre, et une fin de match conclue par Pellè."
+  },
+  "en": {
+   "lead": "Surprise: on threat created, Spain win, 1.89 xT to 1.06. Fàbregas carries a third of it on his own (0.63 xT, 33%), including the most threatening action of the match in minute 49 (+0.36 xT). But that threat never turned into a big chance: 0 for Spain. Italy produce most of their threat before the break (0.73 xT out of 1.06).",
+   "keys": [
+    "Italy's top creator is M. De Sciglio (0.34 xT), carrying 32% of his team's threat from the left side.",
+    "After the break Spain rise to 1.2 xT while Italy drop to 0.33.",
+    "Iniesta (0.37 xT, 20%) is Spain's second creator, far behind Fàbregas.",
+    "The only carry among the most threatening actions is Italian: Eder, from 69 to 94 m, in minute 55."
+   ],
+   "impact": "Spain moved the ball forward better, but Italy turned their threat into shots more efficiently: less xT, almost twice the xG. Everything points to a second half spent defending, and a finish sealed by Pellè."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur le tournoi, deux joueurs de ce match sont numéro un à leur poste : Sergio Ramos, 1er des 33 défenseurs centraux (note de 87), et G. Buffon, 1er des 24 gardiens (76). Le milieu espagnol est solide aussi : Iniesta 4e sur 90, Fàbregas 12e, Sergio Busquets 13e. Et Piqué complète le tableau, 5e des défenseurs centraux.",
+   "keys": [
+    "Côté italien, derrière Buffon, le mieux classé est L. Bonucci, 11e des défenseurs centraux, avec 1 but et 1 passe décisive sur le tournoi.",
+    "Álvaro Morata termine avec 3 buts en 289 minutes, mais seulement 15e des 46 attaquants.",
+    "Pellè est 17e des attaquants, avec 2 buts sur la compétition.",
+    "Nolito, 8e des attaquants, est l'Espagnol offensif le mieux classé."
+   ],
+   "impact": "Sur le papier, l'Espagne avait plus de joueurs dans le haut des classements. Mais le meilleur gardien du tournoi jouait en face, et il n'a encaissé aucun but."
+  },
+  "en": {
+   "lead": "Over the tournament, two players in this match are number one in their positions: Sergio Ramos, 1st of 33 centre-backs (score of 87), and G. Buffon, 1st of 24 goalkeepers (76). Spain's midfield is strong too: Iniesta 4th of 90, Fàbregas 12th, Sergio Busquets 13th. And Piqué completes the picture, 5th among centre-backs.",
+   "keys": [
+    "For Italy, behind Buffon, the best ranked is L. Bonucci, 11th among centre-backs, with 1 goal and 1 assist in the tournament.",
+    "Álvaro Morata finishes with 3 goals in 289 minutes, but only 15th of 46 forwards.",
+    "Pellè is 17th among forwards, with 2 goals in the competition.",
+    "Nolito, 8th among forwards, is Spain's best ranked attacker."
+   ],
+   "impact": "On paper Spain had more players near the top of the rankings. But the best goalkeeper of the tournament was in the other goal, and he kept a clean sheet."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de Morata est un trio d'avant-centres : Randal Kolo à la Coupe du monde 2022 (96 %), Mario Mandžukić en finale de Ligue des champions et Olivier Giroud (95 % chacun). Un profil d'avant-centre de pointe. Buffon ressemble à Thibaut Courtois à l'Euro 2020 (95 %), et Sergio Busquets à Tyler Adams (92 %), juste devant Jorginho.",
+   "keys": [
+    "L. Bonucci a pour jumeau Nemanja Vidić en finale de Ligue des champions, à 94 %.",
+    "Iniesta ressemble d'abord à Isco à la Coupe du monde 2018 (94 %) : un air de famille.",
+    "Piqué retrouve Gerard Piqué version 2018 au deuxième rang (79 %), derrière Manuel Akanji (87 %)."
+   ],
+   "impact": "Les jumeaux disent les styles : des profils de créateurs côté espagnol, des défenseurs à l'ancienne côté italien, façon Vidić. Ce soir-là, c'est la défense qui a écrit le résultat."
+  },
+  "en": {
+   "lead": "Morata's statistical twins are a trio of centre-forwards: Randal Kolo at the 2022 World Cup (96%), Mario Mandžukić in a Champions League final and Olivier Giroud (95% each). A pure number nine profile. Buffon resembles Thibaut Courtois at Euro 2020 (95%), and Sergio Busquets resembles Tyler Adams (92%), just ahead of Jorginho.",
+   "keys": [
+    "L. Bonucci's twin is Nemanja Vidić in a Champions League final, at 94%.",
+    "Iniesta first resembles Isco at the 2018 World Cup (94%): a family resemblance.",
+    "Piqué finds Gerard Piqué, 2018 version, in second place (79%), behind Manuel Akanji (87%)."
+   ],
+   "impact": "The twins reveal the styles: creators on the Spanish side, old-school defenders on the Italian side, Vidić-style. That night, defence wrote the result."
+  }
+ }
+}

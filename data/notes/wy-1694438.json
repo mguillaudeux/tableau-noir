@@ -1,0 +1,196 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale qui se décide en trois minutes, juste après la pause. Cristiano Ronaldo ouvre le score à la 50e (0,11 xG), Nani double la mise à la 53e (0,25 xG), et le Pays de Galles ne s'en remettra pas. Le Portugal n'a que 45 % du ballon, mais tire presque deux fois plus : 17 tirs contre 9, 1,23 xG contre 0,67. Aucune grosse occasion de part et d'autre : un match serré, ouvert par deux coups de force.",
+   "keys": [
+    "Ronaldo tente 8 tirs à lui seul, pour 0,57 xG : il a pesé plus que tous les autres.",
+    "Raphaël Guerreiro, latéral gauche, délivre une passe décisive.",
+    "G. Bale porte le Pays de Galles : 5 tirs, 3 passes clés, mais aucun but (0,23 xG).",
+    "Ronaldo aurait pu ouvrir le score avant la pause : une frappe à 0,2 xG à la 44e minute, hors cadre."
+   ],
+   "impact": "Le Portugal n'a pas dominé, il a frappé au bon moment. Après des victoires contre la Croatie puis aux tirs au but contre la Pologne, il s'offre la finale avec un écart d'xG modeste (0,56) mais un score sans appel."
+  },
+  "en": {
+   "lead": "A semi-final decided in three minutes, just after the break. Cristiano Ronaldo opens the scoring in minute 50 (0.11 xG), Nani doubles the lead in minute 53 (0.25 xG), and Wales never recover. Portugal have only 45% of the ball but shoot almost twice as often: 17 shots to 9, 1.23 xG to 0.67. No big chance on either side: a tight game, opened up by two strikes of force.",
+   "keys": [
+    "Ronaldo takes 8 shots on his own, worth 0.57 xG: he weighed more than anyone else.",
+    "Raphaël Guerreiro, the left-back, provides an assist.",
+    "G. Bale carries Wales: 5 shots, 3 key passes, but no goal (0.23 xG).",
+    "Ronaldo could have scored before the break: a 0.2 xG effort in minute 44, off target."
+   ],
+   "impact": "Portugal did not dominate; they struck at the right moment. After wins over Croatia and then on penalties against Poland, they reach the final with a modest xG gap (0.56) but an emphatic scoreline."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le Portugal attaque par la gauche, et ce n'est pas discret : 29 % de ses touches dans le couloir gauche, celui de Raphaël Guerreiro (52 m, à 7 m de la ligne) et de João Mário (70 m, à 12 m). Avec le ballon, il se dessine en 3-3-4, puis se replie en 4-4-2 sans lui. Le Pays de Galles, en 3-3-3-1, joue au contraire par l'axe : 33 % de ses touches au centre.",
+   "keys": [
+    "Côté gallois, H. Robson-Kanu est très isolé devant (78 m), Bale décroche à 65 m, en plein axe.",
+    "Les Gallois passent 32 % de leurs touches dans leur propre tiers et seulement 18 % dans le dernier.",
+    "Le Portugal se répartit davantage : 21 % des touches dans le couloir droit, 18 % dans l'axe.",
+    "Nani (72 m) et Ronaldo (74 m) sont les Portugais les plus avancés."
+   ],
+   "impact": "Le passage par la gauche portugaise a porté ses fruits : Guerreiro, l'homme de ce couloir, signe une passe décisive. Le Pays de Galles, très axial, n'a semble-t-il jamais réussi à étirer le bloc adverse."
+  },
+  "en": {
+   "lead": "Portugal attack down the left, and not subtly: 29% of their touches in the left lane, that of Raphaël Guerreiro (52 m, 7 m from the line) and João Mário (70 m, 12 m). In possession they form a 3-3-4, then drop into a 4-4-2 without it. Wales, in a 3-3-3-1, go through the middle instead: 33% of their touches in the centre.",
+   "keys": [
+    "For Wales, H. Robson-Kanu is very isolated up front (78 m), while Bale drops to 65 m, right in the middle.",
+    "The Welsh spend 32% of their touches in their own third and only 18% in the final third.",
+    "Portugal spread things more: 21% of touches in the right lane, 18% in the middle.",
+    "Nani (72 m) and Ronaldo (74 m) are Portugal's most advanced players."
+   ],
+   "impact": "Going down Portugal's left paid off: Guerreiro, the man in that lane, provided an assist. Wales, very central, never seemed able to stretch the opposing block."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Pas d'événements de pression dans ces données : le pressing se lit par les tacles, interceptions et fautes. Le Pays de Galles presse franchement : PPDA de 6,2, actions défensives à 41,0 m de son but, 10 récupérations hautes. Le Portugal, lui, laisse venir : PPDA de 13,2, 2,7 actions défensives par minute sans ballon, une seule récupération haute de tout le match.",
+   "keys": [
+    "10 récupérations hautes galloises, au-dessus de la moyenne du tournoi (6,9).",
+    "Le Pays de Galles récupère 49 % de ses ballons perdus en moins de 10 secondes, le Portugal 35 %.",
+    "44 % des récupérations portugaises arrivent après plus de 20 secondes : le Portugal était patient.",
+    "Les deux équipes perdent autant de ballons dans le jeu : 47 pour le Portugal, 48 pour le Pays de Galles."
+   ],
+   "impact": "Le Pays de Galles a eu le ballon et l'a récupéré haut, mais sans transformer ce pressing en occasions. Le Portugal a fait le dos rond, puis a frappé deux fois en trois minutes."
+  },
+  "en": {
+   "lead": "There are no pressure events in this data, so the press is read through tackles, interceptions and fouls. Wales press hard: a PPDA of 6.2, defensive actions 41.0 m from their goal, 10 high regains. Portugal sit back: a PPDA of 13.2, 2.7 defensive actions per minute out of possession, a single high regain all match.",
+   "keys": [
+    "10 Welsh high regains, above the tournament average (6.9).",
+    "Wales win back 49% of lost balls within 10 seconds, Portugal 35%.",
+    "44% of Portugal's regains come after more than 20 seconds: Portugal were patient.",
+    "Both teams lose as many balls in open play: 47 for Portugal, 48 for Wales."
+   ],
+   "impact": "Wales had the ball and won it back high, without turning that press into chances. Portugal absorbed it, then struck twice in three minutes."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le Pays de Galles bascule ici dans un positionnisme radical : −1,07 sur ce match, avec 34 % de passes courtes seulement. Son réseau tourne autour de sa défense : J. Chester (138 passes) et A. Williams (124), reliés par 38 passes. Le Portugal, plus relationniste (+0,25, 3e du tournoi sur 24), n'a pas de vrai chef d'orchestre : Guerreiro (72), José Fonte (69) et Adrien Silva (65) se partagent le ballon.",
+   "keys": [
+    "N. Taylor – Chester, 31 passes : la sortie galloise passait par le côté gauche.",
+    "Côté portugais, le duo le plus actif est défensif : Cédric Soares – José Fonte (21 passes).",
+    "Guerreiro – João Mário (17 passes) : le couloir gauche portugais fonctionnait à deux.",
+    "Le Portugal laisse 14,3 m de liberté latérale à ses joueurs, contre 11,2 m pour le Pays de Galles (moyenne : 12,6 m)."
+   ],
+   "impact": "Un Pays de Galles qui fait tourner le ballon entre ses défenseurs a beaucoup de possession mais peu de menace. Le Portugal, plus libre dans ses déplacements, a eu besoin de moins de passes pour arriver devant."
+  },
+  "en": {
+   "lead": "Here Wales tip into radical positional play: −1.07 in this match, with only 34% short passes. Their network revolves around the defence: J. Chester (138 passes) and A. Williams (124), linked by 38 passes. Portugal, more relational (+0.25, 3rd of 24 at the tournament), have no real conductor: Guerreiro (72), José Fonte (69) and Adrien Silva (65) share the ball.",
+   "keys": [
+    "N. Taylor – Chester, 31 passes: Wales' build-up went down the left.",
+    "For Portugal the busiest pair is defensive: Cédric Soares – José Fonte (21 passes).",
+    "Guerreiro – João Mário (17 passes): Portugal's left lane worked as a duo.",
+    "Portugal give their players 14.3 m of lateral freedom, against 11.2 m for Wales (average: 12.6 m)."
+   ],
+   "impact": "A Wales side passing the ball around its defenders gets plenty of possession but little threat. Portugal, freer in their movement, needed fewer passes to get forward."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un chiffre rare : 0. Ni le Portugal ni le Pays de Galles n'a concédé le moindre tir dans les 15 secondes suivant une perte de balle. Zéro tir, zéro xG en transition, des deux côtés, quand la moyenne du tournoi est de 1,6 tir. Les deux buts portugais sont nés d'attaques qui n'avaient rien d'une contre-attaque.",
+   "keys": [
+    "Le Portugal perd 47 ballons dans le jeu, le Pays de Galles 48 : aucune de ces pertes n'a mené à un tir adverse immédiat.",
+    "Le Portugal, avec sa seule récupération haute, ne cherchait pas à jouer le contre.",
+    "Le Pays de Galles, malgré ses 10 récupérations hautes, n'a pas non plus tiré en transition."
+   ],
+   "impact": "Les deux équipes ont parfaitement protégé leurs pertes de balle : ce match s'est joué loin des transitions. Le Portugal y a été plus tranchant, deux fois en trois minutes."
+  },
+  "en": {
+   "lead": "A rare number: 0. Neither Portugal nor Wales conceded a single shot within 15 seconds of losing the ball. Zero shots, zero xG in transition, on both sides, when the tournament average is 1.6 shots. Both Portuguese goals came from attacks that were nothing like counter-attacks.",
+   "keys": [
+    "Portugal lose 47 balls in open play, Wales 48: none of those losses led to an immediate opposition shot.",
+    "Portugal, with their single high regain, were not looking to counter.",
+    "Wales, despite their 10 high regains, did not shoot in transition either."
+   ],
+   "impact": "Both teams protected their losses perfectly: this match was played away from transitions. Portugal were sharper there, twice in three minutes."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Le joueur le plus entouré du match est Adrien Silva (+0,79), devant Guerreiro (+0,44) et Bale (+0,39). Ronaldo n'arrive qu'en sixième position (+0,21). Et le buteur Nani est le joueur le moins surveillé du match, à −0,63.",
+   "keys": [
+    "N. Taylor (+0,37) est le deuxième Gallois le plus surveillé, derrière Bale.",
+    "Renato Sanches (+0,38) attire presque autant l'attention que Bale.",
+    "Chester (−0,34) a pu relancer tranquillement : il compte 26 passes progressives.",
+    "Cédric Soares (−0,48) a été peu inquiété sur son côté droit."
+   ],
+   "impact": "Le Pays de Galles s'est concentré sur les milieux portugais, et Nani, laissé libre, a marqué. Ce n'est sans doute pas un hasard."
+  },
+  "en": {
+   "lead": "Without 360 data this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. The most crowded player in the match is Adrien Silva (+0.79), ahead of Guerreiro (+0.44) and Bale (+0.39). Ronaldo only comes sixth (+0.21). And scorer Nani is the least watched player of the match, at −0.63.",
+   "keys": [
+    "N. Taylor (+0.37) is the second most watched Welshman, behind Bale.",
+    "Renato Sanches (+0.38) draws almost as much attention as Bale.",
+    "Chester (−0.34) could build up in peace: he has 26 progressive passes.",
+    "Cédric Soares (−0.48) was barely troubled on his right side."
+   ],
+   "impact": "Wales focused on Portugal's midfielders, and Nani, left free, scored. That is probably no coincidence."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Curiosité du match : le Portugal a créé l'essentiel de sa menace en première période (1,26 xT), sans marquer, puis a marqué deux fois en seconde avec deux fois moins de menace (0,62 xT). Son premier créateur est un latéral, Cédric Soares (0,47 xT, 25 % de la menace de l'équipe), auteur du geste le plus menaçant du match dès la 10e minute (+0,35 xT). Adrien Silva suit de près, avec une passe à +0,34 xT à la 44e, la minute de l'occasion manquée de Ronaldo.",
+   "keys": [
+    "Le Pays de Galles monte en puissance après la pause : 0,96 xT, contre 0,48 avant.",
+    "Bale porte 27 % de la menace galloise (0,39 xT) et signe trois des quatre gestes gallois les plus menaçants.",
+    "Chester est le deuxième créateur gallois (0,27 xT, 19 %) : un défenseur.",
+    "André Gomes, à la 86e minute, signe la passe portugaise la plus menaçante de la seconde période (+0,15 xT)."
+   ],
+   "impact": "La menace créée ne s'est pas transformée en buts au même moment : le Portugal a préparé en première période, et conclu en seconde. Le Pays de Galles a poussé une fois mené, mais sans grosse occasion."
+  },
+  "en": {
+   "lead": "A curiosity of this match: Portugal created most of their threat in the first half (1.26 xT) without scoring, then scored twice in the second with half the threat (0.62 xT). Their top creator is a full-back, Cédric Soares (0.47 xT, 25% of the team's threat), who produced the most threatening action of the match as early as minute 10 (+0.35 xT). Adrien Silva is close behind, with a pass worth +0.34 xT in minute 44, the minute of Ronaldo's missed chance.",
+   "keys": [
+    "Wales grow after the break: 0.96 xT, against 0.48 before it.",
+    "Bale carries 27% of Wales' threat (0.39 xT) and produces three of their four most threatening actions.",
+    "Chester is Wales' second creator (0.27 xT, 19%): a defender.",
+    "André Gomes, in minute 86, produces Portugal's most threatening pass of the second half (+0.15 xT)."
+   ],
+   "impact": "Threat and goals did not arrive at the same time: Portugal prepared in the first half and finished in the second. Wales pushed once behind, but without a big chance."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur attaquant du tournoi selon nos classements jouait cette demi-finale du côté des perdants : G. Bale, 1er des 46 attaquants, note de 83. En face, Raphaël Guerreiro est 3e des 67 latéraux (77). Cristiano Ronaldo, 7e des attaquants, totalise 3 buts et 1 passe décisive sur la compétition.",
+   "keys": [
+    "Rui Patrício est 6e des 24 gardiens, avec 720 minutes jouées.",
+    "Robson-Kanu est 13e des attaquants, avec 2 buts en 269 minutes.",
+    "Ricardo Quaresma (11e) et André Gomes (19e des milieux) complètent les Portugais bien classés.",
+    "Adrien Silva, le joueur le plus surveillé du soir, n'est que 43e des 90 milieux."
+   ],
+   "impact": "Un numéro un des attaquants n'a pas suffi face à un collectif portugais aux classements plus modestes. Ronaldo, 7e seulement, a pourtant été celui qui a ouvert la porte de la finale."
+  },
+  "en": {
+   "lead": "The best forward of the tournament by our rankings played this semi-final on the losing side: G. Bale, 1st of 46 forwards, score of 83. Opposite, Raphaël Guerreiro is 3rd of 67 full-backs (77). Cristiano Ronaldo, 7th among forwards, has 3 goals and 1 assist in the competition.",
+   "keys": [
+    "Rui Patrício is 6th of 24 goalkeepers, with 720 minutes played.",
+    "Robson-Kanu is 13th among forwards, with 2 goals in 269 minutes.",
+    "Ricardo Quaresma (11th) and André Gomes (19th among midfielders) complete the well-ranked Portuguese.",
+    "Adrien Silva, the most watched player of the night, is only 43rd of 90 midfielders."
+   ],
+   "impact": "A number one forward was not enough against a Portuguese collective with more modest rankings. Ronaldo, only 7th, was nevertheless the one who opened the door to the final."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau le plus prestigieux de la soirée est celui de Raphaël Guerreiro : Philipp Lahm en finale de Ligue des champions (92 %), puis Marcelo (89 %). Un latéral qui crée autant qu'il défend. João Moutinho ressemble à Christian Eriksen et à Xavi (92 % chacun), et Cédric Soares à Ahmed Fathy (96 %).",
+   "keys": [
+    "J. Chester, le défenseur relanceur gallois, a pour jumeau Jurriën Timber à la Coupe du monde 2022 (92 %).",
+    "André Gomes ressemble à Nacer Chadli (87 %), puis à Mesut Özil (82 %).",
+    "Bale a pour jumeaux Daniel Olmo et Hirving Lozano (89 % chacun)."
+   ],
+   "impact": "Avec un Lahm et un Xavi dans ses profils, le Portugal avait des joueurs capables de construire de partout. Ce soir-là, ses latéraux ont pesé plus que tout le monde."
+  },
+  "en": {
+   "lead": "The most prestigious twin of the night belongs to Raphaël Guerreiro: Philipp Lahm in a Champions League final (92%), then Marcelo (89%). A full-back who creates as much as he defends. João Moutinho resembles Christian Eriksen and Xavi (92% each), and Cédric Soares resembles Ahmed Fathy (96%).",
+   "keys": [
+    "J. Chester, Wales' ball-playing defender, has Jurriën Timber at the 2022 World Cup as his twin (92%).",
+    "André Gomes resembles Nacer Chadli (87%), then Mesut Özil (82%).",
+    "Bale's twins are Daniel Olmo and Hirving Lozano (89% each)."
+   ],
+   "impact": "With a Lahm and a Xavi among their profiles, Portugal had players able to build from anywhere. That night, their full-backs weighed more than anyone."
+  }
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Vingt-neuf tirs, 3,01 xG, 25 passes clés… et un seul but espagnol, un contre-son-camp de Denis Zakaria à la 8e minute. Ce quart de finale a un nom : Yann Sommer, auteur de 11 arrêts face à une Espagne qui a tout essayé. La Suisse, qui sortait déjà d'un huitième fou contre la France gagné aux tirs au but, a égalisé à la 68e par Xherdan Shaqiri, puis a tenu, en finissant à dix, jusqu'aux tirs au but, perdus cette fois (1-3). L'écart d'xG, 2,19, dit tout de ce siège.",
+   "keys": [
+    "La Suisse ne tire que 8 fois et cadre 2 tirs, pour 0,82 xG : elle a marqué avec presque rien.",
+    "Shaqiri, buteur en 81 minutes : 1 but sur 0,37 xG et 3 passes clés.",
+    "Jordi Alba est le meilleur créateur du match : 4 passes clés, 12 passes progressives et 1,14 xT.",
+    "Les occasions manquées sont toutes espagnoles : Pau Torres à la 77e (0,40 xG), Gerard Moreno à la 92e (0,39) puis à la 101e (0,24), Rodri à la 121e (0,23).",
+    "Possession : 69 % pour l'Espagne, auteur de 1031 passes, réussies à 89 %."
+   ],
+   "impact": "L'Espagne méritait largement de passer avant les tirs au but, et elle a fini par le faire. Mais il a fallu 120 minutes de domination et un exercice de penaltys pour venir à bout d'une Suisse que Sommer a portée à bout de bras."
+  },
+  "en": {
+   "lead": "Twenty-nine shots, 3.01 xG, 25 key passes… and a single Spanish goal, a Denis Zakaria own goal in minute 8. This quarter-final has a name: Yann Sommer, with 11 saves against a Spain side that tried everything. Switzerland, fresh from a wild round-of-16 win over France on penalties, equalised in minute 68 through Xherdan Shaqiri, then held on, finishing with ten men, until the shoot-out, lost this time (1-3). The xG gap, 2.19, says everything about the siege.",
+   "keys": [
+    "Switzerland shoot only 8 times and put 2 on target, for 0.82 xG: they scored with almost nothing.",
+    "Shaqiri, scorer in 81 minutes: 1 goal from 0.37 xG and 3 key passes.",
+    "Jordi Alba is the top creator of the match: 4 key passes, 12 progressive passes and 1.14 xT.",
+    "The missed chances are all Spanish: Pau Torres in minute 77 (0.40 xG), Gerard Moreno in minute 92 (0.39) and again in minute 101 (0.24), Rodri in minute 121 (0.23).",
+    "Possession: 69% for Spain, who played 1031 passes at 89% accuracy."
+   ],
+   "impact": "Spain fully deserved to go through before the shoot-out, and eventually they did. But it took 120 minutes of dominance and a penalty shoot-out to get past a Switzerland side that Sommer carried on his back."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La Suisse annonçait un 4-2-3-1, elle a défendu en 5-2-2-1. Ce quart s'est joué dans sa moitié de terrain : 44 % de ses touches dans son propre tiers, 18 % seulement dans le dernier. En face, l'Espagne a joué en 3-4-3 dans un bloc gigantesque, 37,7 m de large avec le ballon (moyenne du tournoi : 31,1 m) et 3,6 couloirs occupés. Et le chiffre le plus fou : sans le ballon, sa dernière ligne restait à 40,4 m de son but, quand la moyenne de l'Euro est à 27,9 m.",
+   "keys": [
+    "Avec le ballon, la Suisse n'occupait que 1,8 couloir en moyenne : un bloc ramassé qui ne s'étalait jamais.",
+    "Côté gauche espagnol, Jordi Alba (9 m de la touche) et Pablo Sarabia (6 m) se partageaient le même couloir, Alba à 62 m de son but, Sarabia à 75 m.",
+    "À droite, Ferrán Torres tenait la largeur (63 m de la ligne gauche, à 68 m de son but), devant César Azpilicueta.",
+    "Sans le ballon, la Suisse occupe 27,8 m de large, plus que la moyenne (24,6 m) : elle fermait les couloirs autant que l'axe."
+   ],
+   "impact": "L'Espagne a enfermé la Suisse avec une défense à 40 m de son but et une largeur maximale. Mais ce bloc très haut avait un prix : le seul but suisse est venu en transition, à la 68e minute, et tout indique que l'espace laissé dans le dos espagnol y a compté."
+  },
+  "en": {
+   "lead": "Switzerland announced a 4-2-3-1 and defended in a 5-2-2-1. This quarter-final was played in their half: 44% of their touches in their own third, only 18% in the final one. Opposite, Spain played a 3-4-3 in an enormous shape, 37.7 m wide on the ball (tournament average: 31.1 m) across 3.6 lanes. And the wildest number: without the ball, their last line stayed 40.4 m from goal, when the Euro average is 27.9 m.",
+   "keys": [
+    "On the ball Switzerland occupied only 1.8 lanes on average: a compact shape that never spread out.",
+    "On Spain's left, Jordi Alba (9 m from the line) and Pablo Sarabia (6 m) shared the same lane, Alba 62 m from goal, Sarabia 75 m.",
+    "On the right, Ferrán Torres held the width (63 m from the left line, 68 m from goal), ahead of César Azpilicueta.",
+    "Without the ball Switzerland were 27.8 m wide, more than average (24.6 m): they closed the flanks as well as the centre."
+   ],
+   "impact": "Spain locked Switzerland in with a defence 40 m from its own goal and maximum width. But that very high shape had a price: the only Swiss goal came in transition, in minute 68, and everything suggests the space left behind Spain played its part."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Un contre-pressing féroce : 28 % des pressions espagnoles tombent dans les 5 secondes qui suivent une perte, quand la moyenne du tournoi est à 19 %. Résultat : 19 récupérations hautes, plus du double de la moyenne (8,2), et des actions défensives à 55,4 m de son but. La Suisse, elle, n'a presque pas pressé : 3,0 actions par minute sans ballon et une hauteur défensive de 38,2 m.",
+   "keys": [
+    "PPDA de 12,0 pour l'Espagne, 19,6 pour la Suisse.",
+    "L'Espagne récupère 55 % de ses ballons perdus en moins de 10 s : la Suisse n'avait jamais le temps de sortir.",
+    "Côté suisse, 43 % des récupérations prennent plus de 20 s : quand la Suisse perdait le ballon, elle attendait longtemps avant de le revoir.",
+    "La Suisse récupère 22 % de ses ballons en moins de 5 s, sous la moyenne de l'Euro (29 %)."
+   ],
+   "impact": "Ce contre-pressing explique la domination espagnole : chaque ballon suisse était récupéré presque aussitôt, et la Suisse ne passait qu'à 69 % de réussite dans ses passes. Elle a survécu en défendant bas, et en comptant sur un gardien en état de grâce."
+  },
+  "en": {
+   "lead": "A ferocious counter-press: 28% of Spain's pressures came within 5 seconds of a loss, against a tournament average of 19%. The result: 19 high regains, more than double the average (8.2), and defensive actions 55.4 m from their own goal. Switzerland barely pressed at all: 3.0 actions per minute out of possession and a defensive height of 38.2 m.",
+   "keys": [
+    "A PPDA of 12.0 for Spain, 19.6 for Switzerland.",
+    "Spain win back 55% of lost balls within 10 s: Switzerland never had time to get out.",
+    "For Switzerland, 43% of regains take more than 20 s: once they lost the ball, they waited a long time to see it again.",
+    "Switzerland win back 22% of balls within 5 s, below the Euro average (29%)."
+   ],
+   "impact": "That counter-press explains Spain's dominance: every Swiss ball was won back almost at once, and Switzerland completed only 69% of their passes. They survived by defending deep and relying on a goalkeeper in a state of grace."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Une statistique qui donne le vertige : Aymeric Laporte et Pau Torres se sont échangé 93 passes. L'Espagne de ce quart est positionniste (−0,33), et son réseau tourne autour de ses défenseurs : Pau Torres est le carrefour du match (269 passes entre titulaires), devant Laporte (227) et Jordi Alba (162). La Suisse, elle, avait pour deuxième carrefour… son gardien, Yann Sommer (50 passes), derrière Manuel Akanji (58).",
+   "keys": [
+    "Le deuxième duo espagnol est Alba – Pau Torres (65 passes) : le couloir gauche partait de la défense centrale.",
+    "L'Espagne occupe 4,02 couloirs en moyenne (360), le chiffre le plus large de ce match et de loin.",
+    "Malgré ces postes figés, 38 % des passes espagnoles sont des combinaisons rapides, au-dessus de la moyenne (34 %).",
+    "Côté suisse, les deux duos les plus utilisés impliquent Sommer : avec Akanji et avec Elvedi, 15 passes chacun."
+   ],
+   "impact": "Le plan espagnol était clair : faire circuler derrière, étirer la Suisse sur toute la largeur, puis accélérer par Alba. Il a produit 25 passes clés, mais les plus gros ballons venaient souvent du même homme, Alba, ce qui a peut-être facilité la lecture de Sommer."
+  },
+  "en": {
+   "lead": "A dizzying stat: Aymeric Laporte and Pau Torres exchanged 93 passes. The Spain of this quarter-final is positional (−0.33), and its network revolves around the defenders: Pau Torres is the hub of the match (269 passes between starters), ahead of Laporte (227) and Jordi Alba (162). Switzerland's second hub, meanwhile, was… their goalkeeper, Yann Sommer (50 passes), behind Manuel Akanji (58).",
+   "keys": [
+    "Spain's second pair is Alba – Pau Torres (65 passes): the left lane started from the centre-backs.",
+    "Spain occupy 4.02 lanes on average (360), by far the widest figure in this match.",
+    "Despite those fixed positions, 38% of Spain's passes are quick combinations, above average (34%).",
+    "For Switzerland, the two busiest pairs involve Sommer: with Akanji and with Elvedi, 15 passes each."
+   ],
+   "impact": "Spain's plan was clear: circulate at the back, stretch Switzerland across the whole width, then accelerate through Alba. It produced 25 key passes, but the biggest balls often came from the same man, Alba, which may have made Sommer's reading of the game a little easier."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le seul but suisse est né d'une transition, à la 68e minute, et ce n'est pas un hasard : l'Espagne a concédé 2 tirs dans les 15 secondes suivant une perte, pour 0,37 xG, près de deux fois la moyenne du tournoi (0,20). Le paradoxe, c'est que l'Espagne avait du monde derrière le ballon, 7,4 joueurs en moyenne au moment de la perte. Mais avec une dernière ligne à 40 m de son but, un seul ballon mal négocié suffisait à ouvrir un boulevard.",
+   "keys": [
+    "La Suisse concède 5 tirs en transition pour 0,57 xG, mais aucun but.",
+    "Son repli est spectaculaire : de 5,9 joueurs derrière le ballon à la perte à 7,9 quelques secondes plus tard, avec un bloc reformé dans 70 % des cas (moyenne : 30 %).",
+    "Exemple 360 côté suisse à la 33e minute : aucun joueur derrière le ballon à la perte, 10 quelques secondes plus tard.",
+    "Côté espagnol, bloc reformé à 7 ou plus dans 56 % des cas, et exemple à la 73e : 3 joueurs derrière le ballon, puis 9."
+   ],
+   "impact": "La Suisse a joué ce quart à fond sur deux plans : se replier en masse, puis punir sur une seule perte espagnole. Le plan a marché jusqu'aux tirs au but ; il manquait juste un deuxième ballon de ce genre."
+  },
+  "en": {
+   "lead": "Switzerland's only goal came from a transition, in minute 68, and that is no accident: Spain conceded 2 shots within 15 seconds of a loss, worth 0.37 xG, nearly twice the tournament average (0.20). The paradox is that Spain had numbers behind the ball, 7.4 players on average at the moment of the loss. But with a last line 40 m from goal, a single badly handled ball was enough to open a highway.",
+   "keys": [
+    "Switzerland concede 5 shots in transition worth 0.57 xG, but no goal.",
+    "Their recovery is spectacular: from 5.9 players behind the ball at the loss to 7.9 a few seconds later, with a block rebuilt in 70% of cases (average: 30%).",
+    "A 360 example for Switzerland in minute 33: no players behind the ball at the loss, 10 a few seconds later.",
+    "For Spain, a block rebuilt with 7 or more in 56% of cases, and an example in minute 73: 3 players behind the ball, then 9."
+   ],
+   "impact": "Switzerland played this quarter-final on two fronts: drop back in numbers, then punish a single Spanish loss. The plan worked all the way to penalties; they just lacked a second ball of that kind."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Cinq des six plus gros aimants du match sont suisses, ce qui n'étonne pas d'une équipe qui touchait peu le ballon et se faisait presser dès la réception. Haris Seferović mène avec 1,16 adversaire de plus que la normale par touche, devant Remo Freuler (1,03) et Ruben Vargas (1,01). Le seul Espagnol de la liste est Álvaro Morata (0,92).",
+   "keys": [
+    "Xherdan Shaqiri, buteur, est à 0,90 : même entouré, il a trouvé la faille.",
+    "Steven Zuber complète le top 6 à 0,82.",
+    "À l'autre bout, Laporte (−0,94), Pau Torres (−0,88) et Azpilicueta (−0,69) relançaient sans jamais être inquiétés."
+   ],
+   "impact": "Les relanceurs espagnols, jamais pressés, pouvaient enchaîner les passes, d'où leurs totaux énormes dans le réseau. Les Suisses, eux, étaient serrés à chaque touche, ce qui colle avec leurs 69 % de passes réussies."
+  },
+  "en": {
+   "lead": "Five of the six biggest magnets in the match are Swiss, no surprise for a team that rarely had the ball and was pressed the moment they received it. Haris Seferović leads with 1.16 extra opponents per touch, ahead of Remo Freuler (1.03) and Ruben Vargas (1.01). The only Spaniard on the list is Álvaro Morata (0.92).",
+   "keys": [
+    "Xherdan Shaqiri, the scorer, is at 0.90: even crowded, he found the gap.",
+    "Steven Zuber completes the top 6 at 0.82.",
+    "At the other end, Laporte (−0.94), Pau Torres (−0.88) and Azpilicueta (−0.69) played out without ever being troubled."
+   ],
+   "impact": "Spain's ball-players, never pressed, could string passes together, hence their huge network totals. The Swiss were closed down at every touch, which fits their 69% pass completion."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La prolongation de ce quart est un monologue : l'Espagne y produit 2,45 xT, plus que lors des 90 minutes réglementaires réunies, contre 0,06 pour la Suisse. Jordi Alba en est le chef d'orchestre, 1,14 xT sur le match, 31 % de la menace espagnole, avec deux passes énormes à la 92e (+0,36) et à la 98e minute (+0,35). La première tombe la minute même de la grosse occasion de Gerard Moreno.",
+   "keys": [
+    "Marcos Llorente signe une passe à +0,33 xT à la 121e minute, celle de l'occasion de Rodri.",
+    "Côté suisse, Ruben Vargas crée 0,39 xT, soit 39 % de toute la menace de son équipe, avec une passe à +0,35 à la 64e minute.",
+    "Au total, l'Espagne crée 3,62 xT, la Suisse 1,01.",
+    "La Suisse ne menace presque pas en première mi-temps (0,19 xT), mais monte à 0,76 en deuxième, la période de son but."
+   ],
+   "impact": "En prolongation, l'Espagne a créé de quoi gagner plusieurs matchs, et elle n'a pas marqué. On peut y voir à la fois l'usure suisse et la soirée exceptionnelle de Sommer, qui a transformé cette domination en simple séance de tirs au but."
+  },
+  "en": {
+   "lead": "Extra time in this quarter-final was a monologue: Spain produce 2.45 xT, more than in the whole 90 minutes combined, against 0.06 for Switzerland. Jordi Alba was the conductor, 1.14 xT over the match, 31% of Spain's threat, with two huge passes in minute 92 (+0.36) and minute 98 (+0.35). The first came in the very minute of Gerard Moreno's big chance.",
+   "keys": [
+    "Marcos Llorente plays a +0.33 xT pass in minute 121, the minute of Rodri's chance.",
+    "For Switzerland, Ruben Vargas creates 0.39 xT, 39% of his team's entire threat, with a +0.35 pass in minute 64.",
+    "Overall, Spain create 3.62 xT, Switzerland 1.01.",
+    "Switzerland barely threaten in the first half (0.19 xT), but rise to 0.76 in the second, the half of their goal."
+   ],
+   "impact": "In extra time Spain created enough to win several matches, and did not score. That reflects both Swiss fatigue and Sommer's exceptional night, which turned all that dominance into nothing more than a shoot-out."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "L'Espagne arrivait avec les deux numéros un du tournoi à leur poste, Daniel Olmo chez les attaquants (note de 84) et Aymeric Laporte chez les centraux (74), et un milieu entier dans le top 15 : Busquets 7e, Pedri 9e, Rodri 10e, Koke 13e sur 80. Côté suisse, Kevin Mbabu reste 2e des latéraux (78), et Yann Sommer 4e des 24 gardiens (64). Ce soir-là, Sommer a sans doute joué au-dessus de son rang.",
+   "keys": [
+    "Gerard Moreno, 9e des 59 attaquants (67), n'a pas marqué de tout le tournoi : 0 but et 1 passe décisive en 222 minutes.",
+    "Ricardo Rodríguez est 9e des 78 latéraux (69) et Remo Freuler 14e des milieux (63).",
+    "Olmo compte 3 passes décisives et aucun but en 314 minutes.",
+    "Mikel Oyarzabal, 4e des attaquants (79), n'a joué que 184 minutes sur l'Euro."
+   ],
+   "impact": "La hiérarchie du classement était nette, et le match l'a confirmée à chaque statistique, sauf au score. Il a fallu les tirs au but pour que la meilleure équipe sur le papier passe, face à un gardien qui a refusé la logique pendant 120 minutes."
+  },
+  "en": {
+   "lead": "Spain arrived with the tournament's two number ones in their positions, Daniel Olmo among forwards (score of 84) and Aymeric Laporte among centre-backs (74), plus an entire midfield in the top 15: Busquets 7th, Pedri 9th, Rodri 10th, Koke 13th of 80. For Switzerland, Kevin Mbabu is still 2nd among full-backs (78), and Yann Sommer 4th of 24 keepers (64). That night, Sommer probably played above his ranking.",
+   "keys": [
+    "Gerard Moreno, 9th of 59 forwards (67), did not score in the whole tournament: 0 goals and 1 assist in 222 minutes.",
+    "Ricardo Rodríguez is 9th of 78 full-backs (69) and Remo Freuler 14th among midfielders (63).",
+    "Olmo has 3 assists and no goals in 314 minutes.",
+    "Mikel Oyarzabal, 4th among forwards (79), played only 184 minutes at the Euro."
+   ],
+   "impact": "The ranking hierarchy was clear, and the match confirmed it in every statistic except the score. It took a shoot-out for the better team on paper to go through, against a goalkeeper who defied logic for 120 minutes."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Petite ironie des jumeaux : le plus proche voisin de Pablo Sarabia est Xherdan Shaqiri, version Mondial 2022 (82 %), soit le buteur suisse de ce quart. Plus sérieux, Gerard Moreno ressemble d'abord à A. Griezmann à l'Euro 2016 (90 %), avec un écart net sur le suivant, Kai Havertz (83 %). Et Daniel Olmo garde son jumeau de prestige, Arjen Robben en finale de Ligue des champions (95 %).",
+   "keys": [
+    "Sergio Busquets a pour jumeaux Jung Woo-Young (95 %), Ivan Ilić (93 %) et Granit Xhaka à l'Euro 2024 (92 %).",
+    "Kevin Mbabu ressemble à Ramin Rezaeian au Mondial 2022 (91 %).",
+    "Rodri n'a pas de vrai double : Koke au Mondial 2018 (83 %), puis Busquets à cet Euro (79 %).",
+    "Ricardo Rodríguez rappelle Branislav Ivanović au Mondial 2018 (90 %)."
+   ],
+   "impact": "Côté espagnol, les jumeaux renvoient à des créateurs de très haut niveau ; côté suisse, à des profils plus discrets. Ce déséquilibre se lisait dans chaque statistique du match ; il a pourtant fallu les tirs au but pour qu'il se traduise au tableau d'affichage."
+  },
+  "en": {
+   "lead": "A small irony from the twins: Pablo Sarabia's closest match is Xherdan Shaqiri, 2022 World Cup version (82%), the very man who scored for Switzerland in this quarter-final. More seriously, Gerard Moreno looks first like A. Griezmann at Euro 2016 (90%), well clear of the next one, Kai Havertz (83%). And Daniel Olmo keeps his prestigious twin, Arjen Robben in a Champions League final (95%).",
+   "keys": [
+    "Sergio Busquets' twins are Jung Woo-Young (95%), Ivan Ilić (93%) and Granit Xhaka at Euro 2024 (92%).",
+    "Kevin Mbabu resembles Ramin Rezaeian at the 2022 World Cup (91%).",
+    "Rodri has no real double: Koke at the 2018 World Cup (83%), then Busquets at this Euro (79%).",
+    "Ricardo Rodríguez recalls Branislav Ivanović at the 2018 World Cup (90%)."
+   ],
+   "impact": "On Spain's side, the twins point to top-level creators; on Switzerland's, to more understated profiles. That imbalance showed in every statistic of the match; yet it took a shoot-out for it to reach the scoreboard."
+  }
+ }
+}

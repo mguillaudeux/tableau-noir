@@ -1,0 +1,194 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Cent vingt minutes de partie d'échecs, puis une séance de tirs au but à rallonge, 6 à 5 pour l'Allemagne. Sur le jeu, les deux équipes sont presque à égalité : 1,42 xG pour l'Allemagne, 1,53 pour l'Italie. Mais le chiffre italien est trompeur, car il contient le penalty de L. Bonucci à la 78e (0,73 xG) : hors penalty, l'Italie ne pèse que 0,8 xG. M. Özil avait ouvert le score à la 65e, et la plus grosse occasion manquée du match est allemande, en prolongation.",
+   "keys": [
+    "L'Allemagne a eu 59 % du ballon et 846 passes, contre 541 pour l'Italie.",
+    "La plus grosse occasion manquée est signée J. Draxler à la 107e minute : 0,35 xG, à côté du cadre.",
+    "M. Gómez, trois minutes après le but d'Özil, voit sa frappe cadrée à 0,29 xG ne pas trouver le chemin des filets.",
+    "Côté italien, G. Pellè manque le cadre à la 74e (0,25 xG), quatre minutes avant le penalty égalisateur."
+   ],
+   "impact": "Sans penalty, l'Italie aurait sans doute eu du mal à revenir : 0,8 xG en 120 minutes. Mais un penalty compte comme les autres buts, et cette Italie, qui avait déjà sorti l'Espagne en huitième, a emmené l'Allemagne jusqu'au bout de la nuit."
+  },
+  "en": {
+   "lead": "120 minutes of chess, then a drawn-out penalty shoot-out, 6-5 to Germany. On the play, the two sides are almost level: 1.42 xG for Germany, 1.53 for Italy. But Italy's figure is misleading, as it includes L. Bonucci's penalty in minute 78 (0.73 xG): without it, Italy are worth only 0.8 xG. M. Özil had opened the scoring in minute 65, and the biggest missed chance of the match was German, in extra time.",
+   "keys": [
+    "Germany had 59% of the ball and 846 passes, against 541 for Italy.",
+    "The biggest miss belongs to J. Draxler in minute 107: 0.35 xG, wide of the target.",
+    "M. Gómez, three minutes after Özil's goal, sees his on-target shot worth 0.29 xG fail to go in.",
+    "For Italy, G. Pellè misses the target in minute 74 (0.25 xG), four minutes before the equalising penalty."
+   ],
+   "impact": "Without the penalty Italy would probably have struggled to come back: 0.8 xG in 120 minutes. But a penalty counts like any other goal, and this Italy side, who had already knocked out Spain in the round of 16, took Germany all the way into the night."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Allemagne avance très haut avec le ballon : J. Boateng a une position moyenne à 47 m de son but, M. Hummels à 56 m, B. Höwedes à 61 m. Une défense installée dans le camp italien, et devant elle un 4-5-1 où cinq hommes (J. Hector, S. Khedira, J. Kimmich, Özil, T. Müller) s'alignent vers 71 à 74 m, derrière Gómez (80 m). L'Italie répond en 3-1-4-2, avec M. Parolo seul devant la défense à trois.",
+   "keys": [
+    "L'Allemagne attaque d'abord à droite : 28 % de ses touches dans le couloir droit, celui de Kimmich (63 m de largeur).",
+    "Hector, à gauche, joue collé à la ligne : 5 m de la touche, à 71 m de son but.",
+    "L'Italie passe 37 % de ses touches dans son propre tiers et seulement 20 % dans le dernier.",
+    "Côté italien, l'axe concentre 31 % des touches : la sortie de balle passait par le centre."
+   ],
+   "impact": "Une défense allemande aussi haute étouffait l'Italie, mais pouvait laisser de l'espace dans son dos. Le bloc italien n'a pas réussi à exploiter cet espace dans le jeu, et c'est sur penalty qu'il est revenu."
+  },
+  "en": {
+   "lead": "Germany push very high in possession: J. Boateng has an average position 47 m from his goal, M. Hummels 56 m, B. Höwedes 61 m. A defence camped in Italy's half, and ahead of it a 4-5-1 where five men (J. Hector, S. Khedira, J. Kimmich, Özil, T. Müller) line up around 71 to 74 m, behind Gómez (80 m). Italy respond with a 3-1-4-2, with M. Parolo alone in front of the back three.",
+   "keys": [
+    "Germany attack down the right first: 28% of their touches in the right lane, Kimmich's side (63 m across).",
+    "Hector, on the left, hugs the line: 5 m from the touchline, 71 m from his own goal.",
+    "Italy spend 37% of their touches in their own third and only 20% in the final third.",
+    "For Italy, the middle lane takes 31% of touches: the build-up went through the centre."
+   ],
+   "impact": "Such a high German defence smothered Italy, but could leave space behind it. Italy's block never managed to exploit that space in open play, and they came back through a penalty."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Les données Wyscout n'ont pas d'événements de pression : le pressing se lit dans les tacles, interceptions et fautes. L'Allemagne presse à 43,3 m de son but, avec un PPDA de 6,8 et 13 récupérations hautes. L'Italie, elle, s'installe à 31,8 m et ne fait que 2,4 actions défensives par minute sans ballon, loin de la moyenne du tournoi (3,6). Mais elle intercepte 69 ballons et dégage 35 fois.",
+   "keys": [
+    "PPDA de 12,6 pour l'Italie : elle laissait l'Allemagne faire circuler, puis fermait la porte près de sa surface.",
+    "13 récupérations hautes allemandes contre 5 italiennes (moyenne du tournoi : 6,9).",
+    "Après une perte, l'Italie récupère 26 % de ses ballons en moins de 5 secondes, l'Allemagne 21 %.",
+    "L'Allemagne gagne 21 tacles, l'Italie 11."
+   ],
+   "impact": "Le pressing allemand a confiné l'Italie dans son camp, et le but d'Özil est venu d'une transition, juste après une perte italienne. L'Italie, elle, a parié sur la densité, et ce pari l'a menée jusqu'aux tirs au but."
+  },
+  "en": {
+   "lead": "Wyscout data has no pressure events, so the press is read through tackles, interceptions and fouls. Germany press 43.3 m from their goal, with a PPDA of 6.8 and 13 high regains. Italy settle at 31.8 m and make only 2.4 defensive actions per minute out of possession, well below the tournament average (3.6). But they intercept 69 balls and clear 35 times.",
+   "keys": [
+    "A PPDA of 12.6 for Italy: they let Germany circulate, then shut the door near their box.",
+    "13 German high regains against 5 Italian (tournament average: 6.9).",
+    "After a loss Italy win the ball back within 5 seconds 26% of the time, Germany 21%.",
+    "Germany win 21 tackles, Italy 11."
+   ],
+   "impact": "Germany's press kept Italy pinned in their own half, and Özil's goal came in transition, right after an Italian loss. Italy bet on density instead, and that bet took them all the way to penalties."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur ce match, l'Italie atteint un indice de −1,14 : du positionnisme pur, chacun à son poste, avec seulement 9,9 m de liberté latérale (moyenne du tournoi : 12,6 m). Sur l'ensemble de la compétition, elle est d'ailleurs l'équipe la plus positionniste, 24e sur 24. Son réseau passe tout entier par sa défense à trois : Bonucci (123 passes), G. Chiellini (121) et A. Barzagli (105). L'Allemagne, légèrement relationniste (+0,14), fait elle aussi circuler d'abord derrière, avec Hummels (162) et Boateng (151).",
+   "keys": [
+    "Le lien le plus utilisé du match est allemand : Boateng – Hummels, 50 passes.",
+    "Côté italien, Barzagli – Bonucci (44) et Bonucci – Chiellini (39) dominent le réseau.",
+    "T. Kroos (146 passes) est le premier carrefour allemand hors défense.",
+    "Passes courtes : 42 % pour l'Allemagne, pile la moyenne du tournoi ; 35 % pour l'Italie."
+   ],
+   "impact": "Deux équipes qui construisaient par leurs défenseurs, et aucune qui ne réussissait à casser les lignes en attaque placée. Ce n'est sans doute pas un hasard si le seul but dans le jeu est venu d'une transition."
+  },
+  "en": {
+   "lead": "In this match Italy reach an index of −1.14: pure positional play, everyone in their spot, with only 9.9 m of lateral freedom (tournament average: 12.6 m). Over the whole competition they are in fact the most positional team, 24th of 24. Their network runs entirely through the back three: Bonucci (123 passes), G. Chiellini (121) and A. Barzagli (105). Germany, slightly relational (+0.14), also circulate first at the back, with Hummels (162) and Boateng (151).",
+   "keys": [
+    "The busiest link of the match is German: Boateng – Hummels, 50 passes.",
+    "For Italy, Barzagli – Bonucci (44) and Bonucci – Chiellini (39) dominate the network.",
+    "T. Kroos (146 passes) is Germany's first hub outside the defence.",
+    "Short passes: 42% for Germany, exactly the tournament average; 35% for Italy."
+   ],
+   "impact": "Two teams building through their defenders, and neither managing to break the lines in settled play. It is probably no coincidence that the only open-play goal came from a transition."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "C'est ici que le match a basculé à la 65e minute. Le but d'Özil est né d'une transition, et ce n'était pas un cas isolé : l'Italie a concédé 4 tirs dans les 15 secondes suivant une perte, pour 0,46 xG, plus de trois fois la moyenne du tournoi (0,13). L'Allemagne, malgré 84 ballons perdus dans le jeu, n'en a concédé que 2, pour 0,1 xG.",
+   "keys": [
+    "4 tirs concédés en transition par l'Italie, contre 1,6 en moyenne sur le tournoi.",
+    "L'Italie perd 73 ballons dans le jeu, l'Allemagne 84 : plus de pertes allemandes, mais moins coûteuses.",
+    "Le but de Bonucci n'est pas venu d'une transition : c'est le penalty de la 78e."
+   ],
+   "impact": "Avec une défense aussi haute, l'Allemagne prenait des risques à chaque perte, mais c'est l'Italie qui s'est fait surprendre. Le seul but dans le jeu de ce quart de finale est venu de là."
+  },
+  "en": {
+   "lead": "This is where the match turned in minute 65. Özil's goal came from a transition, and it was not an isolated case: Italy conceded 4 shots within 15 seconds of a loss, worth 0.46 xG, more than three times the tournament average (0.13). Germany, despite 84 balls lost in open play, conceded only 2, worth 0.1 xG.",
+   "keys": [
+    "4 shots conceded in transition by Italy, against 1.6 on average across the tournament.",
+    "Italy lose 73 balls in open play, Germany 84: more German losses, but less costly ones.",
+    "Bonucci's goal did not come from a transition: it was the penalty in minute 78."
+   ],
+   "impact": "With such a high defence Germany took risks with every loss, yet it was Italy who got caught out. The only open-play goal of this quarter-final came from there."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Et le classement est étrange : les cinq joueurs les plus surveillés sont tous italiens, mais avec des valeurs modestes. E. Giaccherini (+0,66) et Pellè (+0,52) mènent, devant Parolo, S. Sturaro et Eder. Le premier Allemand, B. Schweinsteiger, n'arrive qu'à +0,14.",
+   "keys": [
+    "Gómez est le joueur le moins surveillé du match (−0,82), juste devant Draxler (−0,71).",
+    "A. Florenzi (−0,6) a été laissé tranquille sur son côté droit.",
+    "Aucun joueur ne dépasse +0,66 : on est loin des +4,09 de K. Lafferty, plus gros aimant du tournoi."
+   ],
+   "impact": "L'Allemagne a défendu sur les Italiens les plus avancés, sans en isoler un seul. Gómez et Draxler, peu surveillés, ont eu les deux plus grosses occasions allemandes manquées, sans les convertir."
+  },
+  "en": {
+   "lead": "Without 360 data this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. And the ranking is odd: the five most watched players are all Italian, but with modest values. E. Giaccherini (+0.66) and Pellè (+0.52) lead, ahead of Parolo, S. Sturaro and Eder. The first German, B. Schweinsteiger, only reaches +0.14.",
+   "keys": [
+    "Gómez is the least watched player of the match (−0.82), just ahead of Draxler (−0.71).",
+    "A. Florenzi (−0.6) was left alone on his right side.",
+    "No player goes above +0.66: a long way from the +4.09 of K. Lafferty, the biggest magnet of the tournament."
+   ],
+   "impact": "Germany defended against Italy's most advanced players without isolating any one of them. Gómez and Draxler, barely watched, had Germany's two biggest missed chances, and did not convert them."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Allemagne crée 2,22 xT, l'Italie 1,3. Le créateur numéro un du match est Özil (0,56 xT, 25 % de la menace allemande), avec le geste le plus menaçant de la soirée : une passe de 72 à 99 m à la 68e minute (+0,36 xT), la minute de l'occasion de Gómez. Derrière lui, un défenseur central : Boateng, 0,46 xT, preuve que l'Allemagne attaquait aussi depuis sa défense haute.",
+   "keys": [
+    "L'Allemagne reste menaçante jusqu'au bout : 0,78 xT en prolongation, contre 0,25 pour l'Italie.",
+    "Côté italien, M. De Sciglio porte 37 % de la menace de son équipe (0,48 xT), depuis le couloir gauche.",
+    "Trois des quatre gestes italiens les plus dangereux sont de De Sciglio, dont une passe à la 74e (+0,14 xT).",
+    "Höwedes (0,35 xT) et Hummels (0,34 xT) complètent le tableau : trois défenseurs parmi les cinq premiers créateurs allemands."
+   ],
+   "impact": "L'Allemagne a dominé toutes les périodes en menace, mais l'Italie a tenu. Les tirs au but ont fini par récompenser l'équipe la plus entreprenante, de justesse."
+  },
+  "en": {
+   "lead": "Germany create 2.22 xT, Italy 1.3. The top creator of the match is Özil (0.56 xT, 25% of Germany's threat), with the most threatening action of the evening: a pass from 72 to 99 m in minute 68 (+0.36 xT), the minute of Gómez's chance. Behind him comes a centre-back: Boateng, 0.46 xT, proof that Germany also attacked from their high defence.",
+   "keys": [
+    "Germany stay threatening to the end: 0.78 xT in extra time, against 0.25 for Italy.",
+    "For Italy, M. De Sciglio carries 37% of his team's threat (0.48 xT), from the left lane.",
+    "Three of Italy's four most dangerous actions belong to De Sciglio, including a pass in minute 74 (+0.14 xT).",
+    "Höwedes (0.35 xT) and Hummels (0.34 xT) complete the picture: three defenders among Germany's top five creators."
+   ],
+   "impact": "Germany dominated every period on threat, but Italy held firm. The shoot-out finally rewarded the more enterprising side, by the narrowest of margins."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Un quart de finale entre grands noms, et nos classements du tournoi le confirment. J. Boateng est 2e des 33 défenseurs centraux (note de 81), T. Kroos 3e des 90 milieux (80). Dans les buts, G. Buffon est 1er des 24 gardiens, M. Neuer 4e. Deux gardiens du haut du tableau, ce qui annonçait une séance de tirs au but disputée.",
+   "keys": [
+    "Özil est 11e des milieux, avec 1 but et 1 passe décisive sur le tournoi.",
+    "Gómez se classe 9e des 46 attaquants, avec 2 buts en 270 minutes.",
+    "Bonucci, buteur sur penalty, est 11e des défenseurs centraux, avec 1 but et 1 passe décisive.",
+    "Kimmich est 11e des 67 latéraux."
+   ],
+   "impact": "Ce match opposait parmi les meilleurs défenseurs et gardiens de la compétition, et il s'est logiquement terminé à 1-1. Quand les défenses tiennent, ce sont les gardiens qui décident."
+  },
+  "en": {
+   "lead": "A quarter-final between big names, and our tournament rankings confirm it. J. Boateng is 2nd of 33 centre-backs (score of 81), T. Kroos 3rd of 90 midfielders (80). In goal, G. Buffon is 1st of 24 goalkeepers, M. Neuer 4th. Two goalkeepers from the top of the table, which promised a tight shoot-out.",
+   "keys": [
+    "Özil is 11th among midfielders, with 1 goal and 1 assist in the tournament.",
+    "Gómez ranks 9th of 46 forwards, with 2 goals in 270 minutes.",
+    "Bonucci, scorer from the spot, is 11th among centre-backs, with 1 goal and 1 assist.",
+    "Kimmich is 11th of 67 full-backs."
+   ],
+   "impact": "This match featured some of the best defenders and goalkeepers of the competition, and it logically finished 1-1. When defences hold, goalkeepers decide."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Les Allemands de ce match ont une particularité : ils se ressemblent à eux-mêmes. M. Neuer a pour jumeau Manuel Neuer en finale de Ligue des champions (96 %), T. Kroos ressemble à Toni Kroos à la Coupe du monde 2018 (93 %), et J. Kimmich à Joshua Kimmich, version 2018 (92 %). Des profils d'une constance rare, d'une compétition à l'autre.",
+   "keys": [
+    "Gómez a pour jumeau Richarlison à la Coupe du monde 2022 (97 %), puis Á. Szalai et Aleksandar Mitrović (96 % chacun).",
+    "Özil ressemble à Mateo Kovačić à l'Euro 2024 (89 %), puis à Andrés Iniesta (88 %).",
+    "M. Hummels a pour jumeau Aymeric Laporte à l'Euro 2024, à 97 %."
+   ],
+   "impact": "Une Allemagne fidèle à elle-même face à une Italie fidèle à sa défense : ce quart de finale opposait deux identités très affirmées. Il fallait bien les tirs au but pour les départager."
+  },
+  "en": {
+   "lead": "The Germans in this match have one peculiarity: they resemble themselves. M. Neuer's twin is Manuel Neuer in a Champions League final (96%), T. Kroos resembles Toni Kroos at the 2018 World Cup (93%), and J. Kimmich resembles Joshua Kimmich, 2018 version (92%). Remarkably consistent profiles, from one competition to the next.",
+   "keys": [
+    "Gómez's twin is Richarlison at the 2022 World Cup (97%), then Á. Szalai and Aleksandar Mitrović (96% each).",
+    "Özil resembles Mateo Kovačić at Euro 2024 (89%), then Andrés Iniesta (88%).",
+    "M. Hummels' twin is Aymeric Laporte at Euro 2024, at 97%."
+   ],
+   "impact": "A Germany true to itself against an Italy true to its defence: this quarter-final pitted two strong identities against each other. It took penalties to separate them."
+  }
+ }
+}

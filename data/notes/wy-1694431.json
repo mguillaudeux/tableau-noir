@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le tableau d'affichage dit 0-4, la possession dit presque le contraire : la Hongrie a eu le ballon 51 % du temps et joué 501 passes, contre 438 pour la Belgique. Mais la Belgique a tiré 26 fois, cadré 14 frappes et accumulé 3,32 xG selon le modèle maison. T. Alderweireld ouvre le score à la 10e minute, puis trois buts tombent dans le dernier quart d'heure : M. Batshuayi à la 78e, E. Hazard à la 80e, Y. Carrasco à la 91e.",
+   "keys": [
+    "Batshuayi n'a joué que 14 minutes : 2 tirs, 1 but.",
+    "Hazard : un but, une passe décisive et 9 dribbles en 81 minutes. K. De Bruyne ajoute 2 passes décisives et 7 tirs.",
+    "Passes clés : 16 pour la Belgique, 4 pour la Hongrie.",
+    "Le score aurait pu être plus lourd : R. Lukaku manque une occasion à 0,41 xG à la 35e, puis D. Mertens (0,39) et Lukaku (0,36) ratent tous les deux le cadre à la 59e."
+   ],
+   "impact": "Avec 2,3 xG d'écart, le 4-0 n'a rien d'un accident. Pendant plus d'une heure, la Belgique a pourtant gaspillé ses meilleures occasions, et la Hongrie restait à un but ; le dernier quart d'heure a transformé une victoire étriquée en démonstration."
+  },
+  "en": {
+   "lead": "The scoreboard says 0-4, the possession figures almost say the opposite: Hungary had the ball 51% of the time and played 501 passes, against 438 for Belgium. But Belgium shot 26 times, put 14 efforts on target and racked up 3.32 xG according to the in-house model. T. Alderweireld opened the scoring in minute 10, then three goals arrived in the final quarter of an hour: M. Batshuayi in minute 78, E. Hazard in minute 80, Y. Carrasco in minute 91.",
+   "keys": [
+    "Batshuayi played only 14 minutes: 2 shots, 1 goal.",
+    "Hazard: a goal, an assist and 9 dribbles in 81 minutes. K. De Bruyne adds 2 assists and 7 shots.",
+    "Key passes: 16 for Belgium, 4 for Hungary.",
+    "It could have been heavier: R. Lukaku misses a 0.41 xG chance in minute 35, then D. Mertens (0.39) and Lukaku (0.36) both miss the target in minute 59."
+   ],
+   "impact": "With a 2.3 xG gap, the 4-0 is no accident. Yet for over an hour Belgium wasted their best chances and Hungary stayed within one goal; the final 15 minutes turned a narrow win into a rout."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La Belgique a joué en 3-3-4, avec et sans le ballon, et ce quatuor offensif parle de lui-même : De Bruyne, Hazard, Lukaku et Mertens tous placés entre 74 et 79 m du but belge. J. Vertonghen monte à 59 m le long de la ligne gauche (10 m), T. Meunier à 56 m sur la droite. La Hongrie, en 4-3-3 avec le ballon, a passé 38 % de ses touches dans son propre tiers et seulement 20 % dans le dernier.",
+   "keys": [
+    "La Belgique touche 41 % de ses ballons dans le dernier tiers : deux fois plus que la Hongrie, en proportion.",
+    "De Bruyne et Lukaku partagent la même position latérale (32 m) : le meneur juste derrière l'avant-centre, ou presque à côté.",
+    "La Hongrie attaque surtout à gauche (27 % de ses touches), avec T. Kádár (7 m de la ligne) et G. Lovrencsics (9 m).",
+    "Sans le ballon, la Hongrie se réorganise en 3-3-1-3."
+   ],
+   "impact": "La possession hongroise se jouait loin du but belge, la belge près du but hongrois : c'est tout l'écart entre ces deux structures. Avec quatre attaquants alignés si haut, la Belgique n'avait pas besoin du ballon longtemps pour être dangereuse."
+  },
+  "en": {
+   "lead": "Belgium played a 3-3-4 with and without the ball, and that attacking quartet speaks for itself: De Bruyne, Hazard, Lukaku and Mertens all positioned between 74 and 79 m from the Belgian goal. J. Vertonghen pushes up to 59 m along the left line (10 m), T. Meunier to 56 m on the right. Hungary, in a 4-3-3 on the ball, spent 38% of their touches in their own third and only 20% in the final one.",
+   "keys": [
+    "Belgium take 41% of their touches in the final third: twice Hungary's proportion.",
+    "De Bruyne and Lukaku share the same lateral position (32 m): the playmaker right behind, or almost beside, the centre-forward.",
+    "Hungary attack mostly down the left (27% of their touches), with T. Kádár (7 m from the line) and G. Lovrencsics (9 m).",
+    "Without the ball, Hungary reorganise into a 3-3-1-3."
+   ],
+   "impact": "Hungary's possession happened far from Belgium's goal, Belgium's close to Hungary's: that is the whole gap between these two structures. With four forwards lined up so high, Belgium did not need the ball for long to be dangerous."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression dans les données Wyscout, on lit le pressing par les tacles, interceptions et fautes. La Belgique défendait plus haut (40,5 m de son but contre 33,3 m pour la Hongrie) et plus serré (PPDA de 7,8 contre 9,0). Mais aucune des deux équipes n'a vraiment harcelé : 3,3 actions par minute sans ballon pour la Belgique, 2,8 pour la Hongrie, sous la moyenne du tournoi (3,6).",
+   "keys": [
+    "La Belgique compte 9 récupérations hautes, la Hongrie 6 (moyenne du tournoi : 6,9).",
+    "La Hongrie ne récupère que 8 % de ses ballons perdus en moins de 5 secondes, et 22 % en moins de 10.",
+    "45 % des récupérations belges prennent plus de 20 secondes : la Belgique laissait souvent la Hongrie faire tourner.",
+    "La Belgique réalise 42 interceptions, contre 28 pour la Hongrie."
+   ],
+   "impact": "La Belgique n'a pas étouffé la Hongrie, elle l'a laissée jouer puis l'a punie à la récupération. La Hongrie, elle, ne récupérait presque jamais vite après une perte : chaque ballon perdu devenait une occasion belge en puissance."
+  },
+  "en": {
+   "lead": "With no pressure events in the Wyscout data, the press is read through tackles, interceptions and fouls. Belgium defended higher (40.5 m from their goal against 33.3 m for Hungary) and tighter (PPDA of 7.8 against 9.0). But neither side really harassed the other: 3.3 actions per minute out of possession for Belgium, 2.8 for Hungary, below the tournament average (3.6).",
+   "keys": [
+    "Belgium have 9 high recoveries, Hungary 6 (tournament average: 6.9).",
+    "Hungary win back only 8% of lost balls within 5 seconds, and 22% within 10.",
+    "45% of Belgium's regains take longer than 20 seconds: Belgium often let Hungary pass it around.",
+    "Belgium make 42 interceptions, against 28 for Hungary."
+   ],
+   "impact": "Belgium did not suffocate Hungary; they let them play and punished them on the turnover. Hungary, for their part, almost never won the ball back quickly after losing it: every lost ball became a potential Belgian chance."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur le papier, c'est la Hongrie la plus relationniste ce soir-là (−0,10 contre −0,45 pour la Belgique). Mais son réseau tourne loin du but adverse : le carrefour hongrois est T. Kádár (98 passes impliquées), et le lien le plus utilisé est Lovrencsics – Kádár, 30 passes sur le flanc gauche. La Belgique, plus positionniste, concentre son jeu sur un duo offensif : E. Hazard – K. De Bruyne, 23 passes.",
+   "keys": [
+    "Les trois carrefours belges sont De Bruyne (85), Hazard (82) et A. Witsel (76) : le ballon passait par les créateurs.",
+    "Côté hongrois, on trouve deux défenseurs dans le top 3 : Kádár et R. Juhász (83).",
+    "Les deux équipes jouent peu court : 37 % pour la Hongrie, 38 % pour la Belgique (moyenne du tournoi : 42 %).",
+    "Sur le tournoi, la Hongrie est 7e des 24 équipes sur l'axe relationniste, la Belgique 9e."
+   ],
+   "impact": "La Hongrie faisait circuler par ses latéraux et ses défenseurs, la Belgique par ses meneurs. C'est sans doute là que se trouve l'écart de danger : les passes belges partaient de joueurs déjà installés près de la surface."
+  },
+  "en": {
+   "lead": "On paper, Hungary were the more relational side that night (−0.10 against −0.45 for Belgium). But their network turned far from goal: Hungary's hub is T. Kádár (98 passes involved), and the busiest link is Lovrencsics – Kádár, 30 passes down the left. Belgium, more positional, focused their game on an attacking duo: E. Hazard – K. De Bruyne, 23 passes.",
+   "keys": [
+    "Belgium's three hubs are De Bruyne (85), Hazard (82) and A. Witsel (76): the ball went through the creators.",
+    "Hungary have two defenders in their top 3: Kádár and R. Juhász (83).",
+    "Neither side plays much short: 37% for Hungary, 38% for Belgium (tournament average: 42%).",
+    "Over the tournament, Hungary are 7th of 24 teams on the relational axis, Belgium 9th."
+   ],
+   "impact": "Hungary circulated through their full-backs and defenders, Belgium through their playmakers. That is probably where the gap in danger lies: Belgium's passes came from players already stationed near the box."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voici où le match a basculé. La Hongrie a concédé 8 tirs dans les 15 secondes suivant une perte de balle, pour 0,84 xG : plus de six fois la moyenne du tournoi (0,13 xG). La Belgique, elle, n'a laissé qu'un tir en transition, pour 0,01 xG. Et le décompte des replis attribue à la Hongrie deux buts encaissés en transition, dans les dernières minutes, quand elle s'était découverte.",
+   "keys": [
+    "Moyenne du tournoi : 1,6 tir concédé en transition par match. La Hongrie en concède 8.",
+    "La Hongrie a perdu 57 ballons dans le jeu, la Belgique 49 : peu de pertes, mais des pertes coûteuses.",
+    "Les deux buts en transition sont comptés à la 80e et à la 91e minute, au moment où la Hongrie courait après le score."
+   ],
+   "impact": "Chaque ballon perdu par la Hongrie devenait une contre-attaque belge, et dans le dernier quart d'heure ces contres ont fait mal. Tout indique que la Hongrie, menée et obligée de pousser, a payé ses pertes au prix fort."
+  },
+  "en": {
+   "lead": "This is where the match turned. Hungary conceded 8 shots within 15 seconds of losing the ball, worth 0.84 xG: more than six times the tournament average (0.13 xG). Belgium allowed just one shot in transition, worth 0.01 xG. And the transition count credits Hungary with two goals conceded in transition, in the closing minutes, when they had pushed forward.",
+   "keys": [
+    "Tournament average: 1.6 shots conceded in transition per match. Hungary concede 8.",
+    "Hungary lost 57 balls in open play, Belgium 49: few losses, but costly ones.",
+    "The two transition goals are logged in minutes 80 and 91, when Hungary were chasing the game."
+   ],
+   "impact": "Every ball Hungary lost turned into a Belgian counter, and in the final quarter of an hour those counters hurt. Everything suggests Hungary, behind and forced to push, paid dearly for their losses."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue, et dans ce huitième, personne n'a vraiment été pris en étau. Le joueur le plus entouré est le Hongrois Á. Elek, avec seulement 0,74 action défensive de plus que la normale pour 10 touches ; pour comparer, le record de l'Euro appartient à K. Lafferty, à 4,09. E. Hazard (0,31) et R. Lukaku (0,27) suivent, à peine au-dessus de la normale.",
+   "keys": [
+    "Á. Szalai, l'avant-centre hongrois, est à 0,07 : pratiquement aucune attention particulière.",
+    "R. Nainggolan (−0,42) jouait sans être dérangé.",
+    "Côté hongrois, B. Dzsudzsák (−0,49) et Á. Pintér (−0,54) sont les moins surveillés du match.",
+    "A. Witsel est pile dans la normale (0,00), D. Mertens légèrement en dessous (−0,17)."
+   ],
+   "impact": "La Hongrie n'a jamais vraiment serré Hazard, et Hazard a fini avec un but, une passe décisive et 9 dribbles. Quand le meilleur créateur adverse reçoit à peine plus d'attention qu'un joueur lambda, il finit souvent par trouver la faille."
+  },
+  "en": {
+   "lead": "Without 360 data, we measure attention received, and in this last-16 tie nobody was really squeezed. The most crowded player is Hungary's Á. Elek, with just 0.74 extra defensive actions per 10 touches; for comparison, the Euro record belongs to K. Lafferty at 4.09. E. Hazard (0.31) and R. Lukaku (0.27) follow, barely above normal.",
+   "keys": [
+    "Á. Szalai, Hungary's centre-forward, sits at 0.07: virtually no special attention.",
+    "R. Nainggolan (−0.42) played undisturbed.",
+    "For Hungary, B. Dzsudzsák (−0.49) and Á. Pintér (−0.54) are the least watched players in the match.",
+    "A. Witsel is exactly at normal (0.00), D. Mertens slightly below (−0.17)."
+   ],
+   "impact": "Hungary never really tightened on Hazard, and Hazard finished with a goal, an assist and 9 dribbles. When the opposition's best creator gets barely more attention than anyone else, he tends to find a way through."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La Belgique a créé 2,51 xT contre 1,63, avec une régularité de métronome : 1,31 avant la pause, 1,21 après. Le plus gros créateur est E. Hazard (0,66 xT, 26 % de la menace belge), mais le deuxième est plus inattendu : J. Vertonghen, 0,61 xT, uniquement à la passe. C'est lui qui signe le geste le plus menaçant du match, une passe à la 59e minute (+0,37 xT), la minute même du double raté Mertens–Lukaku.",
+   "keys": [
+    "Côté hongrois, le premier créateur est un défenseur : Á. Lang, 0,44 xT, soit 27 % de la menace de son équipe.",
+    "Lang signe aussi la passe la plus dangereuse de la Hongrie, à la 83e minute (+0,33 xT), alors que le score était déjà de 0-3.",
+    "La Hongrie produit plus après la pause (0,99 xT) qu'avant (0,64) : elle a poussé, et s'est exposée.",
+    "Hazard ne crée presque rien en conduite (0,05) : sa menace passait par ses passes (0,61)."
+   ],
+   "impact": "L'écart de menace est réel mais moins énorme que le score : 2,51 contre 1,63. C'est dans la finition et dans les transitions que la Belgique a fait la différence, pas seulement dans la construction."
+  },
+  "en": {
+   "lead": "Belgium created 2.51 xT against 1.63, with metronomic regularity: 1.31 before the break, 1.21 after it. The biggest creator is E. Hazard (0.66 xT, 26% of Belgium's threat), but the second is less expected: J. Vertonghen, 0.61 xT, all from passing. He also produced the most threatening action of the match, a pass in minute 59 (+0.37 xT), the very minute of the Mertens–Lukaku double miss.",
+   "keys": [
+    "For Hungary, the top creator is a defender: Á. Lang, 0.44 xT, 27% of his team's threat.",
+    "Lang also produces Hungary's most dangerous pass, in minute 83 (+0.33 xT), when it was already 0-3.",
+    "Hungary produce more after the break (0.99 xT) than before it (0.64): they pushed, and exposed themselves.",
+    "Hazard creates almost nothing from carries (0.05): his threat came through his passing (0.61)."
+   ],
+   "impact": "The threat gap is real but smaller than the score suggests: 2.51 against 1.63. Belgium made the difference in finishing and in transition, not just in build-up."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le Belge le mieux classé de l'Euro 2016 n'est ni Hazard ni De Bruyne, c'est un latéral : T. Meunier, 2e des 67 latéraux classés avec une note de 77, et l'un des trois meneurs du poste sur tout le tournoi. J. Vertonghen, classé lui aussi parmi les latéraux, est 6e. Devant, Hazard est 5e des 46 attaquants avec 4 passes décisives et un but, Lukaku 6e avec 2 buts.",
+   "keys": [
+    "K. De Bruyne n'est que 25e des 90 milieux, malgré 3 passes décisives sur le tournoi.",
+    "A. Witsel est 15e des milieux, R. Nainggolan 30e.",
+    "Côté hongrois, le mieux classé est T. Kádár, 13e des latéraux (66).",
+    "T. Courtois est 7e des 24 gardiens, G. Király 14e."
+   ],
+   "impact": "La Belgique alignait des joueurs bien classés à presque tous les postes, et surtout des latéraux capables de créer. Face à elle, le Hongrois le mieux classé, Kádár, n'est que 13e de son poste : l'écart de talent s'est vu au tableau d'affichage."
+  },
+  "en": {
+   "lead": "Belgium's best-ranked player at Euro 2016 is neither Hazard nor De Bruyne but a full-back: T. Meunier, 2nd of 67 ranked full-backs with a score of 77, and one of the position's three leaders across the tournament. J. Vertonghen, also ranked among the full-backs, is 6th. Up front, Hazard is 5th of 46 forwards with 4 assists and a goal, Lukaku 6th with 2 goals.",
+   "keys": [
+    "K. De Bruyne is only 25th of 90 midfielders, despite 3 assists in the tournament.",
+    "A. Witsel is 15th among midfielders, R. Nainggolan 30th.",
+    "For Hungary, the best-ranked player is T. Kádár, 13th among full-backs (66).",
+    "T. Courtois is 7th of 24 goalkeepers, G. Király 14th."
+   ],
+   "impact": "Belgium fielded well-ranked players in almost every position, and above all full-backs who could create. Hungary's best-ranked player, Kádár, is only 13th in his position: the talent gap showed on the scoreboard."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Petit chassé-croisé de jumeaux : le jumeau de R. Lukaku à l'Euro 2016 est… Phil Foden au Mondial 2022 (93 %), tandis que le Hongrois Á. Szalai ressemble à Romelu Lukaku version Euro 2024 (95 %). Szalai et Lukaku partagent d'ailleurs un autre jumeau : M. Gómez à l'Euro 2016 (96 % et 92 %). Le profil de l'avant-centre de pointe se retrouve dans les deux camps.",
+   "keys": [
+    "E. Hazard a pour jumeau Juan Cuadrado au Mondial 2018 (92 %), puis Lionel Messi deux fois, en sélection et en finale de Ligue des champions (88 %).",
+    "K. De Bruyne ressemble à Ruslan Malinovskiy à l'Euro 2020 (94 %) et à A. Ramsey à l'Euro 2016 (92 %).",
+    "T. Meunier se rapproche de Marcelo en finale de Ligue des champions (92 %).",
+    "T. Kádár a pour jumeau Aymeric Laporte à l'Euro 2024 (96 %) : un latéral au profil de défenseur central."
+   ],
+   "impact": "Hazard jumeau de Messi et De Bruyne de Malinovskiy : la Belgique avait des créateurs de premier plan, et ils ont fait la différence. La Hongrie avait aussi son avant-centre de pointe, mais pas le même étage de création derrière lui."
+  },
+  "en": {
+   "lead": "A little crossover of twins: R. Lukaku's twin at Euro 2016 is… Phil Foden at the 2022 World Cup (93%), while Hungary's Á. Szalai resembles the Euro 2024 version of Romelu Lukaku (95%). Szalai and Lukaku also share another twin: M. Gómez at Euro 2016 (96% and 92%). The target-man profile shows up on both sides.",
+   "keys": [
+    "E. Hazard's twin is Juan Cuadrado at the 2018 World Cup (92%), then Lionel Messi twice, for his country and in a Champions League final (88%).",
+    "K. De Bruyne resembles Ruslan Malinovskiy at Euro 2020 (94%) and A. Ramsey at Euro 2016 (92%).",
+    "T. Meunier is close to Marcelo in a Champions League final (92%).",
+    "T. Kádár's twin is Aymeric Laporte at Euro 2024 (96%): a full-back with a centre-back's profile."
+   ],
+   "impact": "Hazard as Messi's twin and De Bruyne as Malinovskiy's: Belgium had top-tier creators, and they made the difference. Hungary had their target man too, but not the same level of creativity behind him."
+  }
+ }
+}

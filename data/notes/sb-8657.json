@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le match pour la troisième place, celui que personne ne veut jouer et que tout le monde veut gagner. Deux demi-finalistes déçus, et des statistiques d'une égalité parfaite : 1,32 xG pour la Belgique, 1,34 pour l'Angleterre. La différence s'est faite dans les deux surfaces. Thomas Meunier ouvre le score dès la 4e minute, Eden Hazard ferme la porte à la 82e, et Thibaut Courtois signe 5 arrêts entre les deux.",
+   "keys": [
+    "L'Angleterre a eu le ballon (57 %), plus de tirs (15 contre 11) et 15 passes clés contre 9 : tout, sauf des buts.",
+    "La plus grosse occasion du match est anglaise : Eric Dier à la 70e minute, 0,45 xG, à côté.",
+    "Kieran Trippier distribue 8 passes clés et 14 passes progressives, sans tirer une seule fois.",
+    "Hazard termine avec 6 dribbles et 0,58 xT : le Belge le plus menaçant du match, et un but pour conclure."
+   ],
+   "impact": "Avec 0,02 xG d'écart, ce match était une pièce lancée en l'air. Courtois et le réalisme belge l'ont fait retomber du bon côté, et la Belgique repart avec la médaille de bronze."
+  },
+  "en": {
+   "lead": "The third-place play-off, the game nobody wants to play and everybody wants to win. Two disappointed semi-finalists, and numbers in perfect balance: 1.32 xG for Belgium, 1.34 for England. The difference was made in the two boxes. Thomas Meunier opens the scoring in minute 4, Eden Hazard shuts the door in minute 82, and Thibaut Courtois makes 5 saves in between.",
+   "keys": [
+    "England had the ball (57%), more shots (15 to 11) and 15 key passes to 9: everything except goals.",
+    "The biggest chance of the match is English: Eric Dier in minute 70, 0.45 xG, wide.",
+    "Kieran Trippier hands out 8 key passes and 14 progressive passes without taking a single shot.",
+    "Hazard finishes with 6 dribbles and 0.58 xT: Belgium's most threatening player, with a goal to round it off."
+   ],
+   "impact": "With an xG gap of 0.02, this game was a coin in the air. Courtois and Belgian efficiency made it land on the right side, and Belgium take the bronze."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La Belgique annonçait un 3-4-3 et le jouait, version offensive : un 3-3-4 avec le ballon, Nacer Chadli posté à 76 m de son but et 5 m de la ligne gauche, Thomas Meunier haut à droite (69 m). Les deux pistons belges jouaient en ailiers. L'Angleterre, en 3-2-3-2 avec le ballon, se repliait en 4-4-1-1 sans lui selon les positions moyennes.",
+   "keys": [
+    "Chadli, à 76 m, est le Belge le plus avancé : plus haut que Hazard (73 m) et que Lukaku (63 m).",
+    "L'Angleterre touche 32 % de ses ballons dans le dernier tiers et seulement 15 % dans son propre tiers.",
+    "Jan Vertonghen s'écarte à 6 m de la ligne gauche : la défense à trois belge s'ouvrait très large pour relancer.",
+    "Côté anglais, Kane et Loftus-Cheek se tiennent tous les deux à 76 m de leur but."
+   ],
+   "impact": "Le premier but en dit long : à la 4e minute, le geste le plus menaçant du match est une passe de Chadli, piston gauche (+0,34 xT), et c'est Meunier, piston droit, qui marque. Les couloirs belges ont fait la différence dès les premières minutes."
+  },
+  "en": {
+   "lead": "Belgium announced a 3-4-3 and played it, attacking version: a 3-3-4 in possession, Nacer Chadli stationed 76 m from his goal and 5 m from the left line, Thomas Meunier high on the right (69 m). Both Belgian wing-backs played as wingers. England, a 3-2-3-2 in possession, dropped into a 4-4-1-1 without it according to the average positions.",
+   "keys": [
+    "Chadli, at 76 m, is Belgium's most advanced player: higher than Hazard (73 m) and Lukaku (63 m).",
+    "England take 32% of their touches in the final third and only 15% in their own third.",
+    "Jan Vertonghen splits wide to 6 m from the left line: Belgium's back three opened very wide to build.",
+    "For England, Kane and Loftus-Cheek both stand 76 m from their goal."
+   ],
+   "impact": "The opening goal says a lot: in minute 4, the most threatening action of the match is a pass by Chadli, the left wing-back (+0.34 xT), and it is Meunier, the right wing-back, who scores. Belgium's flanks made the difference from the very first minutes."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "L'Angleterre a pressé comme une équipe qui jouait une finale : 8,6 pressions par minute sans ballon, loin au-dessus de la moyenne du tournoi (5,6). La Belgique, elle, a laissé venir : PPDA de 29,5 et des actions défensives à 41,5 m de son but. Une équipe qui court, une autre qui attend, et c'est encore l'attente qui l'emporte.",
+   "keys": [
+    "Malgré tout ce pressing, l'Angleterre ne récupère que 18 % de ses ballons perdus en moins de 5 secondes.",
+    "Le contre-pressing est faible des deux côtés : 10 % des pressions belges et 14 % des anglaises suivent une perte (moyenne : 19 %).",
+    "Peu de récupérations hautes : 4 pour la Belgique, 5 pour l'Angleterre.",
+    "L'Angleterre défend plus haut (48,8 m) que la Belgique (41,5 m)."
+   ],
+   "impact": "Le pressing anglais a donné le ballon à l'Angleterre, mais pas le contrôle des zones dangereuses. La Belgique s'est contentée de défendre bas et de frapper au bon moment."
+  },
+  "en": {
+   "lead": "England pressed like a team playing a final: 8.6 pressures per minute out of possession, far above the tournament average (5.6). Belgium let them come: a PPDA of 29.5 and defensive actions 41.5 m from their goal. One team running, one waiting, and once again the waiting game won.",
+   "keys": [
+    "Despite all that pressing, England win back only 18% of lost balls within 5 seconds.",
+    "Counter-pressing is weak on both sides: 10% of Belgium's pressures and 14% of England's follow a loss (average: 19%).",
+    "Few high regains: 4 for Belgium, 5 for England.",
+    "England defend higher (48.8 m) than Belgium (41.5 m)."
+   ],
+   "impact": "England's press won them the ball, but not control of the dangerous zones. Belgium were content to defend deep and strike at the right moments."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Voilà une Angleterre méconnaissable dans le jeu court : 66 % de passes courtes, bien au-dessus de la moyenne du tournoi (53 %), et un indice relationniste de +0,34. Son réseau tourne autour de John Stones (144 passes), Eric Dier (136) et Kieran Trippier (131), et son lien vedette est Trippier – Phil Jones, 48 passes. La Belgique, elle, combine très vite quand elle accélère : 40 % de combinaisons rapides.",
+   "keys": [
+    "Le duo De Bruyne – Hazard est le lien le plus utilisé côté belge : 28 passes entre les deux créateurs.",
+    "Trippier – Loftus-Cheek, 36 passes : tout le jeu anglais penchait à droite.",
+    "Sur l'ensemble du tournoi, l'Angleterre est la 8e équipe la plus relationniste sur 32, la Belgique la 17e.",
+    "La Belgique joue elle aussi court : 57 % de passes courtes, au-dessus de la moyenne du tournoi."
+   ],
+   "impact": "L'Angleterre a fait circuler, la Belgique a fait jouer ses deux meilleurs joueurs ensemble. Quand De Bruyne et Hazard se trouvent 28 fois, il suffit de deux ballons bien utilisés pour gagner un match."
+  },
+  "en": {
+   "lead": "An England side unrecognisable in the short game: 66% short passes, well above the tournament average (53%), and a relational index of +0.34. Their network revolves around John Stones (144 passes), Eric Dier (136) and Kieran Trippier (131), and their star link is Trippier – Phil Jones, 48 passes. Belgium, for their part, combine very quickly when they speed up: 40% quick combinations.",
+   "keys": [
+    "De Bruyne – Hazard is Belgium's busiest link: 28 passes between the two creators.",
+    "Trippier – Loftus-Cheek, 36 passes: England's whole game leaned to the right.",
+    "Across the tournament, England are the 8th most relational of 32 teams, Belgium 17th.",
+    "Belgium also play short: 57% short passes, above the tournament average."
+   ],
+   "impact": "England circulated, Belgium got their two best players playing together. When De Bruyne and Hazard find each other 28 times, two well-used balls are enough to win a match."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un chiffre rond pour la Belgique : zéro. Zéro tir concédé dans les 15 secondes suivant une perte, zéro xG en transition. L'Angleterre n'a jamais pu punir un ballon perdu belge. À l'inverse, les Anglais ont concédé 3 tirs en transition pour 0,25 xG, sans encaisser de but de cette façon.",
+   "keys": [
+    "La Belgique perd 81 ballons en jeu ouvert, l'Angleterre 77 : un volume de pertes presque identique.",
+    "La moyenne du tournoi est de 0,28 xG concédé en transition : l'Angleterre s'en approche, la Belgique est à 0.",
+    "Aucun des deux buts belges ne naît d'une transition."
+   ],
+   "impact": "Bloc bas et repli impeccable : la Belgique n'a laissé à l'Angleterre que les attaques placées. Et dans ce registre, les Anglais ont buté sur Courtois."
+  },
+  "en": {
+   "lead": "A round number for Belgium: zero. Zero shots conceded within 15 seconds of a loss, zero xG in transition. England never managed to punish a lost Belgian ball. Conversely, England conceded 3 transition shots worth 0.25 xG, without letting in a goal that way.",
+   "keys": [
+    "Belgium lose 81 balls in open play, England 77: an almost identical volume of losses.",
+    "The tournament average is 0.28 xG conceded in transition: England come close to it, Belgium sit at 0.",
+    "Neither Belgian goal came from a transition."
+   ],
+   "impact": "Low block and flawless recovery runs: Belgium left England nothing but settled attacks. And in that department, England ran into Courtois."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Eden Hazard a été l'aimant absolu de ce match : 3,11 actions défensives anglaises de plus que la normale pour 10 touches. Les cinq joueurs les plus surveillés sont belges, avec Nacer Chadli (1,68), Axel Witsel et Romelu Lukaku (1,34 chacun). Raheem Sterling (1,10) est le seul Anglais du haut du tableau.",
+   "keys": [
+    "Hazard, 3,11 : chaque ballon touché déclenchait une réaction anglaise, et il a malgré tout réussi 6 dribbles.",
+    "Même Jan Vertonghen (1,24), défenseur, attirait l'attention : signe sans doute que l'Angleterre venait presser jusque dans la relance belge.",
+    "À l'inverse, Toby Alderweireld (−1,50), Phil Jones (−1,32) et Vincent Kompany (−1,25) jouaient en paix.",
+    "Pour l'échelle, le plus gros aimant du tournoi est Mehdi Taremi (5,35)."
+   ],
+   "impact": "L'Angleterre a concentré son attention sur Hazard, et il a quand même marqué le but du 2-0. Attirer autant de monde et rester décisif, c'est la marque des très grands joueurs."
+  },
+  "en": {
+   "lead": "Eden Hazard was the ultimate magnet in this game: 3.11 more English defensive actions than normal per 10 touches. The five most closely watched players are all Belgian, with Nacer Chadli (1.68), Axel Witsel and Romelu Lukaku (1.34 each). Raheem Sterling (1.10) is the only Englishman near the top.",
+   "keys": [
+    "Hazard, 3.11: every touch triggered an English reaction, and he still completed 6 dribbles.",
+    "Even Jan Vertonghen (1.24), a defender, drew attention: probably a sign that England pressed right into Belgium's build-up.",
+    "Conversely, Toby Alderweireld (−1.50), Phil Jones (−1.32) and Vincent Kompany (−1.25) played in peace.",
+    "For scale, the biggest magnet of the tournament is Mehdi Taremi (5.35)."
+   ],
+   "impact": "England focused their attention on Hazard, and he still scored the second goal. Drawing that many bodies and staying decisive is the mark of a truly great player."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Petite surprise : c'est l'Angleterre qui a créé le plus de menace, 2,09 xT contre 1,95, et surtout en deuxième mi-temps (1,23). Mais la Belgique a placé ses gestes au bon moment. Le plus menaçant du match est une passe de Nacer Chadli à la 4e minute (+0,34 xT), la minute du premier but. Et à la 82e, une conduite de Hazard (+0,13) précède le 2-0 à la même minute.",
+   "keys": [
+    "Hazard produit 30 % de la menace belge (0,58 xT), dont 0,47 en conduites de balle : il portait l'équipe sur ses épaules, au sens propre.",
+    "Ruben Loftus-Cheek crée 0,42 xT en conduites, mais perd de la menace à la passe (−0,07).",
+    "Trippier, encore lui, signe deux des gestes anglais les plus menaçants (+0,14 xT à la 15e et à la 74e).",
+    "Chadli, en 37 minutes, produit 0,37 xT : 19 % de la menace belge."
+   ],
+   "impact": "L'Angleterre a été plus menaçante sur la durée mais n'a rien converti. La Belgique a créé moins, mais ses deux meilleurs moments se sont terminés au fond des filets."
+  },
+  "en": {
+   "lead": "A small surprise: England created more threat, 2.09 xT to 1.95, mostly in the second half (1.23). But Belgium timed their actions well. The most threatening one of the match is a Nacer Chadli pass in minute 4 (+0.34 xT), the minute of the opening goal. And in minute 82, a Hazard carry (+0.13) comes just before the 2-0 in the same minute.",
+   "keys": [
+    "Hazard produces 30% of Belgium's threat (0.58 xT), 0.47 of it from carries: he literally carried the team.",
+    "Ruben Loftus-Cheek creates 0.42 xT from carries, but loses threat with his passing (−0.07).",
+    "Trippier, again, produces two of England's most threatening actions (+0.14 xT in minutes 15 and 74).",
+    "Chadli, in 37 minutes, produces 0.37 xT: 19% of Belgium's threat."
+   ],
+   "impact": "England were more threatening over the whole game but converted nothing. Belgium created less, but their two best moments ended in the net."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "La Belgique termine le tournoi avec deux des joueurs les mieux classés de la compétition : Thibaut Courtois, 1er des 31 gardiens, et Eden Hazard, 2e des 68 attaquants (3 buts, 2 passes décisives). Et la profondeur de banc impressionne : Youri Tielemans est 15e des 123 milieux avec seulement 187 minutes et 2 passes décisives.",
+   "keys": [
+    "Kieran Trippier, 6e des milieux, reste le meilleur Anglais du classement, juste devant Nacer Chadli (7e).",
+    "Thomas Meunier, buteur du soir, est 12e des 88 latéraux, avec 1 but et 2 passes décisives dans le tournoi.",
+    "Romelu Lukaku compte 4 buts dans la compétition et pointe au 24e rang des attaquants.",
+    "Raheem Sterling, 21e des attaquants, finit le tournoi sans but."
+   ],
+   "impact": "La Belgique avait les meilleurs joueurs de ce match selon nos classements, et le résultat a suivi. Pour l'Angleterre, Trippier aura été le joueur le mieux classé du tournoi, devant tous ses attaquants."
+  },
+  "en": {
+   "lead": "Belgium end the tournament with two of the competition's best-ranked players: Thibaut Courtois, 1st of 31 goalkeepers, and Eden Hazard, 2nd of 68 forwards (3 goals, 2 assists). And the depth is impressive: Youri Tielemans is 15th of 123 midfielders with only 187 minutes and 2 assists.",
+   "keys": [
+    "Kieran Trippier, 6th among midfielders, remains England's best-ranked player, just ahead of Nacer Chadli (7th).",
+    "Thomas Meunier, the scorer that night, is 12th of 88 full-backs, with 1 goal and 2 assists in the tournament.",
+    "Romelu Lukaku has 4 goals in the competition and sits 24th among forwards.",
+    "Raheem Sterling, 21st among forwards, ends the tournament without a goal."
+   ],
+   "impact": "Belgium had the best players in this match by our rankings, and the result followed. For England, Trippier was the best-ranked player of the tournament, ahead of all their forwards."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de Youri Tielemans est Andrés Iniesta en finale de Ligue des champions, à 90 %. Et en troisième position, Xavi, lui aussi en finale de LDC (86 %). En 187 minutes de Mondial, Tielemans a joué comme le milieu de Barcelone. Thomas Meunier, lui, ressemble à Ali Maâloul (93 %) puis à Joshua Kimmich (90 %), au même Mondial 2018.",
+   "keys": [
+    "Nacer Chadli rappelle Mesut Özil au Mondial 2018 (88 %) : un piston au profil de meneur.",
+    "Tielemans a aussi pour jumeau Mateo Kovačić à l'Euro 2024 (89 %).",
+    "Meunier a pour troisième jumeau Luke Shaw à l'Euro 2020 (89 %).",
+    "Thibaut Courtois ressemble d'abord à Manuel Neuer au Mondial 2018 (90 %)."
+   ],
+   "impact": "Des pistons au profil de créateurs, un milieu à la Iniesta : cette Belgique avait de la qualité technique à tous les étages. Elle l'a montrée jusque dans un match pour la troisième place."
+  },
+  "en": {
+   "lead": "Youri Tielemans's statistical twin is Andrés Iniesta in a Champions League final, at 90%. And in third place, Xavi, also in a Champions League final (86%). In 187 World Cup minutes, Tielemans played like Barcelona's midfield. Thomas Meunier resembles Ali Maâloul (93%) then Joshua Kimmich (90%), at the same 2018 World Cup.",
+   "keys": [
+    "Nacer Chadli recalls Mesut Özil at the 2018 World Cup (88%): a wing-back with a playmaker's profile.",
+    "Tielemans also has Mateo Kovačić at Euro 2024 as a twin (89%).",
+    "Meunier's third twin is Luke Shaw at Euro 2020 (89%).",
+    "Thibaut Courtois looks first like Manuel Neuer at the 2018 World Cup (90%)."
+   ],
+   "impact": "Wing-backs with creators' profiles, a midfielder in the Iniesta mould: this Belgium had technical quality at every level. They showed it even in a third-place play-off."
+  }
+ }
+}

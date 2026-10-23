@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Voilà un quart de finale gagné contre le cours des xG. La Turquie, qui avait sorti l'Autriche (2-1), tire plus (15 tirs contre 11), crée plus (1,18 xG contre 0,72) et mène à la pause grâce à Samet Akaydin, buteur à la 35e minute. Mais les Pays-Bas, vainqueurs de la Roumanie (3-0) en huitième, renversent tout en six minutes : Stefan de Vrij égalise à la 70e, puis Mert Müldür marque contre son camp à la 76e. Deux buts pour 0,72 xG, il fallait le faire.",
+   "keys": [
+    "L'égalisation de de Vrij ne valait que 0,06 xG : un défenseur central qui marque sur une demi-occasion.",
+    "Aucune grosse occasion de part et d'autre : le match s'est joué sur des balles de faible valeur.",
+    "Arda Güler et Memphis Depay signent chacun une passe décisive, les deux seules du match.",
+    "La Turquie écope d'un carton rouge, et sa plus grosse occasion manquée tombe à la 85e : Zeki Celik, 0,24 xG, à côté."
+   ],
+   "impact": "Sur le volume, la Turquie méritait au moins la prolongation : 0,46 xG d'avance et 7 corners contre 3. Mais les Pays-Bas ont été plus efficaces, ou plus heureux, dans les deux surfaces, et un but contre son camp a fait basculer la soirée."
+  },
+  "en": {
+   "lead": "Here is a quarter-final won against the run of the xG. Turkey, who had knocked out Austria 2-1, shot more (15 shots to 11), created more (1.18 xG to 0.72) and led at half-time thanks to Samet Akaydin, who scored in minute 35. But the Netherlands, 3-0 winners over Romania in the round of 16, turned it all around in six minutes: Stefan de Vrij equalised in minute 70, then Mert Müldür put through his own net in minute 76. Two goals from 0.72 xG takes some doing.",
+   "keys": [
+    "De Vrij's equaliser was worth only 0.06 xG: a centre-back scoring from a half-chance.",
+    "No big chance on either side: the match turned on low-value opportunities.",
+    "Arda Güler and Memphis Depay each provide one assist, the only two of the match.",
+    "Turkey picked up a red card, and their biggest missed chance came in minute 85: Zeki Celik, 0.24 xG, wide."
+   ],
+   "impact": "On volume, Turkey deserved at least extra time: a 0.46 xG lead and 7 corners to 3. But the Netherlands were more efficient, or luckier, in both boxes, and an own goal swung the night."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Les Pays-Bas avaient construit une machine à occuper le camp adverse. Annoncés en 4-2-3-1, ils se déployaient en 3-2-3-2 avec le ballon, leur dernière ligne à 49,0 m de leur but, très au-dessus de la moyenne du tournoi (42,0 m). Le flanc droit était à nouveau doublé, Denzel Dumfries (71 m) et Steven Bergwijn (72 m) côte à côte, pendant que Cody Gakpo restait scotché à la ligne gauche. La Turquie, elle, jouait bas : 3-2-4-1 ballon au pied, 4-3-2-1 sans, et seulement 18 % de ses touches dans le dernier tiers.",
+   "keys": [
+    "Même sans ballon, les Néerlandais défendaient haut : dernière ligne à 34,1 m, quand la moyenne du tournoi est de 29,2 m.",
+    "Avec le ballon, la dernière ligne turque restait à 35,6 m de son but : une équipe qui construisait de loin.",
+    "La Turquie passe 33 % de ses touches dans son propre tiers, contre 14 % pour les Pays-Bas.",
+    "Le bloc turc s'élargissait ballon au pied (34,1 m), au-dessus de la moyenne (31,7 m), mais sur seulement 2,3 couloirs occupés."
+   ],
+   "impact": "Les Pays-Bas ont installé le match dans la moitié turque, ce qui ne leur a pas apporté de grosses occasions mais a fini par user l'adversaire. La Turquie, en partant de si loin, devait traverser tout le terrain pour être dangereuse, et elle l'a pourtant été plus souvent que son adversaire."
+  },
+  "en": {
+   "lead": "The Netherlands had built a machine for occupying the opponent's half. Announced in a 4-2-3-1, they spread into a 3-2-3-2 in possession, their back line 49.0 m from goal, far above the tournament average (42.0 m). The right flank was doubled up again, Denzel Dumfries (71 m) and Steven Bergwijn (72 m) side by side, while Cody Gakpo stayed glued to the left touchline. Turkey played deep: 3-2-4-1 with the ball, 4-3-2-1 without, and only 18% of their touches in the final third.",
+   "keys": [
+    "Even without the ball, the Dutch defended high: back line at 34.1 m, against a tournament average of 29.2 m.",
+    "With the ball, Turkey's back line stayed 35.6 m from goal: a team building from a long way back.",
+    "Turkey spend 33% of their touches in their own third, against 14% for the Netherlands.",
+    "Turkey's block widened in possession (34.1 m), above the average (31.7 m), but across only 2.3 occupied lanes."
+   ],
+   "impact": "The Netherlands settled the match in the Turkish half, which brought them no big chances but eventually wore their opponents down. Starting from so deep, Turkey had to cross the whole pitch to be dangerous, and yet they managed it more often than their opponents."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Les Pays-Bas pressaient moins souvent mais plus haut. Leurs actions défensives avaient lieu à 53,2 m de leur but en moyenne, contre 42,2 m pour la Turquie, et la différence se retrouve dans les récupérations hautes : 10 contre 7. La Turquie mettait pourtant un peu plus d'intensité (3,8 pressions par minute contre 3,4), mais dans son propre camp. Deux pressings sous la moyenne du tournoi (4,2), et deux façons opposées de défendre l'espace.",
+   "keys": [
+    "PPDA de 14,9 pour les Pays-Bas, 17,3 pour la Turquie : un écart modeste, mais toujours en faveur des Néerlandais.",
+    "Contre-pressing : 20 % des pressions néerlandaises suivent une perte de moins de 5 s, contre 15 % côté turc.",
+    "Les Pays-Bas récupèrent 32 % de leurs ballons perdus en moins de 5 s, la Turquie 25 %.",
+    "À 10 s, l'écart se maintient : 51 % contre 44 %."
+   ],
+   "impact": "En récupérant plus haut et plus vite, les Pays-Bas ont empêché la Turquie de sortir proprement et l'ont maintenue loin de leur but la plupart du temps. Mais quand les Turcs passaient la première ligne, ils trouvaient de l'espace, ce qui aide à comprendre leurs 15 tirs."
+  },
+  "en": {
+   "lead": "The Netherlands pressed less often but higher. Their defensive actions took place 53.2 m from their own goal on average, against 42.2 m for Turkey, and the difference shows in the high regains: 10 to 7. Turkey actually brought a little more intensity (3.8 pressures per minute against 3.4), but in their own half. Two presses below the tournament average (4.2), and two opposite ways of defending space.",
+   "keys": [
+    "A PPDA of 14.9 for the Netherlands, 17.3 for Turkey: a modest gap, but in the Dutch favour.",
+    "Counter-pressing: 20% of Dutch pressures come within 5 s of a loss, against 15% for Turkey.",
+    "The Netherlands win back 32% of lost balls within 5 s, Turkey 25%.",
+    "At 10 s, the gap holds: 51% against 44%."
+   ],
+   "impact": "By winning the ball higher and faster, the Netherlands stopped Turkey from playing out cleanly and kept them far from goal most of the time. But when the Turks got past the first line they found space, which helps explain their 15 shots."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ce soir-là, les Pays-Bas ont livré une copie positionniste presque caricaturale : un indice de −0,72, plus extrême que la moyenne de la Belgique sur tout le tournoi (−0,71). Chacun à son poste, 52 % de passes courtes seulement, et un réseau qui passe d'abord par la défense. Stefan de Vrij en est le carrefour, impliqué dans 153 passes entre titulaires, avant d'aller marquer l'égalisation. La Turquie (−0,31), plus mobile, s'appuyait sur Hakan Çalhanoğlu et Arda Güler.",
+   "keys": [
+    "De Vrij est relié à van Dijk (34 passes), à Jerdy Schouten (32) et à Dumfries (32) : il distribue dans toutes les directions.",
+    "Côté turc, le duo Güler – Çalhanoğlu (18 passes) est le lien le plus actif : la créativité passait par là.",
+    "La Turquie ne compte que 27 % de combinaisons rapides, sous la moyenne du tournoi (34 %).",
+    "Les Néerlandais occupaient 3,75 couloirs en moyenne autour du ballon, contre 3,19 pour les Turcs : un jeu étalé en largeur."
+   ],
+   "impact": "Le jeu positionniste néerlandais a produit peu d'occasions, mais il a permis de garder le contrôle du ballon et du terrain. Ironie du sort, c'est le joueur le plus impliqué dans cette circulation, de Vrij, qui a relancé le match en marquant."
+  },
+  "en": {
+   "lead": "On the night, the Netherlands delivered an almost caricatured positional performance: an index of −0.72, more extreme than Belgium's average across the whole tournament (−0.71). Everyone in his spot, only 52% short passes, and a network running first through the defence. Stefan de Vrij is its hub, involved in 153 passes between starters, before going up to score the equaliser. Turkey (−0.31), more mobile, relied on Hakan Çalhanoğlu and Arda Güler.",
+   "keys": [
+    "De Vrij is linked to van Dijk (34 passes), Jerdy Schouten (32) and Dumfries (32): he distributes in every direction.",
+    "For Turkey, the Güler – Çalhanoğlu pair (18 passes) is the busiest link: creativity flowed through there.",
+    "Turkey manage only 27% quick combinations, below the tournament average (34%).",
+    "The Dutch occupied 3.75 lanes on average around the ball, against 3.19 for Turkey: a game spread across the width."
+   ],
+   "impact": "Dutch positional play produced few chances, but it kept them in control of ball and territory. In a twist of fate, the player most involved in that circulation, de Vrij, revived the match by scoring."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Aucun but n'est venu d'une transition, et les deux équipes ont bien tenu leurs replis. La Turquie a été particulièrement disciplinée : 5,3 joueurs derrière le ballon au moment de la perte, 6,1 quelques secondes plus tard, et un bloc de 7 ou plus reformé dans 46 % des cas, bien au-dessus de la moyenne du tournoi (36 %). Les Pays-Bas, plus exposés à la perte (4,5 joueurs derrière le ballon), n'ont concédé que 0,05 xG en transition.",
+   "keys": [
+    "Tirs concédés dans les 15 secondes après une perte : 2 pour les Pays-Bas, 5 pour la Turquie.",
+    "Mais la Turquie n'a concédé que 0,24 xG dans ces moments, dans la moyenne du tournoi (0,23).",
+    "Exemple 360 à la 30e minute : 1 seul Néerlandais derrière le ballon à la perte, 6 quelques secondes plus tard.",
+    "Même scène côté turc à la 86e minute : 1 joueur à la perte, 6 ensuite."
+   ],
+   "impact": "Avec des replis aussi solides, le match ne pouvait pas se décider sur une contre-attaque : il s'est joué sur des attaques placées et des coups du sort. Le but contre son camp en est la meilleure illustration."
+  },
+  "en": {
+   "lead": "No goal came from a transition, and both teams held their recovery runs well. Turkey were especially disciplined: 5.3 players behind the ball at the moment of the loss, 6.1 a few seconds later, and a block of 7 or more rebuilt in 46% of cases, well above the tournament average (36%). The Netherlands, more exposed at the loss (4.5 players behind the ball), conceded only 0.05 xG in transition.",
+   "keys": [
+    "Shots conceded within 15 seconds of a loss: 2 for the Netherlands, 5 for Turkey.",
+    "But Turkey conceded only 0.24 xG in those moments, in line with the tournament average (0.23).",
+    "A 360 example in minute 30: just 1 Dutch player behind the ball at the loss, 6 a few seconds later.",
+    "Same scene for Turkey in minute 86: 1 player at the loss, 6 afterwards."
+   ],
+   "impact": "With recovery runs that solid, the match could not be decided on a counter-attack: it came down to set attacks and twists of fate. The own goal is the best illustration."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le joueur le plus surveillé du match est turc : Kenan Yildiz, 1,19 adversaire de plus que la normale autour de chacune de ses touches. Salih Özcan suit avec 1,00. Côté néerlandais, Memphis Depay (0,77), Xavi Simons (0,70) et Steven Bergwijn (0,64) attiraient la défense turque. À l'opposé, les deux centraux néerlandais, van Dijk et de Vrij (−0,79 chacun), jouaient dans un désert.",
+   "keys": [
+    "Yildiz, placé côté gauche (18 m de la touche), aimantait les défenseurs néerlandais de ce côté-là.",
+    "Barış Alper Yılmaz (0,44), le plus avancé des Turcs, attirait moins que ses milieux.",
+    "Samet Akaydin (−0,64), le buteur turc, avait lui aussi beaucoup d'espace à la relance.",
+    "Les trois joueurs les moins entourés du match sont tous des défenseurs centraux."
+   ],
+   "impact": "Le calme laissé à de Vrij est peut-être un détail qui a compté : un central que personne ne presse finit par oser, et c'est lui qui égalise. Tout indique que les Turcs, concentrés sur Depay et Simons, ont laissé la menace venir d'ailleurs."
+  },
+  "en": {
+   "lead": "The most closely watched player of the match was Turkish: Kenan Yildiz, 1.19 extra opponents around each of his touches. Salih Özcan follows with 1.00. For the Netherlands, Memphis Depay (0.77), Xavi Simons (0.70) and Steven Bergwijn (0.64) drew the Turkish defence. At the other end, the two Dutch centre-backs, van Dijk and de Vrij (−0.79 each), played in a desert.",
+   "keys": [
+    "Yildiz, stationed on the left (18 m from the touchline), pulled Dutch defenders towards that side.",
+    "Barış Alper Yılmaz (0.44), Turkey's most advanced player, drew less attention than his midfielders.",
+    "Samet Akaydin (−0.64), Turkey's scorer, also had plenty of space on the ball.",
+    "The three least crowded players of the match are all centre-backs."
+   ],
+   "impact": "The calm de Vrij was given may be a detail that mattered: a centre-back nobody presses ends up daring, and he is the one who equalised. Everything suggests the Turks, focused on Depay and Simons, let the threat come from elsewhere."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Une passe pèse plus que toutes les autres : celle d'Arda Güler à la 35e minute, de 92 à 103 m, qui vaut 0,37 xT. C'est la minute du but d'Akaydin, et Güler compte une passe décisive. Le Turc produit 39 % de toute la menace de son équipe, entièrement à la passe (0,52 xT). Les Pays-Bas créent un peu plus au total (1,57 xT contre 1,31), avec Memphis Depay comme principal moteur (0,40 xT).",
+   "keys": [
+    "Depay, à la 70e minute, signe la passe la plus menaçante des Pays-Bas (+0,13 xT) : la minute de l'égalisation, et Depay compte une passe décisive.",
+    "À la 76e, une passe de Dumfries de 91 à 99 m (+0,09 xT) précède le but contre son camp de Müldür.",
+    "Abdülkerim Bardakcı, défenseur, est le deuxième créateur turc (0,28 xT), avec une passe à +0,14 xT à la 91e.",
+    "Les deux équipes accélèrent en seconde période : 0,87 xT pour les Pays-Bas, 0,77 pour la Turquie."
+   ],
+   "impact": "Les gestes décisifs des Pays-Bas tiennent en sept minutes, de la 70e à la 76e, avec Depay et Dumfries à la baguette. La Turquie a eu son créateur le plus brillant en Güler, mais avec 39 % de la menace sur ses seules épaules, la Turquie était sans doute trop dépendante de lui."
+  },
+  "en": {
+   "lead": "One pass weighs more than all the others: Arda Güler's in minute 35, from 92 to 103 m, worth 0.37 xT. That is the minute of Akaydin's goal, and Güler has one assist. The Turk produced 39% of his team's entire threat, all of it through passing (0.52 xT). The Netherlands created slightly more overall (1.57 xT against 1.31), with Memphis Depay as their main engine (0.40 xT).",
+   "keys": [
+    "Depay, in minute 70, played the Netherlands' most threatening pass (+0.13 xT): the minute of the equaliser, and Depay has one assist.",
+    "In minute 76, a Dumfries pass from 91 to 99 m (+0.09 xT) comes just before Müldür's own goal.",
+    "Abdülkerim Bardakcı, a defender, is Turkey's second creator (0.28 xT), with a +0.14 xT pass in minute 91.",
+    "Both teams stepped up after the break: 0.87 xT for the Netherlands, 0.77 for Turkey."
+   ],
+   "impact": "The Netherlands' decisive actions fit into seven minutes, from the 70th to the 76th, with Depay and Dumfries pulling the strings. Turkey had their brightest creator in Güler, but with 39% of the threat on his shoulders alone, Turkey were probably too reliant on him."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le buteur turc de la soirée est aussi l'un des meilleurs défenseurs de l'Euro : Samet Akaydin est 3e des 30 défenseurs centraux classés (note de 67), juste devant Virgil van Dijk (4e, 65). Côté néerlandais, l'attaque reste bien classée : Memphis Depay 6e des 49 attaquants, Cody Gakpo 7e avec 3 buts et 1 passe décisive. Et Arda Güler, 11e des attaquants, compte 1 but et 2 passes décisives en 353 minutes.",
+   "keys": [
+    "Akaydin figure parmi les trois meneurs du poste de défenseur central sur tout le tournoi.",
+    "Ferdi Kadioglu est 13e des 78 latéraux (63), Nathan Aké 16e (63).",
+    "Kaan Ayhan est 18e des 82 milieux, Jerdy Schouten 23e.",
+    "Mert Müldür, malheureux sur le but décisif, est 31e des latéraux (54)."
+   ],
+   "impact": "Les deux équipes avaient des profils de haut niveau aux mêmes postes clés, et le match a été à leur image : serré, indécis, tranché par un détail. Les classements ne départagent pas ce quart, le but contre son camp s'en est chargé."
+  },
+  "en": {
+   "lead": "Turkey's scorer on the night is also one of the best defenders at the Euro: Samet Akaydin is 3rd of 30 ranked centre-backs (score of 67), just ahead of Virgil van Dijk (4th, 65). For the Netherlands, the attack ranks well: Memphis Depay 6th of 49 forwards, Cody Gakpo 7th with 3 goals and 1 assist. And Arda Güler, 11th among forwards, has 1 goal and 2 assists in 353 minutes.",
+   "keys": [
+    "Akaydin is among the three leaders at centre-back across the whole tournament.",
+    "Ferdi Kadioglu is 13th of 78 full-backs (63), Nathan Aké 16th (63).",
+    "Kaan Ayhan is 18th of 82 midfielders, Jerdy Schouten 23rd.",
+    "Mert Müldür, unlucky on the decisive goal, is 31st among full-backs (54)."
+   ],
+   "impact": "Both teams had top-level profiles in the same key positions, and the match looked like it: tight, uncertain, settled by a detail. The rankings do not separate this quarter-final; the own goal did."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Samet Akaydin a un jumeau de prestige : Nemanja Vidić en finale de Ligue des champions, similaire à 95 %. Suivent Manuel Akanji à l'Euro 2020 (93 %) et Joško Gvardiol au Mondial 2022 (91 %). Arda Güler, lui, se range parmi les ailiers créateurs : Ousmane Dembélé au Mondial 2022 et Nico Williams à l'Euro 2024 (88 % chacun), puis Lorenzo Insigne (87 %).",
+   "keys": [
+    "Memphis Depay ressemble d'abord à Luis Suárez au Mondial 2018 (93 %).",
+    "Ferdi Kadioglu a pour plus proche jumeau Theo Hernández au Mondial 2022 (82 %).",
+    "Kaan Ayhan rappelle Ellyes Joris Skhiri au Mondial 2022 (91 %) et Idrissa Gueye (88 %).",
+    "Clin d'œil : Joey Veerman a pour troisième jumeau Hakan Çalhanoğlu à l'Euro 2020 (86 %), adversaire du soir."
+   ],
+   "impact": "Un central au profil de Vidić qui marque, un créateur au profil de Dembélé qui délivre la passe décisive : la Turquie avait les ingrédients d'un exploit. Il lui a manqué un dernier geste, et un peu de chance sur le but contre son camp."
+  },
+  "en": {
+   "lead": "Samet Akaydin has a prestigious twin: Nemanja Vidić in a Champions League final, 95% similar. Next come Manuel Akanji at Euro 2020 (93%) and Joško Gvardiol at the 2022 World Cup (91%). Arda Güler sits among the creative wingers: Ousmane Dembélé at the 2022 World Cup and Nico Williams at Euro 2024 (88% each), then Lorenzo Insigne (87%).",
+   "keys": [
+    "Memphis Depay looks first like Luis Suárez at the 2018 World Cup (93%).",
+    "Ferdi Kadioglu's closest twin is Theo Hernández at the 2022 World Cup (82%).",
+    "Kaan Ayhan recalls Ellyes Joris Skhiri at the 2022 World Cup (91%) and Idrissa Gueye (88%).",
+    "A nice touch: Joey Veerman's third twin is Hakan Çalhanoğlu at Euro 2020 (86%), an opponent on the night."
+   ],
+   "impact": "A centre-back with Vidić's profile who scores, a creator with Dembélé's profile who supplies the assist: Turkey had the ingredients for an upset. They lacked a final touch, and a little luck on the own goal."
+  }
+ }
+}

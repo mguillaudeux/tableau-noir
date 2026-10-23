@@ -1,0 +1,196 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un quart de finale qui démarre à toute allure et finit au bout de la nuit. R. Lewandowski ouvre le score dès la 2e minute, Renato Sanches égalise à la 33e d'une frappe qui ne valait que 0,04 xG, puis plus rien pendant près d'une heure et demie, prolongation comprise. Le Portugal tire 19 fois contre 13 et pèse 1,12 xG contre 0,87, mais aucune des deux équipes ne s'offre la moindre grosse occasion. Il faut les tirs au but pour départager tout le monde : 5 à 3 pour le Portugal.",
+   "keys": [
+    "Grosses occasions : 0 de chaque côté en 120 minutes. Un match verrouillé.",
+    "Renato Sanches tente 4 tirs pour 0,13 xG, et marque avec le moins probable de tous.",
+    "La meilleure occasion manquée est polonaise : A. Milik, une frappe cadrée à 0,23 xG à la 69e minute.",
+    "Côté portugais, Cristiano Ronaldo et Nani manquent tous les deux le cadre à la 10e minute (0,17 et 0,15 xG)."
+   ],
+   "impact": "Avec 0,25 xG d'écart en 120 minutes, aucune des deux équipes ne méritait vraiment de sortir. La Pologne, déjà qualifiée aux tirs au but contre la Suisse en huitième, a cette fois perdu à ce jeu-là."
+  },
+  "en": {
+   "lead": "A quarter-final that starts at full speed and ends deep into the night. R. Lewandowski scores as early as minute 2, Renato Sanches equalises in minute 33 with a shot worth just 0.04 xG, and then nothing for almost an hour and a half, extra time included. Portugal shoot 19 times to 13 and are worth 1.12 xG to 0.87, but neither side creates a single big chance. Penalties are needed to separate them: 5-3 to Portugal.",
+   "keys": [
+    "Big chances: 0 on each side in 120 minutes. A locked-down match.",
+    "Renato Sanches takes 4 shots for 0.13 xG, and scores with the least likely of them.",
+    "The best missed chance is Polish: A. Milik, an on-target shot worth 0.23 xG in minute 69.",
+    "For Portugal, Cristiano Ronaldo and Nani both miss the target in minute 10 (0.17 and 0.15 xG)."
+   ],
+   "impact": "With a 0.25 xG gap over 120 minutes, neither side truly deserved to go out. Poland, who had already come through on penalties against Switzerland in the round of 16, lost that lottery this time."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le Portugal attaque avec un dispositif étonnant : un 3-2-5 où les deux latéraux, Eliseu (65 m, collé à la ligne gauche) et Cédric Soares (70 m), montent aussi haut que les attaquants. Au centre, Adrien Silva, Renato Sanches, Nani, Cristiano Ronaldo et João Mário sont tous regroupés entre 25 et 30 m de largeur. La Pologne répond par un 4-2-4 très sage, avec G. Krychowiak et K. Mączyński côte à côte, à 38 et 39 m seulement de leur but. Sans le ballon, elle se resserre en 4-3-2-1.",
+   "keys": [
+    "Le Portugal joue 41 % de ses touches dans le dernier tiers, la Pologne seulement 20 %.",
+    "La Pologne passe 35 % de ses touches dans son propre tiers : une équipe qui attendait.",
+    "Côté polonais, Ł. Piszczek est le latéral le plus offensif (64 m), sur le côté droit.",
+    "Le Portugal se sert de ses couloirs : 25 % des touches à gauche, 22 % à droite."
+   ],
+   "impact": "Les latéraux portugais ont donné la largeur, les milieux se sont entassés au centre, et la Pologne a reculé. Mais un bloc bas bien en place n'a pas laissé de grosse occasion, et le match a filé vers les tirs au but."
+  },
+  "en": {
+   "lead": "Portugal attack with a surprising set-up: a 3-2-5 where both full-backs, Eliseu (65 m, hugging the left touchline) and Cédric Soares (70 m), push up as high as the forwards. In the middle, Adrien Silva, Renato Sanches, Nani, Cristiano Ronaldo and João Mário are all bunched between 25 and 30 m across. Poland respond with a very cautious 4-2-4, with G. Krychowiak and K. Mączyński side by side, just 38 and 39 m from their goal. Out of possession they tighten into a 4-3-2-1.",
+   "keys": [
+    "Portugal play 41% of their touches in the final third, Poland only 20%.",
+    "Poland spend 35% of their touches in their own third: a team that was waiting.",
+    "For Poland, Ł. Piszczek is the most attacking full-back (64 m), on the right.",
+    "Portugal use their flanks: 25% of touches on the left, 22% on the right."
+   ],
+   "impact": "Portugal's full-backs provided the width, the midfielders crowded the centre, and Poland retreated. But a well-organised deep block conceded no big chance, and the match drifted towards penalties."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression dans les données Wyscout, on lit le pressing par les tacles, interceptions et fautes. Et la Pologne a beaucoup défendu : 170 actions défensives, 4,1 par minute sans ballon (moyenne du tournoi : 3,6), et 66 interceptions. Mais elle défend bas, à 35,9 m de son but, avec seulement 3 récupérations hautes. Le Portugal, lui, mord plus haut : 13 récupérations hautes.",
+   "keys": [
+    "PPDA de 6,0 pour la Pologne, 8,2 pour le Portugal : les Polonais laissaient moins de passes avant d'intervenir.",
+    "13 récupérations hautes portugaises contre 3 : quand le Portugal récupérait, c'était près du but adverse.",
+    "Après une perte, le Portugal récupère 44 % de ses ballons en moins de 10 secondes, la Pologne 37 %.",
+    "Les deux équipes perdent beaucoup de ballons dans le jeu : 81 pour le Portugal, 76 pour la Pologne."
+   ],
+   "impact": "Le pressing polonais a été intense mais placé bas, ce qui a protégé sa surface sans jamais menacer celle d'en face. Le Portugal a récupéré plus haut, sans pour autant transformer ces ballons en grosses occasions."
+  },
+  "en": {
+   "lead": "With no pressure events in Wyscout data, the press is read through tackles, interceptions and fouls. And Poland defended a lot: 170 defensive actions, 4.1 per minute out of possession (tournament average: 3.6), and 66 interceptions. But they defended deep, 35.9 m from their goal, with only 3 high regains. Portugal bit higher up: 13 high regains.",
+   "keys": [
+    "PPDA of 6.0 for Poland, 8.2 for Portugal: the Poles allowed fewer passes before stepping in.",
+    "13 Portuguese high regains to 3: when Portugal won the ball, it was close to the opposition goal.",
+    "After a loss Portugal win the ball back within 10 seconds 44% of the time, Poland 37%.",
+    "Both teams lose plenty of balls in open play: 81 for Portugal, 76 for Poland."
+   ],
+   "impact": "Poland's press was intense but set deep, which protected their own box without ever threatening the other one. Portugal won the ball higher, without turning those regains into big chances."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Deux réseaux, deux centres de gravité. Celui du Portugal (+0,71, 3e équipe la plus relationniste du tournoi) tourne autour d'un seul homme : Renato Sanches, impliqué dans 112 passes et présent dans les trois liens les plus utilisés de son équipe. Celui de la Pologne (−0,33) passe par G. Krychowiak, au cœur de 168 passes, et par la défense. Le lien le plus actif du match, Krychowiak – M. Pazdan (44 passes), est polonais et part de très bas.",
+   "keys": [
+    "Renato Sanches – William Carvalho (23 passes), Renato Sanches – Cédric Soares (22), Renato Sanches – Eliseu (20) : tout passait par lui.",
+    "Côté polonais, K. Glik – Krychowiak (37 passes) complète l'axe de relance.",
+    "Le Portugal laisse plus de liberté latérale à ses joueurs : 14,5 m, contre 11,1 m pour la Pologne (moyenne du tournoi : 12,6 m).",
+    "Passes courtes : 47 % pour le Portugal, 45 % pour la Pologne, toutes deux au-dessus de la moyenne (42 %)."
+   ],
+   "impact": "Le jeu portugais avait un chef d'orchestre, et c'est lui qui a égalisé. La Pologne, plus structurée, a fait tourner le ballon derrière sans réussir à le faire arriver devant."
+  },
+  "en": {
+   "lead": "Two networks, two centres of gravity. Portugal's (+0.71, the 3rd most relational team of the tournament) revolves around one man: Renato Sanches, involved in 112 passes and part of his team's three busiest links. Poland's (−0.33) runs through G. Krychowiak, at the heart of 168 passes, and through the defence. The busiest link of the match, Krychowiak – M. Pazdan (44 passes), is Polish and starts very deep.",
+   "keys": [
+    "Renato Sanches – William Carvalho (23 passes), Renato Sanches – Cédric Soares (22), Renato Sanches – Eliseu (20): everything went through him.",
+    "For Poland, K. Glik – Krychowiak (37 passes) completes the build-up axis.",
+    "Portugal give their players more lateral freedom: 14.5 m, against 11.1 m for Poland (tournament average: 12.6 m).",
+    "Short passes: 47% for Portugal, 45% for Poland, both above the average (42%)."
+   ],
+   "impact": "Portugal's game had a conductor, and he was the one who equalised. Poland, more structured, moved the ball around at the back without managing to get it forward."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Peu de transitions dans ce quart de finale, et aucune décisive. La Pologne concède 3 tirs dans les 15 secondes suivant une perte (0,14 xG), le Portugal 2 (0,16 xG) : des chiffres proches de la moyenne du tournoi (1,6 tir, 0,13 xG). Aucun des deux buts n'est venu d'une contre-attaque.",
+   "keys": [
+    "Le Portugal perd 81 ballons dans le jeu et n'en paie que 0,16 xG en transition.",
+    "La Pologne, avec 76 pertes, concède un tir de plus mais pour moins de danger (0,14 xG).",
+    "Les deux équipes ont fait preuve de la même prudence : jamais plus de 3 tirs concédés en transition en 120 minutes."
+   ],
+   "impact": "Ni l'une ni l'autre n'a laissé de boulevard après ses pertes, ce qui explique en partie un match aussi fermé. Quand personne ne se fait surprendre, ce sont souvent les tirs au but qui tranchent."
+  },
+  "en": {
+   "lead": "Few transitions in this quarter-final, and none decisive. Poland concede 3 shots within 15 seconds of a loss (0.14 xG), Portugal 2 (0.16 xG): numbers close to the tournament average (1.6 shots, 0.13 xG). Neither goal came from a counter-attack.",
+   "keys": [
+    "Portugal lose 81 balls in open play and pay only 0.16 xG for it in transition.",
+    "Poland, with 76 losses, concede one more shot but less danger (0.14 xG).",
+    "Both teams showed the same caution: never more than 3 shots conceded in transition in 120 minutes."
+   ],
+   "impact": "Neither side left an open road after losing the ball, which partly explains such a closed match. When nobody gets caught out, penalties often decide."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Le plus surveillé du match est K. Grosicki, à +1,99 : sur son côté gauche, les Portugais ne le lâchaient pas. Derrière lui, trois Portugais : Cristiano Ronaldo (+0,88), Renato Sanches (+0,85) et Nani (+0,8). Lewandowski, lui, ne vient qu'ensuite (+0,62).",
+   "keys": [
+    "Grosicki est aussi l'auteur d'une passe décisive dans ce match : il fallait le surveiller.",
+    "Ł. Piszczek (+0,6) complète le trio polonais : le jeu passait par les côtés.",
+    "Pepe (−0,38), Cédric Soares et João Moutinho (−0,41 chacun) ont été laissés tranquilles.",
+    "Sur le tournoi, le plus gros aimant reste K. Lafferty (+4,09)."
+   ],
+   "impact": "Le Portugal a concentré son attention sur Grosicki, et Grosicki est sorti après 82 minutes de jeu sans nouvelle action décisive. On peut y voir l'une des raisons pour lesquelles la Pologne n'a plus marqué après la 2e minute."
+  },
+  "en": {
+   "lead": "Without 360 data this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. The most watched player is K. Grosicki, at +1.99: down his left side, Portugal never let him go. Behind him come three Portuguese: Cristiano Ronaldo (+0.88), Renato Sanches (+0.85) and Nani (+0.8). Lewandowski only comes after them (+0.62).",
+   "keys": [
+    "Grosicki also provided an assist in this match: he needed watching.",
+    "Ł. Piszczek (+0.6) completes the Polish trio: their game went through the flanks.",
+    "Pepe (−0.38), Cédric Soares and João Moutinho (−0.41 each) were left alone.",
+    "Across the tournament, the biggest magnet remains K. Lafferty (+4.09)."
+   ],
+   "impact": "Portugal focused their attention on Grosicki, and Grosicki went off after 82 minutes without another decisive contribution. That may be one reason Poland never scored again after minute 2."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le premier créateur du match est un latéral gauche : Eliseu, 0,8 xT à lui seul, soit 35 % de toute la menace portugaise. Il signe aussi le geste le plus menaçant de la soirée, une passe de 78 à 101 m à la 92e minute (+0,37 xT). Au total, le Portugal crée 2,31 xT contre 1,69. Et c'est en prolongation qu'il a le plus poussé : 0,99 xT, plus que dans chacune des deux mi-temps.",
+   "keys": [
+    "Côté polonais, le créateur s'appelle Ł. Piszczek (0,4 xT, 24 % de la menace de son équipe), avec la passe la plus dangereuse polonaise à la 118e minute (+0,14 xT).",
+    "En prolongation, la Pologne tombe à 0,4 xT : elle a laissé l'initiative.",
+    "Cédric Soares (0,45 xT) est le deuxième créateur portugais : les deux latéraux font plus de la moitié de la menace de l'équipe.",
+    "Le geste de K. Grosicki à la 2e minute (+0,13 xT) figure parmi les plus menaçants polonais : la minute du but de Lewandowski."
+   ],
+   "impact": "Le Portugal a fini plus fort, porté par ses latéraux, mais sans trouver la faille en prolongation. Il s'est qualifié aux tirs au but après avoir été l'équipe la plus menaçante de la dernière demi-heure."
+  },
+  "en": {
+   "lead": "The top creator of the match is a left-back: Eliseu, 0.8 xT on his own, 35% of all of Portugal's threat. He also produces the most threatening action of the evening, a pass from 78 to 101 m in minute 92 (+0.37 xT). In total Portugal create 2.31 xT to 1.69. And extra time is when they pushed hardest: 0.99 xT, more than in either half.",
+   "keys": [
+    "For Poland the creator is Ł. Piszczek (0.4 xT, 24% of his team's threat), with Poland's most dangerous pass in minute 118 (+0.14 xT).",
+    "In extra time Poland drop to 0.4 xT: they gave up the initiative.",
+    "Cédric Soares (0.45 xT) is Portugal's second creator: the two full-backs account for more than half of the team's threat.",
+    "K. Grosicki's action in minute 2 (+0.13 xT) is among Poland's most threatening: the minute of Lewandowski's goal."
+   ],
+   "impact": "Portugal finished stronger, driven by their full-backs, but without finding a way through in extra time. They went through on penalties after being the more threatening side in the last half-hour."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le duel de gardiens valait le détour, selon nos classements du tournoi. Ł. Fabiański est 2e des 24 gardiens (note de 73), Rui Patrício 6e, avec 720 minutes jouées. Chez les joueurs de champ, le Portugal aligne Pepe, 4e des 33 défenseurs centraux, et William Carvalho, 8e des 90 milieux. Cristiano Ronaldo, lui, est 7e des 46 attaquants avec 3 buts et 1 passe décisive.",
+   "keys": [
+    "G. Krychowiak, le carrefour polonais, se classe 21e des milieux.",
+    "A. Milik est 14e des attaquants, avec 1 but et 1 passe décisive en 510 minutes.",
+    "Ricardo Quaresma (11e des attaquants) est mieux classé que Milik, en seulement 286 minutes.",
+    "Eliseu, le grand créateur du soir, n'est que 19e des 67 latéraux, avec 210 minutes jouées."
+   ],
+   "impact": "Deux bons gardiens, une charnière portugaise bien classée : les classements annonçaient un match serré, et il l'a été pendant 120 minutes. Les tirs au but ont tranché ce que le jeu n'avait pas su départager."
+  },
+  "en": {
+   "lead": "The goalkeeping duel was worth watching, according to our tournament rankings. Ł. Fabiański is 2nd of 24 goalkeepers (score of 73), Rui Patrício 6th, with 720 minutes played. Among outfield players Portugal field Pepe, 4th of 33 centre-backs, and William Carvalho, 8th of 90 midfielders. Cristiano Ronaldo is 7th of 46 forwards with 3 goals and 1 assist.",
+   "keys": [
+    "G. Krychowiak, Poland's hub, ranks 21st among midfielders.",
+    "A. Milik is 14th among forwards, with 1 goal and 1 assist in 510 minutes.",
+    "Ricardo Quaresma (11th among forwards) is ranked above Milik, in only 286 minutes.",
+    "Eliseu, the creator of the evening, is only 19th of 67 full-backs, with 210 minutes played."
+   ],
+   "impact": "Two good goalkeepers, a highly ranked Portuguese centre-back: the rankings pointed to a tight match, and it stayed tight for 120 minutes. Penalties settled what the football could not."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Clin d'œil du destin : le jumeau statistique d'A. Milik est Cristiano Ronaldo, version Coupe du monde 2022, à 97 %. À égalité avec Wahbi Khazri. Et le Ronaldo de ce soir-là ? Il ressemble d'abord à Kai Havertz à l'Euro 2024 (92 %), puis à A. Griezmann et H. Kane à ce même Euro 2016 (90 % chacun).",
+   "keys": [
+    "Eliseu, le latéral créateur, a pour jumeau Joshua Kimmich à l'Euro 2020 (93 %).",
+    "G. Krychowiak ressemble à Youri Tielemans (94 %), puis à Amadou Onana (92 %).",
+    "Les deux gardiens ont des jumeaux prestigieux : Fabiański ressemble à Petr Čech en finale de Ligue des champions (93 %), Rui Patrício à Mike Maignan (95 %)."
+   ],
+   "impact": "Un attaquant polonais au profil de Ronaldo face au vrai Ronaldo, deux gardiens au profil de grands noms : ce quart de finale opposait des profils très proches. Pas étonnant qu'il ait fallu les tirs au but pour les séparer."
+  },
+  "en": {
+   "lead": "A wink from fate: A. Milik's statistical twin is Cristiano Ronaldo, 2022 World Cup version, at 97%. Level with Wahbi Khazri. And the Ronaldo of that night? He first resembles Kai Havertz at Euro 2024 (92%), then A. Griezmann and H. Kane at this same Euro 2016 (90% each).",
+   "keys": [
+    "Eliseu, the creative full-back, has Joshua Kimmich at Euro 2020 as his twin (93%).",
+    "G. Krychowiak resembles Youri Tielemans (94%), then Amadou Onana (92%).",
+    "Both goalkeepers have prestigious twins: Fabiański resembles Petr Čech in a Champions League final (93%), Rui Patrício resembles Mike Maignan (95%)."
+   ],
+   "impact": "A Polish striker with a Ronaldo profile facing the real Ronaldo, two goalkeepers with big-name profiles: this quarter-final pitted very similar profiles against each other. No wonder it took penalties to separate them."
+  }
+ }
+}

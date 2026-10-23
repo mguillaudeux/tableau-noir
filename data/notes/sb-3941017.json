@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Deux tirs cadrés en 120 minutes, deux buts : l'Angleterre s'est qualifiée avec le strict minimum. Pendant longtemps, ce huitième de finale appartenait à la Slovaquie, devant depuis la 25e minute grâce à Ivan Schranz (0,53 xG). Puis tout bascule en quelques minutes, avec deux buts anglais à la 91e (Harry Kane) et à la 95e (Jude Bellingham). Sur l'ensemble du match, les xG sont presque identiques : 1,59 contre 1,55.",
+   "keys": [
+    "L'Angleterre tire 16 fois et n'en cadre que 2 : ses deux seuls tirs cadrés sont ses deux buts.",
+    "La Slovaquie se crée 2 grosses occasions contre 1 pour l'Angleterre, avec seulement 34 % de possession.",
+    "La plus grosse occasion manquée tombe en prolongation, à la 105e minute : Peter Pekarík, une frappe à 0,51 xG, à côté.",
+    "Kane tente 5 tirs pour 0,94 xG ; deux de ses occasions de la 78e et de la 81e minute passent à côté."
+   ],
+   "impact": "Un match à pile ou face, au sens propre : 0,04 xG d'écart, et une Slovaquie qui a mené pendant presque tout le temps réglementaire. L'Angleterre a survécu parce que ses deux seuls tirs cadrés sont rentrés, et parce que l'occasion de Pekarík, en prolongation, n'a pas trouvé le cadre."
+  },
+  "en": {
+   "lead": "Two shots on target in 120 minutes, two goals: England went through with the bare minimum. For a long time this round of 16 tie belonged to Slovakia, ahead since minute 25 thanks to Ivan Schranz (0.53 xG). Then it all turned within a few minutes, with two English goals in minute 91 (Harry Kane) and minute 95 (Jude Bellingham). Over the whole match the xG are almost identical: 1.59 to 1.55.",
+   "keys": [
+    "England shoot 16 times and put only 2 on target: their only two shots on target are their two goals.",
+    "Slovakia create 2 big chances to England's 1, with just 34% possession.",
+    "The biggest miss comes in extra time, in minute 105: Peter Pekarík, a 0.51 xG shot, wide.",
+    "Kane attempts 5 shots worth 0.94 xG; two of his chances, in minutes 78 and 81, go wide."
+   ],
+   "impact": "A coin-toss match in the truest sense: a 0.04 xG gap, and a Slovakia who led for almost all of normal time. England survived because their only two shots on target went in, and because Pekarík's extra-time chance missed the target."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Angleterre annonçait un 4-2-3-1 et a attaqué en 3-4-3 : Walker se replie en troisième central à droite (44 m), Trippier monte en piston gauche, à 4 m de la ligne. Devant, Foden et Bellingham à 72 m, Kane en pointe à 77 m. La Slovaquie, annoncée en 4-3-3, s'aligne en 4-4-2 avec le ballon et en 3-2-4-1 sans, avec deux ailiers hauts : Schranz et Haraslín, tous deux à 66 m.",
+   "keys": [
+    "L'Angleterre répartit ses touches presque à égalité : 20 % à gauche, 18 % à droite, 26 % dans l'axe.",
+    "Elle passe 30 % de ses touches dans son propre tiers : beaucoup de circulation derrière.",
+    "La Slovaquie penche à gauche : 22 % de ses touches dans le couloir gauche et 21 % dans le demi-espace gauche.",
+    "Les deux blocs se ressemblent : 32,0 m et 32,3 m de largeur avec le ballon, 44,4 m et 43,2 m pour la dernière ligne."
+   ],
+   "impact": "Deux équipes construites de la même façon, avec des blocs presque identiques : rien d'étonnant à ce que le match soit resté aussi serré. L'Angleterre a eu le ballon, mais sans parvenir à installer durablement sa ligne d'attaque dans la surface slovaque."
+  },
+  "en": {
+   "lead": "England announced a 4-2-3-1 and attacked in a 3-4-3: Walker tucks in as a third centre-back on the right (44 m), Trippier pushes up as a left wing-back, 4 m from the line. Up front, Foden and Bellingham at 72 m, Kane leading the line at 77 m. Slovakia, announced in a 4-3-3, line up in a 4-4-2 with the ball and a 3-2-4-1 without it, with two high wingers: Schranz and Haraslín, both at 66 m.",
+   "keys": [
+    "England spread their touches almost evenly: 20% left, 18% right, 26% through the middle.",
+    "They make 30% of their touches in their own third: lots of circulation at the back.",
+    "Slovakia lean left: 22% of their touches in the left lane and 21% in the left half-space.",
+    "The two blocks look alike: 32.0 m and 32.3 m wide in possession, 44.4 m and 43.2 m for the back line."
+   ],
+   "impact": "Two teams built the same way, with almost identical blocks: no wonder the match stayed so tight. England had the ball, but never managed to settle their front line in Slovakia's box for long."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "L'Angleterre a pressé haut et réagi vite : actions défensives à 55,5 m de son but en moyenne, bien au-dessus de la moyenne de l'Euro (48,8 m), et 26 % de contre-pressing. La Slovaquie, elle, a laissé le ballon (PPDA de 25,9) mais l'a repris très vite quand elle le perdait : 42 % de récupérations en moins de 5 secondes, loin au-dessus de la moyenne (30 %).",
+   "keys": [
+    "L'Angleterre perd 127 ballons dans le jeu, contre 100 pour la Slovaquie : beaucoup de possession, beaucoup de pertes.",
+    "Récupérations hautes : 11 pour l'Angleterre, 7 pour la Slovaquie.",
+    "La Slovaquie ne presse qu'à 3,2 par minute sans ballon, mais compte quand même 197 pressions sur l'ensemble du match.",
+    "L'Angleterre récupère 57 % de ses ballons perdus en moins de 10 secondes."
+   ],
+   "impact": "Le pressing anglais a donné à l'Angleterre la maîtrise territoriale, mais la réaction slovaque à la perte a empêché les Anglais de transformer cette domination en occasions franches. Pendant 90 minutes, ce mur s'est révélé presque infranchissable."
+  },
+  "en": {
+   "lead": "England pressed high and reacted quickly: defensive actions 55.5 m from their goal on average, well above the Euro average (48.8 m), and 26% counter-pressing. Slovakia gave up the ball (PPDA of 25.9) but won it back very fast when they lost it: 42% of balls regained within 5 seconds, far above the average (30%).",
+   "keys": [
+    "England lose 127 balls in open play, against 100 for Slovakia: plenty of possession, plenty of losses.",
+    "High regains: 11 for England, 7 for Slovakia.",
+    "Slovakia press at only 3.2 per minute out of possession, yet still log 197 pressures over the match.",
+    "England win back 57% of their lost balls within 10 seconds."
+   ],
+   "impact": "England's press gave them territorial control, but Slovakia's reaction to losing the ball stopped England turning that dominance into clear chances. For 90 minutes that wall proved almost impenetrable."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le réseau anglais ressemble à une partie de tennis entre défenseurs. John Stones est impliqué dans 230 passes, Marc Guehi dans 197, et le lien le plus utilisé est Stones – Guehi, 65 passes. Puis viennent Walker – Stones (53) et Stones – Pickford (41). L'Angleterre (−0,10, 12e de l'Euro) a fait tourner, beaucoup, mais loin du but adverse.",
+   "keys": [
+    "Declan Rice est le seul milieu parmi les trois carrefours anglais, avec 145 passes.",
+    "Les Anglais affichent une grande liberté latérale : 14,5 m, au-dessus de la moyenne de l'Euro (12,8 m).",
+    "La Slovaquie joue plus court : 63 % de passes courtes, contre 50 % pour l'Angleterre.",
+    "Le cœur slovaque est Škriniar – Lobotka, 23 passes, le duo le plus actif de son équipe."
+   ],
+   "impact": "L'Angleterre a eu le ballon, mais ses carrefours étaient ses centraux et son gardien : beaucoup de passes pour peu de progression. Ce n'est sans doute pas un hasard si le danger anglais n'est vraiment arrivé qu'en fin de match."
+  },
+  "en": {
+   "lead": "England's network looks like a tennis rally between defenders. John Stones is involved in 230 passes, Marc Guehi in 197, and the busiest link is Stones – Guehi, 65 passes. Then come Walker – Stones (53) and Stones – Pickford (41). England (−0.10, 12th at the Euro) circulated a lot, but far from the opposition goal.",
+   "keys": [
+    "Declan Rice is the only midfielder among England's three hubs, with 145 passes.",
+    "England show great lateral freedom: 14.5 m, above the Euro average (12.8 m).",
+    "Slovakia play shorter: 63% short passes against 50% for England.",
+    "Slovakia's heart is Škriniar – Lobotka, 23 passes, their busiest pair."
+   ],
+   "impact": "England had the ball, but their hubs were their centre-backs and goalkeeper: lots of passes for little progress. It is probably no coincidence that England's real danger only arrived at the very end."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Personne n'a contré personne. La Slovaquie ne concède aucun tir dans les 15 secondes suivant une perte, 0 xG. L'Angleterre en concède un seul, pour 0,02 xG, loin de la moyenne de l'Euro (0,23). Aucun but n'est venu d'une transition : ce match s'est joué face à des défenses en place.",
+   "keys": [
+    "La Slovaquie perd le ballon avec 6,5 joueurs derrière lui en moyenne : un bloc toujours prêt.",
+    "Elle reforme un bloc de 7 joueurs ou plus dans 52 % des cas, au-dessus de la moyenne de l'Euro (36 %).",
+    "L'Angleterre perd le ballon avec 4,7 joueurs derrière lui, mais en remet 6,0 six à dix secondes après.",
+    "Exemple 360 à la 57e minute : 2 Anglais derrière le ballon à la perte, 8 quelques secondes plus tard."
+   ],
+   "impact": "Sans transitions pour faire la différence, les deux équipes ont dû forcer des blocs bien en place, et c'est pourquoi les occasions sont restées rares. La Slovaquie a défendu en nombre jusqu'au bout, et l'Angleterre a dû attendre les toutes dernières minutes pour la percer."
+  },
+  "en": {
+   "lead": "Nobody countered anybody. Slovakia concede no shots within 15 seconds of losing the ball, 0 xG. England concede just one, worth 0.02 xG, far from the Euro average (0.23). No goal came from a transition: this match was played against set defences.",
+   "keys": [
+    "Slovakia lose the ball with 6.5 players behind it on average: a block always ready.",
+    "They rebuild a block of 7 or more players in 52% of cases, above the Euro average (36%).",
+    "England lose the ball with 4.7 players behind it but get 6.0 back six to ten seconds later.",
+    "A 360 example in minute 57: 2 English players behind the ball at the loss, 8 a few seconds later."
+   ],
+   "impact": "With no transitions to make the difference, both teams had to break down well-set blocks, which is why chances stayed rare. Slovakia defended in numbers to the end, and England had to wait until the very last minutes to break through."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Ivan Toney n'a joué que 31 minutes, mais il a aimanté la défense slovaque comme personne : 1,87 adversaire de plus que la normale autour de chacune de ses touches. C'est bien plus que la meilleure valeur de tout l'Euro sur l'ensemble du tournoi (Denis Dragus, 1,22). Harry Kane suit avec 1,02 : les deux avant-centres anglais étaient entourés à chaque ballon.",
+   "keys": [
+    "Côté slovaque, Róbert Boženík attire le plus (0,95), devant László Bénes (0,72) et Juraj Kucka (0,71).",
+    "Jude Bellingham (0,69) complète le trio anglais.",
+    "Les plus tranquilles : Gyömbér (−0,87), Trippier (−0,67) et Škriniar (−0,64).",
+    "Toney délivre aussi la passe décisive anglaise du match, en plus de sa gravité."
+   ],
+   "impact": "La présence de Toney a densifié la surface slovaque, et c'est dans cette dernière demi-heure que l'Angleterre a trouvé ses deux buts. On peut y voir l'effet d'un deuxième avant-centre qui oblige la défense à se partager."
+  },
+  "en": {
+   "lead": "Ivan Toney played only 31 minutes, but he pulled Slovakia's defence like nobody else: 1.87 extra opponents around each of his touches. That is far above the best figure of the whole Euro over the tournament (Denis Dragus, 1.22). Harry Kane follows with 1.02: both English centre-forwards were crowded on every ball.",
+   "keys": [
+    "For Slovakia, Róbert Boženík draws the most (0.95), ahead of László Bénes (0.72) and Juraj Kucka (0.71).",
+    "Jude Bellingham (0.69) completes the English trio.",
+    "The quietest players: Gyömbér (−0.87), Trippier (−0.67) and Škriniar (−0.64).",
+    "On top of his gravity, Toney also provides England's assist in the match."
+   ],
+   "impact": "Toney's presence crowded Slovakia's box, and it was in that last half-hour that England found both their goals. It may well be the effect of a second centre-forward forcing the defence to split its attention."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La Slovaquie a produit plus de menace en prolongation que pendant les deux mi-temps réunies : 1,11 xT après la 90e, contre 0,65 puis 0,24 avant. Le geste le plus menaçant de sa soirée arrive à la 105e minute, une passe de László Bénes (+0,33 xT), la minute même de la grosse occasion de Pekarík. Côté anglais, le meilleur créateur est Kieran Trippier (0,47 xT, 21 % de la menace de son équipe).",
+   "keys": [
+    "Le geste le plus menaçant de l'Angleterre est une passe d'Ivan Toney à la 91e minute (+0,27 xT), la minute du but de Kane.",
+    "Toney produit 0,30 xT en 31 minutes, presque autant que Bellingham en 121 minutes (0,28).",
+    "La conduite de Schranz à la 25e minute (+0,28 xT) précède son but, la même minute.",
+    "Au total, l'Angleterre crée 2,24 xT et la Slovaquie 2,00 : un match très équilibré."
+   ],
+   "impact": "La Slovaquie a terminé plus forte, avec une prolongation pleine de menace, mais elle n'a pas marqué. L'Angleterre, plus régulière (0,83, 0,92 puis 0,49 xT), a profité des gestes décisifs de Toney et Bellingham au bon moment."
+  },
+  "en": {
+   "lead": "Slovakia produced more threat in extra time than in both halves combined: 1.11 xT after minute 90, against 0.65 and then 0.24 before. Their most threatening action of the night comes in minute 105, a László Bénes pass (+0.33 xT), the very minute of Pekarík's big chance. For England, the best creator is Kieran Trippier (0.47 xT, 21% of his team's threat).",
+   "keys": [
+    "England's most threatening action is an Ivan Toney pass in minute 91 (+0.27 xT), the minute of Kane's goal.",
+    "Toney produces 0.30 xT in 31 minutes, almost as much as Bellingham in 121 minutes (0.28).",
+    "Schranz's carry in minute 25 (+0.28 xT) comes just before his goal, in the same minute.",
+    "Overall England create 2.24 xT and Slovakia 2.00: a very balanced match."
+   ],
+   "impact": "Slovakia finished stronger, with an extra time full of threat, but did not score. England, more consistent (0.83, 0.92 then 0.49 xT), got the decisive touches from Toney and Bellingham at the right moment."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Un huitième de finale sans star des classements : le joueur le mieux classé du match est Slovaque, Lukáš Haraslín, 12e des 49 attaquants de l'Euro. Côté anglais, les grands noms sont loin : Harry Kane n'est que 29e des attaquants, malgré 3 buts, et Jude Bellingham 46e des 82 milieux, avec 2 buts et 1 passe décisive.",
+   "keys": [
+    "John Stones est 18e des 30 défenseurs centraux, Jordan Pickford 14e des 24 gardiens.",
+    "Kieran Trippier est le premier Anglais du classement, 25e des 78 latéraux.",
+    "Stanislav Lobotka est 26e des milieux, Declan Rice 34e.",
+    "David Strelec est 20e des attaquants en seulement 195 minutes, avec 1 passe décisive."
+   ],
+   "impact": "Les classements confirment ce que le match a montré : deux équipes de niveau proche, sans joueur dominant. Dans ce genre de match, ce sont souvent les gestes isolés qui décident, et ceux de Kane et Bellingham sont arrivés au bon moment."
+  },
+  "en": {
+   "lead": "A round of 16 tie with no ranking stars: the best-ranked player of the match is Slovak, Lukáš Haraslín, 12th of the Euro's 49 forwards. For England, the big names sit far down: Harry Kane is only 29th among forwards despite 3 goals, and Jude Bellingham 46th of 82 midfielders, with 2 goals and 1 assist.",
+   "keys": [
+    "John Stones is 18th of 30 centre-backs, Jordan Pickford 14th of 24 goalkeepers.",
+    "Kieran Trippier is England's highest entry, 25th of 78 full-backs.",
+    "Stanislav Lobotka is 26th among midfielders, Declan Rice 34th.",
+    "David Strelec is 20th among forwards in only 195 minutes, with 1 assist."
+   ],
+   "impact": "The rankings confirm what the match showed: two teams of similar level, with no dominant player. In games like this, isolated moments often decide, and Kane's and Bellingham's arrived at the right time."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Jude Bellingham a trois jumeaux, tous Portugais : Bernardo Silva au Mondial 2018 (86 %), Renato Sanches à l'Euro 2016 (86 %) et João Mário (84 %). Des milieux qui portent le ballon et dribblent, ce que confirment ses 4 dribbles du soir. Côté slovaque, Stanislav Lobotka a pour jumeau... Declan Rice au Mondial 2022 (90 %), son adversaire direct.",
+   "keys": [
+    "John Stones ressemble à Robin Le Normand à l'Euro 2024 (96 %) et à Rúben Dias (95 %).",
+    "Lukáš Haraslín est le jumeau à 94 % de Cody Gakpo dans ce même Euro.",
+    "Jordan Pickford ressemble à Unai Simón et à Maarten Stekelenburg, à 94 % chacun.",
+    "David Strelec rappelle Artem Dzyuba au Mondial 2018 (91 %)."
+   ],
+   "impact": "Les jumeaux montrent deux équipes aux profils proches, jusqu'à leurs milieux défensifs. Dans un match aussi équilibré, c'est le profil le plus singulier, celui de Bellingham, qui a trouvé la faille."
+  },
+  "en": {
+   "lead": "Jude Bellingham has three twins, all Portuguese: Bernardo Silva at the 2018 World Cup (86%), Renato Sanches at Euro 2016 (86%) and João Mário (84%). Midfielders who carry the ball and dribble, as his 4 dribbles on the night confirm. For Slovakia, Stanislav Lobotka's twin is... Declan Rice at the 2022 World Cup (90%), his direct opponent.",
+   "keys": [
+    "John Stones resembles Robin Le Normand at Euro 2024 (96%) and Rúben Dias (95%).",
+    "Lukáš Haraslín is a 94% twin of Cody Gakpo at this same Euro.",
+    "Jordan Pickford resembles Unai Simón and Maarten Stekelenburg, 94% each.",
+    "David Strelec recalls Artem Dzyuba at the 2018 World Cup (91%)."
+   ],
+   "impact": "The twins show two teams with similar profiles, right down to their holding midfielders. In such a balanced match, it was the most singular profile, Bellingham's, that found the gap."
+  }
+ }
+}

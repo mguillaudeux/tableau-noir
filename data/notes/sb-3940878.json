@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Sur les xG, ce huitième de finale est un match nul presque parfait : 0,78 pour la Suisse, 0,73 pour l'Italie, 0,05 d'écart. Sur le tableau d'affichage, c'est 2-0 pour la Suisse. La différence tient en deux frappes modestes : Remo Freuler à la 37e minute (0,14 xG) et Ruben Vargas à la 46e (0,04 xG), le genre de tir qui ne rentre presque jamais.",
+   "keys": [
+    "La Suisse tire 16 fois mais ne cadre que 3 tirs ; elle en convertit 2.",
+    "L'Italie ne cadre qu'un seul tir sur 11 de toute la rencontre.",
+    "Ruben Vargas signe 1 but et 1 passe décisive en 71 minutes ; Michel Aebischer délivre l'autre passe décisive.",
+    "La plus grosse occasion manquée est italienne : Scamacca, à la 74e minute, une frappe à 0,31 xG hors cadre."
+   ],
+   "impact": "Le match était équilibré en occasions, pas en efficacité : la Suisse a cadré peu, mais juste. L'Italie, avec un seul tir cadré, n'a jamais vraiment mis Yann Sommer en difficulté, et c'est ce qui l'a sortie du tournoi."
+  },
+  "en": {
+   "lead": "On xG this round of 16 tie is an almost perfect draw: 0.78 for Switzerland, 0.73 for Italy, a 0.05 gap. On the scoreboard it is 2-0 to Switzerland. The difference lies in two modest strikes: Remo Freuler in minute 37 (0.14 xG) and Ruben Vargas in minute 46 (0.04 xG), the kind of shot that almost never goes in.",
+   "keys": [
+    "Switzerland shoot 16 times but put only 3 on target; they convert 2 of them.",
+    "Italy put just one shot on target out of 11 in the entire match.",
+    "Ruben Vargas delivers 1 goal and 1 assist in 71 minutes; Michel Aebischer provides the other assist.",
+    "The biggest miss is Italian: Scamacca, in minute 74, a 0.31 xG shot off target."
+   ],
+   "impact": "The match was even in chances, not in efficiency: Switzerland hit the target rarely but accurately. Italy, with a single shot on target, never really troubled Yann Sommer, and that is what sent them out of the tournament."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La Suisse annonçait un 3-4-2-1. Les positions moyennes montrent un 3-2-5 très offensif, avec un côté gauche chargé : Ruben Vargas à 82 m de son but et à 4 m de la ligne, Michel Aebischer à 74 m et 8 m, Ricardo Rodríguez derrière eux à 55 m. L'Italie, annoncée en 4-3-3, attaque en 3-5-2 avec une ligne arrière très haute : Bastoni à 52 m, Darmian à 54 m.",
+   "keys": [
+    "La Suisse fait 29 % de ses touches dans le couloir gauche, et seulement 13 % dans le couloir droit.",
+    "36 % des touches suisses ont lieu dans le dernier tiers : la Suisse a vécu dans le camp italien.",
+    "Avec le ballon, la dernière ligne italienne se tient à 48,1 m de son but, bien au-dessus de la moyenne de l'Euro (42,0 m).",
+    "Gianluca Scamacca, l'avant-centre italien, n'est qu'à 60 m de son but en moyenne, à la hauteur de Barella : il décrochait loin."
+   ],
+   "impact": "La Suisse a attaqué en surnombre sur sa gauche, et c'est ce côté qui a produit le plus de danger. L'Italie, avec une défense aussi haute et un attaquant qui décrochait, laissait de l'espace dans son dos sans avoir de vraie présence dans la surface adverse."
+  },
+  "en": {
+   "lead": "Switzerland announced a 3-4-2-1. The average positions show a very attacking 3-2-5, with a loaded left side: Ruben Vargas 82 m from his goal and 4 m from the line, Michel Aebischer at 74 m and 8 m, Ricardo Rodríguez behind them at 55 m. Italy, announced in a 4-3-3, attack in a 3-5-2 with a very high back line: Bastoni at 52 m, Darmian at 54 m.",
+   "keys": [
+    "Switzerland make 29% of their touches in the left lane, and only 13% in the right lane.",
+    "36% of Swiss touches happen in the final third: Switzerland lived in Italy's half.",
+    "In possession, Italy's back line sits 48.1 m from goal, well above the Euro average (42.0 m).",
+    "Gianluca Scamacca, Italy's centre-forward, averages only 60 m from his goal, level with Barella: he was dropping a long way."
+   ],
+   "impact": "Switzerland attacked with numbers on their left, and that side produced the most danger. Italy, with such a high defence and a centre-forward dropping off, left space behind them without having a real presence in the Swiss box."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Deux PPDA quasiment identiques, 20,2 pour la Suisse et 20,3 pour l'Italie : sur le papier, personne n'a pressé plus que l'autre. Mais la Suisse a pressé plus haut, et mieux. Ses actions défensives se font à 51,3 m de son but en moyenne, contre 45,0 m pour l'Italie, et elle compte 15 récupérations hautes, presque le double de la moyenne de l'Euro (8,6).",
+   "keys": [
+    "L'Italie presse davantage en volume : 152 pressions contre 128, 4,2 par minute sans ballon.",
+    "Mais son contre-pressing ne pèse que 14 % de ses pressions, sous la moyenne de l'Euro (19 %).",
+    "La Suisse récupère 33 % de ses ballons perdus en moins de 5 s, contre 30 % pour l'Italie.",
+    "Après une perte, l'Italie met plus de 20 secondes à récupérer le ballon dans 39 % des cas."
+   ],
+   "impact": "La Suisse a gagné le ballon haut, souvent, et c'est ce qui lui a permis de passer autant de temps dans le camp italien. L'Italie, elle, a beaucoup couru sans réussir à étouffer les sorties de balle suisses."
+  },
+  "en": {
+   "lead": "Two almost identical PPDAs, 20.2 for Switzerland and 20.3 for Italy: on paper, nobody pressed more than the other. But Switzerland pressed higher, and better. Their defensive actions happen 51.3 m from goal on average, against 45.0 m for Italy, and they log 15 high regains, almost double the Euro average (8.6).",
+   "keys": [
+    "Italy press more by volume: 152 pressures against 128, 4.2 per minute out of possession.",
+    "But their counter-press accounts for only 14% of their pressures, below the Euro average (19%).",
+    "Switzerland win back 33% of lost balls within 5 s, against 30% for Italy.",
+    "After a loss, Italy take more than 20 seconds to win the ball back in 39% of cases."
+   ],
+   "impact": "Switzerland won the ball high and often, which is what allowed them to spend so much time in Italy's half. Italy ran a lot without ever smothering Switzerland's build-up."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La Suisse joue en petits triangles, et l'un d'eux a dominé le match : Aebischer, Xhaka et Rodríguez. Aebischer – Xhaka (36 passes), Xhaka – Rodríguez (31), Aebischer – Rodríguez (25) : les trois liens les plus utilisés de l'équipe, tous sur le côté gauche. Au centre, Granit Xhaka, impliqué dans 164 passes, le chiffre le plus élevé du match.",
+   "keys": [
+    "La Suisse (+0,37) est la 4e équipe la plus relationniste de l'Euro, sur 24.",
+    "43 % de combinaisons rapides pour les Suisses, bien au-dessus de la moyenne de l'Euro (34 %).",
+    "L'Italie, pourtant 6e du tournoi, est positionniste ce soir-là : −0,57.",
+    "Les Italiens occupent 3,99 couloirs autour du ballon : une équipe étalée, avec Fagioli comme carrefour (141 passes)."
+   ],
+   "impact": "Le triangle suisse sur la gauche a tout porté : la circulation, la progression et, au bout, le danger. L'Italie, étirée sur toute la largeur et loin de son jeu habituel, n'a jamais trouvé de tels relais."
+  },
+  "en": {
+   "lead": "Switzerland play in little triangles, and one of them ran the match: Aebischer, Xhaka and Rodríguez. Aebischer – Xhaka (36 passes), Xhaka – Rodríguez (31), Aebischer – Rodríguez (25): the team's three busiest links, all on the left side. In the middle, Granit Xhaka, involved in 164 passes, the highest figure of the match.",
+   "keys": [
+    "Switzerland (+0.37) are the 4th most relational team of the Euro, out of 24.",
+    "43% quick combinations for the Swiss, well above the Euro average (34%).",
+    "Italy, 6th over the tournament, are positional on the night: −0.57.",
+    "The Italians occupy 3.99 lanes around the ball: a stretched team, with Fagioli as their hub (141 passes)."
+   ],
+   "impact": "The Swiss triangle on the left carried everything: circulation, progression and, ultimately, danger. Italy, stretched across the full width and far from their usual game, never found that kind of connection."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Ce huitième de finale n'a presque rien offert en transition : 2 tirs concédés de chaque côté dans les 15 secondes après une perte, pour 0,05 xG côté suisse et 0,07 côté italien. Et le chiffre qui impressionne est suisse : dans 71 % des cas, la Suisse reforme un bloc de 7 joueurs ou plus derrière le ballon, presque le double de la moyenne de l'Euro (36 %).",
+   "keys": [
+    "Les Suisses passent de 5,9 joueurs derrière le ballon à la perte à 7,3 six à dix secondes plus tard.",
+    "Exemple 360 à la 33e minute : 3 Suisses derrière le ballon à la perte, 10 quelques secondes plus tard.",
+    "L'Italie se replie bien aussi : de 5,8 à 6,9 joueurs, avec un bloc reformé dans 57 % des cas.",
+    "Exemple italien dès la 8e minute : 5 joueurs derrière le ballon à la perte, 10 juste après."
+   ],
+   "impact": "La Suisse a pu attaquer à cinq parce qu'elle revenait aussi vite. Ce repli collectif a privé l'Italie de son arme la plus simple, le contre, et l'a obligée à attaquer face à un bloc toujours en place."
+  },
+  "en": {
+   "lead": "This round of 16 tie offered almost nothing in transition: 2 shots conceded by each side within 15 seconds of a loss, worth 0.05 xG for Switzerland and 0.07 for Italy. And the impressive number is Swiss: in 71% of cases, Switzerland rebuild a block of 7 or more players behind the ball, almost double the Euro average (36%).",
+   "keys": [
+    "The Swiss go from 5.9 players behind the ball at the loss to 7.3 six to ten seconds later.",
+    "A 360 example in minute 33: 3 Swiss players behind the ball at the loss, 10 a few seconds later.",
+    "Italy recover well too: from 5.8 to 6.9 players, with a block rebuilt in 57% of cases.",
+    "An Italian example as early as minute 8: 5 players behind the ball at the loss, 10 just after."
+   ],
+   "impact": "Switzerland could attack with five because they came back just as quickly. That collective recovery took away Italy's simplest weapon, the counter, and forced them to attack a block that was always set."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Gianluca Scamacca est le 2e plus gros aimant de tout l'Euro (1,09 sur le tournoi), et ce soir-là il attire encore 0,96 Suisse de plus que la normale autour de chaque touche. Le problème, c'est qu'il touchait le ballon à 60 m de son but en moyenne : il aimantait des défenseurs loin de la surface. Côté suisse, Steven Zuber (0,79) et Fabian Rieder (0,71) sont les plus entourés.",
+   "keys": [
+    "Federico Chiesa attire 0,63 défenseur de plus que la normale : le principal danger italien était surveillé de près.",
+    "Breel Embolo (0,62) complète le trio suisse.",
+    "Les défenseurs italiens étaient laissés seuls : Mancini (−0,86), Darmian (−0,72) et Cambiaso (−0,71).",
+    "Nicolò Barella (0,48) est le seul milieu italien à attirer vraiment l'attention."
+   ],
+   "impact": "La Suisse a laissé les défenseurs italiens relancer et a concentré son attention sur Scamacca et Chiesa. Avec un avant-centre qui décrochait et un ailier toujours entouré, l'Italie n'a jamais trouvé d'espace dans la surface."
+  },
+  "en": {
+   "lead": "Gianluca Scamacca is the 2nd biggest magnet of the whole Euro (1.09 over the tournament), and on this night he still draws 0.96 extra Swiss players around each touch. The trouble is he touched the ball 60 m from his goal on average: he was pulling defenders far from the box. For Switzerland, Steven Zuber (0.79) and Fabian Rieder (0.71) are the most crowded.",
+   "keys": [
+    "Federico Chiesa draws 0.63 extra defenders: Italy's main danger man was closely watched.",
+    "Breel Embolo (0.62) completes the Swiss trio.",
+    "Italy's defenders were left alone: Mancini (−0.86), Darmian (−0.72) and Cambiaso (−0.71).",
+    "Nicolò Barella (0.48) is the only Italian midfielder to really draw attention."
+   ],
+   "impact": "Switzerland let Italy's defenders build and focused their attention on Scamacca and Chiesa. With a centre-forward dropping deep and a winger always surrounded, Italy never found space in the box."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Une mi-temps chacun, mais pas le même score. Avant la pause, la Suisse écrase tout : 1,17 xT contre 0,18 pour l'Italie. Après, l'Italie se réveille (1,08 xT) quand la Suisse s'éteint (0,33). Le problème pour l'Italie, c'est qu'à ce moment-là, le score était déjà de 2-0. Son meilleur créateur, Federico Chiesa, pèse à lui seul 41 % de sa menace (0,52 xT).",
+   "keys": [
+    "Le geste le plus menaçant du match est de Chiesa : une passe à la 85e minute (+0,37 xT), bien trop tard.",
+    "Une passe de Vargas à la 37e minute (+0,13 xT) coïncide avec le but de Freuler, la même minute.",
+    "Aebischer lance une passe de 63 à 93 m à la 24e (+0,10 xT), la minute de l'occasion d'Embolo.",
+    "Côté suisse, la menace est partagée : Xhaka et Embolo (0,24 xT chacun), Vargas (0,23)."
+   ],
+   "impact": "La Suisse a construit sa victoire en première mi-temps, quand elle produisait plus de six fois plus de menace que l'Italie. L'Italie a réagi trop tard et presque uniquement par Chiesa : une seule arme, facile à surveiller."
+  },
+  "en": {
+   "lead": "One half each, but not the same scoreline. Before the break Switzerland dominate everything: 1.17 xT against 0.18 for Italy. After it, Italy wake up (1.08 xT) while Switzerland fade (0.33). The problem for Italy is that by then the score was already 2-0. Their best creator, Federico Chiesa, accounts for 41% of their threat on his own (0.52 xT).",
+   "keys": [
+    "The most threatening action of the match belongs to Chiesa: a pass in minute 85 (+0.37 xT), far too late.",
+    "A Vargas pass in minute 37 (+0.13 xT) coincides with Freuler's goal, in the same minute.",
+    "Aebischer plays a pass from 63 to 93 m in minute 24 (+0.10 xT), the minute of Embolo's chance.",
+    "For Switzerland the threat is shared: Xhaka and Embolo (0.24 xT each), Vargas (0.23)."
+   ],
+   "impact": "Switzerland built their win in the first half, when they produced more than six times as much threat as Italy. Italy reacted too late and almost entirely through Chiesa: a single weapon, easy to watch."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur milieu de l'Euro 2024, selon nos classements, jouait ce match : Granit Xhaka, 1er sur 82, avec une note de 79. Sans but ni passe décisive sur le tournoi, il domine pourtant tout le monde par son volume et sa qualité de jeu. C'est lui qui a été au centre des possessions suisses, avec 164 passes.",
+   "keys": [
+    "Gianluigi Donnarumma est 6e des 24 gardiens classés.",
+    "Alessandro Bastoni est 8e des 30 défenseurs centraux, Manuel Akanji 10e.",
+    "Breel Embolo, 16e des 49 attaquants, compte 2 buts sur le tournoi.",
+    "Remo Freuler n'est que 41e des milieux, mais avec 1 but et 2 passes décisives : un milieu qui pèse dans les surfaces."
+   ],
+   "impact": "Le classement résume ce huitième : la Suisse avait le meilleur milieu du tournoi, et le jeu suisse est passé par lui. Aucun Italien du match ne pointe aussi haut dans son classement, et le carrefour italien, Fagioli, est resté à 141 passes."
+  },
+  "en": {
+   "lead": "The best midfielder of Euro 2024 by our rankings played in this match: Granit Xhaka, 1st of 82, with a score of 79. With no goals or assists in the tournament, he still tops everyone through volume and quality of play. He was at the heart of Switzerland's possession, with 164 passes.",
+   "keys": [
+    "Gianluigi Donnarumma is 6th of 24 ranked goalkeepers.",
+    "Alessandro Bastoni is 8th of 30 centre-backs, Manuel Akanji 10th.",
+    "Breel Embolo, 16th of 49 forwards, has 2 goals in the tournament.",
+    "Remo Freuler is only 41st among midfielders, but with 1 goal and 2 assists: a midfielder who matters in the boxes."
+   ],
+   "impact": "The rankings sum up this round of 16 tie: Switzerland had the tournament's best midfielder, and Swiss play went through him. No Italian in the match ranks that high in his position, and Italy's hub, Fagioli, stayed at 141 passes."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Granit Xhaka a pour jumeaux deux monuments espagnols : Sergio Busquets à l'Euro 2020 et Rodri à l'Euro 2024, à 92 % chacun. Un métronome, dans la plus pure définition. Clin d'œil savoureux : le jumeau de Nicolò Barella, côté italien, est Jorginho (94 %)... et son troisième jumeau est Granit Xhaka au Mondial 2018 (90 %).",
+   "keys": [
+    "Breel Embolo ressemble à Aleksandar Mitrović au Mondial 2022 (95 %), puis à Álvaro Morata (93 %) : un avant-centre de surface.",
+    "Manuel Akanji est le jumeau à 97 % de Steven Vitória (Canada, Mondial 2022), et à 96 % de Cristian Romero.",
+    "Remo Freuler rappelle Christian Nørgaard à l'Euro 2020 (92 %).",
+    "Gianluigi Donnarumma a pour plus proche jumeau Kasper Schmeichel, dans ce même Euro 2024 (88 %)."
+   ],
+   "impact": "Les jumeaux disent que les deux équipes avaient des milieux du même moule, à la Xhaka. Ce soir-là, l'original suisse a pris le dessus sur sa copie italienne, et la Suisse a gagné la bataille du milieu."
+  },
+  "en": {
+   "lead": "Granit Xhaka's twins are two Spanish monuments: Sergio Busquets at Euro 2020 and Rodri at Euro 2024, 92% each. A metronome in the purest sense. A delicious twist: on the Italian side, Nicolò Barella's twin is Jorginho (94%)... and his third twin is Granit Xhaka at the 2018 World Cup (90%).",
+   "keys": [
+    "Breel Embolo resembles Aleksandar Mitrović at the 2022 World Cup (95%), then Álvaro Morata (93%): a penalty-box centre-forward.",
+    "Manuel Akanji is a 97% twin of Steven Vitória (Canada, 2022 World Cup) and 96% of Cristian Romero.",
+    "Remo Freuler recalls Christian Nørgaard at Euro 2020 (92%).",
+    "Gianluigi Donnarumma's closest twin is Kasper Schmeichel at this same Euro 2024 (88%)."
+   ],
+   "impact": "The twins say both teams had midfielders cut from the same Xhaka-shaped cloth. On the night, the Swiss original got the better of the Italian copy, and Switzerland won the midfield battle."
+  }
+ }
+}

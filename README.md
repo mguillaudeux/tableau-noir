@@ -1,8 +1,10 @@
 # Tableau Noir
 
+**→ [Ouvrir le site : mguillaudeux.github.io/tableau-noir](https://mguillaudeux.github.io/tableau-noir/)**
+
 **L'analyse tactique du football, à la craie.** Des matchs décortiqués à partir de données ouvertes, avec la même méthode pour tous : les stats classiques, la structure, le pressing, le relationnisme, les replis, la gravité des joueurs, la valeur des actions, les classements par poste et les jumeaux. Chaque section se termine par **le coin de l'analyste**, un commentaire écrit à partir des chiffres du match.
 
-**Le site** : `web/`, publié par GitHub Pages à chaque push sur `main` ([`pages.yml`](.github/workflows/pages.yml)).
+**Le code du site** : `web/`, publié sur [mguillaudeux.github.io/tableau-noir](https://mguillaudeux.github.io/tableau-noir/) par GitHub Pages à chaque push sur `main` ([`pages.yml`](.github/workflows/pages.yml)).
 
 ![Le catalogue](docs/captures/0-catalogue.png)
 
@@ -35,7 +37,7 @@ Quelques définitions :
 - **PPDA** : passes adverses dans leurs 60 % de terrain, divisées par nos tacles, interceptions et fautes dans cette zone. Plus c'est bas, plus on presse.
 - **xG** : celui de StatsBomb pour ses matchs. Wyscout n'en fournit pas : le modèle de Tableau Noir ([`xg.py`](src/tableau_noir/xg.py)) est une régression logistique sur 42 499 tirs des cinq grands championnats 2017/18 (distance, angle, tête, coup franc direct) ; un penalty vaut 0,73, le taux de réussite observé.
 
-Contrôle : sur les 292 matchs exportés, les buts recalculés à partir des événements (contre son camp compris) collent exactement au score. Sur la finale 2022, tirs et tirs cadrés (20 / 10 pour l'Argentine, 10 / 5 pour la France) collent aux chiffres officiels.
+Contrôle : sur tous les matchs publiés, les buts recalculés à partir des événements (contre son camp compris) collent exactement au score. Sur la finale 2022, tirs et tirs cadrés (20 / 10 pour l'Argentine, 10 / 5 pour la France) collent aux chiffres officiels.
 
 ## Sections 2 à 5 · L'équipe
 
@@ -101,7 +103,31 @@ Un profil de dix indicateurs par 90 minutes, réduits dans sa compétition (ce q
 
 ![Le coin de l'analyste, finale 2022, section replis](docs/captures/coin-analyste.png)
 
-Pour chacun des 292 matchs et chacune des 9 sections, un commentaire en français et en anglais ([`analyst.py`](src/tableau_noir/analyst.py)) : une accroche, les clés, et ce que ça a changé dans le match. Les textes sont construits à partir des chiffres calculés, sans rien inventer : on repère les écarts entre les équipes et avec la moyenne de la compétition, on les relie au score, puis on les raconte avec des tournures variées (choisies de façon reproductible). Les noms d'équipe sont accordés au moment de l'affichage (« l'Argentine », « du Portugal », « Argentina's »). `just notes` réécrit tous les textes en quelques secondes.
+Le site ne garde que les **phases finales** : 88 matchs, des huitièmes à la finale, plus les onze finales de Ligue des champions. Les matchs de poules servent toujours aux calculs (moyennes de la compétition, classements, jumeaux), mais n'ont pas de page.
+
+Pour chacun de ces 88 matchs et chacune des 9 sections, le coin de l'analyste est **écrit à la main**, en français et en anglais ([`data/notes/`](data/notes)) : une accroche, les clés, et ce que ça a changé dans le match. Chaque texte part d'une **fiche de faits** ([`facts.py`](src/tableau_noir/facts.py)) qui rassemble tout ce qui est publié sur le match ; `tableau-noir check-notes` vérifie que chaque nombre cité figure dans la fiche. Les noms d'équipe sont accordés à l'affichage (« l'Argentine », « du Portugal », « Argentina's »). Le générateur automatique ([`analyst.py`](src/tableau_noir/analyst.py)) reste en secours pour un match sans texte.
+
+## Jalon 4 · Le dossier, les archives, les buts rejoués
+
+### Le dossier Argentine–France
+
+![Le dossier Argentine–France](docs/captures/10-dossier.png)
+
+Un long format sur la finale 2022 ([`#/dossier`](https://mguillaudeux.github.io/tableau-noir/#/dossier)) : huit chapitres écrits à partir de la fiche du match ([`data/editorial/dossier-2022.py`](data/editorial/dossier-2022.py), vérifié par `tableau-noir dossier`), avec les trois buts du jeu rejoués, les courses aux xG et à la menace animées, et tout à télécharger en MP4 et en GIF.
+
+### La salle des archives
+
+![La salle des archives](docs/captures/11-archives.png)
+
+Les onze finales de Ligue des champions 2009–2019 rangées comme de vieilles fiches ([`#/archives`](https://mguillaudeux.github.io/tableau-noir/#/archives)) : xG du vainqueur et du perdant finale par finale, l'accroche de l'analyste, les buts rejoués, les buteurs et les créateurs de toutes les finales.
+
+### Les buts rejoués, vus du dessus
+
+![Le but de Di María, rejoué](docs/captures/12-but-rejoue.png)
+
+Pas d'images de match : chaque but est rejoué par des points sur un terrain ([`replay.py`](src/tableau_noir/replay.py), [`replay.js`](web/js/replay.js)). Le ballon suit les événements de l'action ; avec le 360, les joueurs visibles apparaissent à chaque événement, et on suit chaque point d'une image à l'autre (appariement par l'algorithme hongrois), puisque le 360 ne dit pas qui est qui. Bouton ▶ à côté de chaque buteur, et « Enregistrer en vidéo » dans le navigateur. La course aux xG de chaque match s'anime aussi (« ▶ animer », section 1).
+
+Les MP4 et GIF du dossier sont produits par [`scripts/media.py`](scripts/media.py) : chaque image est dessinée dans `web/studio.html` à 25 images par seconde, puis assemblée par ffmpeg.
 
 ## La DA « Craie Exacte »
 
@@ -114,6 +140,10 @@ just setup      # environnement (uv)
 just xg         # modèle d'xG Wyscout (data/raw/wyscout requis)
 just xt         # grille d'expected threat Wyscout
 just export     # télécharge StatsBomb, calcule tout, écrit web/data/ (≈ 15 min)
+uv run tableau-noir facts --out data/facts   # les fiches de faits, pour écrire
+uv run tableau-noir check-notes             # vérifie les chiffres des textes
+uv run tableau-noir dossier                 # vérifie et publie le dossier
+uv run --with playwright python scripts/media.py   # MP4 et GIF du dossier (ffmpeg requis)
 just serve      # le site : http://localhost:8000
 just test       # tests Python et JavaScript
 ```

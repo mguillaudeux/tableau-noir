@@ -49,6 +49,7 @@ def role(position: str, xs: list[float], ys: list[float]) -> str:
     mx = float(np.median(xs)) if xs else 52.5
     wide = float(np.median(np.abs(np.array(ys) - PITCH_Y / 2))) if ys else 0.0
     if position == "DF":
+        # limite connue : un central excentré d'une défense à trois peut passer pour un latéral
         return "FB" if wide > 15 else "CB"
     if position in ("MF", "FW"):
         return position

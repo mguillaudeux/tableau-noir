@@ -6,6 +6,9 @@ import { HEX, bar, drawPitch, el } from "./draw.js";
 import { renderTeamSection as teamSection } from "./sections.js";
 import { renderPlayerSection as playerSection } from "./players.js";
 import { analystBlock } from "./analyst.js";
+import { mountReplay } from "./replay.js";
+import { mountRace } from "./anim.js";
+import { showArchives, showDossier } from "./editorial.js";
 
 const $ = (s, root = document) => root.querySelector(s);
 const app = $("#app");
@@ -49,6 +52,9 @@ function route() {
   const h = location.hash.replace(/^#\/?/, "");
   const [kind, id, section] = h.split("/");
   if (kind === "m" && id) return showMatch(id, SECTIONS.includes(section) ? section : "s1");
+  const ectx = () => ({ state, t, esc, json, team, num, pct, masthead, stageName });
+  if (kind === "dossier") { state.match = null; return showDossier(app, ectx()); }
+  if (kind === "archives") { state.match = null; return showArchives(app, ectx()); }
   return showCatalogue(kind === "c" ? id : null);
 }
 
@@ -101,6 +107,10 @@ async function showCatalogue(compId) {
     </section>`).join("");
   app.innerHTML = `${masthead()}
     <p class="masthead lead">${esc(t("lead"))}</p>
+    <div class="features">
+      <a class="feature" href="#/dossier"><span class="kicker">${esc(t("feature_dossier_kicker"))}</span><b>${esc(t("feature_dossier_title"))}</b><span>${esc(t("feature_dossier_text"))}</span></a>
+      <a class="feature" href="#/archives"><span class="kicker">${esc(t("feature_archives_kicker"))}</span><b>${esc(t("feature_archives_title"))}</b><span>${esc(t("feature_archives_text"))}</span></a>
+    </div>
     <p class="fig" style="margin-top:30px">${esc(t("pick_comp"))}</p>
     <div class="competitions">${comps.map((c) => compCard(c, c.id === comp.id)).join("")}</div>
     ${stages}`;
@@ -145,10 +155,13 @@ function renderMatch() {
   const d = state.match;
   const m = d.meta;
   const comp = state.catalogue?.competitions.find((c) => c.matches.some((x) => x.id === m.id));
+  const replays = d.replays ?? [];
   const scorers = (side) => d.goals.filter((g) => g.side === side).map((g) => {
     const p = d.players.find((x) => x.id === g.player);
     const tag = g.penalty ? ` (${t("pen_short")})` : g.own_goal ? ` (${t("own_goal")})` : "";
-    return `<span>${esc(p ? p.name : "?")} ${g.minute + 1}'${esc(tag)}</span>`;
+    const r = g.own_goal ? -1 : replays.findIndex((x) => x.side === side && x.minute === g.minute + 1 && x.scorer === p?.name);
+    const btn = r >= 0 ? `<button type="button" class="rp" data-r="${r}" title="${esc(t("replay_open"))}" aria-label="${esc(t("replay_open"))}">▶</button>` : "";
+    return `<span>${side === "home" ? btn : ""}${esc(p ? p.name : "?")} ${g.minute + 1}'${esc(tag)}${side === "away" ? btn : ""}</span>`;
   }).join("");
   const data = m.source === "wyscout" ? t("wyscout") : m.has_360 ? "StatsBomb 360" : `StatsBomb · ${t("events_only")}`;
   document.title = `${team(m.home.name)} – ${team(m.away.name)} · Tableau Noir`;
@@ -161,16 +174,36 @@ function renderMatch() {
     </section>
     <p class="board-meta">${m.duration > 90 ? `${esc(t("aet"))} · ` : ""}<span class="badge${m.has_360 ? " b360" : ""}">${esc(data)}</span></p>
     <div class="scorers"><div class="home">${scorers("home")}</div><div class="away">${scorers("away")}</div></div>
+    ${replays.length ? `<p class="replay-hint">${esc(t("replay_hint"))}</p>` : ""}
+    <div id="replay" class="replay" hidden></div>
     <ul class="sections" aria-label="${esc(t("sections_title"))}">${SECTIONS.map((s) => (READY.has(s)
       ? `<li><a href="#/m/${m.id}/${s}"${state.section === s ? ' aria-current="page"' : ""}>${esc(t(s))}</a></li>`
       : `<li><span title="${esc(t("soon"))}">${esc(t(s))}</span></li>`)).join("")}</ul>
     <div id="section-body"></div>`;
+  app.querySelectorAll("button.rp").forEach((b) => b.addEventListener("click", () => openReplay(Number(b.dataset.r))));
   const body = $("#section-body");
   if (state.section === "s1") renderClassic(body);
   else {
     const ctx = { state, t, esc, num, pct, team, showTip, moveTip, hideTip, json };
     (["s6", "s7", "s8", "s9"].includes(state.section) ? playerSection : teamSection)(body, state.section, ctx);
   }
+}
+
+let stopReplay = null;
+function openReplay(i) {
+  const d = state.match;
+  const g = d.replays[i];
+  const host = $("#replay");
+  stopReplay?.();
+  host.hidden = false;
+  const m = d.meta;
+  const title = `${g.scorer} ${g.minute}'${g.penalty ? ` (${t("pen_short")})` : ""}`;
+  const sub = `${team(m.home.name)} ${m.home.score}–${m.away.score} ${team(m.away.name)} · ${compName(m.competition, state.lang)} ${m.season}`;
+  const file = `tableau-noir-${m.id}-${g.minute}-${g.scorer.split(" ").slice(-1)[0]}`.toLowerCase().normalize("NFD").replace(/[^a-z0-9-]/g, "");
+  stopReplay = mountReplay(host, g, { t, title, sub, file });
+  host.insertAdjacentHTML("afterbegin", `<button type="button" class="close" aria-label="${esc(t("replay_close"))}">×</button>`);
+  host.querySelector(".close").addEventListener("click", () => { stopReplay?.(); stopReplay = null; host.hidden = true; host.innerHTML = ""; });
+  host.scrollIntoView({ behavior: "smooth", block: "center" });
 }
 
 function renderClassic(body) {
@@ -181,7 +214,7 @@ function renderClassic(body) {
       <div class="grid">
         <div class="panel"><p class="fig">${esc(t("fig_sheet"))}</p><ul class="sheet" id="sheet"></ul></div>
         <div class="panel">
-          <p class="fig">${esc(t("fig_race"))}</p><svg class="chart" id="race" role="img" aria-label="${esc(t("fig_race"))}"></svg>
+          <p class="fig">${esc(t("fig_race"))} <button type="button" class="animate" id="animate-race">▶ ${esc(t("animate"))}</button></p><div id="race-host"><svg class="chart" id="race" role="img" aria-label="${esc(t("fig_race"))}"></svg></div>
           <p class="fig" style="margin-top:34px">${esc(t("fig_shots"))}</p><svg class="chart" id="shots" role="img" aria-label="${esc(t("fig_shots"))}"></svg>
           <div class="legend"><span><i style="background:${HEX.craie}"></i>${esc(t("shots_goal"))}</span><span><i style="border:2px solid ${HEX.craie}"></i>${esc(t("shots_on"))}</span><span><i style="border:1px dashed ${HEX.gris}"></i>${esc(t("shots_off"))}</span><span>${esc(t("shots_size"))}</span></div>
         </div>
@@ -193,6 +226,12 @@ function renderClassic(body) {
     </section>`;
   drawSheet();
   drawRace();
+  $("#animate-race").addEventListener("click", (e) => {
+    e.currentTarget.remove();
+    const d = state.match;
+    const sub = `${team(d.meta.home.name)} – ${team(d.meta.away.name)} · ${compName(d.meta.competition, state.lang)} ${d.meta.season}`;
+    mountRace($("#race-host"), d, "xg", { t, title: t("race_xg"), sub, decimal: state.lang === "fr" ? "," : ".", autoplay: false });
+  });
   drawShots();
   drawPlayers();
 }

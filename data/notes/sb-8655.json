@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale de Coupe du monde, un seul but, et un paradoxe : la France a eu le ballon seulement 40 % du temps, mais a tiré 19 fois contre 9 et produit 1,68 xG contre 0,57. La Belgique a fait tourner, la France a frappé. Et le but décisif vient d'un défenseur : Samuel Umtiti, à la 51e minute, sur une occasion estimée à 0,08 xG. Après l'Argentine et l'Uruguay, les Bleus sortent un troisième gros morceau sans trembler.",
+   "keys": [
+    "Olivier Giroud tire 7 fois pour 0,91 xG, sans marquer : la plus grosse occasion du match est la sienne, à la 23e minute (0,28 xG).",
+    "Kylian Mbappé ne tente aucun tir mais délivre 5 passes clés : un passeur de luxe ce soir-là.",
+    "La France totalise 16 passes clés pour 367 passes ; la Belgique 7 pour 623.",
+    "Thibaut Courtois réalise 4 arrêts, Hugo Lloris 2 : le gardien belge a gardé son équipe en vie."
+   ],
+   "impact": "Avec un écart de 1,11 xG, la France méritait sa place en finale, et le score de 1-0 est même flatteur pour la Belgique. Les Bleus ont prouvé qu'on peut dominer une demi-finale sans dominer le ballon."
+  },
+  "en": {
+   "lead": "A World Cup semi-final, a single goal, and a paradox: France had the ball only 40% of the time, yet shot 19 times to 9 and produced 1.68 xG to 0.57. Belgium circulated, France struck. And the decisive goal came from a defender: Samuel Umtiti, in minute 51, from a chance worth 0.08 xG. After Argentina and Uruguay, Les Bleus saw off a third heavyweight without a wobble.",
+   "keys": [
+    "Olivier Giroud shoots 7 times for 0.91 xG without scoring: the biggest chance of the match is his, in minute 23 (0.28 xG).",
+    "Kylian Mbappé does not attempt a single shot but delivers 5 key passes: a luxury provider that night.",
+    "France total 16 key passes from 367 passes; Belgium 7 from 623.",
+    "Thibaut Courtois makes 4 saves, Hugo Lloris 2: the Belgian keeper kept his side alive."
+   ],
+   "impact": "With an xG gap of 1.11, France deserved their place in the final, and 1-0 even flatters Belgium. Les Bleus showed you can dominate a semi-final without dominating the ball."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La France annonçait un 4-2-3-1 ; ses positions moyennes dessinent un 3-3-4, avec ou sans ballon. Lucas Hernandez monte jusqu'à 59 m, à 3 m de la ligne gauche, pendant que Benjamin Pavard reste un cran plus bas à droite. Côté belge, le 4-3-3 devient un 3-2-2-3 avec le ballon, avec une défense à trois perchée entre 46 et 51 m et Nacer Chadli tout seul sur la droite (66 m de la touche gauche).",
+   "keys": [
+    "La Belgique ne passe que 10 % de ses touches dans son couloir gauche, contre 27 % à droite : Hazard rentrait dans le demi-espace et laissait le couloir vide.",
+    "Kylian Mbappé se tient à droite (60 m de la touche gauche) : la France touche 26 % de ses ballons dans ce couloir.",
+    "Romelu Lukaku est le joueur le plus avancé du match, à 79 m de son but en moyenne.",
+    "Sans le ballon, la Belgique se range en 3-4-3, la France reste en 3-3-4 selon les positions moyennes."
+   ],
+   "impact": "Avec une défense à trois aussi haute, la Belgique laissait beaucoup d'espace dans son dos, et la France n'en demandait pas tant. Tout indique que ce dispositif belge a nourri les 19 tirs français."
+  },
+  "en": {
+   "lead": "France announced a 4-2-3-1; their average positions draw a 3-3-4, with or without the ball. Lucas Hernandez pushes up to 59 m, 3 m from the left touchline, while Benjamin Pavard stays a notch deeper on the right. For Belgium, the 4-3-3 becomes a 3-2-2-3 in possession, with a back three perched between 46 and 51 m and Nacer Chadli alone on the right (66 m from the left touchline).",
+   "keys": [
+    "Belgium play only 10% of their touches in their left lane, against 27% on the right: Hazard drifted into the half-space and left the flank empty.",
+    "Kylian Mbappé stays on the right (60 m from the left touchline): France take 26% of their touches in that lane.",
+    "Romelu Lukaku is the most advanced player on the pitch, 79 m from his own goal on average.",
+    "Out of possession, the average positions show Belgium in a 3-4-3 and France still in a 3-3-4."
+   ],
+   "impact": "With a back three that high, Belgium left a lot of space behind them, and France were happy to oblige. Everything suggests that Belgian set-up fed France's 19 shots."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Un PPDA de 49,4 : la France a laissé la Belgique faire circuler autant qu'elle le voulait, sans presque jamais aller la chercher. Ses actions défensives se situent à 40,3 m de son but, bien en dessous de la moyenne du tournoi (46,3 m). La Belgique, elle, pressait plus haut (48,5 m) avec un PPDA de 13,2. Deux philosophies, et c'est l'attente qui a gagné.",
+   "keys": [
+    "Les deux équipes appliquent à peu près le même volume de pressions : 3,7 par minute sans ballon pour la France, 3,6 pour la Belgique, loin de la moyenne (5,6).",
+    "Quand la France récupère, c'est vite : 35 % de ses ballons perdus reviennent en moins de 5 secondes.",
+    "La Belgique contre-presse davantage (25 % de ses pressions juste après une perte, contre 16 % pour la France).",
+    "Peu de récupérations hautes des deux côtés : 4 pour la France, 5 pour la Belgique."
+   ],
+   "impact": "La France a laissé le ballon à la Belgique et attendu dans sa moitié de terrain. Tout indique que ce bloc bas a privé les Belges d'espaces, et il ne lui a coûté que 0,57 xG concédé sur tout le match."
+  },
+  "en": {
+   "lead": "A PPDA of 49.4: France let Belgium circulate as much as they liked, almost never going to get the ball. Their defensive actions happen 40.3 m from their own goal, well below the tournament average (46.3 m). Belgium pressed higher (48.5 m) with a PPDA of 13.2. Two philosophies, and the waiting game won.",
+   "keys": [
+    "Both teams apply roughly the same volume of pressure: 3.7 per minute out of possession for France, 3.6 for Belgium, far from the average (5.6).",
+    "When France do win the ball back, it is quick: 35% of lost balls return within 5 seconds.",
+    "Belgium counter-press more (25% of their pressures right after a loss, against 16% for France).",
+    "Few high regains on either side: 4 for France, 5 for Belgium."
+   ],
+   "impact": "France left the ball to Belgium and waited in their own half. Everything suggests that low block denied the Belgians space, and it cost them only 0.57 xG conceded over the whole match."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Surprise : avec 40 % de possession, c'est la France qui joue le plus en petits triangles. Indice relationniste de +0,25 contre −0,34 pour la Belgique, 55 % de passes courtes et 37 % de combinaisons rapides. La Belgique, elle, faisait circuler à l'arrière : son réseau repose sur Toby Alderweireld (195 passes) et Vincent Kompany (172), qui ont échangé 70 passes à eux deux.",
+   "keys": [
+    "Le carrefour français est Benjamin Pavard (77 passes), devant N'Golo Kanté (69) et Antoine Griezmann (59).",
+    "Le lien le plus utilisé côté français : Mbappé – Pavard, 22 passes. Le flanc droit était la rampe de lancement.",
+    "Alderweireld – Chadli, 60 passes : la Belgique cherchait sans cesse son côté droit.",
+    "Sur l'ensemble du tournoi, la France est la 7e équipe la plus relationniste sur 32, la Belgique la 17e."
+   ],
+   "impact": "La Belgique a eu le ballon mais l'a surtout fait circuler entre ses défenseurs. La France, avec moins de passes, a mieux combiné dans les zones qui comptent : c'est là que s'est faite la différence."
+  },
+  "en": {
+   "lead": "A surprise: with 40% possession, it is France who play more in little triangles. A relational index of +0.25 against −0.34 for Belgium, 55% short passes and 37% quick combinations. Belgium circulated at the back: their network rests on Toby Alderweireld (195 passes) and Vincent Kompany (172), who exchanged 70 passes between them.",
+   "keys": [
+    "France's hub is Benjamin Pavard (77 passes), ahead of N'Golo Kanté (69) and Antoine Griezmann (59).",
+    "France's busiest link: Mbappé – Pavard, 22 passes. The right flank was the launch pad.",
+    "Alderweireld – Chadli, 60 passes: Belgium kept looking for their right side.",
+    "Across the tournament, France are the 7th most relational of 32 teams, Belgium 17th."
+   ],
+   "impact": "Belgium had the ball but mostly moved it between defenders. France, with fewer passes, combined better in the zones that matter: that is where the difference was made."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "C'est là que la défense haute belge a souffert. La Belgique concède 5 tirs dans les 15 secondes qui suivent une perte, pour 0,37 xG, au-dessus de la moyenne du tournoi (0,28). La France n'en concède que 2, pour 0,10 xG. Le but d'Umtiti ne vient pas d'une transition, mais la Belgique s'est exposée à chaque perte.",
+   "keys": [
+    "La Belgique perd 85 ballons en jeu ouvert, la France 67 : moins de possession, mais moins de déchet aussi.",
+    "0,10 xG concédé en transition par la France : la Belgique n'a presque jamais pu profiter d'une perte française.",
+    "En moyenne, une équipe du tournoi concède 2,7 tirs en transition : la Belgique en concède 5."
+   ],
+   "impact": "La France a fait payer à la Belgique chaque ballon perdu haut, ce qui explique une partie de l'écart d'occasions. Il n'a manqué qu'un but en contre pour que le score ressemble au match."
+  },
+  "en": {
+   "lead": "This is where Belgium's high line suffered. Belgium concede 5 shots within 15 seconds of a loss, worth 0.37 xG, above the tournament average (0.28). France concede only 2, worth 0.10 xG. Umtiti's goal did not come from a transition, but Belgium were exposed every time they lost the ball.",
+   "keys": [
+    "Belgium lose 85 balls in open play, France 67: less possession, but less waste too.",
+    "0.10 xG conceded in transition by France: Belgium almost never cashed in on a French loss.",
+    "The average team in the tournament concedes 2.7 transition shots: Belgium concede 5."
+   ],
+   "impact": "France made Belgium pay for every ball lost high up, which explains part of the gap in chances. Only a goal on the break was missing for the score to reflect the game."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le joueur qui a le plus attiré la défense belge n'est pas Mbappé, mais Blaise Matuidi : 1,12 action défensive de plus que la normale pour 10 touches. Mbappé et Eden Hazard suivent à égalité (0,49). Et à l'autre bout, un chiffre étonnant : Olivier Giroud, à −2,02, est l'un des joueurs les moins surveillés du match.",
+   "keys": [
+    "Giroud, peu surveillé, tente tout de même 7 tirs : la Belgique ne l'a pas étouffé.",
+    "Benjamin Pavard (−2,04) et Toby Alderweireld (−1,72) jouaient eux aussi sans pression.",
+    "Marouane Fellaini (0,44) et Romelu Lukaku (0,18) complètent le haut du tableau côté belge.",
+    "Pour l'échelle, le plus gros aimant du tournoi est Mehdi Taremi (5,35)."
+   ],
+   "impact": "Une demi-finale très peu marquée individuellement : aucune star n'a été vraiment encerclée. Ce sont plutôt les équilibres collectifs, le bloc bas français et la défense haute belge, qui ont décidé."
+  },
+  "en": {
+   "lead": "The player who drew Belgium's defence the most was not Mbappé but Blaise Matuidi: 1.12 more defensive actions than normal per 10 touches. Mbappé and Eden Hazard follow, level on 0.49. And at the other end, a surprising number: Olivier Giroud, at −2.02, is one of the least watched players of the match.",
+   "keys": [
+    "Giroud, barely watched, still had 7 shots: Belgium did not smother him.",
+    "Benjamin Pavard (−2.04) and Toby Alderweireld (−1.72) also played without pressure.",
+    "Marouane Fellaini (0.44) and Romelu Lukaku (0.18) round out the top of the table for Belgium.",
+    "For scale, the biggest magnet of the tournament is Mehdi Taremi (5.35)."
+   ],
+   "impact": "A semi-final with very little individual marking: no star was truly surrounded. Collective balance, France's low block and Belgium's high line, decided it instead."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Kylian Mbappé n'a pas tiré une seule fois, et pourtant il est l'homme le plus dangereux du match : 0,62 xT, soit 29 % de toute la menace française. La France crée 2,12 xT au total, dont 1,37 en première mi-temps. La Belgique, elle, se réveille après la pause (1,22 xT en deuxième période), avec le geste le plus menaçant du match : une passe d'Axel Witsel à la 47e minute (+0,36).",
+   "keys": [
+    "La passe de Witsel tombe juste avant l'occasion de Lukaku à la 48e (0,17 xG) : le meilleur moment belge.",
+    "Paul Pogba (0,30 xT) et Pavard (0,28) complètent le podium français, presque uniquement par la passe.",
+    "Côté belge, Witsel (0,40) et Alderweireld (0,38) portent près de la moitié de la menace.",
+    "La Belgique ne produit que 0,46 xT en première mi-temps."
+   ],
+   "impact": "La France a fait le travail avant la pause et marqué juste après. La Belgique a poussé ensuite, mais sa menace venait de loin, de Witsel et d'Alderweireld, et elle n'a produit que 0,57 xG au bout du compte."
+  },
+  "en": {
+   "lead": "Kylian Mbappé did not take a single shot, yet he was the most dangerous man on the pitch: 0.62 xT, or 29% of all of France's threat. France create 2.12 xT in total, 1.37 of it in the first half. Belgium woke up after the break (1.22 xT in the second half), with the most threatening action of the match: an Axel Witsel pass in minute 47 (+0.36).",
+   "keys": [
+    "Witsel's pass comes just before Lukaku's chance in minute 48 (0.17 xG): Belgium's best moment.",
+    "Paul Pogba (0.30 xT) and Pavard (0.28) complete France's podium, almost entirely through passing.",
+    "For Belgium, Witsel (0.40) and Alderweireld (0.38) carry nearly half the threat.",
+    "Belgium produce only 0.46 xT in the first half."
+   ],
+   "impact": "France did the work before the break and scored just after it. Belgium pushed afterwards, but their threat came from deep, from Witsel and Alderweireld, and it added up to just 0.57 xG in the end."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "La Belgique avait sur le terrain deux des meilleurs joueurs du tournoi selon nos classements : Thibaut Courtois, 1er des 31 gardiens (note de 85), et Eden Hazard, 2e des 68 attaquants (note de 88), avec 3 buts et 2 passes décisives. Côté français, Paul Pogba est 9e des 123 milieux et Kylian Mbappé 11e des attaquants, avec 4 buts.",
+   "keys": [
+    "Nacer Chadli est 7e des milieux, juste devant Pogba : une belle surprise du classement.",
+    "Romelu Lukaku compte autant de buts que Mbappé dans le tournoi (4), mais pointe au 24e rang des attaquants.",
+    "Kevin De Bruyne, classé parmi les attaquants, est 18e avec 1 but et 2 passes décisives.",
+    "N'Golo Kanté n'est que 45e des milieux : un rang modeste pour un joueur aussi présent dans le réseau français (69 passes)."
+   ],
+   "impact": "La Belgique avait les individualités les mieux classées, la France a eu le résultat. Courtois a limité la casse avec 4 arrêts, mais un seul ballon d'Umtiti a suffi."
+  },
+  "en": {
+   "lead": "Belgium had two of the best players of the tournament on the pitch by our rankings: Thibaut Courtois, 1st of 31 goalkeepers (score of 85), and Eden Hazard, 2nd of 68 forwards (score of 88), with 3 goals and 2 assists. For France, Paul Pogba is 9th of 123 midfielders and Kylian Mbappé 11th among forwards, with 4 goals.",
+   "keys": [
+    "Nacer Chadli is 7th among midfielders, just ahead of Pogba: a nice surprise in the rankings.",
+    "Romelu Lukaku has as many goals as Mbappé in the tournament (4), but sits 24th among forwards.",
+    "Kevin De Bruyne, filed among the forwards, is 18th with 1 goal and 2 assists.",
+    "N'Golo Kanté is only 45th among midfielders: a modest rank for a player so present in France's network (69 passes)."
+   ],
+   "impact": "Belgium had the highest-ranked individuals, France got the result. Courtois limited the damage with 4 saves, but one Umtiti finish was enough."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Eden Hazard a des jumeaux de très haut vol : Neymar au Mondial 2018 (96 %), puis Lionel Messi en 2018 (95 %) et en 2022 (94 %). Le profil du dribbleur-créateur dans toute sa pureté. Kylian Mbappé, lui, ressemble à trois ailiers à 90 % : Raheem Sterling à l'Euro 2020, Kvara à l'Euro 2024 et Marcus Rashford au Mondial 2018.",
+   "keys": [
+    "Thibaut Courtois a pour plus proche voisin Manuel Neuer au Mondial 2018 (90 %).",
+    "Mousa Dembélé ressemble à N'Golo Kanté au même Mondial (93 %) : son adversaire direct du soir.",
+    "Samuel Umtiti, le buteur, a deux jumeaux à 95 % : Victor Lindelöf à l'Euro 2020 et Pepe en finale de Ligue des champions.",
+    "Paul Pogba rappelle T. Kroos à l'Euro 2016 (90 %)."
+   ],
+   "impact": "Sur le papier, la Belgique alignait un Neymar et un Neuer. Mais cette demi-finale montre qu'un bloc bien organisé peut neutraliser les profils les plus rares."
+  },
+  "en": {
+   "lead": "Eden Hazard has some very high-flying twins: Neymar at the 2018 World Cup (96%), then Lionel Messi in 2018 (95%) and in 2022 (94%). The dribbling playmaker in its purest form. Kylian Mbappé resembles three wingers at 90%: Raheem Sterling at Euro 2020, Kvara at Euro 2024 and Marcus Rashford at the 2018 World Cup.",
+   "keys": [
+    "Thibaut Courtois's nearest neighbour is Manuel Neuer at the 2018 World Cup (90%).",
+    "Mousa Dembélé resembles N'Golo Kanté at the same World Cup (93%): his direct opponent on the night.",
+    "Samuel Umtiti, the scorer, has two twins at 95%: Victor Lindelöf at Euro 2020 and Pepe in a Champions League final.",
+    "Paul Pogba recalls T. Kroos at Euro 2016 (90%)."
+   ],
+   "impact": "On paper Belgium fielded a Neymar and a Neuer. But this semi-final shows that a well-organised block can neutralise the rarest profiles."
+  }
+ }
+}

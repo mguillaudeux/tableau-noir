@@ -1,0 +1,196 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Voici un quart de finale qui donne le vertige aux modèles d'xG. La France gagne 5-2, mais ne pèse que 1,12 xG. L'Islande en pèse 2,34, avec 4 grosses occasions contre 0. Les cinq buts français valent respectivement 0,06, 0,06, 0,04, 0,08 et 0,13 xG : aucun n'était une occasion franche, tous sont rentrés. À la pause, c'était déjà 4-0.",
+   "keys": [
+    "La France cadre 8 tirs sur 15 et en transforme 5 : une efficacité hors norme.",
+    "O. Giroud ne joue que 60 minutes et signe 2 buts et 1 passe décisive.",
+    "A. Griezmann ajoute 1 but et 2 passes décisives, D. Payet 1 but et 1 passe décisive.",
+    "Les occasions manquées sont toutes islandaises : J. Böðvarsson à la 25e (0,56 xG), S. Ingason à la 63e (0,49 xG), A. Finnbogason à la 61e (0,34 xG)."
+   ],
+   "impact": "Sur le seul critère des occasions, l'Islande aurait mérité mieux que 5-2 : 1,22 xG d'avance, et c'est elle qui a raté les plus grosses. Mais la France a converti tout ce qu'elle touchait en première période, et le quart était plié avant la mi-temps."
+  },
+  "en": {
+   "lead": "Here is a quarter-final that makes xG models dizzy. France win 5-2 but are worth just 1.12 xG. Iceland are worth 2.34, with 4 big chances to 0. France's five goals are worth 0.06, 0.06, 0.04, 0.08 and 0.13 xG respectively: none was a clear chance, all of them went in. At half-time it was already 4-0.",
+   "keys": [
+    "France put 8 of 15 shots on target and score 5: extraordinary finishing.",
+    "O. Giroud plays only 60 minutes and delivers 2 goals and 1 assist.",
+    "A. Griezmann adds 1 goal and 2 assists, D. Payet 1 goal and 1 assist.",
+    "The missed chances are all Icelandic: J. Böðvarsson in minute 25 (0.56 xG), S. Ingason in minute 63 (0.49 xG), A. Finnbogason in minute 61 (0.34 xG)."
+   ],
+   "impact": "On chances alone Iceland deserved better than 5-2: a 1.22 xG lead, and they missed the biggest ones. But France converted everything they touched in the first half, and the tie was over before the break."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Avec le ballon, la France se dessine en 3-3-4 : S. Umtiti à côté de L. Koscielny, P. Evra un peu plus haut à gauche (44 m), et devant, Griezmann, Giroud, Payet et M. Sissoko alignés entre 70 et 72 m. Ce qui change, c'est l'endroit où passe le ballon : 24 % des touches dans le demi-espace gauche et 20 % dans le demi-espace droit, contre 17 % et 14 % dans les couloirs. La France attaquait entre les lignes, pas le long de la touche.",
+   "keys": [
+    "Sans le ballon, la France se replie en 3-4-3.",
+    "L'Islande attaque en 4-3-3, et défend en 3-3-3-1.",
+    "Les Islandais passent 41 % de leurs touches dans leur propre tiers, seulement 19 % dans le dernier.",
+    "K. Sigþórsson est le seul Islandais au-delà de 66 m de son but (75 m)."
+   ],
+   "impact": "En jouant dans les demi-espaces, la France a trouvé les intervalles d'une défense islandaise qui venait de sortir l'Angleterre. Quatre buts en une mi-temps, nés de positions où l'Islande n'arrivait pas à couper."
+  },
+  "en": {
+   "lead": "In possession France take the shape of a 3-3-4: S. Umtiti next to L. Koscielny, P. Evra slightly higher on the left (44 m), and up front Griezmann, Giroud, Payet and M. Sissoko lined up between 70 and 72 m. What changes is where the ball goes: 24% of touches in the left half-space and 20% in the right half-space, against 17% and 14% in the wide lanes. France attacked between the lines, not along the touchline.",
+   "keys": [
+    "Out of possession France drop into a 3-4-3.",
+    "Iceland attack in a 4-3-3 and defend in a 3-3-3-1.",
+    "The Icelanders spend 41% of their touches in their own third, only 19% in the final third.",
+    "K. Sigþórsson is the only Icelander beyond 66 m from his goal (75 m)."
+   ],
+   "impact": "By playing in the half-spaces, France found the gaps in an Icelandic defence that had just knocked out England. Four goals in one half, from positions Iceland could not shut down."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ni pression, ni contre-pressing dans les données Wyscout : on lit le pressing par les tacles, interceptions et fautes. Et les deux équipes défendent à hauteur presque identique : 38,4 m pour la France, 37,1 m pour l'Islande, autour de la moyenne du tournoi (38,3 m). La différence est dans l'intensité : 3,8 actions défensives françaises par minute sans ballon, 2,8 islandaises.",
+   "keys": [
+    "PPDA de 8,6 pour la France, 11,6 pour l'Islande.",
+    "L'Islande récupère seulement 9 % de ses ballons perdus en moins de 5 secondes, et 52 % après plus de 20 secondes.",
+    "Peu de récupérations hautes : 4 pour la France, 3 pour l'Islande, sous la moyenne du tournoi (6,9).",
+    "La France gagne 12 tacles, l'Islande 5."
+   ],
+   "impact": "Une Islande qui met plus de 20 secondes à récupérer la moitié de ses ballons laisse à l'adversaire le temps de s'installer. La France, avec 92 % de passes réussies, n'en demandait pas tant."
+  },
+  "en": {
+   "lead": "No pressures, no counter-pressing in Wyscout data, so the press is read through tackles, interceptions and fouls. And both teams defend at almost the same height: 38.4 m for France, 37.1 m for Iceland, around the tournament average (38.3 m). The difference is in intensity: 3.8 French defensive actions per minute out of possession, 2.8 Icelandic.",
+   "keys": [
+    "A PPDA of 8.6 for France, 11.6 for Iceland.",
+    "Iceland win back only 9% of lost balls within 5 seconds, and 52% after more than 20 seconds.",
+    "Few high regains: 4 for France, 3 for Iceland, below the tournament average (6.9).",
+    "France win 12 tackles, Iceland 5."
+   ],
+   "impact": "An Iceland side that takes more than 20 seconds to win back half of its lost balls gives the opponent time to settle. France, with 92% pass completion, needed nothing more."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Cette France-là combine beaucoup : 41 % de combinaisons rapides, dix points au-dessus de la moyenne du tournoi (31 %). Avec un indice relationniste de +0,4, c'est une équipe qui joue autour du ballon. Le cœur du réseau est P. Pogba, impliqué dans 167 passes, devant Umtiti (142) et B. Matuidi (126). Et le duo Matuidi – Pogba (33 passes) fait tourner le milieu.",
+   "keys": [
+    "Le lien le plus utilisé reste défensif : Umtiti – Koscielny, 49 passes.",
+    "Koscielny – Pogba (30 passes) : la relance française allait directement chercher son milieu le plus créatif.",
+    "L'Islande, légèrement relationniste elle aussi (+0,21), se construit autour de R. Sigurðsson (81 passes) et A. Gunnarsson (73).",
+    "Sur le tournoi, la France est 8e équipe la plus relationniste sur 24, l'Islande 15e."
+   ],
+   "impact": "Ces combinaisons rapides expliquent sans doute comment la France a marqué autant avec si peu d'occasions franches : des enchaînements courts qui ne laissaient pas à l'Islande le temps de se replacer."
+  },
+  "en": {
+   "lead": "This France side combine a lot: 41% quick combinations, ten points above the tournament average (31%). With a relational index of +0.4, this is a team playing around the ball. The heart of the network is P. Pogba, involved in 167 passes, ahead of Umtiti (142) and B. Matuidi (126). And the Matuidi – Pogba pair (33 passes) keeps midfield ticking.",
+   "keys": [
+    "The busiest link is still defensive: Umtiti – Koscielny, 49 passes.",
+    "Koscielny – Pogba (30 passes): France's build-up went straight to their most creative midfielder.",
+    "Iceland, slightly relational too (+0.21), are built around R. Sigurðsson (81 passes) and A. Gunnarsson (73).",
+    "Over the tournament France are the 8th most relational team of 24, Iceland 15th."
+   ],
+   "impact": "Those quick combinations probably explain how France scored so much from so few clear chances: short sequences that gave Iceland no time to reorganise."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Malgré sept buts, les transitions n'ont presque rien pesé. La France concède un seul tir dans les 15 secondes suivant une perte (0,04 xG), l'Islande deux (0,09 xG). Aucun des sept buts n'est né d'une contre-attaque. Les deux équipes ont perdu peu de ballons dans le jeu : 43 pour la France, 42 pour l'Islande.",
+   "keys": [
+    "Moyenne du tournoi : 1,6 tir et 0,13 xG concédés en transition ; les deux équipes sont en dessous en xG.",
+    "Les quatre grosses occasions islandaises ne sont pas venues de pertes françaises.",
+    "La France, avec 92 % de passes réussies, offrait très peu de ballons à contrer."
+   ],
+   "impact": "Ce 5-2 ne s'est pas joué sur des contres, mais loin des transitions : la France a été chirurgicale, l'Islande maladroite. Les pertes de balle n'ont presque rien changé."
+  },
+  "en": {
+   "lead": "Despite seven goals, transitions counted for almost nothing. France concede one shot within 15 seconds of a loss (0.04 xG), Iceland two (0.09 xG). None of the seven goals came from a counter-attack. Both teams lost few balls in open play: 43 for France, 42 for Iceland.",
+   "keys": [
+    "Tournament average: 1.6 shots and 0.13 xG conceded in transition; both teams are below it in xG.",
+    "Iceland's four big chances did not come from French losses.",
+    "France, with 92% pass completion, offered very few balls to counter from."
+   ],
+   "impact": "This 5-2 was not decided on the break but away from transitions: France were surgical, Iceland clumsy. Losses of possession changed almost nothing."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Et ce soir-là, presque personne n'a été vraiment surveillé : le maximum est à +0,54, pour l'Islandais B. Bjarnason. Côté français, seul Matuidi (+0,38) attire un peu l'attention. Le plus frappant est en bas du tableau : Griezmann, à −0,42, est l'un des joueurs les moins surveillés du match.",
+   "keys": [
+    "Griezmann, peu surveillé, signe 1 but et 2 passes décisives.",
+    "G. Sigurðsson (+0,29) est le deuxième Islandais le plus surveillé.",
+    "A. Skúlason (−0,46) et B. Sævarsson (−0,5) ont été laissés libres sur les côtés.",
+    "Sur le tournoi, le plus gros aimant reste K. Lafferty (+4,09)."
+   ],
+   "impact": "Laisser Griezmann aussi libre, c'était lui donner le temps de choisir : il a participé à trois buts. On peut y voir l'une des clés de la soirée."
+  },
+  "en": {
+   "lead": "Without 360 data this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. And that night almost nobody was really watched: the maximum is +0.54, for Iceland's B. Bjarnason. For France, only Matuidi (+0.38) draws a little attention. The striking part is at the bottom: Griezmann, at −0.42, is one of the least watched players of the match.",
+   "keys": [
+    "Griezmann, barely watched, produces 1 goal and 2 assists.",
+    "G. Sigurðsson (+0.29) is the second most watched Icelander.",
+    "A. Skúlason (−0.46) and B. Sævarsson (−0.5) were left free on the flanks.",
+    "Across the tournament the biggest magnet remains K. Lafferty (+4.09)."
+   ],
+   "impact": "Leaving Griezmann that free gave him time to choose: he was involved in three goals. That may be one of the keys to the evening."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Encore un paradoxe : en menace créée, l'Islande devance la France, 1,42 xT contre 1,36. Et elle l'a fait surtout après la pause (0,98 xT), une fois menée 4-0. Le premier créateur du match est islandais : G. Sigurðsson, 0,47 xT (33 % de la menace de son équipe), auteur du geste le plus menaçant, une passe à la 56e minute (+0,35 xT), la minute du but de Sigþórsson.",
+   "keys": [
+    "Côté français, Griezmann est le premier créateur (0,28 xT, 21 %), devant Matuidi (0,2) et Pogba (0,18).",
+    "Le geste français le plus menaçant est une passe de Sissoko à la 68e minute (+0,14 xT).",
+    "La France crée 0,73 xT en première période, 0,63 en seconde : une menace régulière, sans pic.",
+    "Pogba compte 22 passes progressives, le plus haut total des joueurs en vue de ce match."
+   ],
+   "impact": "La France n'a pas eu besoin de dominer la menace pour gagner : elle a été parfaitement efficace dans le dernier geste. L'Islande a poussé, mais trop tard, à 4-0."
+  },
+  "en": {
+   "lead": "Another paradox: on threat created, Iceland edge France, 1.42 xT to 1.36. And they did it mostly after the break (0.98 xT), once 4-0 down. The top creator of the match is Icelandic: G. Sigurðsson, 0.47 xT (33% of his team's threat), who produced the most threatening action, a pass in minute 56 (+0.35 xT), the minute of Sigþórsson's goal.",
+   "keys": [
+    "For France, Griezmann is the top creator (0.28 xT, 21%), ahead of Matuidi (0.2) and Pogba (0.18).",
+    "France's most threatening action is a Sissoko pass in minute 68 (+0.14 xT).",
+    "France create 0.73 xT in the first half and 0.63 in the second: steady threat, no spike.",
+    "Pogba has 22 progressive passes, the highest total among this match's standout players."
+   ],
+   "impact": "France did not need to dominate the threat to win: they were perfectly efficient with the final touch. Iceland pushed, but too late, at 4-0."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le collectif français de ce quart est rempli de joueurs du haut de tableau sur l'ensemble du tournoi. Griezmann est 3e des 46 attaquants, avec 6 buts et 2 passes décisives. Koscielny est 3e des 33 défenseurs centraux, Pogba 7e et Matuidi 9e des 90 milieux. Et Payet affiche 3 buts et 2 passes décisives.",
+   "keys": [
+    "S. Umtiti est déjà 10e des défenseurs centraux, avec seulement 300 minutes jouées.",
+    "Giroud, double buteur du soir, n'est que 21e des attaquants, avec 3 buts et 1 passe décisive sur le tournoi.",
+    "Sissoko termine 40e des 90 milieux.",
+    "Côté islandais, R. Sigurðsson est 42e des 67 latéraux."
+   ],
+   "impact": "L'écart de classement est énorme, et le score l'a reflété plus que les xG. Face à une France pleine de joueurs du top 10, l'Islande a vu son parcours s'arrêter après avoir sorti l'Angleterre."
+  },
+  "en": {
+   "lead": "This French collective is full of players near the top of the tournament rankings. Griezmann is 3rd of 46 forwards, with 6 goals and 2 assists. Koscielny is 3rd of 33 centre-backs, Pogba 7th and Matuidi 9th of 90 midfielders. And Payet has 3 goals and 2 assists.",
+   "keys": [
+    "S. Umtiti is already 10th among centre-backs, with only 300 minutes played.",
+    "Giroud, scorer of two that night, is only 21st among forwards, with 3 goals and 1 assist in the tournament.",
+    "Sissoko finishes 40th of 90 midfielders.",
+    "For Iceland, R. Sigurðsson is 42nd of 67 full-backs."
+   ],
+   "impact": "The ranking gap is enormous, and the score reflected it more than the xG did. Against a France packed with top-10 players, Iceland's run ended after knocking out England."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau le plus fidèle du match : Giroud ressemble à Olivier Giroud à la Coupe du monde 2018, à 98 %. Juste derrière, S. Vokes à ce même Euro 2016 et Cho Kyu-Sung (97 % chacun) : la famille des avant-centres de surface. Côté français toujours, A. Gignac a pour jumeau Diego Costa (96 %).",
+   "keys": [
+    "S. Umtiti ressemble à Yassine Meriah (92 %), puis à Ricardo Carvalho à l'Euro 2016 (90 %).",
+    "Sissoko a pour jumeau Mateo Kovačić à l'Euro 2020 (92 %), Matuidi le même Kovačić version 2022 (91 %).",
+    "Payet ressemble à Y. Konoplyanka et David Silva à l'Euro 2016 (90 % chacun)."
+   ],
+   "impact": "Un Giroud égal à lui-même, des milieux à la Kovačić, un Payet façon David Silva : la France de ce soir-là avait des profils complémentaires à chaque ligne. De quoi transformer cinq demi-occasions en cinq buts."
+  },
+  "en": {
+   "lead": "The most faithful twin of the match: Giroud resembles Olivier Giroud at the 2018 World Cup, at 98%. Just behind come S. Vokes at this same Euro 2016 and Cho Kyu-Sung (97% each): the family of penalty-box centre-forwards. Also for France, A. Gignac has Diego Costa as his twin (96%).",
+   "keys": [
+    "S. Umtiti resembles Yassine Meriah (92%), then Ricardo Carvalho at Euro 2016 (90%).",
+    "Sissoko's twin is Mateo Kovačić at Euro 2020 (92%), and Matuidi's is the same Kovačić, 2022 version (91%).",
+    "Payet resembles Y. Konoplyanka and David Silva at Euro 2016 (90% each)."
+   ],
+   "impact": "A Giroud true to himself, Kovačić-style midfielders, a David Silva-like Payet: that night's France had complementary profiles in every line. Enough to turn five half-chances into five goals."
+  }
+ }
+}

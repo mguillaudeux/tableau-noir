@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Deux tirs cadrés, deux buts. La France a battu le Maroc en demi-finale avec une économie qui frôle l'insolence : 14 tirs, seulement 2 cadrés, et les deux ont fini au fond. Theo Hernández ouvre dès la 5e minute sur une frappe à 0,10 xG, Randal Kolo ferme la porte à la 79e. Entre les deux, le Maroc a eu le ballon (59 %), 615 passes et 13 tirs, mais un seul cadré.",
+   "keys": [
+    "En xG, la France reste devant : 2,00 contre 1,23, sans aucun penalty de part et d'autre.",
+    "Randal Kolo marque sur son seul tir, une occasion à 0,85 xG, en 18 minutes de jeu.",
+    "La plus grosse occasion marocaine arrive à la 94e minute : Hamdallah, une frappe à 0,51 xG, non cadrée.",
+    "Griezmann ne tire pas une fois mais délivre 4 passes clés ; Konaté totalise 16 actions défensives."
+   ],
+   "impact": "Le Maroc a fait douter la France par le volume, mais il lui a manqué la précision : un tir cadré sur 13, c'est trop peu pour renverser une demi-finale. Le but très rapide de Theo Hernández a obligé les Marocains à courir après le score pendant presque tout le match."
+  },
+  "en": {
+   "lead": "Two shots on target, two goals. France beat Morocco in the semi-final with an economy bordering on cheek: 14 shots, only 2 on target, and both went in. Theo Hernández opens in minute 5 with a 0.10 xG strike, Randal Kolo shuts the door in minute 79. In between Morocco had the ball (59%), 615 passes and 13 shots, but only one on target.",
+   "keys": [
+    "On xG, France stay ahead: 2.00 to 1.23, with no penalties on either side.",
+    "Randal Kolo scores with his only shot, a 0.85 xG chance, in 18 minutes on the pitch.",
+    "Morocco's biggest chance comes in minute 94: Hamdallah, a 0.51 xG shot, off target.",
+    "Griezmann does not shoot once but delivers 4 key passes; Konaté racks up 16 defensive actions."
+   ],
+   "impact": "Morocco unsettled France through volume but lacked precision: one shot on target from 13 is too little to turn a semi-final around. Theo Hernández's very early goal forced Morocco to chase the game for almost the entire match."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Sur le papier, la France s'avançait en 4-2-3-1. Avec le ballon, les positions moyennes dessinent un 3-2-2-3, et un détail saute aux yeux : Olivier Giroud ne se tient qu'à 57 m de son but, plus bas que Griezmann et Dembélé (64 m). Le vrai point avancé, c'est Mbappé, à 70 m sur la gauche. Le Maroc, lui, joue son 3-4-3 en 3-4-2-1, avec un côté droit très offensif : Hakimi à 63 m, Ziyech juste devant à 66 m.",
+   "keys": [
+    "Le Maroc fait 26 % de ses touches dans le couloir droit : le duo Hakimi – Ziyech était le moteur.",
+    "Avec le ballon, le Maroc s'étale sur 35,6 m de largeur, contre 31,7 m en moyenne dans le tournoi.",
+    "La France ne touche que 17 % de ses ballons dans le dernier tiers : une équipe qui a passé sa soirée dans sa moitié et au milieu.",
+    "Sans ballon, la dernière ligne française recule à 24,5 m de son but, sous la moyenne du tournoi (28,4 m) ; celle du Maroc tient à 31,4 m."
+   ],
+   "impact": "La France a accepté de défendre bas et d'attaquer peu, avec un Giroud qui décrochait pour participer au jeu. Le côté droit marocain a été le plus actif du match, et c'est par là que la France a dû souffrir pour tenir son avance."
+  },
+  "en": {
+   "lead": "On paper, France lined up in a 4-2-3-1. In possession, the average positions draw a 3-2-2-3, and one detail jumps out: Olivier Giroud stands just 57 m from his own goal, deeper than Griezmann and Dembélé (64 m). The real spearhead is Mbappé, at 70 m on the left. Morocco play their 3-4-3 as a 3-4-2-1, with a very attacking right side: Hakimi at 63 m, Ziyech just ahead at 66 m.",
+   "keys": [
+    "Morocco make 26% of their touches in the right lane: the Hakimi – Ziyech pairing was the engine.",
+    "In possession Morocco spread across 35.6 m of width, against 31.7 m on average in the tournament.",
+    "France touch only 17% of their balls in the final third: a team that spent the evening in its own half and in midfield.",
+    "Without the ball, France's back line drops to 24.5 m from goal, below the tournament average (28.4 m); Morocco's holds at 31.4 m."
+   ],
+   "impact": "France accepted defending deep and attacking sparingly, with Giroud dropping off to join the build-up. Morocco's right side was the most active area of the match, and that is where France had to suffer to protect their lead."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Maroc a pressé haut, et la France a pressé beaucoup, mais bas. Les Marocains défendent à 52,1 m de leur but en moyenne, au-dessus de la moyenne du tournoi (48,2 m), avec un PPDA de 12,7. Et leur réaction à la perte est remarquable : 38 % de récupérations en moins de 5 secondes, 63 % en moins de 10. La France multiplie les courses (190 pressions, 4,6 par minute) mais très près de sa surface.",
+   "keys": [
+    "Récupérations hautes : 8 pour le Maroc, 2 seulement pour la France, très loin de la moyenne du tournoi (9,3).",
+    "Contre-pressing : 27 % des pressions marocaines tombent juste après une perte, contre 16 % pour la France.",
+    "Hauteur moyenne des actions défensives françaises : 42,3 m, contre 52,1 m pour le Maroc.",
+    "La France récupère quand même 33 % de ses ballons perdus en moins de 5 s : elle contre-pressait peu, mais efficacement."
+   ],
+   "impact": "Le Maroc a étouffé la France dans les sorties de balle, ce qui explique sa domination territoriale. Mais une équipe qui presse haut prend aussi des risques derrière, et la France n'avait besoin que de quelques ballons pour en profiter."
+  },
+  "en": {
+   "lead": "Morocco pressed high, and France pressed a lot, but deep. The Moroccans defend 52.1 m from their goal on average, above the tournament average (48.2 m), with a PPDA of 12.7. And their reaction to losing the ball is remarkable: 38% of balls regained within 5 seconds, 63% within 10. France put in the running (190 pressures, 4.6 per minute) but very close to their own box.",
+   "keys": [
+    "High regains: 8 for Morocco, just 2 for France, far below the tournament average (9.3).",
+    "Counter-pressing: 27% of Morocco's pressures come right after a loss, against 16% for France.",
+    "Average height of France's defensive actions: 42.3 m, against 52.1 m for Morocco.",
+    "France still win back 33% of their lost balls within 5 s: they counter-pressed rarely but effectively."
+   ],
+   "impact": "Morocco smothered France's build-up, which explains their territorial dominance. But a side that presses high also takes risks at the back, and France only needed a handful of balls to exploit them."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Deux équipes positionnistes, mais deux visages différents. La France (−0,66) fait passer tout son jeu par sa défense : Varane est impliqué dans 100 passes, Konaté dans 81, Koundé dans 67, et le lien le plus utilisé est Konaté – Varane (37). Le Maroc (−0,89) est encore plus rigide ce soir-là, mais avec une vraie autoroute : Ziyech – Hakimi, 40 passes, le duo le plus actif du match.",
+   "keys": [
+    "Le carrefour marocain est un défenseur, Jawad El Yamiq (145 passes), devant les deux milieux Ounahi (127) et Amrabat (116).",
+    "Ounahi – Hakimi (29 passes) complète le triangle du côté droit marocain.",
+    "Le Maroc ne compte que 1,91 coéquipier près du ballon en moyenne, contre 2,0 pour la France : peu de soutiens, beaucoup de jeu à distance.",
+    "Liberté latérale française : 10,8 m seulement, bien sous la moyenne du tournoi (13,0 m). Chacun restait dans sa zone."
+   ],
+   "impact": "Le Maroc a construit patiemment depuis l'arrière et fait tout passer par son côté droit, ce qui le rendait lisible. La France, en ne jouant presque qu'entre ses défenseurs, a choisi la sécurité : très peu de risques, et un score à protéger."
+  },
+  "en": {
+   "lead": "Two positional teams, but two different faces. France (−0.66) route their whole game through the defence: Varane is involved in 100 passes, Konaté in 81, Koundé in 67, and the busiest link is Konaté – Varane (37). Morocco (−0.89) are even more rigid on the night, but with a real motorway: Ziyech – Hakimi, 40 passes, the busiest pair of the match.",
+   "keys": [
+    "Morocco's hub is a defender, Jawad El Yamiq (145 passes), ahead of midfielders Ounahi (127) and Amrabat (116).",
+    "Ounahi – Hakimi (29 passes) completes the triangle on Morocco's right side.",
+    "Morocco average only 1.91 team-mates near the ball, against 2.0 for France: little support, plenty of play at a distance.",
+    "France's lateral freedom: just 10.8 m, well below the tournament average (13.0 m). Everyone stayed in their zone."
+   ],
+   "impact": "Morocco built patiently from the back and channelled everything down their right, which made them predictable. France, playing almost exclusively between their defenders, chose safety: very little risk, and a lead to protect."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le chiffre le plus net de ce match : 0. Zéro tir concédé par la France dans les 15 secondes suivant une perte, zéro xG. Le Maroc, lui, en concède 4, pour 0,49 xG, bien au-dessus de la moyenne du tournoi (0,27). Aucun but n'en est sorti, mais le danger venait clairement des contres français.",
+   "keys": [
+    "Le Maroc ne reforme un bloc de 7 joueurs ou plus derrière le ballon que dans 10 % des cas, contre 29 % en moyenne.",
+    "Pire, le nombre de Marocains derrière le ballon baisse après la perte : 4,8 au moment de la perte, 4,3 six à dix secondes plus tard.",
+    "La France perd le ballon avec 5,6 joueurs derrière lui en moyenne : une équipe toujours en place.",
+    "Exemple 360 à la 29e minute : 2 Français derrière le ballon à la perte, 6 quelques secondes plus tard."
+   ],
+   "impact": "En se projetant aussi nombreux, les Marocains laissaient des espaces à chaque ballon perdu, et la France a pu s'y engouffrer à plusieurs reprises. De son côté, la France n'a rien laissé en transition : le Maroc a dû tout construire face à une défense en place."
+  },
+  "en": {
+   "lead": "The clearest number of this match: 0. Zero shots conceded by France within 15 seconds of losing the ball, zero xG. Morocco concede 4, worth 0.49 xG, well above the tournament average (0.27). No goal came of it, but the danger clearly came from French counters.",
+   "keys": [
+    "Morocco rebuild a block of 7 or more players behind the ball in only 10% of cases, against 29% on average.",
+    "Worse, the number of Moroccans behind the ball falls after the loss: 4.8 at the moment of the loss, 4.3 six to ten seconds later.",
+    "France lose the ball with 5.6 players behind it on average: a team that was always in shape.",
+    "A 360 example in minute 29: 2 French players behind the ball at the loss, 6 a few seconds later."
+   ],
+   "impact": "By committing so many players forward, Morocco left space every time they lost the ball, and France were able to burst into it several times. France, for their part, gave nothing away in transition: Morocco had to build everything against a set defence."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Olivier Giroud a attiré la défense marocaine comme un paratonnerre : 1,38 adversaire de plus que la normale autour de chacune de ses touches. C'est plus que la meilleure valeur du tournoi sur l'ensemble de la compétition, celle de son coéquipier Randal Kolo (1,34). Côté marocain, Sofiane Boufal était l'aimant principal (1,11).",
+   "keys": [
+    "Youssouf Fofana (0,71) est le deuxième aimant français, devant Mbappé (0,40).",
+    "Selim Amallah (0,48) et Azzedine Ounahi (0,45) complètent le podium marocain.",
+    "Les trois centraux marocains étaient laissés seuls : Dari (−1,03), El Yamiq (−1,03) et Saïss (−0,98).",
+    "Giroud ne marque pas, mais décroche à 57 m de son but en moyenne et emmène ses gardes du corps avec lui."
+   ],
+   "impact": "La France a laissé les centraux marocains relancer à leur guise et a concentré son attention plus haut. Giroud, lui, aspirait les défenseurs : de quoi libérer de l'espace pour ses partenaires, et peut-être aider Randal Kolo, en jeu seulement 18 minutes, à trouver une occasion aussi nette."
+  },
+  "en": {
+   "lead": "Olivier Giroud drew Morocco's defence like a lightning rod: 1.38 extra opponents around each of his touches. That is more than the best figure of the whole tournament, held by his team-mate Randal Kolo (1.34). For Morocco, Sofiane Boufal was the main magnet (1.11).",
+   "keys": [
+    "Youssouf Fofana (0.71) is France's second magnet, ahead of Mbappé (0.40).",
+    "Selim Amallah (0.48) and Azzedine Ounahi (0.45) complete Morocco's podium.",
+    "Morocco's three centre-backs were left alone: Dari (−1.03), El Yamiq (−1.03) and Saïss (−0.98).",
+    "Giroud does not score, but drops to 57 m from his goal on average and takes his minders with him."
+   ],
+   "impact": "France let Morocco's centre-backs build as they pleased and focused their attention higher up. Giroud, meanwhile, sucked defenders in: enough to free space for his team-mates, and perhaps part of why Randal Kolo, on the pitch for only 18 minutes, found such a clear chance."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Voilà la section qui donne raison au Maroc : 1,65 xT créé, contre 1,05 pour la France. Et la deuxième mi-temps marocaine est impressionnante : 1,27 xT, plus de trois fois sa production d'avant la pause (0,38). La France, elle, a créé l'essentiel de sa menace en première période (0,63) avant de reculer (0,41). Le meilleur créateur du match est Marocain : Azzedine Ounahi, 0,29 xT, surtout balle au pied.",
+   "keys": [
+    "Ounahi produit 0,19 xT en conduites de balle : il cassait les lignes en portant le ballon.",
+    "Boufal suit avec 0,26 xT ; côté français, Tchouaméni (0,20) et Mbappé (0,19, tout en conduites) sont les principaux créateurs.",
+    "Le geste français le plus menaçant est une passe de Tchouaméni à la 36e minute (+0,14 xT), la minute même des occasions de Giroud et Mbappé.",
+    "Une passe de Griezmann à la 5e minute (+0,11 xT) précède l'ouverture du score de Theo Hernández, la même minute."
+   ],
+   "impact": "Le Maroc a créé plus de menace, surtout après la pause, mais il n'a jamais converti : un seul tir cadré. La France a frappé tôt, puis tenu, et ce match montre qu'une demi-finale peut se gagner avec la menace la plus faible."
+  },
+  "en": {
+   "lead": "This is the section that vindicates Morocco: 1.65 xT created, against 1.05 for France. And Morocco's second half is impressive: 1.27 xT, more than three times their output before the break (0.38). France created most of their threat in the first half (0.63) before dropping off (0.41). The best creator of the match is Moroccan: Azzedine Ounahi, 0.29 xT, mostly with the ball at his feet.",
+   "keys": [
+    "Ounahi produces 0.19 xT from carries: he broke lines by running with the ball.",
+    "Boufal follows with 0.26 xT; for France, Tchouaméni (0.20) and Mbappé (0.19, all from carries) are the main creators.",
+    "France's most threatening action is a Tchouaméni pass in minute 36 (+0.14 xT), the very minute of the chances for Giroud and Mbappé.",
+    "A Griezmann pass in minute 5 (+0.11 xT) comes just before Theo Hernández's opener, in the same minute."
+   ],
+   "impact": "Morocco created more threat, especially after the break, but never converted it: just one shot on target. France struck early, then held on, proof that a semi-final can be won with the lower threat."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le classement de ce match tient en un mot : bleu. Kylian Mbappé est 1er des 77 attaquants du tournoi, Ibrahima Konaté 2e des 42 défenseurs centraux avec une note de 79, en seulement 331 minutes. Theo Hernández, buteur du soir, pointe au 9e rang des 98 latéraux. Le Marocain le mieux placé de la liste, Romain Saïss, n'est que 20e des centraux.",
+   "keys": [
+    "Mbappé compte 8 buts et 2 passes décisives sur le tournoi, et une note de 90.",
+    "Achraf Hakimi est 38e des latéraux (note de 55), Azzedine Ounahi 45e des milieux.",
+    "Giroud est 25e des attaquants, mais avec 4 buts : un rendement de buteur pur.",
+    "Tchouaméni (10e) et Griezmann (13e) placent deux Français dans le haut du classement des 97 milieux."
+   ],
+   "impact": "Le Maroc a fait mieux que ses individualités, porté par un collectif qui l'a emmené jusqu'en demi-finale. Mais face à une France riche de plusieurs joueurs dans le haut de chaque classement, la qualité individuelle a fini par peser dans les deux surfaces."
+  },
+  "en": {
+   "lead": "This match's rankings can be summed up in one word: blue. Kylian Mbappé is 1st of 77 forwards in the tournament, Ibrahima Konaté 2nd of 42 centre-backs with a score of 79 in only 331 minutes. Theo Hernández, the evening's scorer, sits 9th of 98 full-backs. The best-placed Moroccan on the list, Romain Saïss, is only 20th among centre-backs.",
+   "keys": [
+    "Mbappé has 8 goals and 2 assists in the tournament, and a score of 90.",
+    "Achraf Hakimi is 38th among full-backs (score of 55), Azzedine Ounahi 45th among midfielders.",
+    "Giroud is 25th among forwards, but with 4 goals: pure striker output.",
+    "Tchouaméni (10th) and Griezmann (13th) put two French players near the top of the 97 midfielders."
+   ],
+   "impact": "Morocco punched above their individual numbers, carried by a collective that took them all the way to the semi-finals. But against a France with several players near the top of every ranking, individual quality ended up telling in both boxes."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Les deux avant-centres français ont le même jumeau : Álvaro Morata. Giroud ressemble au Morata du Mondial 2022 à 98 %, Randal Kolo à celui de l'Euro 2016 à 96 %. Et Kolo a pour troisième jumeau... Olivier Giroud lui-même (89 %). Les deux buteurs potentiels de la France sont, statistiquement, de la même famille.",
+   "keys": [
+    "Giroud partage aussi son profil avec Aleksandar Mitrović au Mondial 2018 (97 %) et Marcus Berg (96 %) : des avant-centres de surface.",
+    "Ousmane Dembélé ressemble à Lamine Yamal à l'Euro 2024 et à Raphinha au Mondial 2022, à 90 % chacun : des ailiers qui aiment provoquer.",
+    "Ibrahima Konaté a pour jumeau Virgil van Dijk au Mondial 2022 (91 %).",
+    "Achraf Hakimi rappelle Fágner, le latéral brésilien du Mondial 2018 (88 %)."
+   ],
+   "impact": "Ces jumeaux racontent une France au profil très lisible : un pivot devant, des ailiers qui percutent, des centraux solides. Face à un Maroc plus créatif ce soir-là, ce sont ces profils simples, mais efficaces dans les surfaces, qui ont tranché."
+  },
+  "en": {
+   "lead": "France's two centre-forwards share the same twin: Álvaro Morata. Giroud resembles the 2022 World Cup Morata at 98%, Randal Kolo the Euro 2016 version at 96%. And Kolo's third twin is... Olivier Giroud himself (89%). France's two centre-forwards are, statistically, from the same family.",
+   "keys": [
+    "Giroud also shares his profile with Aleksandar Mitrović at the 2018 World Cup (97%) and Marcus Berg (96%): penalty-box centre-forwards.",
+    "Ousmane Dembélé resembles Lamine Yamal at Euro 2024 and Raphinha at the 2022 World Cup, 90% each: wingers who love to take players on.",
+    "Ibrahima Konaté's twin is Virgil van Dijk at the 2022 World Cup (91%).",
+    "Achraf Hakimi recalls Fágner, Brazil's full-back at the 2018 World Cup (88%)."
+   ],
+   "impact": "These twins describe a very readable France: a target man up front, wingers who drive at defenders, solid centre-backs. Against a more creative Morocco on the night, those simple profiles, deadly in both boxes, made the difference."
+  }
+ }
+}

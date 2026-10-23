@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <title>Tableau Noir · studio</title>
+  <!-- Page technique : dessine une animation image par image pour scripts/media.py (exports MP4/GIF). -->
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono&family=Nothing+You+Could+Do&display=swap" rel="stylesheet">
+  <style>body { margin: 0; background: #1c2421; } canvas { display: block; }</style>
+</head>
+<body>
+  <canvas id="c"></canvas>
+  <script type="module">
+    import { render, timeline } from "./js/replay.js";
+    import { renderRace, RUN, HOLD } from "./js/anim.js";
+    import { makeT, teamName, compName } from "./js/i18n.js";
+    const q = new URLSearchParams(location.search);
+    const lang = q.get("lang") ?? "fr";
+    const t = makeT(lang);
+    const d = await (await fetch(`data/matches/${q.get("match")}.json`)).json();
+    const m = d.meta;
+    const canvas = document.getElementById("c");
+    const sub = `${teamName(m.home.name, lang)} ${m.home.score}–${m.away.score} ${teamName(m.away.name, lang)} · ${compName(m.competition, lang)} ${m.season} · Tableau Noir · data Hudl StatsBomb`;
+    let duration; let draw;
+    if (q.get("kind") === "goal") {
+      const g = d.replays.find((x) => x.minute === Number(q.get("minute")));
+      const tl = timeline(g);
+      canvas.width = 1280; canvas.height = 900;
+      const title = `${g.scorer} ${g.minute}'`;
+      duration = tl.duration;
+      draw = (s) => render(canvas, g, tl, s, { title, sub, goal: t("replay_goal") });
+    } else {
+      const kind = q.get("race");
+      canvas.width = 1280; canvas.height = 720;
+      duration = RUN + HOLD;
+      draw = (s) => renderRace(canvas, d, kind, s, { title: t(`race_${kind}`), sub, decimal: lang === "fr" ? "," : "." });
+    }
+    await document.fonts.load('40px "Nothing You Could Do"');
+    await document.fonts.load('20px "DM Mono"');
+    window.__studio = { duration, frame(s) { draw(s); return canvas.toDataURL("image/png"); } };
+  </script>
+</body>
+</html>

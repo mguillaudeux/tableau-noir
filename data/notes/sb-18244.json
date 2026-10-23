@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le but le plus improbable de la soirée est turinois : il ne valait presque rien sur le papier : Mario Mandžukić égalise à la 27e minute sur une occasion à 0,04 xG. Pendant une mi-temps, la Juventus tient tête au Real Madrid (1-1). Puis la deuxième période bascule en trois minutes : Casemiro à la 61e, Cristiano Ronaldo à la 64e, avant que Marco Asensio ne fixe le 4-1 à la 90e. Sur l'ensemble, 1,57 xG pour le Real, 0,42 pour la Juve.",
+   "keys": [
+    "Cristiano Ronaldo signe un doublé sur 6 tirs pour 0,77 xG ; il manque même la plus grosse occasion du match à la 73e minute (0,28 xG).",
+    "Casemiro marque sur une occasion à 0,02 xG : avec Mandžukić, ce sont les deux buts les plus improbables du match.",
+    "La Juve n'a eu aucune grosse occasion et seulement 5 passes clés, contre 12 pour le Real.",
+    "La Juventus termine avec un carton rouge, et un total de 9 tirs pour 4 cadrés."
+   ],
+   "impact": "Le Real a marqué plus qu'il n'a créé, mais il a créé presque quatre fois plus que la Juve : la victoire ne souffre d'aucune discussion. La Juventus a vécu sur un exploit individuel, puis s'est retrouvée sans munitions en deuxième mi-temps."
+  },
+  "en": {
+   "lead": "The most improbable goal of the night was Juve's: on paper it was worth almost nothing: Mario Mandžukić equalises in minute 27 from a 0.04 xG chance. For one half, Juventus stand up to Real Madrid (1-1). Then the second half flips in three minutes: Casemiro in minute 61, Cristiano Ronaldo in minute 64, before Marco Asensio makes it 4-1 in minute 90. Overall, 1.57 xG for Real, 0.42 for Juve.",
+   "keys": [
+    "Cristiano Ronaldo scores twice from 6 shots worth 0.77 xG; he even misses the biggest chance of the match in minute 73 (0.28 xG).",
+    "Casemiro scores from a 0.02 xG chance: with Mandžukić's, the two most improbable goals of the match.",
+    "Juve had no big chance and only 5 key passes, against 12 for Real.",
+    "Juventus finish with a red card, and a total of 9 shots with 4 on target."
+   ],
+   "impact": "Real scored more than they created, but they created almost four times as much as Juve: the win is beyond debate. Juventus lived off an individual feat, then found themselves out of ammunition in the second half."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La Juve annonçait un 4-2-3-1 ; balle au pied, elle se range en 3-5-2, avec un détail étonnant : Andrea Barzagli, défenseur, se retrouve à 54 m de son but sur la droite, presque à côté de Dani Alves (57 m). À gauche, Alex Sandro (64 m) et Mario Mandžukić (74 m) sont tous les deux collés à la ligne. Le Real, lui, passe de son losange (4-1-2-1-2) à un 3-4-1-2 avec ses deux latéraux très hauts, et défend en 5-2-3.",
+   "keys": [
+    "Marcelo (55 m, à 5 m de la touche gauche) et Carvajal (58 m, à 64 m) : les deux latéraux du Real jouaient comme des ailiers.",
+    "Le Real attaque d'abord par la gauche : 25 % de ses touches dans le couloir gauche et 22 % dans le demi-espace gauche.",
+    "Ronaldo et Benzema se tiennent tous les deux à 74 m, l'un à 26 m de la gauche, l'autre à 17 m : un duo resserré, avec Isco juste derrière (64 m).",
+    "Paradoxe : le Real ne passe que 21 % de ses touches dans le dernier tiers, contre 28 % pour la Juve."
+   ],
+   "impact": "Le côté gauche madrilène (Marcelo, Isco, Kroos) faisait face au côté droit de la Juve, celui d'Alves et Barzagli. Tout indique que c'est là que le Real a cherché la faille : Marcelo termine avec une passe décisive et 10 passes progressives."
+  },
+  "en": {
+   "lead": "Juve announced a 4-2-3-1; on the ball, they line up as a 3-5-2, with one surprising detail: Andrea Barzagli, a defender, ends up 54 m from goal on the right, almost alongside Dani Alves (57 m). On the left, Alex Sandro (64 m) and Mario Mandžukić (74 m) both hug the line. Real, for their part, go from a diamond (4-1-2-1-2) to a 3-4-1-2 with both full-backs very high, and defend in a 5-2-3.",
+   "keys": [
+    "Marcelo (55 m, 5 m from the left touchline) and Carvajal (58 m, at 64 m): Real's two full-backs played like wingers.",
+    "Real attack down the left first: 25% of their touches in the left lane and 22% in the left half-space.",
+    "Ronaldo and Benzema both stand 74 m up, one 26 m from the left, the other 17 m: a tight pair, with Isco just behind (64 m).",
+    "A paradox: Real spend only 21% of their touches in the final third, against 28% for Juve."
+   ],
+   "impact": "Real's left side (Marcelo, Isco, Kroos) faced Juve's right, the side of Alves and Barzagli. Everything suggests that is where Real went looking for the gap: Marcelo finished with an assist and 10 progressive passes."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "La Juventus a défendu haut, mais sans mordre. Ses actions défensives se situent à 50,1 m de son but, bien au-dessus de la moyenne de ces finales (45,9 m), et son PPDA de 11,6 est le plus agressif des deux. Pourtant, elle ne presse que 2,6 fois par minute sans ballon et ne compte que 5 récupérations hautes. Le Real, plus bas (45,7 m), en totalise 8.",
+   "keys": [
+    "La Juve récupère 35 % de ses pertes en moins de 5 secondes, contre 21 % pour le Real : elle réagissait vite quand elle perdait le ballon.",
+    "Mais 35 % des ballons perdus par la Juve mettent plus de 20 s à revenir : quand la première vague échouait, il n'y en avait pas de seconde.",
+    "Le Real presse à 3,1 par minute et contre-presse peu (18 %), sous la moyenne de 20 %.",
+    "Pressions totales : 103 pour la Juve, 91 pour le Real. Une finale assez calme sur ce plan."
+   ],
+   "impact": "Une ligne haute sans pressing intense, c'est un pari risqué : le ballon passe et l'espace est derrière. On peut y voir une partie de l'explication de l'effondrement turinois après la pause, quand le Real a trouvé ses circuits."
+  },
+  "en": {
+   "lead": "Juventus defended high, but without biting. Their defensive actions sit 50.1 m from their goal, well above the average of these finals (45.9 m), and their PPDA of 11.6 is the more aggressive of the two. Yet they press only 2.6 times per minute out of possession and record just 5 high recoveries. Real, deeper (45.7 m), manage 8.",
+   "keys": [
+    "Juve win back 35% of their losses within 5 seconds, against 21% for Real: they reacted fast when they lost the ball.",
+    "But 35% of the balls Juve lose take more than 20 s to come back: when the first wave failed, there was no second one.",
+    "Real press at 3.1 per minute and counter-press little (18%), below the 20% average.",
+    "Total pressures: 103 for Juve, 91 for Real. A fairly calm final on this front."
+   ],
+   "impact": "A high line without an intense press is a risky bet: the ball gets through and the space is behind. That may be part of the explanation for Juve's collapse after the break, once Real found their passing routes."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Pas de grand duel de philosophies ici : la Juve penche du côté positionniste (−0,28), le Real se tient au centre de l'axe (−0,02). Sur l'ensemble des finales, pourtant, les deux clubs sont parmi les plus relationnistes, 3e pour le Real, 4e pour la Juve sur 11. La vraie différence se voit dans les réseaux : celui du Real tourne autour de Toni Kroos.",
+   "keys": [
+    "Kroos est impliqué dans 126 passes, devant Ramos (106) et Marcelo (103) : le métronome était au centre de tout.",
+    "Le lien le plus fort du Real est Ramos – Marcelo (28 passes), suivi de Modrić – Carvajal (27) : le jeu partait des côtés.",
+    "Côté Juve, Pjanić est le carrefour (77 passes), et deux duos se partagent la tête : Mandžukić – Alex Sandro et Alves – Dybala, 19 passes chacun.",
+    "Le Real combine un peu plus vite que la moyenne : 36 % de combinaisons rapides, contre 33 %."
+   ],
+   "impact": "Le réseau du Real est plus dense, avec trois joueurs au-dessus de 100 passes, quand aucun Turinois n'atteint 80. Cette circulation plus fluide a permis au Real de garder le ballon 57 % du temps et d'user la Juve."
+  },
+  "en": {
+   "lead": "No great clash of philosophies here: Juve lean positional (−0.28), Real sit right at the centre of the axis (−0.02). Across all the finals, though, both clubs are among the most relational, 3rd for Real and 4th for Juve out of 11. The real difference shows in the networks: Real's revolves around Toni Kroos.",
+   "keys": [
+    "Kroos is involved in 126 passes, ahead of Ramos (106) and Marcelo (103): the metronome was at the centre of everything.",
+    "Real's strongest link is Ramos – Marcelo (28 passes), followed by Modrić – Carvajal (27): play started from the flanks.",
+    "For Juve, Pjanić is the hub (77 passes), and two pairs share top spot: Mandžukić – Alex Sandro and Alves – Dybala, 19 passes each.",
+    "Real combine a little faster than average: 36% quick combinations, against 33%."
+   ],
+   "impact": "Real's network is denser, with three players above 100 passes, while no Juve player reaches 80. That smoother circulation let Real keep the ball 57% of the time and wear Juve down."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un seul but en transition dans cette finale, mais c'est celui qui tue le match. À la 64e minute, Cristiano Ronaldo marque dans les 15 secondes qui suivent une perte turinoise, et le Real mène 3-1. De l'autre côté, le Real n'a quasiment rien laissé : un seul tir concédé en transition, pour 0,02 xG.",
+   "keys": [
+    "La Juve concède 4 tirs en transition pour 0,29 xG, à peine au-dessus de la moyenne de ces finales (0,26) : peu d'occasions, mais une décisive.",
+    "Le Real ne perd que 74 ballons dans le jeu, contre 92 pour la Juve.",
+    "Un tir concédé en transition sur tout le match : la Juve n'a jamais su contrer le Real."
+   ],
+   "impact": "Le but de la 64e est arrivé trois minutes après celui de Casemiro, au moment où la Juve devait se découvrir pour revenir. C'est le scénario classique de l'équipe menée qui s'expose : la transition a transformé un match serré en démonstration."
+  },
+  "en": {
+   "lead": "Only one transition goal in this final, but it was the one that killed the game. In minute 64, Cristiano Ronaldo scores within 15 seconds of a Juve loss, and Real lead 3-1. At the other end, Real gave away almost nothing: a single shot conceded in transition, worth 0.02 xG.",
+   "keys": [
+    "Juve concede 4 shots in transition for 0.29 xG, just above the average of these finals (0.26): few chances, but one decisive.",
+    "Real lose only 74 balls in open play, against 92 for Juve.",
+    "One shot conceded in transition all match: Juve never managed to counter Real."
+   ],
+   "impact": "The minute-64 goal came three minutes after Casemiro's, just as Juve had to open up to get back in it. The classic script of the trailing side exposing itself: the transition turned a tight match into a demonstration."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit ici l'attention reçue. Le Real a surveillé de près Gonzalo Higuaín (2,69 actions défensives de plus que la normale pour 10 touches) et Paulo Dybala (1,93). Ironie du sort : le buteur turinois, Mario Mandžukić, est le joueur le moins surveillé du match (−2,16). Le Real a laissé de l'air au mauvais homme, mais une seule fois.",
+   "keys": [
+    "Karim Benzema (1,50) est le joueur du Real qui attire le plus la défense turinoise.",
+    "Modrić (0,74) reste assez libre, ce qui ne l'empêche pas d'être le premier créateur du match.",
+    "Claudio Marchisio (−1,87) et Daniel Carvajal (−1,62) complètent le trio des joueurs les plus tranquilles.",
+    "Repère : le record de toutes ces finales appartient à Fernando Torres avec Chelsea (4,82)."
+   ],
+   "impact": "Higuaín et Dybala ont été étouffés, et la Juve n'a eu aucune grosse occasion. On peut y voir un Real attentif d'abord à l'axe turinois, quitte à laisser Mandžukić sur son côté : un risque payé une fois, à la 27e minute."
+  },
+  "en": {
+   "lead": "Without 360, what we read here is attention received. Real kept a close watch on Gonzalo Higuaín (2.69 extra defensive actions per 10 touches) and Paulo Dybala (1.93). The irony: Juve's scorer, Mario Mandžukić, is the least watched player of the match (−2.16). Real left space to the wrong man, but only once.",
+   "keys": [
+    "Karim Benzema (1.50) is the Real player who draws the most from Juve's defence.",
+    "Modrić (0.74) stays fairly free, which does not stop him being the top creator of the match.",
+    "Claudio Marchisio (−1.87) and Daniel Carvajal (−1.62) complete the trio of the quietest players.",
+    "For reference: the record across all these finals belongs to Fernando Torres with Chelsea (4.82)."
+   ],
+   "impact": "Higuaín and Dybala were smothered, and Juve had no big chance. It looks like a Real side focused first on Juve's centre, even if it meant leaving Mandžukić alone on his flank: a risk that cost them once, in minute 27."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La menace raconte parfaitement les deux mi-temps. Avant la pause, égalité parfaite : 0,90 xT pour la Juve, 0,91 pour le Real. Après, la Juve s'effondre à 0,43, pendant que le Real monte à 1,22. Le geste le plus menaçant du match est une passe de Luka Modrić depuis la ligne de but, à la 64e minute (+0,34 xT) : tout indique que c'est celle du deuxième but de Ronaldo.",
+   "keys": [
+    "Modrić est le premier créateur du match (0,60 xT, 28 % de la menace madrilène), devant Marcelo (0,53).",
+    "Alex Sandro porte à lui seul 36 % de la menace turinoise (0,47 xT), et c'est sa passe de la 27e minute (+0,12 xT) qui précède l'égalisation.",
+    "Leonardo Bonucci, défenseur central, est le deuxième créateur de la Juve (0,23 xT).",
+    "Total : 2,12 xT pour le Real, 1,32 pour la Juventus."
+   ],
+   "impact": "La Juventus a fait jeu égal pendant 45 minutes, puis n'a plus rien produit. Le Real a accéléré au retour des vestiaires, et ses deux créateurs, Modrić et Marcelo, ont fait la différence."
+  },
+  "en": {
+   "lead": "Threat tells the story of the two halves perfectly. Before the break, dead level: 0.90 xT for Juve, 0.91 for Real. After it, Juve collapse to 0.43 while Real climb to 1.22. The most threatening action of the match is a Luka Modrić pass from the byline in minute 64 (+0.34 xT): by all signs, the one behind Ronaldo's second goal.",
+   "keys": [
+    "Modrić is the top creator of the match (0.60 xT, 28% of Real's threat), ahead of Marcelo (0.53).",
+    "Alex Sandro alone carries 36% of Juve's threat (0.47 xT), and his pass in minute 27 (+0.12 xT) comes just before the equaliser.",
+    "Leonardo Bonucci, a centre-back, is Juve's second creator (0.23 xT).",
+    "Total: 2.12 xT for Real, 1.32 for Juventus."
+   ],
+   "impact": "Juventus matched Real for 45 minutes, then produced nothing more. Real stepped it up after the break, and their creators, Modrić and Marcelo, made the difference."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le Real arrive avec l'armada habituelle du haut des classements de ces finales : Marcelo, 1er des 32 latéraux (note de 83), et Gareth Bale, 2e des 34 attaquants. La Juventus, elle, ne place qu'un joueur dans le top 6 de son poste : Dani Alves, 6e des latéraux.",
+   "keys": [
+    "Modrić est 5e des 37 milieux, Isco 6e : le Real place deux milieux dans le top 6.",
+    "Mario Mandžukić, 9e des attaquants, compte 2 buts en 187 minutes sur l'ensemble des finales.",
+    "Cristiano Ronaldo est 5e des attaquants, avec 526 minutes, le plus gros temps de jeu du tableau.",
+    "Casemiro, 8e des milieux, a marqué son unique but de ces finales."
+   ],
+   "impact": "Le rapport de force se lisait déjà dans les classements : un effectif madrilène truffé de joueurs du top 10, une Juve plus dépendante de quelques individualités. La deuxième mi-temps a fait le reste."
+  },
+  "en": {
+   "lead": "Real arrive with their usual armada from the top of the rankings across these finals: Marcelo, 1st of 32 full-backs (score of 83), and Gareth Bale, 2nd of 34 forwards. Juventus place only one player in the top 6 of his position: Dani Alves, 6th among full-backs.",
+   "keys": [
+    "Modrić is 5th of 37 midfielders, Isco 6th: Real put two midfielders in the top 6.",
+    "Mario Mandžukić, 9th among forwards, has 2 goals in 187 minutes across the finals.",
+    "Cristiano Ronaldo is 5th among forwards, with 526 minutes, the most playing time in the table.",
+    "Casemiro, 8th among midfielders, scored his only goal of these finals."
+   ],
+   "impact": "The balance of power was already written in the rankings: a Real squad packed with top-10 players, a Juve more reliant on a few individuals. The second half did the rest."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Mario Mandžukić ? Álvaro Morata à l'Euro 2016, à 95 %, devant Olivier Giroud au Mondial 2022 (94 %) et A. Gignac à l'Euro 2016 (93 %). Trois avant-centres de pointe, du même moule statistique. Dani Alves, lui, ressemble à Jordi Alba au Mondial 2022 (94 %).",
+   "keys": [
+    "Cristiano Ronaldo ressemble à Kai Havertz à l'Euro 2024 (97 %), puis à Lautaro Martínez et Edinson Cavani (94 %).",
+    "Casemiro a pour plus proche voisin M. Topal à l'Euro 2016 (88 %), devant N'Golo Kanté (85 %).",
+    "Isco ressemble à Andrés Iniesta en finale de Ligue des champions (91 %).",
+    "Marcelo partage son profil avec Jordi Alba et T. Meunier (92 % chacun)."
+   ],
+   "impact": "Mandžukić et Morata, jumeaux à 95 % : la Juve alignait un avant-centre au profil très classique, et c'est lui qui a marqué. Mais face à un Real rempli de créateurs, un seul exploit ne suffisait pas."
+  },
+  "en": {
+   "lead": "Mario Mandžukić's twin? Álvaro Morata at Euro 2016, at 95%, ahead of Olivier Giroud at the 2022 World Cup (94%) and A. Gignac at Euro 2016 (93%). Three out-and-out centre-forwards cut from the same statistical cloth. Dani Alves, for his part, resembles Jordi Alba at the 2022 World Cup (94%).",
+   "keys": [
+    "Cristiano Ronaldo resembles Kai Havertz at Euro 2024 (97%), then Lautaro Martínez and Edinson Cavani (94%).",
+    "Casemiro's closest neighbour is M. Topal at Euro 2016 (88%), ahead of N'Golo Kanté (85%).",
+    "Isco resembles Andrés Iniesta in a Champions League final (91%).",
+    "Marcelo shares his profile with Jordi Alba and T. Meunier (92% each)."
+   ],
+   "impact": "Mandžukić and Morata, 95% twins: Juve fielded a very classic centre-forward profile, and he was the one who scored. But against a Real full of creators, one moment of brilliance was not enough."
+  }
+ }
+}

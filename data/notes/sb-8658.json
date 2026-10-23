@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une finale de Coupe du monde à six buts, et un vainqueur qui a eu le ballon 37 % du temps. La France a tiré 8 fois, en a cadré 6 et marqué 4 : pour 1,10 xG, dont 0,78 sur le seul penalty d'Antoine Griezmann. La Croatie, elle, a eu le jeu (63 % de possession, 15 tirs, 1,48 xG), au bout d'un parcours épuisant : deux séances de tirs au but et une prolongation pour arriver là. Le scénario s'ouvre sur un but contre son camp de Mario Mandžukić à la 18e minute, et il ne s'est jamais vraiment refermé.",
+   "keys": [
+    "Hors penalty, la France ne pèse que 0,31 xG : quatre buts avec si peu, c'est une efficacité presque insolente.",
+    "Paul Pogba à la 59e (0,09 xG) et Kylian Mbappé à la 65e (0,04 xG) marquent sur des frappes que les modèles donnent presque perdues.",
+    "La Croatie compte 12 passes clés contre 4 et 50 passes dans le dernier tiers contre 19.",
+    "Mandžukić vit une finale à deux visages : le but contre son camp à la 18e, puis le but du 4-2 à la 69e (0,56 xG) et 10 actions défensives."
+   ],
+   "impact": "Sur le jeu, la Croatie a fait plus que la France, et l'écart d'xG (0,38 en sa faveur) le confirme. Mais une finale se gagne dans les surfaces, et la France y a été d'un réalisme total : 6 tirs cadrés sur 8."
+  },
+  "en": {
+   "lead": "A six-goal World Cup final, and a winner who had the ball 37% of the time. France shot 8 times, put 6 on target and scored 4: from 1.10 xG, 0.78 of it on Antoine Griezmann's penalty alone. Croatia had the play (63% possession, 15 shots, 1.48 xG), at the end of an exhausting road: two shoot-outs and an extra-time win to get there. It all opened with a Mario Mandžukić own goal in minute 18, and it never really closed again.",
+   "keys": [
+    "Without the penalty, France are worth only 0.31 xG: four goals from so little is almost cheeky efficiency.",
+    "Paul Pogba in minute 59 (0.09 xG) and Kylian Mbappé in minute 65 (0.04 xG) score from shots the models give almost no chance.",
+    "Croatia record 12 key passes to 4 and 50 passes into the final third to 19.",
+    "Mandžukić lives a two-faced final: the own goal in minute 18, then the 4-2 in minute 69 (0.56 xG) and 10 defensive actions."
+   ],
+   "impact": "On the run of play Croatia did more than France, and the xG gap (0.38 in their favour) confirms it. But finals are won in the boxes, and France were utterly clinical there: 6 of 8 shots on target."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "La France annonçait un 4-4-2, ses positions moyennes racontent un 3-4-3 avec le ballon, et un détail saute aux yeux : N'Golo Kanté est le joueur de champ le plus bas de son équipe, à 31 m de son but, décalé côté gauche (13 m de la ligne). Devant lui, Blaise Matuidi et Lucas Hernandez se partagent le couloir gauche. La Croatie, elle, joue en 3-3-4 avec ou sans ballon, avec Ivan Strinić collé à la ligne gauche (4 m) et Ante Rebić en pointe à 78 m.",
+   "keys": [
+    "La France touche 32 % de ses ballons dans son propre tiers et seulement 18 % dans le dernier : tout indique une finale jouée en contre.",
+    "Kylian Mbappé est le Français le plus avancé, à 71 m de son but, sur la droite (62 m de la touche gauche).",
+    "La Croatie attaque surtout par la droite : 27 % de ses touches dans ce couloir, face au côté gauche français de Hernandez et Matuidi.",
+    "Sans le ballon, la France se range en 4-1-3-2 selon les positions moyennes."
+   ],
+   "impact": "La France a reculé et laissé la Croatie s'installer chez elle. Ce recul l'a exposée à beaucoup de ballons, mais il laissait Mbappé seul en pointe à droite, prêt à partir dès la récupération."
+  },
+  "en": {
+   "lead": "France announced a 4-4-2, their average positions tell a story of a 3-4-3 in possession, and one detail jumps out: N'Golo Kanté is his team's deepest outfield player, 31 m from goal, shifted to the left (13 m from the line). Ahead of him, Blaise Matuidi and Lucas Hernandez share the left lane. Croatia play a 3-3-4 with or without the ball, with Ivan Strinić hugging the left line (4 m) and Ante Rebić up top at 78 m.",
+   "keys": [
+    "France take 32% of their touches in their own third and only 18% in the final third: everything points to a final played on the counter.",
+    "Kylian Mbappé is France's most advanced player, 71 m from his goal, on the right (62 m from the left touchline).",
+    "Croatia attack mostly down the right: 27% of their touches in that lane, facing France's left side of Hernandez and Matuidi.",
+    "Out of possession, the average positions show France in a 4-1-3-2."
+   ],
+   "impact": "France dropped back and let Croatia settle in their half. That exposed them to a lot of pressure, but it left Mbappé alone up front on the right, ready to go the moment the ball was won."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "La Croatie a joué cette finale avec un pressing de conquérant : PPDA de 10,5, actions défensives à 51,6 m de son but, et 17 récupérations hautes, presque le double de la moyenne du tournoi (8,7). Son contre-pressing est le plus agressif des deux : 32 % de ses pressions tombent juste après une perte. La France, elle, attendait : PPDA de 26,5 et un bloc à 44,6 m.",
+   "keys": [
+    "Les deux équipes appliquent un volume de pressions comparable : 4,0 par minute sans ballon pour la France, 4,2 pour la Croatie.",
+    "La Croatie récupère 54 % de ses ballons perdus en moins de 10 secondes, la France 46 %.",
+    "La France ne récupère que 18 % de ses ballons en moins de 5 secondes : elle laissait la Croatie jouer avant de fermer.",
+    "Les Bleus comptent tout de même 9 récupérations hautes, juste au-dessus de la moyenne."
+   ],
+   "impact": "Le pressing croate a étouffé la France pendant de longues périodes, ce qui cadre avec sa possession écrasante. Mais une équipe qui presse aussi haut laisse forcément des espaces derrière elle, et la France n'avait besoin que de quelques ballons pour faire mal."
+  },
+  "en": {
+   "lead": "Croatia played this final with a conqueror's press: a PPDA of 10.5, defensive actions 51.6 m from their goal, and 17 high regains, almost double the tournament average (8.7). Their counter-press was the more aggressive of the two: 32% of their pressures come right after a loss. France waited: a PPDA of 26.5 and a block at 44.6 m.",
+   "keys": [
+    "Both teams apply a comparable volume of pressure: 4.0 per minute out of possession for France, 4.2 for Croatia.",
+    "Croatia win back 54% of lost balls within 10 seconds, France 46%.",
+    "France win back only 18% of balls within 5 seconds: they let Croatia play before closing down.",
+    "Les Bleus still record 9 high regains, just above the average."
+   ],
+   "impact": "Croatia's press smothered France for long spells, which fits with their crushing possession. But a team that presses that high inevitably leaves space behind, and France needed only a handful of balls to do damage."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "D'un côté, un milieu qui tisse : Marcelo Brozović impliqué dans 151 passes entre titulaires, Luka Modrić dans 118, Ivan Rakitić dans 107. De l'autre, un réseau français presque squelettique : Paul Pogba en carrefour avec 40 passes, et aucun duo qui dépasse 9 échanges. La Croatie est relationniste (+0,19), la France légèrement positionniste (−0,12) ce soir-là.",
+   "keys": [
+    "Modrić – Brozović, 36 passes : le lien le plus utilisé de la finale.",
+    "Côté français, Pogba – Pavard et Pogba – Mbappé ne totalisent que 9 passes chacun : Pogba était le seul vrai relais.",
+    "La France joue pourtant court quand elle a le ballon : 58 % de passes courtes, au-dessus de la moyenne du tournoi (53 %).",
+    "Sur l'ensemble du tournoi, la France est la 7e équipe la plus relationniste sur 32, la Croatie la 11e."
+   ],
+   "impact": "Le réseau croate était beaucoup plus riche, mais il tournait surtout au milieu. Le réseau français, minuscule, n'avait qu'une mission : trouver Pogba ou Mbappé vite, et tout indique qu'il l'a remplie au moment du 3-1, quand une passe de Mbappé (+0,12 xT) tombe à la minute du but de Pogba."
+  },
+  "en": {
+   "lead": "On one side, a midfield that weaves: Marcelo Brozović involved in 151 passes between starters, Luka Modrić in 118, Ivan Rakitić in 107. On the other, an almost skeletal French network: Paul Pogba as the hub with 40 passes, and no pair exceeding 9 exchanges. Croatia are relational (+0.19), France slightly positional (−0.12) on the night.",
+   "keys": [
+    "Modrić – Brozović, 36 passes: the busiest link of the final.",
+    "For France, Pogba – Pavard and Pogba – Mbappé total just 9 passes each: Pogba was the only real relay.",
+    "France still play short when they have the ball: 58% short passes, above the tournament average (53%).",
+    "Across the tournament, France are the 7th most relational of 32 teams, Croatia 11th."
+   ],
+   "impact": "Croatia's network was far richer, but it mostly went round in midfield. France's tiny network had one job: find Pogba or Mbappé quickly, and everything suggests it did just that for the 3-1, when a Mbappé pass (+0.12 xT) came in the minute of Pogba's goal."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "La seule faille française de la soirée se trouve ici. La France concède 3 tirs dans les 15 secondes suivant une perte, pour 0,64 xG, plus du double de la moyenne du tournoi (0,28). Et l'un d'eux finit au fond : le but de Mandžukić à la 69e minute naît d'une perte française. La Croatie, elle, ne concède que 0,03 xG en transition.",
+   "keys": [
+    "Mandžukić marque à la 69e sur une occasion à 0,56 xG, la plus grosse du match dans le jeu.",
+    "La France perd 104 ballons en jeu ouvert, la Croatie 114.",
+    "Malgré son pressing haut, la Croatie ne laisse que 2 tirs en transition à la France."
+   ],
+   "impact": "À 4-1, une perte de balle a redonné un but d'espoir à la Croatie. La France avait assez d'avance pour l'absorber, mais c'était le seul vrai défaut de sa finale."
+  },
+  "en": {
+   "lead": "France's only flaw of the night lies here. They concede 3 shots within 15 seconds of a loss, worth 0.64 xG, more than double the tournament average (0.28). And one of them ends in the net: Mandžukić's goal in minute 69 comes from a French loss. Croatia concede only 0.03 xG in transition.",
+   "keys": [
+    "Mandžukić scores in minute 69 from a 0.56 xG chance, the biggest open-play chance of the match.",
+    "France lose 104 balls in open play, Croatia 114.",
+    "Despite their high press, Croatia allow France only 2 shots in transition."
+   ],
+   "impact": "At 4-1, one lost ball handed Croatia a goal of hope. France had enough of a cushion to absorb it, but it was the only real blemish on their final."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le chiffre le plus spectaculaire de la finale appartient à un joueur absent des positions moyennes du onze de départ : Nabil Fekir, avec 7,07 actions défensives croates de plus que la normale pour 10 touches. C'est même plus que le plus gros aimant du tournoi sur l'ensemble de la compétition, Mehdi Taremi (5,35). Derrière lui, Ante Rebić (3,97), harcelé par la défense française.",
+   "keys": [
+    "Rebić, 3,97 : la France l'a pris à la gorge à chaque ballon.",
+    "Kylian Mbappé (1,23) et N'Golo Kanté (1,07) sont les Français les plus entourés après Fekir.",
+    "À l'inverse, Benjamin Pavard (−1,92) et Steven Nzonzi (−1,45) jouaient sans pression.",
+    "Mario Mandžukić (−1,51) a été laissé étonnamment libre par la défense française."
+   ],
+   "impact": "La France a concentré sa surveillance sur Rebić, le plus haut des Croates, et a laissé plus d'air à Mandžukić. On peut y voir un choix payé cash à la 69e minute, quand ce dernier a réduit l'écart."
+  },
+  "en": {
+   "lead": "The most spectacular number of the final belongs to a player missing from the starters' average positions: Nabil Fekir, with 7.07 more Croatian defensive actions than normal per 10 touches. That is even higher than the biggest magnet over the whole tournament, Mehdi Taremi (5.35). Behind him comes Ante Rebić (3.97), hounded by France's defence.",
+   "keys": [
+    "Rebić, 3.97: France were at his throat on every ball.",
+    "Kylian Mbappé (1.23) and N'Golo Kanté (1.07) are the most surrounded French players after Fekir.",
+    "Conversely, Benjamin Pavard (−1.92) and Steven Nzonzi (−1.45) played without pressure.",
+    "Mario Mandžukić (−1.51) was left surprisingly free by France's defence."
+   ],
+   "impact": "France focused their attention on Rebić, Croatia's most advanced player, and gave Mandžukić more room. You could see that choice being punished in minute 69, when he pulled one back."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Voilà le chiffre le plus fou de cette finale : la France a gagné 4-2 en créant seulement 0,58 xT par ses passes et ses conduites, contre 1,61 pour la Croatie. En première mi-temps, elle produit 0,10 xT, quasiment rien, et mène pourtant 2-1 à la pause. Kylian Mbappé porte à lui seul 49 % de la menace française.",
+   "keys": [
+    "Le geste français le plus menaçant est une passe de Mbappé à la 59e minute (+0,12 xT), la minute du but de Pogba.",
+    "À la 79e, Mbappé emmène le ballon de 36 à 92 m de son but : une conduite qui traverse presque tout le terrain.",
+    "Ivan Rakitić est le premier créateur du match (0,42 xT, 26 % de la menace croate), avec une passe à +0,15 xT dès la 11e minute.",
+    "Antoine Griezmann, buteur sur penalty, termine avec une menace négative (−0,07 xT)."
+   ],
+   "impact": "La Croatie a créé presque trois fois plus de menace que la France et a perdu de deux buts. Rarement une finale aura aussi bien montré que la menace se mesure, mais que les buts se marquent."
+  },
+  "en": {
+   "lead": "Here is the craziest number of the final: France won 4-2 while creating only 0.58 xT through passes and carries, against 1.61 for Croatia. In the first half they produce 0.10 xT, next to nothing, and still lead 2-1 at the break. Kylian Mbappé carries 49% of France's threat on his own.",
+   "keys": [
+    "France's most threatening action is a Mbappé pass in minute 59 (+0.12 xT), the minute of Pogba's goal.",
+    "In minute 79, Mbappé takes the ball from 36 to 92 m from his goal: a carry across almost the whole pitch.",
+    "Ivan Rakitić is the top creator of the match (0.42 xT, 26% of Croatia's threat), with a +0.15 xT pass as early as minute 11.",
+    "Antoine Griezmann, the penalty scorer, ends with negative threat (−0.07 xT)."
+   ],
+   "impact": "Croatia created almost three times France's threat and lost by two goals. Rarely has a final shown so clearly that threat can be measured, but goals still have to be scored."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Paul Pogba, buteur en finale, est le joueur le mieux classé de ce match : 9e des 123 milieux du tournoi, avec une note de 70. Kylian Mbappé, 11e des 68 attaquants, termine avec 4 buts. En face, Ivan Perišić (13e des attaquants, 3 buts et 1 passe décisive) et Luka Modrić (18e des milieux) portent les couleurs croates dans nos classements.",
+   "keys": [
+    "Mario Mandžukić compte 3 buts et 1 passe décisive dans le tournoi, mais n'est que 35e des attaquants.",
+    "Samuel Umtiti est 16e des 40 défenseurs centraux.",
+    "N'Golo Kanté (45e des milieux) et Corentin Tolisso (42e) sont classés loin derrière Pogba.",
+    "Šime Vrsaljko, 46e des 88 latéraux, a joué 624 minutes dans la compétition."
+   ],
+   "impact": "Les deux joueurs français les mieux classés, Pogba et Mbappé, ont marqué les deux buts qui ont tué la finale, à la 59e et à la 65e. La hiérarchie de nos classements s'est vérifiée au moment décisif."
+  },
+  "en": {
+   "lead": "Paul Pogba, a scorer in the final, is the best-ranked player in this match: 9th of 123 midfielders in the tournament, with a score of 70. Kylian Mbappé, 11th of 68 forwards, finishes with 4 goals. Opposite, Ivan Perišić (13th among forwards, 3 goals and 1 assist) and Luka Modrić (18th among midfielders) fly the Croatian flag in our rankings.",
+   "keys": [
+    "Mario Mandžukić has 3 goals and 1 assist in the tournament, but is only 35th among forwards.",
+    "Samuel Umtiti is 16th of 40 centre-backs.",
+    "N'Golo Kanté (45th among midfielders) and Corentin Tolisso (42nd) rank well behind Pogba.",
+    "Šime Vrsaljko, 46th of 88 full-backs, played 624 minutes in the competition."
+   ],
+   "impact": "France's two best-ranked players, Pogba and Mbappé, scored the two goals that killed the final, in minutes 59 and 65. Our rankings' pecking order held at the decisive moment."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Clin d'œil des jumeaux : le plus proche voisin statistique de Luka Modrić est Paul Pogba, version Euro 2020 (90 %). Les deux meneurs de cette finale partagent donc presque le même profil. Et Pogba, lui, ressemble d'abord à T. Kroos à l'Euro 2016 (90 %), puis à Pierre-Emile Højbjerg à l'Euro 2020 (88 %).",
+   "keys": [
+    "N'Golo Kanté a pour jumeau Mousa Dembélé au même Mondial (93 %), devant Wílmar Barrios (88 %).",
+    "Ante Rebić ressemble à Ádám Szalai à l'Euro 2020 (93 %), puis à Romelu Lukaku (88 %).",
+    "Samuel Umtiti a deux jumeaux à 95 % : Victor Lindelöf à l'Euro 2020 et Pepe en finale de Ligue des champions.",
+    "Ivan Rakitić rappelle Toni Kroos au Mondial 2018 (92 %)."
+   ],
+   "impact": "Modrić et Pogba, statistiquement cousins, ont livré deux finales très différentes : l'un a tissé 118 passes, l'autre a marqué le but du 3-1. Même profil, rôles inversés par le scénario du match."
+  },
+  "en": {
+   "lead": "A wink from the twins: Luka Modrić's nearest statistical neighbour is Paul Pogba, Euro 2020 version (90%). The two playmakers of this final share almost the same profile. Pogba himself looks first like T. Kroos at Euro 2016 (90%), then Pierre-Emile Højbjerg at Euro 2020 (88%).",
+   "keys": [
+    "N'Golo Kanté's twin is Mousa Dembélé at the same World Cup (93%), ahead of Wílmar Barrios (88%).",
+    "Ante Rebić resembles Ádám Szalai at Euro 2020 (93%), then Romelu Lukaku (88%).",
+    "Samuel Umtiti has two twins at 95%: Victor Lindelöf at Euro 2020 and Pepe in a Champions League final.",
+    "Ivan Rakitić recalls Toni Kroos at the 2018 World Cup (92%)."
+   ],
+   "impact": "Modrić and Pogba, statistical cousins, played two very different finals: one wove 118 passes, the other scored the 3-1. Same profile, roles reversed by the script of the match."
+  }
+ }
+}

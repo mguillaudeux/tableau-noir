@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un huitième de finale de l'Euro 2016 qui a duré 120 minutes et s'est réglé au bout de la nuit, 5-4 aux tirs au but pour la Pologne. La Suisse a tiré 24 fois, obtenu 13 corners et fait tourner 688 passes ; la Pologne a répondu avec 19 tirs et, surprise, un peu plus d'xG selon notre modèle maison (1,38 contre 1,21). J. Błaszczykowski ouvre le score à la 39e, X. Shaqiri égalise à la 82e, chacun sur une frappe estimée à 0,10 xG.",
+   "keys": [
+    "Błaszczykowski, buteur, compte aussi 23 actions défensives : un joueur de couloir qui a passé une bonne partie de la soirée à défendre.",
+    "Les Polonais dégagent 39 ballons et réalisent 61 interceptions, contre 10 dégagements et 40 interceptions suisses.",
+    "La plus grosse occasion manquée est polonaise : K. Grosicki à la 47e minute, 0,16 xG, à côté.",
+    "La Suisse cadre 7 tirs sur 24, la Pologne 4 sur 19 : beaucoup de volume, peu de précision des deux côtés."
+   ],
+   "impact": "Avec 0,17 xG d'écart, les tirs au but étaient presque la conclusion logique. La Suisse a eu le ballon et le terrain, la Pologne des occasions un peu meilleures : deux façons d'arriver au même 1-1."
+  },
+  "en": {
+   "lead": "A Euro 2016 last-16 tie that lasted 120 minutes and was settled deep into the night, 5-4 on penalties to Poland. Switzerland shot 24 times, won 13 corners and strung together 688 passes; Poland replied with 19 shots and, surprisingly, slightly more xG according to our in-house model (1.38 to 1.21). J. Błaszczykowski opened the scoring in minute 39, X. Shaqiri equalised in minute 82, each from an effort rated at 0.10 xG.",
+   "keys": [
+    "Błaszczykowski, the scorer, also racks up 23 defensive actions: a wide man who spent much of the night defending.",
+    "Poland make 39 clearances and 61 interceptions, against 10 clearances and 40 interceptions for Switzerland.",
+    "The biggest missed chance is Polish: K. Grosicki in minute 47, 0.16 xG, wide.",
+    "Switzerland put 7 of 24 shots on target, Poland 4 of 19: plenty of volume, little accuracy on either side."
+   ],
+   "impact": "With a 0.17 xG gap, penalties were almost the logical conclusion. Switzerland had the ball and the territory, Poland slightly better chances: two routes to the same 1-1."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Ici, pas de schéma annoncé dans les données : on lit les positions moyennes. La Suisse se dessine en 3-2-5 avec le ballon, et tout penche à gauche : R. Rodríguez à 8 m de la ligne, A. Mehmedi à 10 m, H. Seferović dans le demi-espace à 19 m. La Pologne, en 3-4-3, fait exactement la même chose de son côté : A. Jędrzejczyk à 5 m de la touche gauche, K. Grosicki à 12 m, R. Lewandowski à 14 m. Deux équipes gauchères.",
+   "keys": [
+    "La Suisse passe 25 % de ses touches dans le couloir gauche et 20 % dans le demi-espace gauche : près de la moitié de son jeu d'un seul côté.",
+    "La Pologne, elle, touche 27 % de ses ballons dans son couloir gauche.",
+    "Grosicki est le Polonais le plus avancé, à 79 m de son but : plus haut que Lewandowski (71 m) et A. Milik (72 m).",
+    "Sans ballon, la Suisse se range en 3-3-2-2 et la Pologne en 3-4-1-2."
+   ],
+   "impact": "Le flanc gauche suisse faisait face au côté droit polonais, celui de Ł. Piszczek et Błaszczykowski, ce qui éclaire les 23 actions défensives du buteur polonais. Chaque équipe attaquait là où l'autre devait défendre, sans qu'aucune ne parvienne à faire céder le couloir adverse."
+  },
+  "en": {
+   "lead": "No announced formation in the data here, so we read the average positions. Switzerland take the shape of a 3-2-5 on the ball, and everything leans left: R. Rodríguez 8 m from the line, A. Mehmedi at 10 m, H. Seferović in the half-space at 19 m. Poland, in a 3-4-3, do exactly the same on their side: A. Jędrzejczyk 5 m from the left touchline, K. Grosicki at 12 m, R. Lewandowski at 14 m. Two teams leaning the same way.",
+   "keys": [
+    "Switzerland spend 25% of their touches in the left lane and 20% in the left half-space: nearly half their game on one side.",
+    "Poland take 27% of their touches in their left lane.",
+    "Grosicki is Poland's most advanced player, 79 m from his goal: higher than Lewandowski (71 m) and A. Milik (72 m).",
+    "Without the ball, Switzerland settle into a 3-3-2-2 and Poland into a 3-4-1-2."
+   ],
+   "impact": "Switzerland's left flank faced Poland's right, home of Ł. Piszczek and Błaszczykowski, which sheds light on the Polish scorer's 23 defensive actions. Each team attacked where the other had to defend, and neither managed to break the opposing lane."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Les données Wyscout n'ont pas d'événements de pression : on lit donc le pressing dans les tacles, interceptions et fautes. Et le contraste est saisissant. La Suisse affiche un PPDA de 6,8, très agressif, avec des actions défensives à 41,2 m de son but. La Pologne défend beaucoup plus bas, à 29,2 m, loin sous la moyenne du tournoi (38,3 m), avec un PPDA de 13,5.",
+   "keys": [
+    "Paradoxe : malgré son bloc bas, la Pologne compte 11 récupérations hautes, contre 6 pour la Suisse (moyenne du tournoi : 6,9).",
+    "La Suisse ne récupère que 7 % de ses ballons perdus en moins de 5 secondes, la Pologne 20 % (moyenne : 17 %).",
+    "En volume, la Pologne défend davantage : 154 actions défensives contre 120.",
+    "Les deux équipes restent sous la moyenne de l'Euro en actions par minute sans ballon : 3,0 pour la Suisse, 3,2 pour la Pologne, contre 3,6."
+   ],
+   "impact": "La Pologne a accepté de reculer et de laisser la Suisse tourner, tout en restant capable de mordre haut quand l'occasion se présentait. Tout indique que ce compromis lui a permis d'encaisser un seul but en 120 minutes malgré 24 tirs suisses."
+  },
+  "en": {
+   "lead": "Wyscout data has no pressure events, so the press is read through tackles, interceptions and fouls. And the contrast is striking. Switzerland post a PPDA of 6.8, very aggressive, with defensive actions 41.2 m from their goal. Poland defend much deeper, at 29.2 m, well below the tournament average (38.3 m), with a PPDA of 13.5.",
+   "keys": [
+    "The paradox: despite their deep block, Poland collect 11 high recoveries, against 6 for Switzerland (tournament average: 6.9).",
+    "Switzerland win back only 7% of lost balls within 5 seconds, Poland 20% (average: 17%).",
+    "In volume, Poland defend more: 154 defensive actions to 120.",
+    "Both teams stay below the Euro average in actions per minute out of possession: 3.0 for Switzerland, 3.2 for Poland, against 3.6."
+   ],
+   "impact": "Poland accepted dropping back and letting Switzerland circulate, while staying able to bite high when the chance arose. Everything suggests that compromise is what let them concede only one goal in 120 minutes despite 24 Swiss shots."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Les deux réseaux de passes dessinent un triangle, mais pas au même endroit. Côté suisse, c'est un triangle gauche : R. Rodríguez – G. Xhaka (36 passes), Rodríguez – J. Djourou (36), Xhaka – Djourou (30). Côté polonais, il est planté devant le but : K. Glik, G. Krychowiak et M. Pazdan s'échangent le ballon (25, 20 et 20 passes). La Suisse construisait par son flanc gauche, la Pologne par son axe défensif.",
+   "keys": [
+    "Xhaka est le carrefour suisse (153 passes impliquées), Rodríguez suit de près (147).",
+    "La Suisse est la 6e équipe la plus relationniste des 24 du tournoi ; la Pologne seulement 12e.",
+    "Dans ce match, la Pologne est nettement positionniste (−0,57), la Suisse proche de l'équilibre (−0,10).",
+    "Les deux équipes jouent peu court : 39 % de passes courtes pour la Suisse, 36 % pour la Pologne (moyenne du tournoi : 42 %)."
+   ],
+   "impact": "Le triangle Rodríguez–Xhaka–Djourou a donné à la Suisse le contrôle du ballon, mais il tournait loin de la surface. La Pologne, plus directe, a laissé ses défenseurs relancer et ses attaquants attendre : une économie de moyens qui a tenu jusqu'aux tirs au but."
+  },
+  "en": {
+   "lead": "Both passing networks form a triangle, but not in the same place. Switzerland's is a left-sided triangle: R. Rodríguez – G. Xhaka (36 passes), Rodríguez – J. Djourou (36), Xhaka – Djourou (30). Poland's is planted in front of goal: K. Glik, G. Krychowiak and M. Pazdan swap the ball (25, 20 and 20 passes). Switzerland built down their left; Poland built through their defensive spine.",
+   "keys": [
+    "Xhaka is the Swiss hub (153 passes involved), with Rodríguez close behind (147).",
+    "Switzerland are the 6th most relational of the tournament's 24 teams; Poland only 12th.",
+    "In this match Poland are clearly positional (−0.57), Switzerland close to neutral (−0.10).",
+    "Neither side plays much short: 39% short passes for Switzerland, 36% for Poland (tournament average: 42%)."
+   ],
+   "impact": "The Rodríguez–Xhaka–Djourou triangle gave Switzerland control of the ball, but it turned far from the box. Poland, more direct, let their defenders play out and their forwards wait: an economy of means that held all the way to penalties."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Deux équipes prudentes, et des transitions qui n'ont presque rien donné. La Suisse a concédé 2 tirs dans les 15 secondes suivant une perte, pour 0,06 xG ; la Pologne un seul, pour 0,01 xG. Les deux sont sous la moyenne du tournoi en xG (1,6 tir et 0,13 xG par match). Aucun but n'est né d'une transition.",
+   "keys": [
+    "La Suisse a perdu 83 ballons dans le jeu, la Pologne 66.",
+    "Le seul tir concédé par la Pologne en transition vaut 0,01 xG : son bloc bas était déjà en place.",
+    "La Suisse, qui avait davantage le ballon, s'est un peu plus exposée : 2 tirs concédés en transition contre 1."
+   ],
+   "impact": "Sans transitions, le match s'est joué sur attaque placée, là où les deux défenses étaient prêtes. Pas étonnant qu'il ait fallu 120 minutes et une séance de tirs au but pour départager les deux équipes."
+  },
+  "en": {
+   "lead": "Two cautious teams, and transitions that produced almost nothing. Switzerland conceded 2 shots within 15 seconds of a loss, worth 0.06 xG; Poland just one, worth 0.01 xG. Both are below the tournament average in xG (1.6 shots and 0.13 xG per match). No goal came from a transition.",
+   "keys": [
+    "Switzerland lost 83 balls in open play, Poland 66.",
+    "The only transition shot Poland conceded was worth 0.01 xG: their deep block was already in place.",
+    "Switzerland, who had more of the ball, were slightly more exposed: 2 transition shots conceded against 1."
+   ],
+   "impact": "With no transitions, the match was played out in settled attacks, where both defences were ready. No wonder it took 120 minutes and a shoot-out to separate the two sides."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue. L'aimant du match est suisse : B. Embolo, 2,13 actions défensives polonaises de plus que la normale pour 10 touches. Sur tout l'Euro, il est d'ailleurs le 2e plus gros aimant (2,22), derrière K. Lafferty (4,09). Et le détail savoureux se trouve tout en bas du classement : X. Shaqiri est le joueur le moins surveillé du match (−0,54).",
+   "keys": [
+    "A. Mehmedi (0,84) est le deuxième Suisse le plus entouré.",
+    "Côté polonais, Ł. Piszczek (0,38) et K. Grosicki (0,26) attiraient un peu plus que la normale, sans plus.",
+    "A. Milik et K. Mączyński (−0,44 chacun) jouaient eux aussi dans une relative tranquillité.",
+    "Les valeurs restent faibles : à part Embolo, aucun joueur ne dépasse 1."
+   ],
+   "impact": "La Pologne a laissé Shaqiri plus libre que n'importe qui d'autre, et c'est lui qui a égalisé à la 82e. Cruel paradoxe pour la Pologne : le joueur qu'elle a le moins serré est celui qui l'a renvoyée en prolongation."
+  },
+  "en": {
+   "lead": "Without 360 data, we measure attention received. The match's magnet is Swiss: B. Embolo, 2.13 extra Polish defensive actions per 10 touches. Across the whole Euro he is the 2nd biggest magnet (2.22), behind K. Lafferty (4.09). And the delicious detail sits at the very bottom of the list: X. Shaqiri is the least watched player in the match (−0.54).",
+   "keys": [
+    "A. Mehmedi (0.84) is the second most crowded Swiss player.",
+    "For Poland, Ł. Piszczek (0.38) and K. Grosicki (0.26) drew slightly more than normal, nothing more.",
+    "A. Milik and K. Mączyński (−0.44 each) also played in relative peace.",
+    "The values stay low: apart from Embolo, no player goes above 1."
+   ],
+   "impact": "Poland left Shaqiri freer than anyone else, and he was the one who equalised in minute 82. A cruel paradox for Poland: the player they pressed least is the one who sent the game to extra time."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "En menace créée, la Suisse a écrasé la Pologne : 2,40 xT contre 1,07, et les six plus gros créateurs du match sont tous suisses. H. Seferović mène la danse (0,47 xT, 20 % de la menace suisse), devant Shaqiri (0,41). Le geste le plus menaçant tombe à la 90e minute, une passe de Seferović (+0,37 xT) à la toute fin du temps réglementaire.",
+   "keys": [
+    "À la 82e minute, celle de l'égalisation, une passe de S. Lichtsteiner pèse +0,14 xT.",
+    "La Suisse monte en puissance après la pause (1,04 xT en deuxième mi-temps) et garde 0,66 en prolongation.",
+    "La Pologne s'éteint au fil du match : 0,53 xT avant la pause, 0,38 après, 0,16 en prolongation.",
+    "Toute la menace suisse passe par la passe : Seferović, Shaqiri, Djourou et Xhaka n'ont quasiment rien créé en conduite de balle."
+   ],
+   "impact": "La Suisse a créé plus du double de menace, mais pas de meilleures occasions : c'est tout le paradoxe de ce huitième. Beaucoup de ballons amenés près de la surface, trop peu transformés en vraies frappes, et une Pologne qui a tenu jusqu'à la loterie."
+  },
+  "en": {
+   "lead": "In threat created, Switzerland crushed Poland: 2.40 xT against 1.07, and the six biggest creators in the match are all Swiss. H. Seferović leads the way (0.47 xT, 20% of Switzerland's threat), ahead of Shaqiri (0.41). The most threatening action comes in minute 90, a Seferović pass (+0.37 xT) at the very end of normal time.",
+   "keys": [
+    "In minute 82, the minute of the equaliser, an S. Lichtsteiner pass is worth +0.14 xT.",
+    "Switzerland grow after the break (1.04 xT in the second half) and still produce 0.66 in extra time.",
+    "Poland fade as the match goes on: 0.53 xT before the break, 0.38 after, 0.16 in extra time.",
+    "All of Switzerland's threat comes from passing: Seferović, Shaqiri, Djourou and Xhaka created virtually nothing from carries."
+   ],
+   "impact": "Switzerland created more than twice the threat, but not better chances: that is the whole paradox of this last-16 tie. Plenty of balls worked close to the box, too few turned into real shots, and a Poland side that held out until the lottery."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur milieu de tout l'Euro 2016 selon nos classements jouait ce soir-là : Granit Xhaka, 1er des 90 milieux classés, avec une note de 82. Et ce huitième réunissait aussi deux des trois meilleurs gardiens du tournoi : Ł. Fabiański 2e et Y. Sommer 3e sur 24, tous deux avec une note de 73. Pas étonnant qu'il ait fallu des tirs au but.",
+   "keys": [
+    "F. Schär, classé parmi les latéraux, est 7e sur 67, avec un but sur le tournoi.",
+    "G. Krychowiak, carrefour polonais, est 21e des milieux, V. Behrami 16e.",
+    "J. Djourou est 9e des 33 défenseurs centraux classés.",
+    "A. Milik est 14e des 46 attaquants, avec un but et une passe décisive."
+   ],
+   "impact": "Deux gardiens parmi les meilleurs du tournoi, un milieu suisse au sommet de son poste : les classements disent un match de très bon niveau où personne ne voulait céder. Les gardiens, en particulier, expliquent sans doute pourquoi un tel volume de tirs n'a produit que 2 buts."
+  },
+  "en": {
+   "lead": "The best midfielder of the whole of Euro 2016 by our rankings was playing that night: Granit Xhaka, 1st of 90 ranked midfielders, with a score of 82. And this last-16 tie also featured two of the tournament's three best goalkeepers: Ł. Fabiański 2nd and Y. Sommer 3rd of 24, both with a score of 73. No wonder it went to penalties.",
+   "keys": [
+    "F. Schär, ranked among the full-backs, is 7th of 67, with one goal in the tournament.",
+    "G. Krychowiak, Poland's hub, is 21st among midfielders, V. Behrami 16th.",
+    "J. Djourou is 9th of 33 ranked centre-backs.",
+    "A. Milik is 14th of 46 forwards, with a goal and an assist."
+   ],
+   "impact": "Two of the tournament's best goalkeepers, a Swiss midfielder at the top of his position: the rankings describe a high-quality match in which nobody wanted to give way. The goalkeepers in particular probably explain why so many shots produced only 2 goals."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Y. Sommer et Mike Maignan à l'Euro 2024 : 100 % de similarité. Un jumeau parfait, statistiquement indiscernable. Granit Xhaka, lui, se ressemble à lui-même : son deuxième jumeau est Granit Xhaka à l'Euro 2020 (94 %), juste derrière Toni Kroos à l'Euro 2020 (97 %). Une constance rare d'un tournoi à l'autre.",
+   "keys": [
+    "V. Behrami ressemble à 98 % à Tyler Adams au Mondial 2022 : le profil d'un récupérateur pur.",
+    "A. Milik a pour jumeaux Cristiano Ronaldo au Mondial 2022 et Wahbi Khazri au Mondial 2018, 97 % chacun.",
+    "Ł. Fabiański se rapproche d'Anatoliy Trubin à l'Euro 2024 (95 %), puis de Petr Čech en finale de Ligue des champions (93 %).",
+    "R. Rodríguez est un profil à part : son jumeau le plus proche, Kieran Trippier au Mondial 2022, n'est qu'à 71 %."
+   ],
+   "impact": "Un Rodríguez sans vrai jumeau : on peut y voir la trace d'un latéral au cœur du triangle suisse, impliqué dans 147 passes. Et deux gardiens aux profils aussi solides que Sommer et Fabiański : pas étonnant que la séance de tirs au but se soit jouée à un tir près."
+  },
+  "en": {
+   "lead": "Y. Sommer and Mike Maignan at Euro 2024: 100% similarity. A perfect twin, statistically indistinguishable. Granit Xhaka, meanwhile, resembles himself: his second twin is Granit Xhaka at Euro 2020 (94%), just behind Toni Kroos at Euro 2020 (97%). Rare consistency from one tournament to the next.",
+   "keys": [
+    "V. Behrami is 98% similar to Tyler Adams at the 2022 World Cup: the profile of a pure ball-winner.",
+    "A. Milik's twins are Cristiano Ronaldo at the 2022 World Cup and Wahbi Khazri at the 2018 World Cup, 97% each.",
+    "Ł. Fabiański resembles Anatoliy Trubin at Euro 2024 (95%), then Petr Čech in a Champions League final (93%).",
+    "R. Rodríguez is a one-off: his closest twin, Kieran Trippier at the 2022 World Cup, is only 71% similar."
+   ],
+   "impact": "A Rodríguez without a real twin: you can perhaps see a full-back at the heart of the Swiss triangle, involved in 147 passes. And with two goalkeepers as solid as Sommer and Fabiański, no wonder the shoot-out came down to a single kick."
+  }
+ }
+}

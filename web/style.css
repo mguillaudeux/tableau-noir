@@ -226,6 +226,21 @@ ol.actions.home li::marker { color: var(--jaune); }
 ol.actions.away li::marker { color: var(--bleu); }
 @media (max-width: 520px) { ol.actions { columns: 1; } }
 
+/* Rejouer un but */
+.scorers button.rp { background: none; border: 1px solid var(--trait); color: var(--corail); font: .7rem var(--mono); width: 22px; height: 22px; border-radius: 50%; cursor: pointer; margin: 0 8px; vertical-align: 2px; padding: 0; }
+.scorers button.rp:hover { border-color: var(--corail); }
+.replay-hint { text-align: center; font: .68rem var(--mono); color: var(--gris-2); letter-spacing: .05em; margin: 8px 0 0; }
+.replay { position: relative; max-width: 980px; margin: 22px auto 10px; }
+.replay .close { position: absolute; right: 0; top: -34px; background: none; border: 0; color: var(--gris); font-size: 1.8rem; cursor: pointer; }
+.replay-box canvas { width: 100%; height: auto; display: block; border: 1px solid var(--trait); border-radius: 3px; }
+.replay-bar { display: flex; gap: 12px; align-items: center; margin-top: 10px; }
+.replay-bar input { flex: 1; accent-color: var(--jaune); }
+.replay-bar button { font: .72rem var(--mono); background: none; border: 1px solid var(--trait); color: var(--craie); padding: 6px 12px; border-radius: 2px; cursor: pointer; text-transform: uppercase; letter-spacing: .05em; }
+.replay-box .legend { display: block; text-transform: none; letter-spacing: 0; font-size: .7rem; line-height: 1.5; }
+.replay-bar button:disabled { opacity: .5; cursor: wait; }
+
+.fig button.animate { font: .66rem var(--mono); background: none; border: 1px solid var(--trait); color: var(--corail); padding: 2px 8px; margin-left: 8px; cursor: pointer; text-transform: uppercase; letter-spacing: .05em; }
+
 /* Jumeaux */
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 22px; }
 .chips button { font: .78rem var(--mono); background: none; border: 1px solid var(--trait); color: var(--gris); padding: 5px 10px; border-radius: 2px; cursor: pointer; }
@@ -240,6 +255,73 @@ ol.actions.away li::marker { color: var(--bleu); }
 .twins button small { font: .7rem var(--mono); color: var(--gris); grid-column: 1; }
 .twins .sim { grid-row: 1 / 3; grid-column: 2; align-self: center; font: 600 2rem var(--titre); color: var(--jaune); }
 .twins button[aria-pressed="true"] b { color: var(--jaune); }
+
+
+/* --- À la une : le dossier et les archives ------------------------------------------------- */
+.features { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 34px; }
+.feature { display: grid; gap: 6px; padding: 20px 22px; border: 1px solid var(--trait); border-left: 3px solid var(--corail); text-decoration: none; color: var(--craie); background: rgba(236, 231, 220, .03); }
+.feature:hover { background: rgba(236, 231, 220, .06); }
+.feature .kicker, .kicker { font: .7rem var(--mono); color: var(--corail); letter-spacing: .1em; text-transform: uppercase; }
+.feature b { font: 600 1.9rem/1 var(--titre); text-transform: uppercase; filter: url(#craie); }
+.feature span:last-child { font-size: .92rem; color: var(--craie-2); }
+
+/* --- Le dossier ----------------------------------------------------------------------------- */
+.dossier, .archives { max-width: 980px; margin: 0 auto; }
+.dossier h1, .archives h1 { font: 600 clamp(2.4rem, 7vw, 5rem)/.92 var(--titre); text-transform: uppercase; margin: 8px 0 18px; filter: url(#craie); }
+.standfirst { font-size: 1.22rem; line-height: 1.6; color: var(--craie); max-width: 820px; }
+.mini-board { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; font: 600 1.8rem var(--titre); text-transform: uppercase; margin: 0 0 18px; }
+.mini-board .home { color: var(--jaune); } .mini-board .away { color: var(--bleu); }
+.mini-board small { font: .74rem var(--mono); color: var(--gris); text-transform: none; }
+.chapter { margin-top: 54px; }
+.chapter h2 { font: 400 2.1rem/1.1 var(--main); color: var(--jaune); margin: 0 0 14px; }
+.chapter p { font-size: 1.06rem; line-height: 1.7; color: var(--craie-2); max-width: 800px; }
+.chapter .figure { margin-top: 22px; }
+.paths { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+.paths h3 { font: 600 1.6rem var(--titre); text-transform: uppercase; margin: 0 0 8px; }
+.path.home h3 { color: var(--jaune); } .path.away h3 { color: var(--bleu); }
+.paths ol { margin: 0; padding: 0; list-style: none; }
+.paths li a { display: block; padding: 8px 0; border-bottom: 1px dashed var(--trait); color: var(--craie); text-decoration: none; font: .9rem var(--mono); }
+.paths li small { display: block; color: var(--gris); font-size: .68rem; text-transform: uppercase; letter-spacing: .05em; }
+a.go { display: inline-block; font: .76rem var(--mono); color: var(--jaune); text-transform: uppercase; letter-spacing: .06em; text-decoration: none; border-bottom: 1px solid var(--jaune); padding-bottom: 2px; }
+.dossier-sections { margin-top: 6px; }
+ul.media { list-style: none; padding: 0; margin: 14px 0 0; }
+ul.media li { display: flex; gap: 14px; align-items: center; padding: 9px 0; border-bottom: 1px dashed var(--trait); font-size: .95rem; }
+ul.media li span { flex: 1; }
+ul.media a { font: .72rem var(--mono); color: var(--craie); border: 1px solid var(--trait); padding: 4px 10px; text-decoration: none; border-radius: 2px; }
+ul.media a:hover { border-color: var(--jaune); color: var(--jaune); }
+.back-link { margin: 46px 0 0; }
+.back-link a { font: 1.4rem var(--main); color: var(--craie); }
+
+/* --- La salle des archives -------------------------------------------------------------------- */
+.big-numbers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin: 30px 0 40px; }
+.big-numbers div { border-top: 1px dashed var(--trait); padding-top: 12px; }
+.big-numbers b { display: block; font: 600 3.6rem/1 var(--titre); color: var(--jaune); filter: url(#craie); }
+.big-numbers b small { font-size: 1.6rem; color: var(--gris); }
+.big-numbers span { font-size: .92rem; color: var(--craie-2); }
+.cards { list-style: none; padding: 0; margin: 46px 0 0; display: grid; gap: 22px; position: relative; }
+.cards::before { content: ""; position: absolute; left: 14px; top: 0; bottom: 0; border-left: 2px dashed var(--trait); }
+.card { position: relative; margin-left: 40px; padding: 18px 22px 20px; border: 1px solid var(--trait); background: rgba(236, 231, 220, .03); }
+.card::before { content: ""; position: absolute; left: -33px; top: 24px; width: 12px; height: 12px; border-radius: 50%; background: var(--jaune); }
+.card .season { font: .72rem var(--mono); color: var(--gris); letter-spacing: .08em; margin: 0; }
+.card h2 { font: 600 2rem/1.05 var(--titre); text-transform: uppercase; margin: 4px 0 10px; }
+.card h2 .w { color: var(--jaune); } .card h2 .l { color: var(--craie-2); }
+.card h2 small { display: block; font: .72rem var(--mono); color: var(--gris); text-transform: none; }
+.card .hook { font: 1.18rem/1.45 var(--main); color: var(--craie); margin: 0 0 8px; }
+.card .mini { font: .74rem var(--mono); color: var(--gris); margin: 0 0 12px; }
+.card .chips { margin: 0 0 12px; }
+.card .chips button { color: var(--corail); }
+.card-replay { margin: 0 0 14px; }
+.legends { margin-top: 50px; }
+.legend-list { list-style: none; padding: 0; margin: 0; counter-reset: lg; }
+.legend-list li { display: grid; grid-template-columns: 1fr auto; gap: 0 10px; padding: 8px 0; border-bottom: 1px dashed var(--trait); }
+.legend-list li small { grid-column: 1; font: .66rem var(--mono); color: var(--gris); }
+.legend-list li span { grid-row: 1 / 3; grid-column: 2; align-self: center; font: .95rem var(--mono); color: var(--jaune); }
+@media (max-width: 860px) {
+  .features, .paths, .big-numbers { grid-template-columns: 1fr; }
+  .card { margin-left: 28px; padding: 14px 16px; }
+  .card::before { left: -21px; }
+  .cards::before { left: 8px; }
+}
 
 /* --- Pied de page : crédits obligatoires ------------------------------------------------- */
 footer { max-width: 1280px; margin: 0 auto; padding: 26px var(--gouttiere) 46px; border-top: 1px dashed var(--trait); font-size: .8rem; color: var(--gris); }

@@ -20,15 +20,16 @@ def load(mid: str) -> dict[str, Any]:
 
 
 def test_catalogue() -> None:
+    """Seuls les matchs à élimination directe ont une page."""
     cat = json.loads((DATA / "catalogue.json").read_text(encoding="utf-8"))
     sizes = {c["id"]: len(c["matches"]) for c in cat["competitions"]}
     assert sizes == {
-        "wc-2022": 64,
-        "euro-2024": 51,
-        "euro-2020": 51,
-        "wc-2018": 64,
+        "wc-2022": 16,
+        "euro-2024": 15,
+        "euro-2020": 15,
+        "wc-2018": 16,
         "ucl-finals": 11,
-        "euro-2016": 51,
+        "euro-2016": 15,
     }
 
 
@@ -67,7 +68,17 @@ def test_finale_2016_wyscout_et_xg_maison() -> None:
 
 def test_pas_de_donnees_brutes_publiees() -> None:
     d = load("sb-3869685")
-    assert set(d) == {"meta", "stats", "shots", "goals", "players", "team", "value", "analyst"}
+    assert set(d) == {
+        "meta",
+        "stats",
+        "shots",
+        "goals",
+        "players",
+        "team",
+        "value",
+        "analyst",
+        "replays",
+    }
     # le 360 ne sort que sous forme de deux images d'exemple par équipe, jamais en entier
     for side in ("home", "away"):
         ex = d["team"][side]["recovery"]["example"]
@@ -128,3 +139,35 @@ def test_grille_xt() -> None:
     grid = json.loads((DATA / "xt.json").read_text(encoding="utf-8"))["grid"]
     assert len(grid) == 16 and len(grid[0]) == 12
     assert max(map(max, grid)) == max(grid[15][5], grid[15][6])  # devant le but
+
+
+def test_buts_rejoues_finale_2022() -> None:
+    d = load("sb-3869685")
+    minutes = [g["minute"] for g in d["replays"]]
+    assert minutes == [23, 36, 80, 81, 108, 118]
+    di_maria = d["replays"][1]
+    assert di_maria["scorer"] == "Ángel Di María" and di_maria["has_360"]
+    assert [s["name"] for s in di_maria["steps"]][-1] == "Ángel Di María"
+    assert all(s["steps"][-1]["kind"] == "shot" for s in d["replays"])
+    # chaque point garde un numéro d'une image à l'autre ; l'équipe qui marque attaque à droite
+    shot = di_maria["steps"][-1]
+    assert shot["x"] > 80 and all(len(p) == 6 for st in di_maria["steps"] for p in st["dots"])
+
+
+def test_textes_ecrits_a_la_main() -> None:
+    notes = ROOT / "data" / "notes"
+    for f in (DATA / "matches").glob("*.json"):
+        d = json.loads(f.read_text(encoding="utf-8"))
+        own = json.loads((notes / f.name).read_text(encoding="utf-8"))
+        assert d["analyst"] == own, f.name
+
+
+def test_dossier() -> None:
+    dossier = json.loads((DATA / "dossier.json").read_text(encoding="utf-8"))
+    d = load(dossier["match"])
+    for c in dossier["chapters"]:
+        if c["figure"]["type"] == "replay":
+            assert any(g["minute"] == c["figure"]["minute"] for g in d["replays"])
+    for item in dossier["media"]:
+        for ext in ("mp4", "gif"):
+            assert (ROOT / "web" / "media" / f"{item['file']}.{ext}").exists()

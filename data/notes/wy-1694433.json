@@ -1,0 +1,196 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le scénario rêvé pour l'Angleterre a duré deux minutes. W. Rooney transforme un penalty à la 4e, R. Sigurðsson égalise à la 6e, et K. Sigþórsson donne l'avantage à l'Islande dès la 18e, sur une frappe qui ne valait que 0,08 xG. Ensuite, l'Angleterre a eu 64 % du ballon, 18 tirs contre 8, et n'a plus jamais marqué. Ce huitième de finale tient dans ce paradoxe : beaucoup de ballon, peu de vraies situations.",
+   "keys": [
+    "Hors penalty, l'Angleterre ne pèse que 1,14 xG sur 18 tirs : une avalanche de frappes de faible qualité.",
+    "L'Islande cadre 5 tirs sur 8, autant que l'Angleterre sur 18.",
+    "La plus grosse occasion du match après les buts est islandaise : R. Sigurðsson, à la 55e minute, une frappe cadrée à 0,39 xG.",
+    "Côté anglais, D. Alli (0,21 xG à la 60e) et C. Smalling (0,2 à la 38e) n'ont même pas trouvé le cadre."
+   ],
+   "impact": "Les xG donnent l'avantage à l'Angleterre (1,87 contre 1,1), mais un écart de 0,77 avec un penalty dedans ne pèse pas lourd. L'Islande a frappé deux fois tôt, puis a obligé les Anglais à se contenter de frappes de faible valeur pendant plus d'une heure."
+  },
+  "en": {
+   "lead": "The dream script for England lasted two minutes. W. Rooney scores a penalty in minute 4, R. Sigurðsson equalises in minute 6, and K. Sigþórsson puts Iceland ahead as early as minute 18, with a shot worth just 0.08 xG. After that England had 64% of the ball and 18 shots to 8, and never scored again. This round of 16 tie fits in one paradox: lots of ball, few real chances.",
+   "keys": [
+    "Without the penalty England are worth only 1.14 xG from 18 shots: an avalanche of low-quality efforts.",
+    "Iceland put 5 of their 8 shots on target, as many as England managed from 18.",
+    "The biggest chance after the goals is Icelandic: R. Sigurðsson in minute 55, an on-target shot worth 0.39 xG.",
+    "For England, D. Alli (0.21 xG in minute 60) and C. Smalling (0.2 in minute 38) did not even hit the target."
+   ],
+   "impact": "The xG favours England (1.87 to 1.1), but a 0.77 gap with a penalty inside it does not count for much. Iceland struck twice early, then made England settle for low-value shots for more than an hour."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Angleterre attaque en 4-2-4, avec quatre hommes alignés entre 74 et 77 m : D. Alli, H. Kane, R. Sterling à gauche et D. Sturridge à droite. Derrière eux, Rooney (63 m) et E. Dier (47 m) tiennent l'axe, pendant que K. Walker monte à 61 m sur la droite et que D. Rose reste collé à la ligne gauche (5 m). En face, l'Islande se replie dans un 3-3-3-1 où presque tout se passe bas : 42 % de ses touches dans son propre tiers.",
+   "keys": [
+    "Sans le ballon, les positions moyennes anglaises dessinent un 3-2-5 : cinq joueurs restaient haut même quand l'Islande avait le ballon.",
+    "L'Islande joue par les côtés : 28 % de ses touches dans le couloir gauche, 27 % dans le droit, seulement 20 % dans l'axe.",
+    "Son attaquant le plus avancé, Sigþórsson, n'a qu'une position moyenne de 66 m : l'Islande attaquait de loin.",
+    "L'Angleterre, elle, se répartit presque également : 21 % à gauche, 26 % dans l'axe, 22 % à droite."
+   ],
+   "impact": "Avec cinq joueurs à hauteur de la défense islandaise, l'Angleterre a étiré son équipe, mais n'a pas trouvé les intervalles. L'Islande, repliée sur la largeur, a pu absorber 64 % de possession adverse sans jamais céder une deuxième fois."
+  },
+  "en": {
+   "lead": "England attack in a 4-2-4, with four men lined up between 74 and 77 m: D. Alli, H. Kane, R. Sterling on the left and D. Sturridge on the right. Behind them, Rooney (63 m) and E. Dier (47 m) hold the middle, while K. Walker pushes up to 61 m on the right and D. Rose hugs the left touchline (5 m). Opposite, Iceland drop into a 3-3-3-1 where almost everything happens deep: 42% of their touches in their own third.",
+   "keys": [
+    "Out of possession, England's average positions form a 3-2-5: five players stayed high even when Iceland had the ball.",
+    "Iceland play down the sides: 28% of their touches in the left lane, 27% in the right, only 20% in the middle.",
+    "Their most advanced forward, Sigþórsson, has an average position of just 66 m: Iceland attacked from a long way out.",
+    "England spread almost evenly: 21% on the left, 26% in the middle, 22% on the right."
+   ],
+   "impact": "With five players level with Iceland's back line, England stretched their team but never found the gaps. Iceland, spread across the width, soaked up 64% opposition possession without conceding a second time."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Pas d'événements de pression dans ces données Wyscout : on lit le pressing dans les tacles, interceptions et fautes. L'Angleterre défend très haut, à 46,8 m de son but en moyenne, bien au-dessus de la moyenne du tournoi (38,3 m), avec un PPDA de 5,1. L'Islande fait l'inverse : PPDA de 13,6 et actions défensives à 30,8 m. Une équipe qui attend, l'autre qui chasse.",
+   "keys": [
+    "L'Islande accumule 141 actions défensives, presque deux fois plus que l'Angleterre (72).",
+    "46 interceptions islandaises contre 26 : le bloc islandais lisait les passes anglaises.",
+    "Malgré son bloc bas, l'Islande compte 11 récupérations hautes, contre 8 pour l'Angleterre (moyenne du tournoi : 6,9).",
+    "Après une perte, l'Angleterre récupère 47 % de ses ballons en moins de 10 secondes, l'Islande 33 %."
+   ],
+   "impact": "Le pressing anglais a confisqué le ballon, mais il ne pouvait rien contre un adversaire qui ne cherchait pas à le garder. Les 46 interceptions islandaises disent mieux que tout pourquoi les 568 passes anglaises n'ont mené nulle part."
+  },
+  "en": {
+   "lead": "There are no pressure events in this Wyscout data, so the press is read through tackles, interceptions and fouls. England defend very high, 46.8 m from their own goal on average, well above the tournament average (38.3 m), with a PPDA of 5.1. Iceland do the opposite: a PPDA of 13.6 and defensive actions at 30.8 m. One team waits, the other hunts.",
+   "keys": [
+    "Iceland pile up 141 defensive actions, almost twice as many as England (72).",
+    "46 Icelandic interceptions to 26: Iceland's block was reading England's passes.",
+    "Despite their deep block, Iceland have 11 high regains, against 8 for England (tournament average: 6.9).",
+    "After a loss England win the ball back within 10 seconds 47% of the time, Iceland 33%."
+   ],
+   "impact": "England's press confiscated the ball, but it could do nothing against an opponent who did not want to keep it. Iceland's 46 interceptions explain better than anything why England's 568 passes led nowhere."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur ce match, l'Angleterre est très positionniste : −0,95, un jeu où chacun tient son poste et où le ballon circule d'abord derrière. Les trois liens les plus utilisés partent tous de la défense : G. Cahill – C. Smalling (30 passes), Smalling – D. Rose (27), Cahill – K. Walker (24). Rooney est le carrefour du réseau (120 passes), mais Cahill (112) et Smalling (91) le suivent de près. L'Islande, elle, est presque neutre (−0,02) et joue plus court : 46 % de passes courtes.",
+   "keys": [
+    "Passes courtes : 37 % pour l'Angleterre, sous la moyenne du tournoi (42 %), et seulement 24 % de combinaisons rapides.",
+    "Le cœur du réseau islandais est sur la gauche : B. Bjarnason (43 passes), avec A. Skúlason (33) et G. Sigurðsson (36).",
+    "Bjarnason – Skúlason et Bjarnason – G. Sigurðsson, 11 passes chacun : les liens islandais les plus solides.",
+    "Sur l'ensemble du tournoi, l'Angleterre n'est que 13e sur 24 au classement des équipes les plus relationnistes, l'Islande 15e."
+   ],
+   "impact": "Une possession qui tourne entre les défenseurs centraux ne déséquilibre pas une équipe repliée. Tout indique que l'Angleterre a eu le ballon là où l'Islande voulait bien le lui laisser."
+  },
+  "en": {
+   "lead": "In this match England are very positional: −0.95, a game where everyone holds their post and the ball moves around at the back first. The three busiest links all start in defence: G. Cahill – C. Smalling (30 passes), Smalling – D. Rose (27), Cahill – K. Walker (24). Rooney is the network hub (120 passes), but Cahill (112) and Smalling (91) are close behind. Iceland are almost neutral (−0.02) and play shorter: 46% short passes.",
+   "keys": [
+    "Short passes: 37% for England, below the tournament average (42%), and only 24% quick combinations.",
+    "The heart of Iceland's network is on the left: B. Bjarnason (43 passes), with A. Skúlason (33) and G. Sigurðsson (36).",
+    "Bjarnason – Skúlason and Bjarnason – G. Sigurðsson, 11 passes each: Iceland's strongest links.",
+    "Over the whole tournament England are only 13th of 24 in the most-relational ranking, Iceland 15th."
+   ],
+   "impact": "Possession that circulates between centre-backs does not unsettle a team sitting deep. Everything suggests England had the ball exactly where Iceland were happy to let them have it."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voilà un match presque sans transitions. L'Angleterre n'a concédé qu'un tir dans les 15 secondes suivant une perte, pour 0,02 xG ; l'Islande un seul aussi, pour 0,03 xG. Les deux équipes sont très loin de la moyenne du tournoi (1,6 tir et 0,13 xG). Aucun des trois buts n'est venu d'une contre-attaque.",
+   "keys": [
+    "L'Angleterre perd 54 ballons dans le jeu, l'Islande 45 : des pertes nombreuses, mais jamais punies dans la foulée.",
+    "L'Islande, repliée avec 42 % de ses touches dans son camp, n'offrait aucune profondeur à attaquer après ses pertes.",
+    "Aucun des deux buts islandais n'est venu d'une transition : pas de course balle au pied dans le dos anglais."
+   ],
+   "impact": "Ce match ne s'est pas décidé dans le désordre, mais dans les 18 premières minutes, loin des transitions. Ensuite, aucune des deux équipes n'a laissé l'autre courir, et l'Islande a pu tenir son avance."
+  },
+  "en": {
+   "lead": "This is a match with almost no transitions. England conceded only one shot within 15 seconds of a loss, worth 0.02 xG; Iceland also just one, worth 0.03 xG. Both are far below the tournament average (1.6 shots and 0.13 xG). None of the three goals came from a counter-attack.",
+   "keys": [
+    "England lose 54 balls in open play, Iceland 45: plenty of losses, but never punished straight away.",
+    "Iceland, sitting deep with 42% of their touches in their own half, offered no depth to attack after their losses.",
+    "Neither Icelandic goal came from a transition: no breakaway in behind England."
+   ],
+   "impact": "This game was not decided in chaos but in the first 18 minutes, away from transitions. After that neither team let the other run, and Iceland could hold on to their lead."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on mesure l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Et un joueur écrase tous les autres : R. Sterling, +2,32. Dès qu'il touchait le ballon, les gestes défensifs islandais pleuvaient sur lui. Le deuxième du match, Sigþórsson, plafonne à +0,58.",
+   "keys": [
+    "Kane (+0,33) et Cahill (+0,23) complètent le haut du classement anglais : très peu d'attention pour l'avant-centre.",
+    "Côté islandais, les défenseurs K. Árnason (−0,41) et B. Sævarsson (−0,49) ont été laissés tranquilles.",
+    "Sur l'ensemble du tournoi, le plus gros aimant reste K. Lafferty, à +4,09 ; B. Embolo est deuxième avec +2,22.",
+    "R. Sigurðsson, le buteur, est quasiment neutre (+0,02)."
+   ],
+   "impact": "Tout indique que l'Islande avait identifié Sterling comme la menace numéro un, et on peut y voir une raison du peu de danger anglais. En surveillant un homme, elle a éteint une bonne partie du jeu anglais."
+  },
+  "en": {
+   "lead": "Without 360 data this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. And one man dwarfs everyone else: R. Sterling, +2.32. Whenever he touched the ball, Icelandic defensive actions rained down on him. The second highest in the match, Sigþórsson, peaks at +0.58.",
+   "keys": [
+    "Kane (+0.33) and Cahill (+0.23) complete England's top: very little attention for the centre-forward.",
+    "For Iceland, defenders K. Árnason (−0.41) and B. Sævarsson (−0.49) were left alone.",
+    "Over the whole tournament the biggest magnet remains K. Lafferty, at +4.09; B. Embolo is second with +2.22.",
+    "R. Sigurðsson, the scorer, is practically neutral (+0.02)."
+   ],
+   "impact": "Everything suggests Iceland had singled out Sterling as the main threat, which may help explain how little danger England produced. By watching one man, they switched off a big part of England's game."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Angleterre crée 2,27 xT, presque trois fois la menace islandaise (0,78). Mais regardez les gestes les plus dangereux : aucun ne dépasse +0,15 xT. Beaucoup de petites avancées, aucune passe qui casse la défense. Le premier créateur anglais est D. Sturridge (0,57 xT, 25 % de la menace de l'équipe), depuis son côté droit.",
+   "keys": [
+    "La menace anglaise grimpe en seconde période (1,45 xT contre 0,82), sans le moindre but au bout.",
+    "Le geste le plus menaçant du match est une passe de Kane à la 78e minute (+0,15 xT), de 78 à 94 m.",
+    "Côté islandais, le premier créateur est un défenseur, Sævarsson (0,23 xT, 29 % de la menace de l'équipe).",
+    "Rooney (0,32 xT) et Rose (0,29) suivent Sturridge chez les créateurs anglais."
+   ],
+   "impact": "Une équipe qui avance beaucoup mais par petits pas finit par buter sur le dernier rideau. L'Islande n'a eu besoin que de 0,78 xT pour marquer deux fois : l'efficacité contre le volume."
+  },
+  "en": {
+   "lead": "England create 2.27 xT, almost three times Iceland's threat (0.78). But look at the most dangerous actions: none exceeds +0.15 xT. Lots of small steps forward, no pass that breaks the defence. England's top creator is D. Sturridge (0.57 xT, 25% of the team's threat), from the right side.",
+   "keys": [
+    "England's threat rises after the break (1.45 xT against 0.82), with no goal at the end of it.",
+    "The most threatening action of the match is a Kane pass in minute 78 (+0.15 xT), from 78 to 94 m.",
+    "For Iceland the top creator is a defender, Sævarsson (0.23 xT, 29% of the team's threat).",
+    "Rooney (0.32 xT) and Rose (0.29) follow Sturridge among England's creators."
+   ],
+   "impact": "A team that moves forward a lot, but in small steps, ends up hitting the last line. Iceland needed only 0.78 xT to score twice: efficiency against volume."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur le papier, l'Angleterre alignait certains des meilleurs joueurs du tournoi à leur poste. K. Walker est 1er des 67 latéraux classés (note de 81). D. Sturridge est 2e des 46 attaquants, Rooney 4e. Côté islandais, le premier nom n'arrive qu'au 31e rang des attaquants : J. Böðvarsson, auteur d'une passe décisive dans ce match.",
+   "keys": [
+    "E. Dier se classe 10e des 90 milieux, D. Rose 9e des latéraux.",
+    "Les deux centraux anglais sont dans la deuxième partie du tableau : Cahill 13e, Smalling 15e sur 33.",
+    "R. Sigurðsson, le buteur islandais, est 42e des 67 latéraux, avec 450 minutes jouées.",
+    "Böðvarsson termine le tournoi avec 1 but et 1 passe décisive en 365 minutes."
+   ],
+   "impact": "Les classements individuels donnaient l'Angleterre largement favorite, et c'est ce qui rend ce résultat si frappant. Un collectif bien organisé a battu une addition de talents mieux notés."
+  },
+  "en": {
+   "lead": "On paper England fielded some of the best players of the tournament in their positions. K. Walker is 1st of 67 ranked full-backs (score of 81). D. Sturridge is 2nd of 46 forwards, Rooney 4th. For Iceland the first name only comes 31st among forwards: J. Böðvarsson, who provided an assist in this match.",
+   "keys": [
+    "E. Dier ranks 10th of 90 midfielders, D. Rose 9th among full-backs.",
+    "England's two centre-backs sit in the lower half: Cahill 13th, Smalling 15th of 33.",
+    "R. Sigurðsson, Iceland's scorer, is 42nd of 67 full-backs, with 450 minutes played.",
+    "Böðvarsson ends the tournament with 1 goal and 1 assist in 365 minutes."
+   ],
+   "impact": "The individual rankings made England clear favourites, which is what makes this result so striking. A well-organised collective beat a sum of higher-rated talents."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau le plus troublant du match est celui de Kane : Cristiano Ronaldo à l'Euro 2024, similaire à 96 %. Juste derrière, A. Gignac à ce même Euro 2016 (93 %). Un profil d'avant-centre pur, tourné vers le but. Et Cahill et Smalling sont jumeaux l'un de l'autre, à 95 % : une charnière de clones.",
+   "keys": [
+    "E. Dier ressemble à Aurélien Tchouaméni à l'Euro 2024, à 97 %.",
+    "Sturridge a pour jumeaux Memphis Depay (87 %), puis Vinícius Júnior et Kylian Mbappé à la Coupe du monde 2022 (86 % chacun).",
+    "R. Sigurðsson, buteur islandais, ressemble à R. Hubník (Tchéquie, Euro 2016) à 96 %."
+   ],
+   "impact": "Les jumeaux anglais sont des noms prestigieux, ceux des Islandais beaucoup moins. Mais ce soir-là, ce sont les profils les plus modestes qui ont gagné."
+  },
+  "en": {
+   "lead": "The most striking twin of the match belongs to Kane: Cristiano Ronaldo at Euro 2024, 96% similar. Just behind comes A. Gignac at this same Euro 2016 (93%). A pure centre-forward profile, facing the goal. And Cahill and Smalling are each other's twins, at 95%: a centre-back pairing of clones.",
+   "keys": [
+    "E. Dier resembles Aurélien Tchouaméni at Euro 2024, at 97%.",
+    "Sturridge's twins are Memphis Depay (87%), then Vinícius Júnior and Kylian Mbappé at the 2022 World Cup (86% each).",
+    "R. Sigurðsson, Iceland's scorer, resembles R. Hubník (Czech Republic, Euro 2016) at 96%."
+   ],
+   "impact": "England's twins are glamorous names, Iceland's far less so. But that night it was the humbler profiles that won."
+  }
+ }
+}

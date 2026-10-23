@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale qui s'ouvre et se referme sur deux frappes improbables. Xavi Simons lance les Pays-Bas à la 7e minute sur un tir à 0,05 xG ; Ollie Watkins, sur le terrain depuis 16 minutes, offre la finale à l'Angleterre à la 91e sur un tir à 0,04 xG. Entre les deux, un penalty de Harry Kane à la 18e (0,78 xG), qui pèse à lui seul plus que toute l'attaque néerlandaise du soir (0,41 xG). Les deux équipes arrivaient pourtant par des chemins tortueux : les Pays-Bas après leur 2-1 contre la Turquie, l'Angleterre après les tirs au but contre la Suisse.",
+   "keys": [
+    "Hors penalty, les deux équipes sont à égalité ou presque : 0,45 npxG pour l'Angleterre, 0,41 pour les Pays-Bas.",
+    "Cole Palmer et Ollie Watkins ont joué 16 minutes chacun : assez pour une passe décisive et un but.",
+    "L'Angleterre cadre 5 tirs sur 9, les Pays-Bas 3 sur 7 : un match pauvre en occasions des deux côtés.",
+    "La seule grosse occasion du match est le penalty de Kane. La plus belle occasion manquée, une frappe cadrée de Phil Foden à la 23e (0,17 xG)."
+   ],
+   "impact": "Au total, l'Angleterre a créé 1,24 xG contre 0,41, mais l'écart tient presque entièrement au penalty. Sans lui, la demi-finale aurait été un match nul statistique, tranché par un éclair dans le temps additionnel."
+  },
+  "en": {
+   "lead": "A semi-final that opened and closed with two improbable strikes. Xavi Simons put the Netherlands ahead in minute 7 with a 0.05 xG shot; Ollie Watkins, on the pitch for 16 minutes, sent England to the final in minute 91 with a 0.04 xG shot. In between came a Harry Kane penalty in minute 18 (0.78 xG), which on its own outweighed the Netherlands' entire attacking output on the night (0.41 xG). Both teams had come through winding roads: the Netherlands after their 2-1 against Turkey, England after penalties against Switzerland.",
+   "keys": [
+    "Without penalties, the two sides are almost level: 0.45 npxG for England, 0.41 for the Netherlands.",
+    "Cole Palmer and Ollie Watkins played 16 minutes each: enough for one assist and one goal.",
+    "England put 5 of 9 shots on target, the Netherlands 3 of 7: a match short of chances at both ends.",
+    "The only big chance of the match was Kane's penalty. The best missed opportunity was a Phil Foden shot on target in minute 23 (0.17 xG)."
+   ],
+   "impact": "Overall England created 1.24 xG against 0.41, but the gap comes almost entirely from the penalty. Without it, the semi-final would have been a statistical draw, settled by a flash in stoppage time."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux équipes penchées chacune d'un côté, et ces côtés se faisaient face. L'Angleterre attaquait par la gauche (27 % de ses touches dans le couloir gauche, seulement 10 % à droite), avec Kieran Trippier collé à la ligne, à 2 m de la touche. Les Pays-Bas, eux, jouaient à droite : 23 % des touches dans le couloir droit, 22 % dans le demi-espace droit, avec Denzel Dumfries et Xavi Simons sur ce flanc. Le couloir gauche anglais faisait donc face au côté fort néerlandais.",
+   "keys": [
+    "Les Pays-Bas ne passent que 12 % de leurs touches dans le couloir gauche, où Cody Gakpo restait isolé à 77 m.",
+    "Avec le ballon, la dernière ligne néerlandaise ne montait qu'à 38,1 m, sous la moyenne du tournoi (42,0 m) : une équipe qui construisait de loin.",
+    "Les Néerlandais passent 36 % de leurs touches dans leur propre tiers, contre 19 % dans le dernier.",
+    "L'Angleterre défendait haut : dernière ligne à 32,7 m sans ballon, au-dessus de la moyenne (29,2 m)."
+   ],
+   "impact": "L'Angleterre a installé le match dans le camp néerlandais, et les Pays-Bas ont passé la soirée à défendre leur moitié de terrain. Le duel des côtés forts s'est neutralisé, et aucune équipe n'a trouvé de couloir libre."
+  },
+  "en": {
+   "lead": "Two teams each leaning to one side, and those sides faced each other. England attacked down the left (27% of their touches in the left lane, only 10% on the right), with Kieran Trippier glued to the line, 2 m from the touchline. The Netherlands played on the right: 23% of touches in the right lane, 22% in the right half-space, with Denzel Dumfries and Xavi Simons on that flank. England's left lane therefore faced the Dutch strong side.",
+   "keys": [
+    "The Netherlands spend only 12% of their touches in the left lane, where Cody Gakpo stayed isolated at 77 m.",
+    "With the ball, the Dutch back line rose only to 38.1 m, below the tournament average (42.0 m): a team building from deep.",
+    "The Dutch spend 36% of their touches in their own third, against 19% in the final third.",
+    "England defended high: back line at 32.7 m without the ball, above the average (29.2 m)."
+   ],
+   "impact": "England settled the match in the Dutch half, and the Netherlands spent the evening defending their own half. The battle of the strong flanks cancelled out, and neither team found a free lane."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Une demi-finale presque sans pressing. Les Pays-Bas ne mettaient que 2,2 pressions par minute sans ballon, l'Angleterre 2,8, quand la moyenne du tournoi est de 4,2. Les Néerlandais attendaient très bas, leurs actions défensives à 39,4 m de leur but en moyenne. L'Angleterre, elle, défendait loin devant, à 57,2 m, et surtout réagissait vite à la perte : 42 % des ballons récupérés en moins de 5 secondes, 62 % en moins de 10.",
+   "keys": [
+    "PPDA de 29,5 pour les Pays-Bas, signe d'un bloc qui laissait l'Angleterre faire circuler.",
+    "Contre-pressing anglais : 23 % des pressions dans les 5 s après une perte (moyenne : 19 %).",
+    "Récupérations hautes : 5 pour l'Angleterre, 3 pour les Pays-Bas, toutes deux sous la moyenne (8,6).",
+    "Les Pays-Bas récupèrent 42 % de leurs ballons perdus après plus de 20 secondes : ils subissaient de longues séquences anglaises."
+   ],
+   "impact": "En reculant si bas, les Pays-Bas ont protégé leur but mais laissé le ballon à l'Angleterre (60 % de possession). Et tout indique que la réaction anglaise à la perte a empêché les Néerlandais de lancer des contres, à une exception près : celle du but de Simons."
+  },
+  "en": {
+   "lead": "A semi-final almost without pressing. The Netherlands made only 2.2 pressures per minute out of possession, England 2.8, against a tournament average of 4.2. The Dutch waited very deep, their defensive actions 39.4 m from their own goal on average. England defended far higher, at 57.2 m, and above all reacted quickly to losing the ball: 42% of balls won back within 5 seconds, 62% within 10.",
+   "keys": [
+    "A PPDA of 29.5 for the Netherlands, the sign of a block letting England circulate.",
+    "England's counter-press: 23% of pressures within 5 s of a loss (average: 19%).",
+    "High regains: 5 for England, 3 for the Netherlands, both below the average (8.6).",
+    "The Netherlands win back 42% of their lost balls only after more than 20 seconds: they endured long English spells."
+   ],
+   "impact": "By dropping so deep, the Netherlands protected their goal but handed England the ball (60% possession). And everything suggests England's reaction to losing the ball stopped the Dutch from launching counters, with one exception: the move for Simons's goal."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Les Pays-Bas ont été très positionnistes ce soir-là (−0,78), à peine moins que la Serbie, l'équipe la plus positionniste du tournoi (−0,80). Moins d'une passe sur deux est courte (47 %), et le réseau s'appuie sur la défense : Virgil van Dijk (100 passes), Stefan de Vrij (93) et même le gardien, Bart Verbruggen, relié à van Dijk par 24 passes. L'Angleterre (−0,34), plus patiente, faisait tourner autour de Declan Rice et de sa défense à trois.",
+   "keys": [
+    "Rice est impliqué dans 152 passes entre titulaires, John Stones dans 150 et Marc Guehi dans 141.",
+    "Le lien le plus utilisé du match : Stones – Guehi, 43 passes. L'Angleterre construisait derrière, tranquillement.",
+    "Côté néerlandais, de Vrij – Dumfries (22 passes) confirme que le jeu partait sur la droite.",
+    "Les Pays-Bas combinaient pourtant vite quand ils le pouvaient : 37 % de combinaisons rapides, au-dessus de la moyenne (34 %)."
+   ],
+   "impact": "L'Angleterre a eu le ballon et la patience, les Pays-Bas des séquences courtes et verticales. Ni l'une ni l'autre approche n'a vraiment produit d'occasions, ce qui aide à comprendre un match décidé par un penalty et un but tardif."
+  },
+  "en": {
+   "lead": "The Netherlands were very positional on the night (−0.78), barely less than Serbia, the most positional team of the tournament (−0.80). Fewer than one pass in two was short (47%), and the network leaned on the defence: Virgil van Dijk (100 passes), Stefan de Vrij (93) and even the goalkeeper, Bart Verbruggen, linked to van Dijk by 24 passes. England (−0.34), more patient, circulated through Declan Rice and their back three.",
+   "keys": [
+    "Rice is involved in 152 passes between starters, John Stones in 150 and Marc Guehi in 141.",
+    "The busiest link of the match: Stones – Guehi, 43 passes. England built from the back, unhurried.",
+    "For the Netherlands, de Vrij – Dumfries (22 passes) confirms that play started down the right.",
+    "Yet the Dutch combined quickly when they could: 37% quick combinations, above the average (34%)."
+   ],
+   "impact": "England had the ball and the patience, the Netherlands short, vertical sequences. Neither approach really produced chances, which helps explain a match decided by a penalty and a late goal."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le premier but du match est né d'une transition : à la 7e minute, Xavi Simons punit une perte anglaise. C'est d'ailleurs l'une des deux seules frappes concédées par l'Angleterre dans ces moments-là, pour 0,09 xG au total. Le reste du temps, les replis ont tenu des deux côtés, et les Pays-Bas en particulier perdaient rarement le ballon en déséquilibre : 5,8 joueurs derrière le ballon au moment de la perte.",
+   "keys": [
+    "Côté anglais, 4,4 joueurs derrière le ballon à la perte, 5,4 quelques secondes plus tard : un repli qui arrive, mais en retard.",
+    "Bloc reformé à 7 ou plus dans 38 % des cas pour les Pays-Bas, 29 % pour l'Angleterre (moyenne : 36 %).",
+    "Exemple 360 à la 83e minute : 3 Anglais derrière le ballon à la perte, 10 quelques secondes plus tard.",
+    "Les Pays-Bas n'ont concédé que 2 tirs en transition, pour 0,06 xG."
+   ],
+   "impact": "La seule faille du repli anglais a coûté un but, mais l'Angleterre s'est ensuite resserrée et n'a presque plus rien laissé. Les Pays-Bas, très disciplinés à la perte, n'ont pas encaissé en transition, mais sur un penalty et une frappe tardive."
+  },
+  "en": {
+   "lead": "The first goal of the match came from a transition: in minute 7, Xavi Simons punished an English loss of possession. It was one of only two shots England conceded in those moments, worth 0.09 xG in total. The rest of the time, recovery runs held on both sides, and the Netherlands in particular rarely lost the ball out of shape: 5.8 players behind the ball at the moment of the loss.",
+   "keys": [
+    "For England, 4.4 players behind the ball at the loss, 5.4 a few seconds later: a recovery that arrives, but late.",
+    "Block rebuilt with 7 or more in 38% of cases for the Netherlands, 29% for England (average: 36%).",
+    "A 360 example in minute 83: 3 English players behind the ball at the loss, 10 a few seconds later.",
+    "The Netherlands conceded only 2 shots in transition, worth 0.06 xG."
+   ],
+   "impact": "The one gap in England's recovery cost them a goal, but they then tightened up and gave almost nothing more away. The Netherlands, very disciplined at the loss, did not concede in transition, but from a penalty and a late strike."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Memphis Depay a été l'aimant absolu de cette demi-finale : 1,46 adversaire de plus que la normale autour de chacune de ses touches. C'est plus que la meilleure moyenne de tout le tournoi, celle de Denis Dragus (1,22). Côté anglais, Phil Foden (1,01) était le plus entouré, devant Kobbie Mainoo (0,71), Harry Kane (0,65) et Jude Bellingham (0,60).",
+   "keys": [
+    "Wout Weghorst (0,81) attirait lui aussi beaucoup de monde : les avants néerlandais étaient pris en étau.",
+    "Foden, entouré à chaque touche, a tout de même trouvé une frappe cadrée à 0,17 xG à la 23e minute.",
+    "Marc Guehi (−0,95), Stefan de Vrij (−0,86) et John Stones (−0,82) n'ont jamais été pressés à la relance.",
+    "Guehi est le joueur le moins entouré du match : les Pays-Bas le laissaient relancer."
+   ],
+   "impact": "Tout indique qu'avec Depay aussi étroitement surveillé, les Pays-Bas ont manqué de solutions devant : 0,41 xG sur tout le match. L'Angleterre, en laissant si peu d'espace à l'attaquant néerlandais, a coupé la principale source de danger adverse."
+  },
+  "en": {
+   "lead": "Memphis Depay was the ultimate magnet of this semi-final: 1.46 extra opponents around each of his touches. That is more than the best average of the whole tournament, Denis Dragus's (1.22). For England, Phil Foden (1.01) was the most crowded, ahead of Kobbie Mainoo (0.71), Harry Kane (0.65) and Jude Bellingham (0.60).",
+   "keys": [
+    "Wout Weghorst (0.81) also drew plenty of bodies: the Dutch forwards were caught in a vice.",
+    "Foden, surrounded at every touch, still found a 0.17 xG shot on target in minute 23.",
+    "Marc Guehi (−0.95), Stefan de Vrij (−0.86) and John Stones (−0.82) were never pressed on the ball.",
+    "Guehi is the least crowded player of the match: the Netherlands let him play out."
+   ],
+   "impact": "Everything suggests that with Depay so tightly watched, the Netherlands lacked options up front: 0.41 xG over the whole match. By leaving the Dutch striker so little space, England cut off their opponents' main source of danger."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Une demi-finale avare en menace : 1,09 xT pour l'Angleterre, 0,80 pour les Pays-Bas, et aucun geste au-dessus de 0,14 xT. Pas de chef d'orchestre non plus : le plus grand créateur du match est Xavi Simons avec seulement 0,22 xT, devant Kobbie Mainoo et Bukayo Saka (0,18 chacun). Clin d'œil : l'une des actions les plus menaçantes de l'Angleterre est un long ballon de Jordan Pickford à la 8e minute, de 26 à 92 m.",
+   "keys": [
+    "L'Angleterre fait l'essentiel en première mi-temps (0,65 xT), puis baisse le rythme (0,44).",
+    "Les Pays-Bas font l'inverse : 0,25 xT avant la pause, 0,55 après, sans réussir à égaliser.",
+    "Les deux passes les plus menaçantes néerlandaises viennent de Gakpo à la 77e et de Joey Veerman à la 48e (+0,14 xT chacune).",
+    "Simons produit 28 % de la menace néerlandaise, surtout balle au pied (0,14 xT en conduites)."
+   ],
+   "impact": "Avec si peu de menace de part et d'autre, chaque détail comptait : un penalty, une transition, une frappe à la 91e. Les Pays-Bas ont poussé en seconde période, mais pas assez pour faire plier une Angleterre qui gérait."
+  },
+  "en": {
+   "lead": "A semi-final stingy with threat: 1.09 xT for England, 0.80 for the Netherlands, and no single action above 0.14 xT. No conductor either: the biggest creator of the match is Xavi Simons with just 0.22 xT, ahead of Kobbie Mainoo and Bukayo Saka (0.18 each). A nice detail: one of England's most threatening actions is a long ball from Jordan Pickford in minute 8, from 26 to 92 m.",
+   "keys": [
+    "England did most of their work in the first half (0.65 xT), then eased off (0.44).",
+    "The Netherlands did the opposite: 0.25 xT before the break, 0.55 after, without managing to equalise.",
+    "The two most threatening Dutch passes came from Gakpo in minute 77 and Joey Veerman in minute 48 (+0.14 xT each).",
+    "Simons produced 28% of the Dutch threat, mostly with the ball at his feet (0.14 xT from carries)."
+   ],
+   "impact": "With so little threat on either side, every detail counted: a penalty, a transition, a strike in minute 91. The Netherlands pushed in the second half, but not enough to break an England side managing the game."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Dans les classements, ce sont les Pays-Bas qui brillaient : Donyell Malen 1er des 49 attaquants de l'Euro (note de 84), Memphis Depay 6e, Cody Gakpo 7e avec 3 buts et 1 passe décisive, Virgil van Dijk 4e des 30 défenseurs centraux. Côté anglais, le mieux classé de ce tableau est Kieran Trippier, seulement 25e des 78 latéraux. Le contraste est saisissant pour une équipe qui file en finale.",
+   "keys": [
+    "Declan Rice, 713 minutes jouées, n'est que 34e des 82 milieux (55).",
+    "Xavi Simons, buteur du soir, est 39e des milieux mais compte 1 but et 3 passes décisives sur le tournoi.",
+    "Joey Veerman (24e) et Jerdy Schouten (23e) se tiennent au milieu du classement des milieux.",
+    "Bart Verbruggen est 8e des 24 gardiens (57)."
+   ],
+   "impact": "Les classements récompensent la qualité moyenne sur tout le tournoi ; l'Angleterre a avancé autrement, à coups de moments décisifs. Cette demi-finale en est le meilleur exemple : une équipe moins bien classée, mais plus tranchante quand il le fallait."
+  },
+  "en": {
+   "lead": "In the rankings, it was the Netherlands who shone: Donyell Malen 1st of 49 forwards at the Euro (score of 84), Memphis Depay 6th, Cody Gakpo 7th with 3 goals and 1 assist, Virgil van Dijk 4th of 30 centre-backs. For England, the best ranked in this table is Kieran Trippier, only 25th of 78 full-backs. A striking contrast for a team heading to the final.",
+   "keys": [
+    "Declan Rice, with 713 minutes played, is only 34th of 82 midfielders (55).",
+    "Xavi Simons, the Dutch scorer on the night, is 39th among midfielders but has 1 goal and 3 assists in the tournament.",
+    "Joey Veerman (24th) and Jerdy Schouten (23rd) sit mid-table among midfielders.",
+    "Bart Verbruggen is 8th of 24 goalkeepers (57)."
+   ],
+   "impact": "Rankings reward average quality across the tournament; England progressed another way, through decisive moments. This semi-final is the best example: a lower-ranked team, but sharper when it mattered."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Declan Rice, l'axe de l'Angleterre ce soir-là, a pour jumeau William Carvalho au Mondial 2022 (87 %), puis Koke (84 %) et Sergio Busquets (81 %) : des milieux qui organisent depuis la base. Kieran Trippier ressemble à David Alaba à l'Euro 2020 (88 %), puis à son coéquipier Luke Shaw au Mondial 2022 (87 %). Côté néerlandais, Joey Veerman a deux jumeaux à 90 % : Christian Eriksen et João Moutinho.",
+   "keys": [
+    "Nathan Aké rappelle Kim Moon-Hwan au Mondial 2022 (93 %) et K. Glik à l'Euro 2016 (91 %).",
+    "Jerdy Schouten se rapproche de William Carvalho, version Euro 2016 (82 %) : deux sentinelles du même moule face à face, par jumeaux interposés.",
+    "Bart Verbruggen a pour double Manuel Neuer au Mondial 2022 (92 %).",
+    "Memphis Depay ressemble d'abord à Luis Suárez au Mondial 2018 (93 %)."
+   ],
+   "impact": "Rice et Schouten partagent le même jumeau, William Carvalho : les deux milieux défensifs avaient des profils très proches, et le match s'est en effet joué au coude à coude. La différence est venue de Palmer et Watkins, pas des sentinelles."
+  },
+  "en": {
+   "lead": "Declan Rice, England's axis on the night, has William Carvalho at the 2022 World Cup as his twin (87%), then Koke (84%) and Sergio Busquets (81%): midfielders who organise from deep. Kieran Trippier resembles David Alaba at Euro 2020 (88%), then his team-mate Luke Shaw at the 2022 World Cup (87%). For the Netherlands, Joey Veerman has two 90% twins: Christian Eriksen and João Moutinho.",
+   "keys": [
+    "Nathan Aké recalls Kim Moon-Hwan at the 2022 World Cup (93%) and K. Glik at Euro 2016 (91%).",
+    "Jerdy Schouten is close to William Carvalho, Euro 2016 version (82%): two holding midfielders from the same mould, face to face by twins.",
+    "Bart Verbruggen's double is Manuel Neuer at the 2022 World Cup (92%).",
+    "Memphis Depay looks first like Luis Suárez at the 2018 World Cup (93%)."
+   ],
+   "impact": "Rice and Schouten share the same twin, William Carvalho: the two holding midfielders had very similar profiles, and the match was indeed neck and neck. The difference came from Palmer and Watkins, not from the anchors."
+  }
+ }
+}

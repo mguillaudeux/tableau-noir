@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le Portugal a eu 70 % du ballon, 20 tirs, 11 corners et un penalty à la 105e minute, et il a pourtant fallu attendre les tirs au but pour départager les deux équipes. Cristiano Ronaldo manque cette balle de match à 0,78 xG, Jan Oblak repousse tout le reste avec 5 arrêts, et la Slovénie tient 0-0 jusqu'au bout de la prolongation. La séance, elle, tourne nettement en faveur du Portugal : 3-0.",
+   "keys": [
+    "xG : 1,72 pour le Portugal, dont 0,94 hors penalty ; 0,72 pour la Slovénie, avec deux fois moins de tirs (10).",
+    "Benjamin Šeško a eu les deux meilleures occasions slovènes : 0,25 xG à la 61e minute, hors cadre, puis 0,18 xG à la 115e, cadrée.",
+    "Bruno Fernandes, chef d'orchestre portugais : 14 passes progressives, 4 passes clés et 0,62 xT.",
+    "Jure Balkovec, 23 actions défensives en 121 minutes : le défenseur slovène a passé la soirée à colmater.",
+    "Un match très physique côté slovène : 21 fautes et 5 cartons jaunes, contre 8 fautes et 1 jaune pour le Portugal."
+   ],
+   "impact": "Sans le penalty, l'écart d'xG fond presque entièrement (0,94 contre 0,72), ce qui dit bien combien la Slovénie a tenu le match. Le Portugal a dominé le ballon, pas les occasions, et a dû aller chercher sa qualification dans la séance."
+  },
+  "en": {
+   "lead": "Portugal had 70% of the ball, 20 shots, 11 corners and a penalty in minute 105, and still needed a shoot-out to separate the teams. Cristiano Ronaldo missed that match point worth 0.78 xG, Jan Oblak kept out everything else with 5 saves, and Slovenia held on at 0-0 to the end of extra time. The shoot-out itself went clearly Portugal's way: 3-0.",
+   "keys": [
+    "xG: 1.72 for Portugal, 0.94 of it without the penalty; 0.72 for Slovenia, from half as many shots (10).",
+    "Benjamin Šeško had Slovenia's two best chances: 0.25 xG in minute 61, off target, then 0.18 xG in minute 115, on target.",
+    "Bruno Fernandes, Portugal's conductor: 14 progressive passes, 4 key passes and 0.62 xT.",
+    "Jure Balkovec made 23 defensive actions in 121 minutes: the Slovenian defender spent the night plugging holes.",
+    "A very physical night from Slovenia: 21 fouls and 5 yellow cards, against 8 fouls and 1 yellow for Portugal."
+   ],
+   "impact": "Take away the penalty and the xG gap almost disappears (0.94 to 0.72), which shows how well Slovenia held the game. Portugal dominated the ball, not the chances, and had to earn their place through the shoot-out."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le Portugal a joué ce huitième de finale en écartant le jeu au maximum : 35,9 m de largeur avec le ballon, bien au-delà de la moyenne de l'Euro (31,7 m), et seulement 17 % de ses touches dans l'axe. Rafael Leão collé à la ligne gauche (5 m), Nuno Mendes juste derrière (9 m), Cancelo et Bernardo Silva de l'autre côté : un 4-4-2 tout en largeur. La Slovénie, elle, resserrait son jeu sur 26,3 m et n'occupait que 1,7 couloir en moyenne.",
+   "keys": [
+    "Le Portugal fait 29 % de ses touches dans le couloir gauche et 26 % dans le couloir droit : plus de la moitié du jeu sur les ailes.",
+    "Ce couloir gauche portugais faisait face au côté droit slovène, où Karničnik et Stojanović se trouvaient : la Slovénie y fait 26 % de ses touches.",
+    "Annoncée en 4-4-2, la Slovénie défendait en 3-1-4-2, avec une dernière ligne à 26,6 m de son but.",
+    "Sans le ballon, la dernière ligne portugaise restait haute, à 35,5 m de son but, contre 29,2 m en moyenne dans le tournoi."
+   ],
+   "impact": "Étirer le terrain contre un bloc aussi serré n'a pas suffi : le Portugal a multiplié les corners (11) sans jamais déchirer l'axe. La Slovénie a accepté de laisser les côtés pour protéger le cœur de sa surface, et le pari a tenu 120 minutes."
+  },
+  "en": {
+   "lead": "Portugal played this Round of 16 tie as wide as possible: 35.9 m of width in possession, well beyond the Euro average (31.7 m), and only 17% of their touches through the middle. Rafael Leão on the left touchline (5 m), Nuno Mendes right behind him (9 m), Cancelo and Bernardo Silva on the other side: a 4-4-2 built on width. Slovenia squeezed their game into 26.3 m and occupied just 1.7 lanes on average.",
+   "keys": [
+    "Portugal make 29% of their touches in the left lane and 26% in the right: more than half of their play on the wings.",
+    "That Portuguese left lane faced Slovenia's right, home to Karničnik and Stojanović: Slovenia make 26% of their touches there.",
+    "Announced in a 4-4-2, Slovenia defended in a 3-1-4-2, with their back line 26.6 m from goal.",
+    "Out of possession, Portugal's back line stayed high, 35.5 m from goal, against a tournament average of 29.2 m."
+   ],
+   "impact": "Stretching the pitch against such a tight block was not enough: Portugal piled up corners (11) without ever tearing open the middle. Slovenia were happy to concede the flanks to protect the heart of their box, and the gamble held for 120 minutes."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Portugal a pressé dans la moyenne de l'Euro (4,2 pressions par minute sans ballon), mais avec un vrai réflexe de contre-pressing : 31 % de ses pressions tombent juste après une perte, quand la norme est à 19 %. Il fallait bien ça : le Portugal a perdu 147 ballons dans le jeu. La Slovénie, plus prudente (PPDA de 26,4), a pourtant réussi 11 récupérations hautes, au-dessus de la moyenne du tournoi (8,6).",
+   "keys": [
+    "Récupérations hautes : 13 pour le Portugal, 11 pour la Slovénie. Un équilibre étonnant vu l'écart de possession.",
+    "Le Portugal récupère 59 % de ses ballons perdus en moins de 10 secondes.",
+    "La Slovénie défend à 40,6 m de son but, le Portugal à 49,9 m.",
+    "Côté slovène, 31 % des ballons perdus sont repris en moins de 5 secondes, un peu mieux que le Portugal (28 %)."
+   ],
+   "impact": "La Slovénie a fait plus que subir : elle a volé des ballons haut presque autant que le Portugal. Ces ballons volés ont sans doute nourri ses rares sorties, comme la course de Šeško à la 61e minute."
+  },
+  "en": {
+   "lead": "Portugal pressed at the Euro average (4.2 pressures per minute out of possession), but with a real counter-pressing reflex: 31% of their pressures came straight after a loss, against a norm of 19%. They needed it: Portugal lost the ball 147 times in open play. Slovenia, more cautious (PPDA of 26.4), still managed 11 high regains, above the tournament average (8.6).",
+   "keys": [
+    "High regains: 13 for Portugal, 11 for Slovenia. A surprising balance given the possession gap.",
+    "Portugal win back 59% of lost balls within 10 seconds.",
+    "Slovenia defend 40.6 m from their goal, Portugal 49.9 m.",
+    "For Slovenia, 31% of lost balls are won back within 5 seconds, slightly better than Portugal (28%)."
+   ],
+   "impact": "Slovenia did more than just suffer: they stole the ball high up almost as often as Portugal. Those stolen balls probably fed their rare breakouts, such as Šeško's run in minute 61."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Paradoxe : dans ce match, l'équipe relationniste, c'est la Slovénie, avec un indice de +0,73. Peu de ballons, mais toujours joués serrés : 2,52 coéquipiers près du porteur et 62 % de passes courtes. Le Portugal (−0,26) faisait circuler par ses défenseurs : Pepe impliqué dans 198 passes, Rúben Dias dans 175, et Nuno Mendes dans 167.",
+   "keys": [
+    "Le lien le plus utilisé du match, Pepe – Nuno Mendes (58 passes), confirme que le Portugal construisait par la gauche.",
+    "Devant eux, Leão – Nuno Mendes (37 passes) formait le duo offensif le plus actif.",
+    "Le carrefour slovène, Žan Karničnik, n'est impliqué que dans 35 passes : la Slovénie jouait par petites touches, sans meneur fixe.",
+    "Le Portugal combine peu vite : 28 % de combinaisons rapides, sous la moyenne de l'Euro (34 %)."
+   ],
+   "impact": "La circulation portugaise, lente et large, laissait le temps à la Slovénie de se replacer. Tout indique que le manque de combinaisons rapides a empêché le Portugal de surprendre un bloc qui l'attendait."
+  },
+  "en": {
+   "lead": "Here is the paradox: in this match, the relational team was Slovenia, with an index of +0.73. Little of the ball, but always played tight: 2.52 teammates near the carrier and 62% short passes. Portugal (−0.26) circulated through their defenders: Pepe involved in 198 passes, Rúben Dias in 175 and Nuno Mendes in 167.",
+   "keys": [
+    "The busiest link of the match, Pepe – Nuno Mendes (58 passes), confirms that Portugal built down the left.",
+    "Ahead of them, Leão – Nuno Mendes (37 passes) was the most active attacking pair.",
+    "Slovenia's hub, Žan Karničnik, is involved in just 35 passes: Slovenia played in small touches, with no fixed playmaker.",
+    "Portugal rarely combined quickly: 28% quick combinations, below the Euro average (34%)."
+   ],
+   "impact": "Portugal's slow, wide circulation gave Slovenia time to reorganise. Everything suggests the lack of quick combinations kept Portugal from surprising a block that was waiting for them."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le vrai danger slovène est venu des contres. Dans les 15 secondes suivant une perte de balle, le Portugal a concédé 4 tirs, quand la moyenne de l'Euro est de 2,6. Le problème se lit dans le repli : 5,2 joueurs portugais derrière le ballon au moment de la perte, puis 4,7 seulement quelques secondes plus tard. Le bloc se vidait au lieu de se reformer.",
+   "keys": [
+    "Le Portugal a perdu 147 ballons dans le jeu, contre 129 pour la Slovénie : autant d'occasions de se faire surprendre.",
+    "Bloc reformé à 7 joueurs ou plus : 28 % des cas pour le Portugal (moyenne : 36 %), 39 % pour la Slovénie.",
+    "Exemple 360 portugais à la 94e minute : 1 seul joueur derrière le ballon à la perte, 7 ensuite.",
+    "La Slovénie, elle, n'a concédé que 3 tirs en transition pour 0,13 xG ; à la 88e, elle passe de 2 à 9 joueurs derrière le ballon."
+   ],
+   "impact": "Le Portugal dominait, mais chaque perte de balle ouvrait une autoroute. Tout indique que les deux occasions de Šeško sont nées dans ce registre ; si la Slovénie les avait converties, la domination portugaise aurait pu coûter très cher."
+  },
+  "en": {
+   "lead": "Slovenia's real danger came on the counter. Within 15 seconds of losing the ball, Portugal conceded 4 shots, against a Euro average of 2.6. The problem shows in the rest defence: 5.2 Portuguese players behind the ball at the moment of the loss, then only 4.7 a few seconds later. The block was emptying instead of re-forming.",
+   "keys": [
+    "Portugal lost the ball 147 times in open play, against 129 for Slovenia: that many chances to get caught out.",
+    "Block rebuilt with 7 or more players: 28% of the time for Portugal (average: 36%), 39% for Slovenia.",
+    "A Portuguese 360 example in minute 94: just 1 player behind the ball at the loss, 7 afterwards.",
+    "Slovenia conceded only 3 shots in transition for 0.13 xG; in minute 88 they went from 2 to 9 players behind the ball."
+   ],
+   "impact": "Portugal dominated, but every lost ball opened a motorway. Everything suggests Šeško's two chances came that way; had Slovenia taken them, Portugal's dominance could have cost them dearly."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le tableau de la gravité est entièrement slovène : les six joueurs les plus entourés du match portent tous le même maillot. Benjamin Šeško (1,15), Andraž Šporar (1,13), Jon Gorenc-Stankovic (1,06) et Timi Elšnik (1,05) attiraient chacun plus d'un adversaire supplémentaire à chaque touche. Tout indique que le Portugal, avec son contre-pressing, se jetait sur chaque ballon slovène.",
+   "keys": [
+    "Žan Celar (0,79) et Adam Gnezda Čerin (0,73) complètent ce podium à six.",
+    "Pepe (−0,80) et Rúben Dias (−0,52) relançaient sans personne autour d'eux.",
+    "Côté slovène, seul Jure Balkovec (−0,50) a pu toucher le ballon tranquillement."
+   ],
+   "impact": "Chaque Slovène qui recevait se retrouvait encerclé, ce qui aide à comprendre la faible production offensive de la Slovénie hors transitions. Le Portugal, lui, n'a jamais été pressé à la relance : il avait tout le temps de construire, mais pas l'espace pour finir."
+  },
+  "en": {
+   "lead": "The gravity table is entirely Slovenian: the six most crowded players of the match all wear the same shirt. Benjamin Šeško (1.15), Andraž Šporar (1.13), Jon Gorenc-Stankovic (1.06) and Timi Elšnik (1.05) each drew more than one extra opponent per touch. Everything suggests Portugal, with their counter-press, pounced on every Slovenian ball.",
+   "keys": [
+    "Žan Celar (0.79) and Adam Gnezda Čerin (0.73) round off this six-man podium.",
+    "Pepe (−0.80) and Rúben Dias (−0.52) built play with nobody around them.",
+    "For Slovenia, only Jure Balkovec (−0.50) could touch the ball in peace."
+   ],
+   "impact": "Every Slovenian who received the ball found himself surrounded, which helps make sense of Slovenia's low output outside transitions. Portugal were never pressed when building: they had all the time to construct, but not the space to finish."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le Portugal a produit 3,24 xT, presque quatre fois plus que la Slovénie (0,84), et a gardé le pied sur l'accélérateur jusqu'au bout : 1,14 xT rien qu'en prolongation. Le geste le plus menaçant du match est une passe de Francisco Conceição à la 100e minute (+0,35 xT), suivie trois minutes plus tard d'une conduite de Diogo Jota de 61 à 92 m. Côté slovène, aucun geste ne dépasse 0,05 xT.",
+   "keys": [
+    "Bruno Fernandes est le premier créateur (0,62 xT, 19 % de la menace portugaise), devant Rafael Leão (0,56 xT, dont 0,26 balle au pied).",
+    "Benjamin Šeško a lancé deux conduites menaçantes, à la 61e et à la 115e minute, les minutes de ses deux occasions.",
+    "La conduite de Šeško à la 61e part de 48 m pour arriver à 91 m : presque tout le terrain balle au pied.",
+    "Nuno Mendes et João Cancelo apportent chacun 0,36 xT : les latéraux portugais étaient des créateurs à part entière."
+   ],
+   "impact": "La menace portugaise a été constante d'une période à l'autre, mais elle s'est heurtée à Oblak et à un bloc compact. La Slovénie n'a eu que deux vraies armes, les courses de Šeško, et elles ont failli suffire."
+  },
+  "en": {
+   "lead": "Portugal produced 3.24 xT, almost four times as much as Slovenia (0.84), and kept their foot down to the end: 1.14 xT in extra time alone. The most threatening action of the match is a Francisco Conceição pass in minute 100 (+0.35 xT), followed three minutes later by a Diogo Jota carry from 61 to 92 m. For Slovenia, no single action tops 0.05 xT.",
+   "keys": [
+    "Bruno Fernandes is the top creator (0.62 xT, 19% of Portugal's threat), ahead of Rafael Leão (0.56 xT, 0.26 of it from carries).",
+    "Benjamin Šeško launched two threatening carries, in minutes 61 and 115, the minutes of his two chances.",
+    "Šeško's carry in minute 61 starts at 48 m and ends at 91 m: almost the whole pitch with the ball at his feet.",
+    "Nuno Mendes and João Cancelo add 0.36 xT each: Portugal's full-backs were creators in their own right."
+   ],
+   "impact": "Portugal's threat was steady from one period to the next, but it ran into Oblak and a compact block. Slovenia had just two real weapons, Šeško's runs, and they very nearly proved enough."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les latéraux portugais dominent les classements de l'Euro : João Cancelo est 1er des 78 latéraux classés (note de 75), Nuno Mendes 5e. Pepe est 2e des 30 défenseurs centraux. Et les deux gardiens de ce match figurent dans le top 5 du tournoi : Diogo Costa 4e, Jan Oblak 5e sur 24.",
+   "keys": [
+    "Cancelo devance Stefan Posch et Jules Koundé, les deux autres meneurs du poste.",
+    "Bruno Fernandes est 10e des 82 milieux, avec 1 but dans le tournoi.",
+    "Cristiano Ronaldo n'est que 18e des 49 attaquants : 0 but et 1 passe décisive en 496 minutes.",
+    "Timi Elšnik est le Slovène le mieux placé parmi les joueurs de champ, 36e des milieux avec 1 passe décisive."
+   ],
+   "impact": "Les forces du Portugal dans ce tournoi, ses latéraux, sont exactement celles qui ont porté son jeu ce soir-là, tout en largeur. Il lui a manqué la finition, et c'est justement là que ses attaquants pointent plus bas dans les classements."
+  },
+  "en": {
+   "lead": "Portugal's full-backs dominate the Euro rankings: João Cancelo is 1st of 78 ranked full-backs (score of 75), Nuno Mendes 5th. Pepe is 2nd of 30 centre-backs. And both goalkeepers in this match are in the tournament's top 5: Diogo Costa 4th, Jan Oblak 5th of 24.",
+   "keys": [
+    "Cancelo finishes ahead of Stefan Posch and Jules Koundé, the other two leaders in that role.",
+    "Bruno Fernandes is 10th of 82 midfielders, with 1 goal in the tournament.",
+    "Cristiano Ronaldo is only 18th of 49 forwards: 0 goals and 1 assist in 496 minutes.",
+    "Timi Elšnik is Slovenia's highest-ranked outfield player, 36th among midfielders with 1 assist."
+   ],
+   "impact": "Portugal's strengths at this tournament, their full-backs, were exactly what carried their wide game that night. What they lacked was the finish, which is precisely where their forwards sit lower in the rankings."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Cristiano Ronaldo à cet Euro est révélateur : H. Kane à l'Euro 2016 (96 %), puis Robert Lewandowski au Mondial 2018 (95 %). Un profil d'avant-centre. Jan Oblak, lui, ressemble à 98 % à Aymen Dahmen au Mondial 2022, et Diogo Costa à Alisson au Mondial 2022 (95 %) puis à Iker Casillas en finale de Ligue des champions (94 %).",
+   "keys": [
+    "Pepe a pour jumeau Jan Vertonghen en finale de Ligue des champions sous le maillot de Tottenham (96 %).",
+    "Vitinha se rapproche de Luka Modrić à l'Euro 2024 (88 %) et d'Andrés Iniesta en finale de Ligue des champions (83 %).",
+    "Francisco Conceição rappelle Mikkel Damsgaard à l'Euro 2020 (89 %) et Ángel Di María au Mondial 2022 (86 %).",
+    "Timi Elšnik n'a qu'un jumeau crédible, Vahid Amiri au Mondial 2018 (83 %) : ensuite, on tombe à 68 %."
+   ],
+   "impact": "Des milieux qui évoquent Modrić et Iniesta, des latéraux en tête des classements : le Portugal avait les créateurs. Il lui a manqué le dernier geste, et il a dû attendre la séance de tirs au but pour en tirer profit."
+  },
+  "en": {
+   "lead": "Cristiano Ronaldo's twin at this Euro is revealing: H. Kane at Euro 2016 (96%), then Robert Lewandowski at the 2018 World Cup (95%). A centre-forward profile. Jan Oblak is a 98% match for Aymen Dahmen at the 2022 World Cup, and Diogo Costa for Alisson at the 2022 World Cup (95%) and then Iker Casillas in a Champions League final (94%).",
+   "keys": [
+    "Pepe's twin is Jan Vertonghen in a Champions League final in Tottenham colours (96%).",
+    "Vitinha is close to Luka Modrić at Euro 2024 (88%) and Andrés Iniesta in a Champions League final (83%).",
+    "Francisco Conceição recalls Mikkel Damsgaard at Euro 2020 (89%) and Ángel Di María at the 2022 World Cup (86%).",
+    "Timi Elšnik has only one credible twin, Vahid Amiri at the 2018 World Cup (83%): after that, it drops to 68%."
+   ],
+   "impact": "Midfielders who recall Modrić and Iniesta, full-backs at the top of the rankings: Portugal had the creators. What they lacked was the final touch, and they had to wait for the shoot-out to cash in."
+  }
+ }
+}

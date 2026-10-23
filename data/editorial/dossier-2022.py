@@ -1,0 +1,140 @@
+"""Le dossier Argentine–France (finale de la Coupe du monde 2022), écrit à la main.
+
+Chaque chiffre vient de la fiche de faits du match (tableau-noir facts) ; `tableau-noir dossier`
+vérifie les nombres et écrit web/data/dossier.json.
+"""
+
+DOSSIER = {
+    "match": "sb-3869685",
+    "slug": "finale-2022",
+    "title": {
+        "fr": "Argentine–France, la finale au tableau noir",
+        "en": "Argentina–France, the final on the chalkboard",
+    },
+    "kicker": {"fr": "Le dossier", "en": "The file"},
+    "standfirst": {
+        "fr": "18 décembre 2022, Lusail. Six buts, trois penaltys, une prolongation, une séance de tirs au but. On a mis la finale la plus folle de l'histoire récente sous la craie : neuf angles d'analyse, trois buts rejoués vus du dessus, et une question qui traverse tout le dossier. Comment une équipe qui a dominé pendant 80 minutes a-t-elle failli tout perdre en moins de deux minutes ?",
+        "en": "18 December 2022, Lusail. Six goals, three penalties, extra time, a shoot-out. We put the wildest final in recent memory under the chalk: nine analytical angles, three goals replayed from above, and one question running through the whole file. How did a team that dominated for 80 minutes almost lose everything in under two minutes?",
+    },
+    "chapters": [
+        {
+            "title": {"fr": "1. Deux routes vers Lusail", "en": "1. Two roads to Lusail"},
+            "text": {
+                "fr": [
+                    "L'Argentine arrive en finale par le chemin des émotions : 2-1 contre l'Australie, une qualification arrachée aux tirs au but contre les Pays-Bas après un 2-2, puis une démonstration contre la Croatie, 3-0. La France, elle, a avancé comme un métronome : 3-1 contre la Pologne, 2-1 contre l'Angleterre, 2-0 contre le Maroc.",
+                    "Sur le papier, deux plans opposés. L'Argentine annonce un 4-3-3, la France un 4-2-3-1. Sur le terrain, aucune des deux ne jouera vraiment comme ça.",
+                ],
+                "en": [
+                    "Argentina reach the final down the emotional route: 2-1 against Australia, a shoot-out escape against the Netherlands after a 2-2, then a demolition of Croatia, 3-0. France moved forward like a metronome: 3-1 against Poland, 2-1 against England, 2-0 against Morocco.",
+                    "On paper, two opposite plans. Argentina announce a 4-3-3, France a 4-2-3-1. On the pitch, neither will really play that way.",
+                ],
+            },
+            "figure": {"type": "paths"},
+        },
+        {
+            "title": {"fr": "2. Le plan Di María", "en": "2. The Di María plan"},
+            "text": {
+                "fr": [
+                    "Avec le ballon, l'Argentine se dessine en 3-4-3. Les deux latéraux montent à hauteur des milieux, à 44 m de leur but en moyenne, et surtout Ángel Di María se colle à la ligne gauche : position moyenne à 73 m du but argentin et à 8 m de la touche. Un ailier à l'ancienne, posé exactement face au côté droit français.",
+                    "En face, la France attaque d'abord par sa gauche : 29 % de ses touches dans ce couloir, celui de Mbappé et de Theo Hernández. Résultat, pendant une heure, les deux équipes jouent sur des côtés différents du même terrain, et c'est l'Argentine qui y gagne. Di María : un but, 4 passes clés, 5 dribbles en 64 minutes.",
+                ],
+                "en": [
+                    "In possession, Argentina take the shape of a 3-4-3. Both full-backs push up level with the midfielders, 44 m from their own goal on average, and above all Ángel Di María hugs the left touchline: average position 73 m from Argentina's goal and 8 m from the line. An old-school winger, planted right in front of France's right side.",
+                    "Opposite, France attack down their left first: 29% of their touches in that lane, the lane of Mbappé and Theo Hernández. For an hour, the two teams play on different flanks of the same pitch, and Argentina win that battle. Di María: a goal, 4 key passes, 5 dribbles in 64 minutes.",
+                ],
+            },
+            "figure": {"type": "link", "section": "s2"},
+        },
+        {
+            "title": {"fr": "3. 36e minute : la contre-attaque parfaite", "en": "3. Minute 36: the perfect counter-attack"},
+            "text": {
+                "fr": [
+                    "Si un seul but devait résumer l'Argentine de ce Mondial, ce serait celui-là. Tout part de Molina, dans son propre camp : MacAllister, Messi, Álvarez, MacAllister encore, et Di María qui conclut une occasion à 0,30 xG. Huit actions, moins de dix secondes, un seul mouvement vers l'avant, et une défense française prise à revers.",
+                    "Ce n'est pas un accident. Sur tout le match, la France a concédé 9 tirs dans les 15 secondes qui suivent une perte de balle, pour 1,33 xG : près de cinq fois la moyenne du tournoi (0,27). Au moment de perdre le ballon, elle n'avait en moyenne que 4,8 joueurs derrière lui.",
+                ],
+                "en": [
+                    "If one goal had to sum up Argentina's World Cup, it would be this one. It all starts with Molina, in his own half: MacAllister, Messi, Álvarez, MacAllister again, and Di María finishing a 0.30 xG chance. Eight actions, under ten seconds, one forward movement, and a French defence caught facing the wrong way.",
+                    "It was no accident. Over the match, France conceded 9 shots within 15 seconds of losing the ball, worth 1.33 xG: almost five times the tournament average (0.27). When they lost possession, they had on average only 4.8 players behind the ball.",
+                ],
+            },
+            "figure": {"type": "replay", "minute": 36},
+        },
+        {
+            "title": {"fr": "4. La meute", "en": "4. The pack"},
+            "text": {
+                "fr": [
+                    "Les deux équipes pressent autant : 4,1 pressions par minute sans ballon pour l'Argentine, 4,0 pour la France. La différence est ailleurs, dans la réaction à la perte. L'Argentine récupère 42 % de ses ballons perdus en moins de 5 secondes, la France 30 %. Et 28 % des pressions argentines tombent dans les 5 secondes qui suivent une perte, quand la moyenne du tournoi est à 21 %.",
+                    "C'est ce contre-pressing qui étouffe la France pendant 80 minutes : à la pause, les Bleus n'ont produit que 0,17 xT, presque jamais un ballon dans la surface.",
+                ],
+                "en": [
+                    "Both teams press just as much: 4.1 pressures per minute out of possession for Argentina, 4.0 for France. The difference lies elsewhere, in the reaction to losing the ball. Argentina win back 42% of lost balls within 5 seconds, France 30%. And 28% of Argentina's pressures come within 5 seconds of a loss, when the tournament average is 21%.",
+                    "That counter-press is what smothers France for 80 minutes: at half-time, Les Bleus have produced only 0.17 xT, barely a single ball into the box.",
+                ],
+            },
+            "figure": {"type": "race", "kind": "xg"},
+        },
+        {
+            "title": {"fr": "5. Moins de deux minutes", "en": "5. Under two minutes"},
+            "text": {
+                "fr": [
+                    "Puis tout bascule. Penalty de Mbappé à la 80e, et dans la foulée, la séquence que voici : Messi perd le ballon, Coman le récupère, Rabiot, Mbappé, Thuram, et Mbappé de nouveau, en une volée à 0,10 xG. Le seul but de la France qui ne soit pas un penalty part d'une perte argentine : l'Argentine n'a concédé que 3 tirs en transition de tout le match, mais celui-là a suffi.",
+                    "C'est le paradoxe de cette finale. La France a créé nettement moins que l'Argentine (1,18 xT contre 2,00) et pourtant elle est revenue deux fois. Mbappé a produit à lui seul 23 % de la menace française, et il a marqué 3 buts sur 6 tirs.",
+                ],
+                "en": [
+                    "Then everything flips. Mbappé's penalty in minute 80, and straight after, the sequence below: Messi loses the ball, Coman wins it, Rabiot, Mbappé, Thuram, and Mbappé again, with a 0.10 xG volley. France's only non-penalty goal starts from an Argentine loss: Argentina conceded only 3 shots in transition all match, but that one was enough.",
+                    "That is the paradox of this final. France created far less than Argentina (1.18 xT against 2.00) and still came back twice. Mbappé produced 23% of France's threat on his own, and scored 3 goals from 6 shots.",
+                ],
+            },
+            "figure": {"type": "replay", "minute": 81},
+        },
+        {
+            "title": {"fr": "6. La prolongation de trop", "en": "6. One extra time too many"},
+            "text": {
+                "fr": [
+                    "En prolongation, l'Argentine produit 0,95 xT, plus qu'en première (0,60) ou en deuxième mi-temps (0,45). Lautaro Martínez, à lui seul, apporte 0,23 xT en conduites de balle. La 108e minute en est le fruit : une séquence de douze actions, une frappe de Martínez, et Messi qui suit pour le 3-2.",
+                    "Et pourtant, la France revient encore, sur un troisième penalty de Mbappé à la 118e. Puis, à la 123e, la plus grosse occasion manquée du match : Kolo Muani, une frappe cadrée à 0,28 xG. Le genre de ballon qui aurait changé l'histoire.",
+                ],
+                "en": [
+                    "In extra time, Argentina produce 0.95 xT, more than in the first (0.60) or second half (0.45). Lautaro Martínez alone adds 0.23 xT through carries. Minute 108 is the result: a twelve-action move, a Martínez shot, and Messi following up for 3-2.",
+                    "And yet France come back again, with Mbappé's third penalty in minute 118. Then, in minute 123, the biggest missed chance of the match: Kolo Muani, a 0.28 xG shot on target. The kind of chance that would have changed history.",
+                ],
+            },
+            "figure": {"type": "replay", "minute": 108},
+        },
+        {
+            "title": {"fr": "7. Le choc des philosophies", "en": "7. The clash of philosophies"},
+            "text": {
+                "fr": [
+                    "Au fond, cette finale opposait deux idées du football. L'Argentine est relationniste (+0,41 sur notre axe) : 58 % de passes courtes, 36 % de combinaisons rapides, des triangles autour du ballon et un réseau qui passe par Enzo Fernandez (139 passes entre titulaires). La France est positionniste (−0,49) : chacun à son poste, et un jeu qui circule d'abord derrière, entre Varane et Upamecano (30 passes).",
+                    "Sur l'ensemble du match, l'Argentine avait sans doute plus de quoi gagner : 2,76 xG contre 2,27, et surtout 1,97 xG hors penalty contre 0,71. Mais il a fallu une séance de tirs au but, 4-2, pour que la logique finisse par l'emporter.",
+                ],
+                "en": [
+                    "Deep down, this final pitted two ideas of football against each other. Argentina are relational (+0.41 on our axis): 58% short passes, 36% quick combinations, triangles around the ball and a network running through Enzo Fernandez (139 passes between starters). France are positional (−0.49): everyone in their spot, and the ball circulating at the back first, between Varane and Upamecano (30 passes).",
+                    "Over the whole match, Argentina probably had more to win it: 2.76 xG to 2.27, and above all 1.97 non-penalty xG against 0.71. But it took a shoot-out, 4-2, for logic to finally prevail.",
+                ],
+            },
+            "figure": {"type": "race", "kind": "xt"},
+        },
+        {
+            "title": {"fr": "8. Deux jumeaux en finale", "en": "8. Twins in the final"},
+            "text": {
+                "fr": [
+                    "Dernier clin d'œil des chiffres. Selon nos classements, Mbappé et Messi sont les deux meilleurs attaquants du tournoi, 1er et 2e sur 77. Et quand on cherche les profils statistiques les plus proches de Mbappé, toutes compétitions confondues, on tombe sur Gareth Bale en finale de Ligue des champions (97 %), puis sur Messi lui-même, en 2018 (94 %) et en 2022 (93 %).",
+                    "La finale de Lusail opposait donc deux versions d'un même joueur, l'une plus verticale, l'autre plus créative. Les deux ont marqué 5 des 6 buts. Et c'est la plus créative qui a soulevé la coupe.",
+                ],
+                "en": [
+                    "One last wink from the numbers. By our rankings, Mbappé and Messi are the two best forwards of the tournament, 1st and 2nd of 77. And when you look for the statistical profiles closest to Mbappé's, across every competition, you find Gareth Bale in a Champions League final (97%), then Messi himself, in 2018 (94%) and in 2022 (93%).",
+                    "The Lusail final therefore pitted two versions of the same player against each other, one more vertical, the other more creative. Between them they scored 5 of the 6 goals. And the more creative one lifted the trophy.",
+                ],
+            },
+            "figure": {"type": "sections"},
+        },
+    ],
+    "media": [
+        {"kind": "goal", "minute": 36, "file": "finale-2022-but-36-di-maria"},
+        {"kind": "goal", "minute": 81, "file": "finale-2022-but-81-mbappe"},
+        {"kind": "goal", "minute": 108, "file": "finale-2022-but-108-messi"},
+        {"kind": "race", "race": "xg", "file": "finale-2022-course-xg"},
+        {"kind": "race", "race": "xt", "file": "finale-2022-course-menace"},
+    ],
+}

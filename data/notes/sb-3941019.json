@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Dix-neuf tirs, deux cadrés, et un but marqué par un Belge : la France a gagné ce huitième de finale de l'Euro 2024 sans trouver elle-même le chemin des filets. À la 85e minute, c'est un but contre son camp de Jan Vertonghen qui fait la différence. Avant cela, les Bleus avaient accumulé 1,26 xG et 17 passes clés, quand la Belgique se contentait de 5 tirs et 0,36 xG. Une domination nette, mais un tableau d'affichage resté longtemps muet.",
+   "keys": [
+    "Aucune grosse occasion de part et d'autre : la France a beaucoup tiré, mais rarement dans de bonnes conditions.",
+    "La meilleure chance française revient à Kylian Mbappé à la 56e minute (0,19 xG), hors cadre ; Marcus Thuram rate aussi à la 41e (0,16) et à la 50e (0,14).",
+    "Jules Koundé, latéral, est le grand fournisseur : 5 passes clés et 0,71 xT.",
+    "Aurélien Tchouaméni tente sa chance 4 fois et distribue 10 passes progressives.",
+    "Passes clés : 17 pour la France, 3 pour la Belgique. Un rapport de force sans appel."
+   ],
+   "impact": "La France méritait de passer au vu des xG (1,26 contre 0,36). Mais avec 2 tirs cadrés sur 19, elle a eu besoin d'un coup de pouce adverse pour concrétiser sa supériorité, ce qui en dit long sur sa difficulté à finir les actions."
+  },
+  "en": {
+   "lead": "Nineteen shots, two on target, and a goal scored by a Belgian: France won this Euro 2024 Round of 16 tie without finding the net themselves. In minute 85, a Jan Vertonghen own goal made the difference. Before that, Les Bleus had piled up 1.26 xG and 17 key passes, while Belgium settled for 5 shots and 0.36 xG. Clear dominance, but a scoreboard that stayed blank for a long time.",
+   "keys": [
+    "No big chances at either end: France shot a lot, but rarely from good positions.",
+    "France's best chance fell to Kylian Mbappé in minute 56 (0.19 xG), off target; Marcus Thuram also missed in minute 41 (0.16) and minute 50 (0.14).",
+    "Jules Koundé, a full-back, was the main supplier: 5 key passes and 0.71 xT.",
+    "Aurélien Tchouaméni had 4 shots and played 10 progressive passes.",
+    "Key passes: 17 for France, 3 for Belgium. A one-sided balance of power."
+   ],
+   "impact": "France deserved to go through on xG (1.26 to 0.36). But with 2 shots on target out of 19, they needed a helping hand from the opposition to turn superiority into a goal, which says a lot about their struggle to finish moves."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Annoncée en 4-3-3, la France attaquait en 3-4-3 et défendait en 4-4-2, une équipe à deux visages. Avec le ballon, elle poussait sa dernière ligne à 50,5 m de son but, bien au-dessus de la moyenne de l'Euro (42,0 m), et faisait 36 % de ses touches dans le dernier tiers. La Belgique, elle, reculait loin : dernière ligne à 21,2 m sans le ballon, contre 29,2 m en moyenne dans le tournoi.",
+   "keys": [
+    "À gauche, la France empile deux joueurs sur la ligne : Theo Hernández (5 m de la touche) et Kylian Mbappé (12 m), avec 24 % des touches dans ce couloir.",
+    "Ce flanc gauche français faisait face au côté droit belge, celui de Castagne et Carrasco.",
+    "Côté droit français, Koundé (63 m de la touche gauche) et Griezmann (55 m) se partageaient le couloir.",
+    "La Belgique fait 43 % de ses touches dans son propre tiers et 14 % seulement dans le dernier."
+   ],
+   "impact": "La France a installé le match dans la moitié belge et ne l'en a quasiment jamais laissé sortir. Une dernière ligne belge aussi basse fermait l'espace derrière, ce qui explique sans doute pourquoi tant de tirs français sont partis de loin ou dans la foule."
+  },
+  "en": {
+   "lead": "Announced in a 4-3-3, France attacked in a 3-4-3 and defended in a 4-4-2: a team with two faces. In possession, they pushed their back line to 50.5 m from their goal, well above the Euro average (42.0 m), and made 36% of their touches in the final third. Belgium dropped deep: back line at 21.2 m out of possession, against a tournament average of 29.2 m.",
+   "keys": [
+    "On the left, France stacked two players on the line: Theo Hernández (5 m from the touchline) and Kylian Mbappé (12 m), with 24% of touches in that lane.",
+    "That French left faced Belgium's right, home to Castagne and Carrasco.",
+    "On France's right, Koundé (63 m from the left touchline) and Griezmann (55 m) shared the lane.",
+    "Belgium make 43% of their touches in their own third and only 14% in the final third."
+   ],
+   "impact": "France settled the match in Belgium's half and hardly ever let it out. A Belgian back line that deep closed the space in behind, which probably explains why so many French shots came from distance or into a crowd."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ni l'une ni l'autre n'a vraiment pressé fort : 3,7 pressions par minute pour la France, 3,1 pour la Belgique, sous la moyenne de l'Euro (4,2). La différence est ailleurs : quand elle perdait le ballon, la France le récupérait très vite, 36 % du temps en moins de 5 secondes. La Belgique n'y parvenait que dans 18 % des cas, et n'a réussi qu'une seule récupération haute de tout le match.",
+   "keys": [
+    "Récupérations hautes : 7 pour la France, 1 pour la Belgique (moyenne du tournoi : 8,6).",
+    "42 % des ballons perdus par la Belgique ne sont repris qu'après plus de 20 secondes.",
+    "La France défend à 51,4 m de son but, la Belgique à 43,5 m : un écart de hauteur qui dit qui imposait le rythme.",
+    "Contre-pressing identique, 16 % des pressions pour chaque équipe, un peu sous la norme (19 %)."
+   ],
+   "impact": "Ce n'est pas l'intensité qui a fait la différence, mais la vitesse de récupération : la France reprenait le ballon avant que la Belgique ne puisse s'organiser. La Belgique, privée de ballons hauts, n'a pratiquement jamais pu lancer de contre."
+  },
+  "en": {
+   "lead": "Neither side really pressed hard: 3.7 pressures per minute for France, 3.1 for Belgium, below the Euro average (4.2). The difference lay elsewhere: when France lost the ball, they won it back very quickly, 36% of the time within 5 seconds. Belgium managed that only 18% of the time, and made a single high regain all match.",
+   "keys": [
+    "High regains: 7 for France, 1 for Belgium (tournament average: 8.6).",
+    "42% of the balls Belgium lost were only regained after more than 20 seconds.",
+    "France defend 51.4 m from their goal, Belgium 43.5 m: a height gap that shows who set the tempo.",
+    "Identical counter-pressing, 16% of pressures for each side, a little below the norm (19%)."
+   ],
+   "impact": "Intensity did not make the difference, recovery speed did: France won the ball back before Belgium could organise. Starved of high regains, Belgium almost never managed to launch a counter."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La Belgique a livré un match de pur positionnisme : indice de −1,18, avant-dernière des 24 équipes au classement des plus relationnistes. Son réseau passe d'abord par sa défense, avec Jan Vertonghen au centre de tout (175 passes) et un lien Vertonghen – Theate à 66 passes. La France (−0,41) n'était pas beaucoup plus relationniste, mais elle combinait vite : 39 % de combinaisons rapides, au-dessus de la moyenne du tournoi (34 %).",
+   "keys": [
+    "Le duo le plus utilisé du match est français et offensif : Mbappé – Theo Hernández, 47 passes, sur ce couloir gauche si fréquenté.",
+    "Tchouaméni est le carrefour des Bleus (184 passes), devant Theo Hernández (147) et Rabiot (118).",
+    "La Belgique entoure peu le porteur : 1,83 coéquipier proche du ballon, contre 2,11 pour la France.",
+    "Latitude latérale belge : 10,4 m, sous la moyenne du tournoi (12,8 m). Chacun restait à son poste."
+   ],
+   "impact": "Une Belgique figée dans sa défense n'a jamais réussi à faire remonter le ballon jusqu'à ses attaquants. La France, elle, passait par Tchouaméni puis par l'axe Theo – Mbappé, et c'est de ce côté qu'elle a construit l'essentiel de ses attaques."
+  },
+  "en": {
+   "lead": "Belgium delivered a match of pure positional play: an index of −1.18, second-to-last of 24 teams in the most-relational ranking. Their network ran first through the defence, with Jan Vertonghen at the centre of everything (175 passes) and a Vertonghen – Theate link worth 66 passes. France (−0.41) were not much more relational, but they combined quickly: 39% quick combinations, above the tournament average (34%).",
+   "keys": [
+    "The busiest pair of the match is French and attacking: Mbappé – Theo Hernández, 47 passes, down that heavily used left lane.",
+    "Tchouaméni is France's hub (184 passes), ahead of Theo Hernández (147) and Rabiot (118).",
+    "Belgium offered little support to the carrier: 1.83 teammates near the ball, against 2.11 for France.",
+    "Belgium's lateral freedom: 10.4 m, below the tournament average (12.8 m). Everyone stayed in position."
+   ],
+   "impact": "A Belgium frozen in its back line never managed to get the ball up to its forwards. France went through Tchouaméni and then the Theo – Mbappé axis, and that side is where they built most of their attacks."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Peu de transitions, et presque aucun danger : la France n'a concédé qu'un tir dans les 15 secondes suivant une perte (0,13 xG), la Belgique deux (0,08 xG). Avec 72 et 79 ballons perdus dans le jeu, les deux équipes ont peu offert à l'adversaire. La France se repliait mieux : bloc reformé à 7 joueurs ou plus dans 42 % des cas, contre 25 % pour la Belgique.",
+   "keys": [
+    "Joueurs derrière le ballon à la perte : 5,4 pour la France, 5,3 pour la Belgique, puis 5,7 et 5,2 quelques secondes plus tard.",
+    "Exemple 360 français à la 29e minute : 2 joueurs derrière le ballon au moment de la perte, 7 ensuite.",
+    "Côté belge, à la 70e : 3 joueurs derrière le ballon, puis 7.",
+    "Les deux équipes concèdent moins que la moyenne du tournoi en transition (0,23 xG)."
+   ],
+   "impact": "Ce match ne s'est pas joué en transition : la Belgique, sans récupérations hautes, ne pouvait pas contrer, et la France n'en avait pas besoin. Le seul but du match ne doit d'ailleurs rien à une transition."
+  },
+  "en": {
+   "lead": "Few transitions, and almost no danger: France conceded just one shot within 15 seconds of a loss (0.13 xG), Belgium two (0.08 xG). With 72 and 79 open-play losses, both teams offered their opponent very little. France recovered better: block rebuilt with 7 or more players 42% of the time, against 25% for Belgium.",
+   "keys": [
+    "Players behind the ball at the loss: 5.4 for France, 5.3 for Belgium, then 5.7 and 5.2 a few seconds later.",
+    "A French 360 example in minute 29: 2 players behind the ball at the moment of the loss, 7 afterwards.",
+    "For Belgium, in minute 70: 3 players behind the ball, then 7.",
+    "Both teams concede less in transition than the tournament average (0.23 xG)."
+   ],
+   "impact": "This match was not played in transition: Belgium, with no high regains, could not counter, and France did not need to. The only goal of the match owed nothing to a transition either."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Marcus Thuram a été l'homme le plus entouré du match : 1,17 adversaire de plus que la normale à chacune de ses touches. Le Belge le plus aimanté, Jérémy Doku, ne pèse que 0,54. Et à l'autre bout de l'échelle, ironie du sort, le joueur le plus libre du terrain s'appelle Jan Vertonghen (−1,02), celui-là même dont le but contre son camp a décidé du match.",
+   "keys": [
+    "Randal Kolo, entré côté français, attire 0,72 adversaire de plus par touche : les Belges ne le laissaient pas tranquille non plus.",
+    "Lukaku (0,49), Onana et Carrasco (0,43 chacun) complètent la liste belge, loin derrière Thuram.",
+    "Saliba (−0,97) et Upamecano (−0,85) ont relancé sans aucune gêne : la Belgique ne venait pas les chercher."
+   ],
+   "impact": "La défense belge s'est concentrée sur Thuram, et on peut y voir une raison des espaces laissés aux latéraux et aux milieux français, à commencer par Koundé. Tout indique que la menace française est venue de ces joueurs-là plutôt que de l'avant-centre."
+  },
+  "en": {
+   "lead": "Marcus Thuram was the most crowded man on the pitch: 1.17 extra opponents around each of his touches. Belgium's biggest magnet, Jérémy Doku, registers only 0.54. And at the other end of the scale, in a twist of fate, the freest player on the pitch was Jan Vertonghen (−1.02), the very defender whose own goal decided the match.",
+   "keys": [
+    "Randal Kolo, a French substitute, drew 0.72 extra opponents per touch: Belgium did not leave him alone either.",
+    "Lukaku (0.49), Onana and Carrasco (0.43 each) complete the Belgian list, far behind Thuram.",
+    "Saliba (−0.97) and Upamecano (−0.85) built play without any hassle: Belgium did not come for them."
+   ],
+   "impact": "Belgium's defence focused on Thuram, which may be one reason France's full-backs and midfielders found space, starting with Koundé. Everything suggests France's threat came from those players rather than from the centre-forward."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le meilleur créateur du match est un latéral droit : Jules Koundé, 0,71 xT, soit 30 % de toute la menace française. Il signe aussi le geste le plus menaçant du soir, une passe de 82 à 99 m à la 50e minute (+0,38 xT), la minute d'une des occasions de Thuram. La France a produit 2,40 xT, la Belgique 0,99, et le contraste est encore plus frappant quand on regarde d'où venait la menace belge.",
+   "keys": [
+    "Le geste belge le plus menaçant est un long ballon du gardien Koen Casteels à la 44e minute, de 33 à 92 m (+0,08 xT) : un symbole des difficultés belges à construire.",
+    "Jérémy Doku porte 24 % de la menace belge (0,24 xT), surtout balle au pied (0,15 xT en conduites).",
+    "Yannick Carrasco multiplie les conduites menaçantes, à la 15e, 28e et 61e minute.",
+    "Tchouaméni (0,56 xT) complète un duo Koundé – Tchouaméni qui fabrique plus de la moitié de la menace française."
+   ],
+   "impact": "La France a été dangereuse dans les deux mi-temps (1,13 puis 1,27 xT), sans jamais relâcher la pression. La Belgique a passé le match à espérer une percée individuelle, ce qui n'a jamais suffi à inquiéter vraiment Maignan."
+  },
+  "en": {
+   "lead": "The best creator of the match was a right-back: Jules Koundé, 0.71 xT, 30% of all of France's threat. He also produced the most threatening action of the night, a pass from 82 to 99 m in minute 50 (+0.38 xT), the minute of one of Thuram's chances. France produced 2.40 xT, Belgium 0.99, and the contrast gets even starker when you look at where Belgium's threat came from.",
+   "keys": [
+    "Belgium's most threatening action was a long ball from goalkeeper Koen Casteels in minute 44, from 33 to 92 m (+0.08 xT): a symbol of Belgium's struggle to build play.",
+    "Jérémy Doku carries 24% of Belgium's threat (0.24 xT), mostly with the ball at his feet (0.15 xT from carries).",
+    "Yannick Carrasco kept carrying the ball dangerously, in minutes 15, 28 and 61.",
+    "Tchouaméni (0.56 xT) completes a Koundé – Tchouaméni pairing that produced more than half of France's threat."
+   ],
+   "impact": "France were dangerous in both halves (1.13 then 1.27 xT), never easing the pressure. Belgium spent the match hoping for an individual breakthrough, which was never enough to really trouble Maignan."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le milieu français de cet Euro a de quoi faire rougir ses adversaires dans nos classements : Adrien Rabiot est 3e des 82 milieux, N'Golo Kanté 5e, Aurélien Tchouaméni 8e. Trois titulaires dans le top 10 du même poste. Ajoutez Jules Koundé, 3e des 78 latéraux, et l'on comprend d'où venait la domination française.",
+   "keys": [
+    "Les deux gardiens figurent sur le podium du tournoi : Koen Casteels 2e (note de 79), Mike Maignan 3e sur 24.",
+    "Kylian Mbappé est 5e des 49 attaquants, avec 1 but et 1 passe décisive en 494 minutes.",
+    "Côté belge, Jan Vertonghen est 6e des 30 défenseurs centraux, et Kevin De Bruyne 15e des milieux.",
+    "Rabiot complète le trio de tête des milieux derrière Granit Xhaka et Toni Kroos."
+   ],
+   "impact": "Avec trois milieux et un latéral dans le haut des classements, la France avait clairement l'avantage individuel au cœur du jeu. Ses meilleurs joueurs de ce tournoi sont d'ailleurs ceux qui ont fabriqué l'essentiel de sa menace ce soir-là."
+  },
+  "en": {
+   "lead": "France's midfield at this Euro looks ominous in our rankings: Adrien Rabiot is 3rd of 82 midfielders, N'Golo Kanté 5th, Aurélien Tchouaméni 8th. Three starters in the top 10 of the same position. Add Jules Koundé, 3rd of 78 full-backs, and it is easy to see where French dominance came from.",
+   "keys": [
+    "Both goalkeepers make the tournament podium: Koen Casteels 2nd (score of 79), Mike Maignan 3rd of 24.",
+    "Kylian Mbappé is 5th of 49 forwards, with 1 goal and 1 assist in 494 minutes.",
+    "For Belgium, Jan Vertonghen is 6th of 30 centre-backs, and Kevin De Bruyne 15th among midfielders.",
+    "Rabiot completes the top three midfielders behind Granit Xhaka and Toni Kroos."
+   ],
+   "impact": "With three midfielders and a full-back near the top of the rankings, France clearly had the individual edge at the heart of the game. Their best players of the tournament were, tellingly, the ones who produced most of their threat that night."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Un jumeau parfait, ça existe : Mike Maignan et Y. Sommer à l'Euro 2016, similaires à 100 %. Plus parlant pour le jeu, Aurélien Tchouaméni ressemble à 97 % à E. Dier à l'Euro 2016, un profil de sentinelle. Et Kylian Mbappé retrouve un vieil ami statistique : Gareth Bale en finale de Ligue des champions (95 %).",
+   "keys": [
+    "Koen Casteels a pour jumeau Andries Noppert au Mondial 2022 (97 %), puis Anatoliy Trubin à l'Euro 2024 (96 %).",
+    "Jan Vertonghen ressemble à Steven Vitória au Mondial 2022 et à Rúben Dias (96 % chacun).",
+    "Jules Koundé rejoint Philipp Lahm en finale de Ligue des champions (87 %) : un latéral qui crée.",
+    "Rabiot et Kanté sont jumeaux l'un de l'autre à 86 % : le milieu français jouait à deux voix semblables."
+   ],
+   "impact": "Côté belge, Kevin De Bruyne a pour jumeau D. Payet à l'Euro 2016 (89 %), mais il n'apparaît ni parmi les créateurs ni parmi les carrefours de ce match. Face à un milieu français aussi complet, la Belgique n'a jamais trouvé son chef d'orchestre."
+  },
+  "en": {
+   "lead": "A perfect twin does exist: Mike Maignan and Y. Sommer at Euro 2016, 100% similar. More telling for the game itself, Aurélien Tchouaméni is a 97% match for E. Dier at Euro 2016, a holding-midfielder profile. And Kylian Mbappé meets an old statistical friend: Gareth Bale in a Champions League final (95%).",
+   "keys": [
+    "Koen Casteels' twin is Andries Noppert at the 2022 World Cup (97%), then Anatoliy Trubin at Euro 2024 (96%).",
+    "Jan Vertonghen resembles Steven Vitória at the 2022 World Cup and Rúben Dias (96% each).",
+    "Jules Koundé joins Philipp Lahm in a Champions League final (87%): a full-back who creates.",
+    "Rabiot and Kanté are each other's twins at 86%: France's midfield sang with two similar voices."
+   ],
+   "impact": "For Belgium, Kevin De Bruyne's twin is D. Payet at Euro 2016 (89%), yet he appears neither among the creators nor among the hubs of this match. Against a French midfield this complete, Belgium never found their conductor."
+  }
+ }
+}

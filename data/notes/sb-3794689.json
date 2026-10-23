@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un 4-0 net et sans bavure : le Danemark a écarté le Pays de Galles de l'Euro 2020 en huitième de finale, avec 2,16 xG contre 0,60. Kasper Dolberg ouvre le score à la 27e minute sur une frappe à 0,05 xG, double la mise juste après la pause (48e), puis Joakim Maehle (88e) et Martin Braithwaite (94e) achèvent un Pays de Galles qui termine en plus avec un carton rouge. Les Danois ont cadré 8 tirs sur 16, les Gallois 1 seul sur 11.",
+   "keys": [
+    "Dolberg : 2 buts sur 4 tirs pour 0,75 xG, en 69 minutes.",
+    "Le Danemark obtient 2 grosses occasions, le Pays de Galles aucune.",
+    "Braithwaite aurait pu marquer plus tôt : à la 86e minute, il manque le cadre sur une occasion à 0,58 xG, la plus grosse du match.",
+    "Deux passeurs décisifs danois : Mikkel Damsgaard (3 passes clés) et Mathias Jensen, entré pour 37 minutes.",
+    "Gareth Bale a eu la meilleure chance galloise à la 53e minute (0,18 xG), hors cadre."
+   ],
+   "impact": "Le score est sévère, mais l'écart d'xG ne laisse aucun doute sur la hiérarchie. Le premier but, une frappe que le modèle jugeait presque désespérée, a donné au Danemark un avantage que le Pays de Galles n'a jamais pu combler."
+  },
+  "en": {
+   "lead": "A clean, emphatic 4-0: Denmark knocked Wales out of Euro 2020 in the Round of 16, with 2.16 xG to 0.60. Kasper Dolberg opened the scoring in minute 27 with a 0.05 xG shot, doubled the lead just after the break (minute 48), then Joakim Maehle (minute 88) and Martin Braithwaite (minute 94) finished off a Wales side who also picked up a red card. The Danes put 8 of their 16 shots on target, the Welsh just 1 of 11.",
+   "keys": [
+    "Dolberg: 2 goals from 4 shots worth 0.75 xG, in 69 minutes.",
+    "Denmark created 2 big chances, Wales none.",
+    "Braithwaite could have scored earlier: in minute 86 he missed the target from a 0.58 xG chance, the biggest of the match.",
+    "Two Danish assist-makers: Mikkel Damsgaard (3 key passes) and Mathias Jensen, on for 37 minutes.",
+    "Gareth Bale had Wales's best chance in minute 53 (0.18 xG), off target."
+   ],
+   "impact": "The scoreline is harsh, but the xG gap leaves no doubt about who was better. The opener, a shot the model rated as almost hopeless, gave Denmark a lead Wales were never able to close."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Les deux équipes ont attaqué par leur droite, ce qui a transformé le match en un double duel de couloirs. Le Pays de Galles faisait 32 % de ses touches dans le couloir droit, avec Connor Roberts (64 m de la touche gauche) et Daniel James très haut (81 m de son but). Le Danemark faisait de même (30 %), avec Jens Stryger Larsen et Martin Braithwaite, posté à 85 m de son but, le plus avancé du terrain.",
+   "keys": [
+    "Le couloir droit gallois faisait face au côté gauche danois, celui de Joakim Maehle, collé à la ligne (5 m).",
+    "Le couloir droit danois, lui, visait Ben Davies, le latéral gauche gallois (8 m de la touche).",
+    "Annoncé en 3-4-2-1, le Danemark attaquait en 3-2-3-2 avec 31 % de ses touches dans le dernier tiers.",
+    "Le Pays de Galles s'étirait sur 34,3 m de largeur avec le ballon, plus que la moyenne du tournoi (31,1 m)."
+   ],
+   "impact": "Maehle, au cœur du duel avec la droite galloise, a fini buteur. Tout indique que le Danemark a gagné la bataille des côtés, en défendant celui où le Pays de Galles insistait et en attaquant celui qu'il laissait."
+  },
+  "en": {
+   "lead": "Both teams attacked down their right, turning the match into a double duel of lanes. Wales made 32% of their touches in the right lane, with Connor Roberts (64 m from the left touchline) and Daniel James very high (81 m from his goal). Denmark did the same (30%), with Jens Stryger Larsen and Martin Braithwaite, stationed 85 m from his goal, the most advanced player on the pitch.",
+   "keys": [
+    "The Welsh right lane faced Denmark's left, home to Joakim Maehle, glued to the touchline (5 m).",
+    "Denmark's right lane, in turn, targeted Ben Davies, the Welsh left-back (8 m from the touchline).",
+    "Announced in a 3-4-2-1, Denmark attacked in a 3-2-3-2 with 31% of their touches in the final third.",
+    "Wales stretched to 34.3 m of width in possession, more than the tournament average (31.1 m)."
+   ],
+   "impact": "Maehle, at the heart of the duel with the Welsh right, ended up on the scoresheet. Everything suggests Denmark won the battle of the flanks, defending the side Wales kept attacking and attacking the side Wales left."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Ce huitième n'a pas été une guerre de pressing. Les deux équipes défendaient à la même hauteur, 47,1 m pour le Pays de Galles et 47,2 m pour le Danemark, pile dans la moyenne du tournoi (47,3 m). Le Pays de Galles pressait davantage (4,2 pressions par minute sans ballon contre 3,2), mais n'a réussi qu'une seule récupération haute de tout le match.",
+   "keys": [
+    "Récupérations hautes : 1 pour le Pays de Galles, 4 pour le Danemark, deux chiffres sous la moyenne du tournoi (8,2).",
+    "PPDA proches : 18,7 pour le Pays de Galles, 20,9 pour le Danemark.",
+    "Le Danemark contre-presse peu : 16 % des pressions juste après une perte.",
+    "34 % des ballons perdus par le Danemark ne sont récupérés qu'après plus de 20 secondes : les Danois acceptaient de se replier."
+   ],
+   "impact": "Sans récupérations hautes, le Pays de Galles n'a jamais pu surprendre la défense danoise près de son but. Le Danemark, lui, n'a pas eu besoin de presser beaucoup pour faire mal."
+  },
+  "en": {
+   "lead": "This Round of 16 tie was not a pressing war. Both teams defended at the same height, 47.1 m for Wales and 47.2 m for Denmark, right on the tournament average (47.3 m). Wales pressed more (4.2 pressures per minute out of possession against 3.2), but managed just one high regain all match.",
+   "keys": [
+    "High regains: 1 for Wales, 4 for Denmark, both below the tournament average (8.2).",
+    "Similar PPDA: 18.7 for Wales, 20.9 for Denmark.",
+    "Denmark rarely counter-pressed: 16% of pressures straight after a loss.",
+    "34% of the balls Denmark lost were only won back after more than 20 seconds: the Danes were happy to drop off."
+   ],
+   "impact": "Without high regains, Wales could never catch Denmark's defence out near its own goal. Denmark did not need to press much to do damage."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le Pays de Galles, dernier des 24 au classement des équipes les plus relationnistes de l'Euro, a joué ce match à −0,84 : du positionnisme pur. Seulement 45 % de passes courtes et 1,83 coéquipier près du porteur : chacun à son poste, et des distances longues entre les joueurs. Le Danemark, 4e équipe la plus relationniste de l'Euro, s'appuyait sur Pierre-Emile Højbjerg (93 passes) et sa charnière Kjær – Vestergaard (32 passes entre eux).",
+   "keys": [
+    "Le réseau gallois est éclaté : Ramsey et Allen, carrefours de l'équipe, ne sont impliqués que dans 62 passes chacun.",
+    "Le lien Ramsey – Bale (14 passes) est le seul duo offensif notable côté gallois.",
+    "Côté danois, Braithwaite – Stryger Larsen (22 passes) confirme l'importance du couloir droit.",
+    "Les Danois se donnent une grande liberté latérale : 15,0 m, au-dessus de la moyenne du tournoi (13,2 m)."
+   ],
+   "impact": "Un Pays de Galles figé, avec peu de soutien autour du ballon, perdait vite le fil de ses attaques. Le Danemark, plus mobile, trouvait ses combinaisons sur la droite, là où il a construit l'essentiel de son jeu."
+  },
+  "en": {
+   "lead": "Wales, last of 24 in the Euro's most-relational ranking, played this match at −0.84: pure positional play. Only 45% short passes and 1.83 teammates near the carrier: everyone in position, with long distances between players. Denmark, the 4th most relational team of the Euro, leaned on Pierre-Emile Højbjerg (93 passes) and their Kjær – Vestergaard centre-back pairing (32 passes between them).",
+   "keys": [
+    "The Welsh network is scattered: Ramsey and Allen, the team's hubs, are involved in only 62 passes each.",
+    "The Ramsey – Bale link (14 passes) is the only notable attacking pair for Wales.",
+    "For Denmark, Braithwaite – Stryger Larsen (22 passes) confirms the importance of the right lane.",
+    "The Danes gave themselves plenty of lateral freedom: 15.0 m, above the tournament average (13.2 m)."
+   ],
+   "impact": "A rigid Wales, with little support around the ball, quickly lost the thread of their attacks. Denmark, more mobile, found their combinations down the right, where they built most of their play."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le Danemark n'a concédé aucun tir dans les 15 secondes suivant une perte de balle. Pas un. Au moment de perdre le ballon, il n'avait pourtant que 4,5 joueurs derrière lui, mais il en retrouvait 6,1 quelques secondes plus tard : un repli rapide et collectif, avec un bloc reformé dans 42 % des cas (moyenne du tournoi : 30 %).",
+   "keys": [
+    "Le Pays de Galles concède 4 tirs en transition, pour 0,19 xG.",
+    "La fiche range un but danois de fin de match parmi ceux encaissés par le Pays de Galles en transition : le moment où les Gallois couraient après le score.",
+    "Exemple 360 danois à la 37e minute : 3 joueurs derrière le ballon à la perte, 9 quelques secondes plus tard.",
+    "Côté gallois, à la 90e : de 4 à 9 joueurs derrière le ballon."
+   ],
+   "impact": "Le repli danois a privé le Pays de Galles de sa meilleure arme potentielle, le contre. Sans transitions, les Gallois ont dû attaquer un bloc installé, un exercice où ils n'ont cadré qu'un seul tir."
+  },
+  "en": {
+   "lead": "Denmark conceded not a single shot within 15 seconds of losing the ball. Not one. When they lost it they had only 4.5 players behind the ball, yet they were back to 6.1 a few seconds later: a quick, collective recovery, with the block rebuilt 42% of the time (tournament average: 30%).",
+   "keys": [
+    "Wales conceded 4 shots in transition, worth 0.19 xG.",
+    "The data files one late Danish goal as a transition goal conceded by Wales: the moment when Wales were chasing the game.",
+    "A Danish 360 example in minute 37: 3 players behind the ball at the loss, 9 a few seconds later.",
+    "For Wales, in minute 90: from 4 to 9 players behind the ball."
+   ],
+   "impact": "Denmark's recovery runs took away what could have been Wales's best weapon, the counter-attack. With no transitions, the Welsh had to attack a settled block, an exercise in which they put just one shot on target."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Kasper Dolberg, l'homme du doublé, était aussi le joueur le plus entouré du match : 0,96 adversaire de plus que la normale à chacune de ses touches. Andreas Cornelius (0,88) et Kieffer Moore (0,82) suivent, deux avant-centres eux aussi serrés de près. La défense galloise s'était focalisée sur Dolberg, et il a marqué deux fois quand même.",
+   "keys": [
+    "Christian Nørgaard (0,69) complète un trio danois très surveillé.",
+    "Côté gallois, Aaron Ramsey (0,57) et Joe Allen (0,54) étaient les milieux les plus entourés.",
+    "Les trois joueurs les plus libres sont tous gallois et défenseurs : Mepham (−0,95), Rodon (−0,89) et Ben Davies (−0,83)."
+   ],
+   "impact": "Le Danemark laissait relancer la défense galloise et resserrait tout devant elle, ce qui explique sans doute le réseau gallois si pauvre au milieu. Et la meilleure attention défensive du monde n'a pas empêché Dolberg de finir ses occasions."
+  },
+  "en": {
+   "lead": "Kasper Dolberg, the man with the brace, was also the most crowded player of the match: 0.96 extra opponents around each of his touches. Andreas Cornelius (0.88) and Kieffer Moore (0.82) follow, two more centre-forwards marked tightly. Wales's defence focused on Dolberg, and he scored twice anyway.",
+   "keys": [
+    "Christian Nørgaard (0.69) completes a closely watched Danish trio.",
+    "For Wales, Aaron Ramsey (0.57) and Joe Allen (0.54) were the most crowded midfielders.",
+    "The three freest players are all Welsh defenders: Mepham (−0.95), Rodon (−0.89) and Ben Davies (−0.83)."
+   ],
+   "impact": "Denmark let the Welsh defence build and squeezed everything in front of it, which probably explains such a thin Welsh network in midfield. And all the defensive attention in the world did not stop Dolberg finishing his chances."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Deux Danois ont fabriqué près des deux tiers de la menace de leur équipe : Joakim Maehle (0,50 xT, 32 %) et Mikkel Damsgaard (0,48 xT, 31 %). Les deux styles sont opposés : Maehle avance balle au pied (0,30 xT en conduites), Damsgaard menace à la passe (0,46 xT). Au total, le Danemark produit 1,55 xT, le Pays de Galles 0,94.",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Damsgaard à la 32e minute (+0,35 xT), la minute de la grosse occasion de Dolberg.",
+    "Côté gallois, Neco Williams porte 27 % de la menace (0,25 xT), Gareth Bale 23 % (0,22 xT).",
+    "À la 53e minute, une passe de Neco Williams (+0,13 xT) tombe à la même minute que l'occasion de Bale.",
+    "Le Pays de Galles double presque sa menace en deuxième mi-temps (0,62 xT contre 0,32), mais n'en tire aucun but."
+   ],
+   "impact": "La menace danoise reposait sur deux joueurs du côté gauche et du milieu, et elle a suffi à faire la différence. Le sursaut gallois de la deuxième mi-temps s'est heurté à un Danemark qui menait déjà 2-0 dès la 48e minute."
+  },
+  "en": {
+   "lead": "Two Danes produced almost two thirds of their team's threat: Joakim Maehle (0.50 xT, 32%) and Mikkel Damsgaard (0.48 xT, 31%). Their styles are opposites: Maehle drives forward with the ball (0.30 xT from carries), Damsgaard threatens with his passing (0.46 xT). In total, Denmark produced 1.55 xT, Wales 0.94.",
+   "keys": [
+    "The most threatening action of the match is a Damsgaard pass in minute 32 (+0.35 xT), the minute of Dolberg's big chance.",
+    "For Wales, Neco Williams carries 27% of the threat (0.25 xT), Gareth Bale 23% (0.22 xT).",
+    "In minute 53, a Neco Williams pass (+0.13 xT) comes in the same minute as Bale's chance.",
+    "Wales almost doubled their threat in the second half (0.62 xT against 0.32), but got no goal from it."
+   ],
+   "impact": "Denmark's threat rested on two players from the left side and midfield, and it was enough to make the difference. The Welsh second-half surge ran into a Denmark side already 2-0 up by minute 48."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Pas de star absolue dans les classements, mais un Danemark solide à tous les postes. Jens Stryger Larsen est 6e des 78 latéraux de l'Euro 2020 (note de 70), Pierre-Emile Højbjerg 11e des 80 milieux avec 3 passes décisives, Thomas Delaney 12e. Côté gallois, Joseff Morrell (16e) et Gareth Bale (18e, classé parmi les milieux) sont les mieux placés.",
+   "keys": [
+    "Kasper Dolberg compte 3 buts en 228 minutes, mais n'est que 23e des 59 attaquants.",
+    "Joakim Maehle, 28e des latéraux, termine avec 2 buts et 1 passe décisive.",
+    "Mikkel Damsgaard, 23e des milieux, compte 2 buts et 1 passe décisive.",
+    "Kasper Schmeichel est 8e des 24 gardiens, Daniel Ward 10e."
+   ],
+   "impact": "Le Danemark gagne avec un collectif de joueurs bien notés plutôt qu'avec un génie isolé. Ses buteurs du soir, Dolberg et Maehle, ont des classements modestes : leur efficacité a dépassé leur profil statistique."
+  },
+  "en": {
+   "lead": "No outright star in the rankings, but a Denmark side solid in every position. Jens Stryger Larsen is 6th of 78 full-backs at Euro 2020 (score of 70), Pierre-Emile Højbjerg 11th of 80 midfielders with 3 assists, Thomas Delaney 12th. For Wales, Joseff Morrell (16th) and Gareth Bale (18th, ranked among the midfielders) are the highest placed.",
+   "keys": [
+    "Kasper Dolberg has 3 goals in 228 minutes, yet ranks only 23rd of 59 forwards.",
+    "Joakim Maehle, 28th among full-backs, ends with 2 goals and 1 assist.",
+    "Mikkel Damsgaard, 23rd among midfielders, has 2 goals and 1 assist.",
+    "Kasper Schmeichel is 8th of 24 goalkeepers, Daniel Ward 10th."
+   ],
+   "impact": "Denmark won with a group of well-rated players rather than a lone genius. Their scorers on the night, Dolberg and Maehle, have modest rankings: their finishing outran their statistical profile."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Kasper Schmeichel a pour jumeau Jan Oblak en finale de Ligue des champions, sous le maillot de l'Atlético de Madrid (96 %). Kasper Dolberg, lui, rejoint une famille d'avant-centres : M. Gómez à l'Euro 2016 (95 %), puis Á. Szalai et Andrea Belotti (94 % chacun). Pierre-Emile Højbjerg ressemble à Éver Banega au Mondial 2018 (94 %).",
+   "keys": [
+    "Mikkel Damsgaard a pour jumeau Francisco Conceição à l'Euro 2024 (89 %).",
+    "Jannik Vestergaard rappelle Nikola Milenković au Mondial 2022 (95 %).",
+    "Gareth Bale n'a pas de vrai sosie dans ce tournoi : son plus proche voisin, Aleksandr Golovin, ne dépasse pas 79 %.",
+    "Thomas Delaney a un profil encore plus rare : son premier jumeau, Jung Woo-Young, n'est qu'à 75 %."
+   ],
+   "impact": "Des jumeaux très proches pour les Danois les plus influents, Dolberg et Schmeichel en tête : des profils clairs, au service d'un plan simple. Bale, inclassable, n'a pas trouvé seul la solution."
+  },
+  "en": {
+   "lead": "Kasper Schmeichel's twin is Jan Oblak in a Champions League final, in Atlético Madrid colours (96%). Kasper Dolberg joins a family of centre-forwards: M. Gómez at Euro 2016 (95%), then Á. Szalai and Andrea Belotti (94% each). Pierre-Emile Højbjerg resembles Éver Banega at the 2018 World Cup (94%).",
+   "keys": [
+    "Mikkel Damsgaard's twin is Francisco Conceição at Euro 2024 (89%).",
+    "Jannik Vestergaard recalls Nikola Milenković at the 2022 World Cup (95%).",
+    "Gareth Bale has no real lookalike in this tournament: his closest neighbour, Aleksandr Golovin, tops out at 79%.",
+    "Thomas Delaney has an even rarer profile: his first twin, Jung Woo-Young, is only 75% similar."
+   ],
+   "impact": "Very close twins for Denmark's most influential players, Dolberg and Schmeichel leading the way: clear profiles serving a simple plan. Bale, impossible to pigeonhole, could not find the answer on his own."
+  }
+ }
+}

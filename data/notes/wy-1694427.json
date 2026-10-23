@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un huitième de finale entre voisins britanniques, et un match d'une rare avarice. Le Pays de Galles produit 0,23 xG, l'Irlande du Nord 0,21 : un écart de 0,02, autant dire rien. Aucune grosse occasion d'un côté comme de l'autre, et un seul but, à la 75e minute, marqué par un Nord-Irlandais : G. McAuley, contre son camp.",
+   "keys": [
+    "Le Pays de Galles ne cadre qu'un seul de ses 6 tirs ; l'Irlande du Nord en cadre 3 sur 5.",
+    "2 passes clés galloises, 1 nord-irlandaise : la créativité était rationnée.",
+    "Le Pays de Galles a eu le ballon 56 % du temps, sans obtenir le moindre corner ; l'Irlande du Nord en a obtenu 6.",
+    "C. Evans, avec 27 actions défensives, résume le match nord-irlandais : défendre, beaucoup."
+   ],
+   "impact": "Dans un match à 0,23 contre 0,21 xG, il fallait un accident pour départager les deux équipes, et c'est un but contre son camp qui l'a fait. Le Pays de Galles passe en quarts sans avoir vraiment créé plus que son adversaire."
+  },
+  "en": {
+   "lead": "A round-of-16 tie between British neighbours, and a remarkably stingy game. Wales produce 0.23 xG, Northern Ireland 0.21: a gap of 0.02, in other words nothing. No big chance on either side, and a single goal, in minute 75, scored by a Northern Ireland player: G. McAuley, into his own net.",
+   "keys": [
+    "Wales put just one of their 6 shots on target; Northern Ireland hit the target with 3 of 5.",
+    "2 key passes for Wales, 1 for Northern Ireland: creativity was rationed.",
+    "Wales had 56% of the ball without winning a single corner; Northern Ireland won 6.",
+    "C. Evans, with 27 defensive actions, sums up Northern Ireland's night: defend, a lot."
+   ],
+   "impact": "In a 0.23 to 0.21 xG match, it took an accident to separate the two sides, and an own goal did it. Wales go through to the quarter-finals without really creating more than their opponents."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le Pays de Galles garde la même forme avec et sans ballon : un 3-3-4 où G. Bale et A. Ramsey se partagent exactement la même position moyenne dans l'axe (64 et 60 m de leur but, 42 m de la gauche). Les deux stars galloises jouaient presque l'une sur l'autre. L'Irlande du Nord, en 4-3-3 balle au pied, attaquait d'abord par sa gauche, avec S. Dallas collé à la ligne (76 m, à 4 m de la touche).",
+   "keys": [
+    "L'Irlande du Nord touche 32 % de ses ballons dans son couloir gauche, celui de Dallas.",
+    "Paradoxe : avec 44 % de possession, l'Irlande du Nord passe 35 % de ses touches dans le dernier tiers, contre 20 % pour le Pays de Galles.",
+    "Le Pays de Galles joue large aux deux extrémités : N. Taylor à 3 m de la touche gauche, C. Gunter à 65 m de la gauche, et 27 % des touches dans le couloir droit.",
+    "Sans le ballon, l'Irlande du Nord se range en 3-2-3-2."
+   ],
+   "impact": "Le côté gauche nord-irlandais faisait face au côté droit gallois, celui de Gunter : c'est là que le match s'est surtout joué. Le Pays de Galles, lui, n'a presque jamais installé son jeu dans le camp adverse, ce qui explique en bonne partie son total d'xG minuscule."
+  },
+  "en": {
+   "lead": "Wales keep the same shape with and without the ball: a 3-3-4 in which G. Bale and A. Ramsey share exactly the same average position in the middle (64 and 60 m from goal, 42 m from the left). Wales's two stars were practically standing on each other. Northern Ireland, in a 4-3-3 on the ball, attacked down their left first, with S. Dallas glued to the line (76 m, 4 m from the touchline).",
+   "keys": [
+    "Northern Ireland take 32% of their touches in their left lane, Dallas's lane.",
+    "A paradox: with 44% possession, Northern Ireland spend 35% of their touches in the final third, against 20% for Wales.",
+    "Wales play wide at both ends: N. Taylor 3 m from the left touchline, C. Gunter 65 m from the left, and 27% of touches in the right lane.",
+    "Without the ball, Northern Ireland line up in a 3-2-3-2."
+   ],
+   "impact": "Northern Ireland's left faced Wales's right, Gunter's side: that is where most of the game was played. Wales, for their part, almost never settled in the opposition half, which goes a long way to explaining their tiny xG total."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression chez Wyscout, on lit le pressing dans les tacles, interceptions et fautes. Et les rôles sont clairs : l'Irlande du Nord défendait haut et serrait fort (PPDA de 5,3, actions défensives à 43,9 m de son but), le Pays de Galles attendait très bas, à 31,6 m, loin sous la moyenne du tournoi (38,3 m).",
+   "keys": [
+    "Le Pays de Galles ne compte que 3 récupérations hautes, contre 7 pour l'Irlande du Nord (moyenne du tournoi : 6,9).",
+    "20 fautes nord-irlandaises contre 9 galloises : l'Irlande du Nord cassait le jeu dès que possible.",
+    "Les deux équipes défendent avec intensité : 4,3 et 4,1 actions par minute sans ballon, au-dessus de la moyenne (3,6).",
+    "40 % des ballons perdus par l'Irlande du Nord mettent plus de 20 s à revenir."
+   ],
+   "impact": "Le Pays de Galles a choisi de défendre bas et de laisser l'Irlande du Nord avancer, quitte à lui céder le dernier tiers. Ça a tenu : 0,21 xG concédés. Mais en récupérant si loin de son but adverse, il s'est privé d'occasions."
+  },
+  "en": {
+   "lead": "With no pressure events in Wyscout, we read pressing through tackles, interceptions and fouls. And the roles were clear: Northern Ireland defended high and squeezed hard (PPDA of 5.3, defensive actions 43.9 m from their goal), while Wales waited very deep, at 31.6 m, well below the tournament average (38.3 m).",
+   "keys": [
+    "Wales register just 3 high recoveries, against 7 for Northern Ireland (tournament average: 6.9).",
+    "20 Northern Ireland fouls against 9 for Wales: Northern Ireland broke up play whenever they could.",
+    "Both teams defend intensely: 4.3 and 4.1 actions per minute out of possession, above the average (3.6).",
+    "40% of the balls Northern Ireland lose take more than 20 s to come back."
+   ],
+   "impact": "Wales chose to defend deep and let Northern Ireland advance, even at the cost of conceding the final third. It held: 0.21 xG conceded. But by winning the ball back so far from the opposition goal, they starved themselves of chances."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Petite surprise dans ce huitième : l'Irlande du Nord, 3e équipe la plus positionniste de tout l'Euro (−0,51), joue ici de façon relationniste (+0,53), avec 14,5 m de liberté latérale, bien au-dessus de la moyenne (12,6 m). Le Pays de Galles, lui, reste positionniste (−0,23), avec un réseau qui part de sa défense : J. Chester est impliqué dans 103 passes.",
+   "keys": [
+    "Le lien le plus utilisé du match est C. Gunter – J. Chester (21 passes) : la relance galloise passait par la droite.",
+    "Ramsey – Bale, 17 passes : le duo offensif gallois se cherchait souvent, ce qui colle avec leurs positions moyennes identiques.",
+    "Côté nord-irlandais, S. Davis est le carrefour (57 passes), et le lien principal S. Dallas – O. Norwood (15).",
+    "Les deux équipes ne réalisent que 26 % de combinaisons rapides, sous la moyenne du tournoi (31 %)."
+   ],
+   "impact": "L'Irlande du Nord a fait circuler en petits groupes, autour de Davis et Norwood, sans jamais transformer ce jeu en occasions franches. Le Pays de Galles, plus rigide, a construit lentement depuis l'arrière : deux approches qui ont mené au même résultat, presque rien."
+  },
+  "en": {
+   "lead": "A small surprise in this tie: Northern Ireland, the third most positional team of the whole Euro (−0.51), play relationally here (+0.53), with 14.5 m of lateral freedom, well above the average (12.6 m). Wales stay positional (−0.23), with a network that starts from the back: J. Chester is involved in 103 passes.",
+   "keys": [
+    "The busiest link of the match is C. Gunter – J. Chester (21 passes): Wales built up down the right.",
+    "Ramsey – Bale, 17 passes: Wales's attacking pair kept looking for each other, which fits their identical average positions.",
+    "For Northern Ireland, S. Davis is the hub (57 passes), and the main link is S. Dallas – O. Norwood (15).",
+    "Both teams manage only 26% quick combinations, below the tournament average (31%)."
+   ],
+   "impact": "Northern Ireland moved the ball in small groups around Davis and Norwood, without ever turning that into clear chances. Wales, more rigid, built slowly from the back: two approaches that led to the same result, next to nothing."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Ni l'une ni l'autre n'a su punir les pertes adverses. L'Irlande du Nord n'a concédé aucun tir en transition ; le Pays de Galles en a concédé 1, pour un total insignifiant de 0,02 xG. On est loin de la moyenne du tournoi (1,6 tir, 0,13 xG).",
+   "keys": [
+    "Le Pays de Galles perd 61 ballons dans le jeu, l'Irlande du Nord 49 : peu de pertes, peu de transitions.",
+    "1 tir concédé en transition par le Pays de Galles, pour 0,02 xG.",
+    "Le seul but du match, contre son camp à la 75e minute, ne vient pas d'une transition."
+   ],
+   "impact": "Avec deux équipes aussi prudentes, il n'y avait pas d'espace à exploiter après une perte. Le match s'est donc joué sur coups de pied arrêtés et attaques placées, jusqu'à ce but contre son camp."
+  },
+  "en": {
+   "lead": "Neither side managed to punish the other's losses. Northern Ireland conceded no shots in transition; Wales conceded 1, worth an insignificant 0.02 xG. A far cry from the tournament average (1.6 shots, 0.13 xG).",
+   "keys": [
+    "Wales lose 61 balls in open play, Northern Ireland 49: few losses, few transitions.",
+    "1 shot conceded in transition by Wales, worth 0.02 xG.",
+    "The only goal of the match, an own goal in minute 75, did not come from a transition."
+   ],
+   "impact": "With two such cautious sides, there was no space to exploit after a loss. The game was therefore played in settled attacks, until that own goal."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit l'attention reçue, et ce match abrite le plus gros aimant de tout l'Euro 2016 : K. Lafferty. 4,09 actions défensives galloises de plus que la normale pour 10 touches, c'est le record du tournoi. Le Pays de Galles ne l'a jamais laissé respirer.",
+   "keys": [
+    "J. Ward, l'autre attaquant nord-irlandais, attire 1,52 : sur l'ensemble du tournoi, il est 4e (2,02).",
+    "Côté gallois, A. Ramsey (0,64) et J. Ledley (0,62) sont les plus surveillés ; G. Bale n'apparaît même pas dans le haut du classement.",
+    "J. Chester (−0,35) et B. Davies (−0,37) ont relancé sans pression : d'où le réseau gallois centré sur Chester.",
+    "A. Hughes (−0,46) est le joueur le plus tranquille du match."
+   ],
+   "impact": "Le Pays de Galles a fait de Lafferty sa priorité absolue, et l'Irlande du Nord n'a eu aucune grosse occasion. Tout indique que c'est là que le Pays de Galles a gagné son huitième : en éteignant la seule vraie arme adverse."
+  },
+  "en": {
+   "lead": "Without 360, we read attention received, and this match features the biggest magnet of all of Euro 2016: K. Lafferty. 4.09 extra Welsh defensive actions per 10 touches is the tournament record. Wales never let him breathe.",
+   "keys": [
+    "J. Ward, Northern Ireland's other forward, draws 1.52: across the whole tournament he is 4th (2.02).",
+    "For Wales, A. Ramsey (0.64) and J. Ledley (0.62) are the most watched; G. Bale does not even appear near the top.",
+    "J. Chester (−0.35) and B. Davies (−0.37) played out without pressure: hence a Welsh network centred on Chester.",
+    "A. Hughes (−0.46) is the quietest player of the match."
+   ],
+   "impact": "Wales made Lafferty their absolute priority, and Northern Ireland had no big chance. Everything suggests that is where Wales won this tie: by switching off the opponent's only real weapon."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "En menace créée, ce huitième est un match nul parfait jusqu'à la pause : 0,64 xT pour le Pays de Galles, 0,65 pour l'Irlande du Nord. Ensuite, les deux équipes ralentissent, mais l'Irlande du Nord plus nettement (0,34 contre 0,48). Le premier créateur du match est A. Ramsey, 0,24 xT, avec le geste le plus menaçant : une passe de 66 à 94 m à la 53e minute (+0,15 xT).",
+   "keys": [
+    "C. Gunter, latéral droit, crée autant de menace que Bale : 0,23 xT contre 0,21.",
+    "Côté nord-irlandais, J. Evans est le premier créateur (0,23 xT, 23 % de la menace de son équipe).",
+    "G. Bale signe à la 12e minute une passe à +0,14 xT, l'un des trois gestes les plus menaçants du Pays de Galles.",
+    "Total : 1,12 xT pour le Pays de Galles, 1,00 pour l'Irlande du Nord."
+   ],
+   "impact": "Aucune équipe n'a vraiment pris le dessus en menace, et l'Irlande du Nord a fini un peu plus fatiguée. Le but contre son camp de la 75e est tombé dans cette période où le Pays de Galles poussait un peu plus."
+  },
+  "en": {
+   "lead": "In threat created, this tie was a perfect draw up to half-time: 0.64 xT for Wales, 0.65 for Northern Ireland. After that both teams slowed down, Northern Ireland more clearly (0.34 against 0.48). The top creator of the match is A. Ramsey, 0.24 xT, with the most threatening action: a pass from 66 to 94 m in minute 53 (+0.15 xT).",
+   "keys": [
+    "C. Gunter, a right-back, creates as much threat as Bale: 0.23 xT against 0.21.",
+    "For Northern Ireland, J. Evans is the top creator (0.23 xT, 23% of his team's threat).",
+    "G. Bale plays a +0.14 xT pass in minute 12, one of Wales's three most threatening actions.",
+    "Total: 1.12 xT for Wales, 1.00 for Northern Ireland."
+   ],
+   "impact": "Neither side really took control in terms of threat, and Northern Ireland faded a little more. The minute-75 own goal came during the spell when Wales were pushing slightly harder."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur attaquant de l'Euro 2016 selon nos classements jouait ce huitième : G. Bale, 1er des 46 attaquants, avec une note de 83 et 3 buts. Ce soir-là pourtant, il n'a ni marqué ni pesé dans les premières places de la menace. A. Ramsey, 18e des 90 milieux, compte 4 passes décisives sur le tournoi.",
+   "keys": [
+    "Côté nord-irlandais, le mieux classé est le gardien M. McGovern, 5e des 24 gardiens.",
+    "H. Robson-Kanu, 13e des attaquants, a marqué 2 buts en 269 minutes.",
+    "J. Evans est 16e des 67 latéraux, le meilleur joueur de champ nord-irlandais du classement.",
+    "Bale cumule 533 minutes sur l'Euro."
+   ],
+   "impact": "Le Pays de Galles avait le meilleur attaquant du tournoi, l'Irlande du Nord un gardien du top 5. Dans un match aussi fermé, c'est logiquement la défense qui a dominé, et le gardien nord-irlandais n'a été battu que par un des siens."
+  },
+  "en": {
+   "lead": "The best forward of Euro 2016 by our rankings played in this tie: G. Bale, 1st of 46 forwards, with a score of 83 and 3 goals. On this night, though, he neither scored nor ranked among the main sources of threat. A. Ramsey, 18th of 90 midfielders, has 4 assists over the tournament.",
+   "keys": [
+    "For Northern Ireland, the highest-ranked player is goalkeeper M. McGovern, 5th of 24 goalkeepers.",
+    "H. Robson-Kanu, 13th among forwards, scored 2 goals in 269 minutes.",
+    "J. Evans is 16th of 67 full-backs, Northern Ireland's best-ranked outfield player.",
+    "Bale totals 533 minutes at the Euro."
+   ],
+   "impact": "Wales had the best forward of the tournament, Northern Ireland a top-5 goalkeeper. In such a closed game, defence logically had the upper hand, and Northern Ireland's keeper was beaten only by one of his own."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de B. Davies est Montassar Omar Talbi au Mondial 2022, à 98 % : un profil quasi identique. Plus amusant, le défenseur nord-irlandais J. Evans a pour plus proche voisin... B. Davies à l'Euro 2016 (89 %). Les deux arrières qui se faisaient face dans ce huitième sont presque des jumeaux statistiques.",
+   "keys": [
+    "A. Ramsey ressemble d'abord à K. De Bruyne à l'Euro 2016 (92 %), puis à Antoine Griezmann au Mondial 2022 (89 %).",
+    "G. Bale, version Euro 2016, ressemble à Daniel Olmo et Hirving Lozano (89 % chacun), puis à Kylian Mbappé (86 %).",
+    "A. Williams a deux jumeaux à 95 % : José Giménez et José Fonte au Mondial 2018.",
+    "Le gardien M. McGovern ressemble à Mohammed Al Owais au Mondial 2022 (91 %)."
+   ],
+   "impact": "Un Ramsey à la De Bruyne et un Bale à la Mbappé : le Pays de Galles avait des profils de créateurs de très haut niveau. Ce soir-là, ce sont pourtant ses défenseurs, aux profils sobres, qui ont fait le travail."
+  },
+  "en": {
+   "lead": "B. Davies's twin is Montassar Omar Talbi at the 2022 World Cup, at 98%: an almost identical profile. More amusing still, Northern Ireland defender J. Evans has as his closest neighbour... B. Davies at Euro 2016 (89%). Two defenders on opposite sides of this tie are near statistical twins.",
+   "keys": [
+    "A. Ramsey looks first like K. De Bruyne at Euro 2016 (92%), then Antoine Griezmann at the 2022 World Cup (89%).",
+    "G. Bale, Euro 2016 edition, resembles Daniel Olmo and Hirving Lozano (89% each), then Kylian Mbappé (86%).",
+    "A. Williams has two 95% twins: José Giménez and José Fonte at the 2018 World Cup.",
+    "Goalkeeper M. McGovern resembles Mohammed Al Owais at the 2022 World Cup (91%)."
+   ],
+   "impact": "A De Bruyne-like Ramsey and an Mbappé-like Bale: Wales had creator profiles of the very highest level. On this night, though, it was their more understated defenders who did the job."
+  }
+ }
+}

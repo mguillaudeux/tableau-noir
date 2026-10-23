@@ -1,0 +1,196 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Trois minutes de jeu, un penalty, et l'Irlande mène la France en huitième de finale. R. Brady le transforme, 0,73 xG d'un coup : presque tout le danger irlandais de la soirée tient dans ce seul tir. Ensuite, c'est un siège : 24 tirs français contre 6, 3,05 xG contre 1,19, et 64 % de possession. Il faut pourtant attendre la 58e et la 61e minute pour qu'A. Griezmann renverse tout en trois minutes.",
+   "keys": [
+    "Hors penalty, l'Irlande pèse 0,46 xG : son plan offensif tenait sur un coup de pied arrêté obtenu d'entrée.",
+    "Passes clés : 9 pour la France, 0 pour l'Irlande. Pas une seule passe irlandaise n'a amené un tir.",
+    "Griezmann tente 9 tirs pour 1,24 xG et marque deux fois, sur deux occasions à 0,16 et 0,15 xG : il a converti les moins belles.",
+    "La plus grosse occasion manquée est signée A. Gignac à la 86e minute : 0,77 xG, et le ballon ne trouve même pas le cadre."
+   ],
+   "impact": "La France a passé une heure à pousser contre un mur et a fini par le percer par son meilleur joueur. Le verdict des xG (1,86 d'écart) dit qu'il n'y avait pas photo, mais le tableau d'affichage a fait trembler les Bleus pendant près d'une heure."
+  },
+  "en": {
+   "lead": "Three minutes in, a penalty, and Ireland lead France in the round of 16. R. Brady converts it, 0.73 xG in one go: almost all of Ireland's danger for the evening sits in that single shot. After that it is a siege: 24 French shots to 6, 3.05 xG to 1.19, and 64% possession. Yet it takes until minutes 58 and 61 for A. Griezmann to turn it all around in three minutes.",
+   "keys": [
+    "Without the penalty Ireland are worth 0.46 xG: their attacking plan rested on a set piece won straight from kick-off.",
+    "Key passes: 9 for France, 0 for Ireland. Not one Irish pass set up a shot.",
+    "Griezmann takes 9 shots for 1.24 xG and scores twice, from chances worth 0.16 and 0.15 xG: he finished the less inviting ones.",
+    "The biggest miss belongs to A. Gignac in minute 86: 0.77 xG, and the ball does not even find the target."
+   ],
+   "impact": "France spent an hour pushing against a wall and finally broke it through their best player. The xG gap (1.86) says it was no contest, but the scoreboard kept Les Bleus nervous for the best part of an hour."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Avec le ballon, la France se dessine en 3-3-4. B. Sagna monte à 60 m de son but, collé au côté droit, pendant que P. Evra reste un cran plus bas à gauche (44 m) pour former une ligne de trois avec L. Koscielny et A. Rami. Devant, quatre hommes alignés à hauteur de 65 à 72 m : B. Matuidi, D. Payet, Griezmann et O. Giroud. Sans le ballon, ce dispositif devient un 4-2-4 qui laisse peu de doute sur les intentions.",
+   "keys": [
+    "La France passe 29 % de ses touches dans l'axe et 35 % dans le dernier tiers : elle a assiégé la surface par le centre.",
+    "L'Irlande défend en 5-4-1 et passe 32 % de ses touches dans son propre tiers.",
+    "Côté irlandais, S. Ward (69 m) et J. McClean (76 m) occupent tous les deux le couloir gauche, à 5 et 6 m de la ligne.",
+    "Pourtant, 29 % des touches irlandaises tombent dans le couloir droit, celui de S. Coleman (position moyenne à 63 m de largeur)."
+   ],
+   "impact": "Avec quatre joueurs à hauteur de la dernière ligne irlandaise, la France a forcé l'Irlande à reculer en 5-4-1, ce qui explique les 24 tirs. Mais un bloc aussi bas laisse peu d'espace : il a fallu près d'une heure pour trouver la faille."
+  },
+  "en": {
+   "lead": "In possession France take the shape of a 3-3-4. B. Sagna pushes up to 60 m from his own goal on the right, while P. Evra stays a notch deeper on the left (44 m) to form a back three with L. Koscielny and A. Rami. Up front, four men lined up between 65 and 72 m: B. Matuidi, D. Payet, Griezmann and O. Giroud. Out of possession the set-up becomes a 4-2-4, which leaves little doubt about the intentions.",
+   "keys": [
+    "France spend 29% of their touches in the central lane and 35% in the final third: they laid siege to the box through the middle.",
+    "Ireland defend in a 5-4-1 and spend 32% of their touches in their own third.",
+    "For Ireland, S. Ward (69 m) and J. McClean (76 m) both occupy the left lane, 5 and 6 m from the touchline.",
+    "Yet 29% of Ireland's touches come in the right lane, S. Coleman's side (average position 63 m across)."
+   ],
+   "impact": "With four players level with Ireland's back line, France pushed Ireland back into a 5-4-1, which explains the 24 shots. But such a deep block leaves little room: it took the best part of an hour to find a gap."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Pas d'événements de pression dans ces données : le pressing se lit dans les tacles, interceptions et fautes. Et là, la France étouffe : un PPDA de 4,3, soit à peine plus de quatre passes irlandaises tolérées avant une action défensive. Elle défend haut, à 40,6 m de son but en moyenne, contre 33,1 m pour l'Irlande. Les Irlandais, eux, multiplient les gestes défensifs (133) mais les commettent près de leur surface.",
+   "keys": [
+    "4,8 actions défensives françaises par minute sans le ballon, contre 3,6 en moyenne sur le tournoi.",
+    "Après une perte, la France récupère 47 % de ses ballons en moins de 10 secondes, l'Irlande seulement 27 %.",
+    "Paradoxe : l'Irlande compte plus de récupérations hautes, 12 contre 9, bien au-dessus de la moyenne du tournoi (6,9).",
+    "L'Irlande commet 17 fautes, la France 8 : une partie de la défense irlandaise passait par l'arrêt du jeu."
+   ],
+   "impact": "Ce pressing explique la possession écrasante : l'Irlande ne gardait jamais le ballon assez longtemps pour respirer. Les 12 récupérations hautes irlandaises montrent toutefois qu'elle a su gêner la relance française, sans jamais en tirer une occasion."
+  },
+  "en": {
+   "lead": "There are no pressure events in this data, so the press is read through tackles, interceptions and fouls. And on that front France smother: a PPDA of 4.3, barely more than four Irish passes allowed before a defensive action. They defend high, 40.6 m from their own goal on average, against 33.1 m for Ireland. The Irish make plenty of defensive actions (133), but close to their own box.",
+   "keys": [
+    "4.8 French defensive actions per minute out of possession, against 3.6 on average across the tournament.",
+    "After a loss France win the ball back within 10 seconds 47% of the time, Ireland only 27%.",
+    "The paradox: Ireland have more high regains, 12 to 9, well above the tournament average (6.9).",
+    "Ireland commit 17 fouls, France 8: part of Ireland's defending went through stopping the game."
+   ],
+   "impact": "That press explains the crushing possession: Ireland never kept the ball long enough to breathe. Ireland's 12 high regains do show they bothered France's build-up, though they never turned one into a chance."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La France de ce huitième est légèrement relationniste (+0,07), 8e sur 24 équipes du tournoi : un jeu ni figé, ni totalement libre. Le réseau de passes a trois têtes presque à égalité : Matuidi (97 passes), Payet (95) et Griezmann (92). Le duo le plus actif, Matuidi – Payet (27 passes), raconte le côté gauche français, où les deux hommes se cherchaient sans cesse. L'Irlande, elle, est franchement positionniste (−0,38).",
+   "keys": [
+    "Côté irlandais, les carrefours s'appellent Coleman et Duffy, impliqués dans 24 passes chacun : un défenseur latéral et un central.",
+    "Le lien irlandais le plus utilisé, Coleman – J. Hendrick, ne compte que 9 passes.",
+    "Passes courtes : 40 % pour la France, 36 % pour l'Irlande, toutes deux sous la moyenne du tournoi (42 %).",
+    "Payet – Griezmann, 19 passes : le lien entre le créateur et le finisseur était bien branché."
+   ],
+   "impact": "La France a fait vivre le ballon autour de son trio offensif, et c'est logiquement par lui qu'est venue la menace. En face, un réseau qui passe par ses défenseurs dit tout de la soirée irlandaise : on relançait, on ne construisait pas."
+  },
+  "en": {
+   "lead": "This France side is slightly relational (+0.07), 8th of 24 teams at the tournament: a game neither rigid nor completely free. The passing network has three heads almost level: Matuidi (97 passes), Payet (95) and Griezmann (92). The busiest pair, Matuidi – Payet (27 passes), tells the story of France's left side, where those two kept looking for each other. Ireland are clearly positional (−0.38).",
+   "keys": [
+    "Ireland's hubs are Coleman and Duffy, involved in 24 passes each: a full-back and a centre-back.",
+    "Ireland's busiest link, Coleman – J. Hendrick, has only 9 passes.",
+    "Short passes: 40% for France, 36% for Ireland, both below the tournament average (42%).",
+    "Payet – Griezmann, 19 passes: the line between creator and finisher was well connected."
+   ],
+   "impact": "France kept the ball moving around their attacking trio, and that is naturally where the threat came from. Opposite, a network running through defenders says everything about Ireland's evening: they cleared, they did not build."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un match à sens unique laisse peu de place aux contre-attaques, et les chiffres le confirment. La France n'a concédé qu'un seul tir dans les 15 secondes suivant une perte, pour 0,16 xG. L'Irlande en a concédé 2, pour 0,08 xG. Aucun des trois buts n'est né d'une transition : le penalty irlandais, puis deux buts français en attaque placée.",
+   "keys": [
+    "La France a perdu 64 ballons dans le jeu, l'Irlande 50 : malgré le volume, les pertes françaises n'ont presque rien coûté.",
+    "Moyenne du tournoi : 1,6 tir et 0,13 xG concédés en transition. La France fait mieux sur les tirs, à peine moins bien sur les xG.",
+    "L'Irlande, qui défendait bas en 5-4-1, offrait peu d'espace à attaquer après ses pertes : 0,08 xG concédé en transition."
+   ],
+   "impact": "Le danger irlandais ne pouvait venir que d'une contre-attaque, et la France ne l'a presque jamais permise. Sa domination n'a donc jamais été mise en péril après le penalty initial."
+  },
+  "en": {
+   "lead": "A one-way game leaves little room for counter-attacks, and the numbers agree. France conceded only one shot within 15 seconds of a loss, worth 0.16 xG. Ireland conceded 2, worth 0.08 xG. None of the three goals came from a transition: the Irish penalty, then two French goals from settled play.",
+   "keys": [
+    "France lost 64 balls in open play, Ireland 50: despite the volume, France's losses cost them almost nothing.",
+    "Tournament average: 1.6 shots and 0.13 xG conceded in transition. France do better on shots, slightly worse on xG.",
+    "Ireland, defending deep in a 5-4-1, offered little space to attack after their losses: 0.08 xG conceded in transition."
+   ],
+   "impact": "Ireland's danger could only come on the break, and France almost never allowed it. Their dominance was therefore never threatened after the early penalty."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure ici l'attention reçue : combien d'actions défensives adverses en plus que la normale tombent sur un joueur, pour 10 touches. Et le plus surveillé est irlandais : J. McClean, +1,23, comme si la France avait désigné l'homme à surveiller. Côté français, O. Giroud (+0,99) et K. Coman (+0,86) aimantent les défenseurs. Griezmann, lui, n'apparaît pas dans le haut du classement, ce qui n'a sans doute pas nui à ses deux buts.",
+   "keys": [
+    "W. Hoolahan (+0,74) et S. Duffy (+0,54) complètent le podium irlandais.",
+    "N. Kanté (−0,37) a eu une soirée calme : personne ne venait le chercher au milieu.",
+    "R. Brady, le buteur irlandais, est le joueur le moins surveillé du match (−0,48).",
+    "À l'échelle du tournoi, le plus gros aimant reste K. Lafferty (Irlande du Nord), à +4,09."
+   ],
+   "impact": "Giroud a absorbé l'attention de la défense irlandaise, et Griezmann en a profité dans son dos. On peut y voir la répartition des rôles qui a fait basculer le match en trois minutes."
+  },
+  "en": {
+   "lead": "Without 360 data, this measures attention received: how many more opponent defensive actions than normal land on a player, per 10 touches. And the most watched man is Irish: J. McClean, +1.23, as if France had picked out the man to watch. For France, O. Giroud (+0.99) and K. Coman (+0.86) attract defenders. Griezmann does not appear near the top, which probably did not hurt his two goals.",
+   "keys": [
+    "W. Hoolahan (+0.74) and S. Duffy (+0.54) complete the Irish podium.",
+    "N. Kanté (−0.37) had a quiet evening: nobody came looking for him in midfield.",
+    "R. Brady, Ireland's scorer, is the least watched player of the match (−0.48).",
+    "Across the tournament, the biggest magnet remains K. Lafferty (Northern Ireland), at +4.09."
+   ],
+   "impact": "Giroud soaked up the attention of Ireland's defence, and Griezmann took advantage behind him. That division of labour may well be what tipped the game in three minutes."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La France a produit 2,18 xT par ses passes et ses conduites, l'Irlande 0,89. Et presque toute la menace française vient de la seconde période : 1,54 xT, contre 0,64 avant la pause. Le premier créateur n'est pas Payet mais Matuidi (0,58 xT), qui porte 27 % de la menace française à lui seul. Côté irlandais, le joueur le plus menaçant est... le gardien D. Randolph (0,22 xT), grâce à ses longs ballons (l'un d'eux part de 32 m pour arriver à 87 m).",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Matuidi à la 86e minute (+0,38 xT), de 82 à 102 m : la même minute que la grosse occasion manquée de Gignac.",
+    "Coman signe le deuxième geste le plus dangereux (+0,36 xT) à la 77e minute.",
+    "Payet pèse 0,45 xT, soit 21 % de la menace française.",
+    "Griezmann termine à −0,11 xT : ses passes et ses conduites ont plutôt reculé le jeu, son match était ailleurs."
+   ],
+   "impact": "La seconde période française a été plus de deux fois plus menaçante que la première, et c'est là que sont tombés les buts. Les Irlandais, dont le premier créateur était le gardien, n'avaient pas de quoi répondre."
+  },
+  "en": {
+   "lead": "France produced 2.18 xT through passes and carries, Ireland 0.89. And almost all of France's threat comes after the break: 1.54 xT, against 0.64 before it. The top creator is not Payet but Matuidi (0.58 xT), who carries 27% of France's threat on his own. For Ireland, the most threatening player is... goalkeeper D. Randolph (0.22 xT), thanks to his long balls (one of them travels from 32 m to 87 m).",
+   "keys": [
+    "The most threatening action of the match is a Matuidi pass in minute 86 (+0.38 xT), from 82 to 102 m: the same minute as Gignac's big miss.",
+    "Coman produces the second most dangerous action (+0.36 xT) in minute 77.",
+    "Payet is worth 0.45 xT, 21% of France's threat.",
+    "Griezmann finishes on −0.11 xT: his passes and carries tended to move play backwards, his game was elsewhere."
+   ],
+   "impact": "France's second half was more than twice as threatening as their first, and that is when the goals came. Ireland, whose top creator was their goalkeeper, had nothing to answer with."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur l'ensemble du tournoi, ce match réunit quelques-uns des meilleurs à leur poste. N. Kanté est 2e des 90 milieux classés (note de 82), avec seulement 245 minutes jouées. Griezmann est 3e des 46 attaquants, avec 6 buts et 2 passes décisives sur la compétition. Et L. Koscielny figure sur le podium des défenseurs centraux, 3e sur 33.",
+   "keys": [
+    "P. Pogba (7e) et B. Matuidi (9e) placent deux autres Français dans le top 10 des milieux.",
+    "A. Rami est 7e des 33 défenseurs centraux, avec 360 minutes jouées.",
+    "Côté irlandais, le mieux classé est W. Hoolahan, 20e des milieux (note de 60).",
+    "R. Brady termine 32e des milieux avec 2 buts sur le tournoi."
+   ],
+   "impact": "L'écart de classement ressemble à l'écart sur le terrain : la France alignait des joueurs du haut de tableau à tous les étages. Griezmann, déjà parmi les meilleurs attaquants, a simplement confirmé son rang ce soir-là."
+  },
+  "en": {
+   "lead": "Across the whole tournament, this match brings together some of the best in their positions. N. Kanté is 2nd of 90 ranked midfielders (score of 82), with only 245 minutes played. Griezmann is 3rd of 46 forwards, with 6 goals and 2 assists in the competition. And L. Koscielny makes the centre-back podium, 3rd of 33.",
+   "keys": [
+    "P. Pogba (7th) and B. Matuidi (9th) put two more French players in the midfield top 10.",
+    "A. Rami is 7th of 33 centre-backs, with 360 minutes played.",
+    "For Ireland, the best ranked is W. Hoolahan, 20th among midfielders (score of 60).",
+    "R. Brady finishes 32nd among midfielders with 2 goals in the tournament."
+   ],
+   "impact": "The ranking gap mirrors the gap on the pitch: France fielded top-of-the-table players in every line. Griezmann, already among the best forwards, simply lived up to his rank that night."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de N. Kanté est inattendu : Leandro Paredes à la Coupe du monde 2022, similaire à 93 %. Un milieu qui récupère et relance, plus qu'un coureur. Griezmann, lui, ressemble d'abord à Cristiano Ronaldo en finale de Ligue des champions (92 %), puis à H. Kane à ce même Euro 2016 (91 %). Un profil de finisseur avant tout.",
+   "keys": [
+    "L. Koscielny a le jumeau le plus fidèle du match : Thomas Vermaelen à l'Euro 2020, 96 %.",
+    "Pogba ressemble à... Paul Pogba, version Euro 2020 (84 %), juste derrière Renato Sanches (85 %).",
+    "W. Hoolahan, le créateur irlandais, a pour jumeau Bruno Fernandes à l'Euro 2020 (93 %)."
+   ],
+   "impact": "Kanté façon Paredes, Griezmann façon Ronaldo : la France disposait de profils de très haut niveau à chaque étape de l'action. L'Irlande, avec Hoolahan, avait son créateur, mais il n'a pas trouvé assez de relais pour peser."
+  },
+  "en": {
+   "lead": "N. Kanté's statistical twin is a surprise: Leandro Paredes at the 2022 World Cup, 93% similar. A midfielder who wins the ball and moves it on, more than a runner. Griezmann first resembles Cristiano Ronaldo in a Champions League final (92%), then H. Kane at this same Euro 2016 (91%). A finisher's profile above all.",
+   "keys": [
+    "L. Koscielny has the closest twin of the match: Thomas Vermaelen at Euro 2020, 96%.",
+    "Pogba resembles... Paul Pogba, Euro 2020 version (84%), just behind Renato Sanches (85%).",
+    "W. Hoolahan, Ireland's creator, has Bruno Fernandes at Euro 2020 as his twin (93%)."
+   ],
+   "impact": "Kanté in a Paredes mould, Griezmann in a Ronaldo mould: France had top-level profiles at every stage of the move. Ireland had their creator in Hoolahan, but he did not find enough support to make a difference."
+  }
+ }
+}

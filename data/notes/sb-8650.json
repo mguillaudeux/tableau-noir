@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un quart de finale de Coupe du monde à sens unique… sauf au tableau d'affichage. Le Brésil a tiré 25 fois, cadré 9 tirs, accumulé 2,61 xG et 22 passes clés. La Belgique a tiré 8 fois pour 0,41 xG, et mène pourtant 2-0 à la demi-heure : un contre-son-camp de Fernandinho à la 13e, puis une frappe de Kevin De Bruyne à la 31e, estimée à 0,04 xG. Renato Augusto réduit l'écart à la 76e, mais le Brésil, vainqueur du Mexique au tour précédent, s'arrête là.",
+   "keys": [
+    "Écart d'xG de 2,20 en faveur du perdant : le genre de soirée qui rend fous les statisticiens.",
+    "Thibaut Courtois réalise 8 arrêts, et les quatre plus grosses occasions brésiliennes passent toutes à côté : Thiago Silva à la 8e (0,27 xG), Gabriel Jesus à la 15e (0,28) et à la 36e (0,25), Firmino à la 94e (0,26).",
+    "Neymar distribue 8 passes clés, à lui seul deux fois plus que toute l'équipe belge (4).",
+    "Renato Augusto marque en 23 minutes de jeu, avec 0,37 xG sur 2 tirs.",
+    "La Belgique dégage 36 ballons, le Brésil 7."
+   ],
+   "impact": "La Belgique, qui avait battu le Japon 3-2 au tour précédent, a cette fois frappé tôt et tenu ensuite. Le Brésil a dominé tous les compteurs, mais une frappe à 0,04 xG et un but contre son camp ont suffi à le renvoyer chez lui."
+  },
+  "en": {
+   "lead": "A World Cup quarter-final that was one-way traffic… except on the scoreboard. Brazil shot 25 times, put 9 on target, racked up 2.61 xG and 22 key passes. Belgium shot 8 times for 0.41 xG, and still led 2-0 by the half-hour: a Fernandinho own goal in minute 13, then a Kevin De Bruyne strike in minute 31, rated at 0.04 xG. Renato Augusto pulled one back in minute 76, but Brazil, who had beaten Mexico in the previous round, went no further.",
+   "keys": [
+    "An xG gap of 2.20 in favour of the losers: the kind of night that drives statisticians mad.",
+    "Thibaut Courtois makes 8 saves, and Brazil's four biggest chances all go wide: Thiago Silva in minute 8 (0.27 xG), Gabriel Jesus in minutes 15 (0.28) and 36 (0.25), Firmino in minute 94 (0.26).",
+    "Neymar supplies 8 key passes, twice as many as the entire Belgian team (4).",
+    "Renato Augusto scores in 23 minutes on the pitch, with 0.37 xG from 2 shots.",
+    "Belgium make 36 clearances, Brazil 7."
+   ],
+   "impact": "Belgium, who had beaten Japan 3-2 in the previous round, struck early this time and held on. Brazil won every count, but a 0.04 xG strike and an own goal were enough to send them home."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le Brésil, annoncé en 4-3-3, attaquait en 3-2-2-3, avec Marcelo projeté à 68 m de son but sur la gauche et Fágner resté bien plus bas à droite (46 m). Tout penchait de ce côté : Neymar à 20 m de la ligne gauche, Coutinho juste à côté, et 24 % des touches brésiliennes dans le demi-espace gauche. La Belgique, en 4-3-3 sur la feuille, attaquait en 3-3-4, avec une particularité : Romelu Lukaku placé côté droit, à 53 m de la ligne gauche.",
+   "keys": [
+    "Le côté droit belge, celui de Lukaku et Meunier, faisait face au côté gauche brésilien, où Marcelo, très haut, pouvait laisser de l'espace dans son dos.",
+    "Le Brésil passe 42 % de ses touches dans le dernier tiers, la Belgique 22 %.",
+    "La Belgique passe 32 % de ses touches dans son propre tiers : elle a beaucoup défendu.",
+    "Sans ballon, la Belgique se repliait en 3-3-2-2, avec deux joueurs devant le bloc."
+   ],
+   "impact": "Avec Lukaku positionné à droite, face au couloir de Marcelo, la Belgique se trouvait dans la zone que le Brésil dégarnissait en attaquant. Ce n'est sans doute pas un hasard, même si elle n'a eu que 0,41 xG à se mettre sous la dent."
+  },
+  "en": {
+   "lead": "Brazil, announced in a 4-3-3, attacked in a 3-2-2-3, with Marcelo pushed up to 68 m from his goal on the left and Fágner much deeper on the right (46 m). Everything leaned that way: Neymar 20 m from the left line, Coutinho right next to him, and 24% of Brazil's touches in the left half-space. Belgium, a 4-3-3 on the team sheet, attacked in a 3-3-4 with one quirk: Romelu Lukaku stationed on the right, 53 m from the left line.",
+   "keys": [
+    "Belgium's right side, Lukaku and Meunier's, faced Brazil's left, where Marcelo, pushed high, could leave space behind him.",
+    "Brazil spend 42% of their touches in the final third, Belgium 22%.",
+    "Belgium spend 32% of their touches in their own third: they did a lot of defending.",
+    "Without the ball, Belgium dropped into a 3-3-2-2, with two players ahead of the block."
+   ],
+   "impact": "With Lukaku stationed on the right, opposite Marcelo's lane, Belgium sat in the zone Brazil vacated when attacking. Probably no coincidence, even if they only got 0.41 xG out of it."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "La Belgique a couru comme rarement : 330 pressions, 8,2 par minute sans ballon, bien au-dessus de la moyenne du Mondial (5,6). Mais elle pressait bas, à 36,7 m de son but en moyenne, nettement sous la moyenne du tournoi (46,3 m). Une course d'endurance pour fermer les espaces, pas pour récupérer haut : seulement 4 récupérations hautes, contre 9 pour le Brésil.",
+   "keys": [
+    "Contre-pressing belge à 10 %, très en dessous de la moyenne (19 %) : après une perte, la Belgique se repliait plutôt que de presser.",
+    "45 % des récupérations belges arrivent plus de 20 secondes après la perte.",
+    "Le Brésil défendait haut, à 52,3 m de son but, avec un PPDA de 12,0 contre 15,6 pour la Belgique.",
+    "Le Brésil récupère 52 % de ses ballons perdus en moins de 10 secondes, la Belgique 37 %."
+   ],
+   "impact": "Ce pressing bas mais intense a sans doute aidé la Belgique à ne pas craquer malgré 25 tirs subis, et à protéger une avance acquise très tôt. Le Brésil, lui, a récupéré plus haut, mais son seul but n'est pas né d'une transition."
+  },
+  "en": {
+   "lead": "Belgium ran like few teams do: 330 pressures, 8.2 per minute out of possession, well above the World Cup average (5.6). But they pressed deep, 36.7 m from their goal on average, well below the tournament average (46.3 m). An endurance run to close spaces, not to win the ball high: only 4 high regains, against 9 for Brazil.",
+   "keys": [
+    "Belgian counter-pressing at 10%, far below the average (19%): after a loss, Belgium retreated rather than pressed.",
+    "45% of Belgium's regains came more than 20 seconds after the loss.",
+    "Brazil defended high, 52.3 m from their goal, with a PPDA of 12.0 against 15.6 for Belgium.",
+    "Brazil win back 52% of lost balls within 10 seconds, Belgium 37%."
+   ],
+   "impact": "That deep but intense press probably helped Belgium avoid cracking despite facing 25 shots, and protect a lead taken very early. Brazil won the ball higher up, but their only goal did not come from a transition."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le Brésil jouait court (62 % de passes courtes, bien au-dessus de la moyenne de 53 %), mais chacun à sa place : son indice est positionniste (−0,47), avec seulement 10,1 m de liberté latérale, la plus faible des deux équipes. Son réseau dessine un triangle sur la gauche : Coutinho (124 passes), Marcelo (107) et Neymar (95). Coutinho – Marcelo, 43 passes, est le lien le plus utilisé du match.",
+   "keys": [
+    "Coutinho – Neymar (36) et Neymar – Marcelo (32) complètent le triangle brésilien.",
+    "La Belgique est presque aussi positionniste (−0,42), avec 47 % de passes courtes seulement.",
+    "Côté belge, les carrefours sont les centraux Vertonghen (70) et Kompany (68), puis Eden Hazard (67).",
+    "Hazard – Chadli, 21 passes : la seule connexion offensive belge parmi les plus utilisées."
+   ],
+   "impact": "Tout le jeu brésilien passait par un même couloir gauche, avec trois joueurs qui se trouvaient les yeux fermés. Efficace pour créer, mais prévisible : on peut penser que la Belgique savait où défendre, et c'est de l'autre côté qu'elle cherchait l'espace."
+  },
+  "en": {
+   "lead": "Brazil played short (62% short passes, well above the 53% average), but with everyone in their place: their index is positional (−0.47), with only 10.1 m of lateral freedom, the lower of the two teams. Their network draws a triangle on the left: Coutinho (124 passes), Marcelo (107) and Neymar (95). Coutinho – Marcelo, 43 passes, is the busiest link of the match.",
+   "keys": [
+    "Coutinho – Neymar (36) and Neymar – Marcelo (32) complete the Brazilian triangle.",
+    "Belgium are almost as positional (−0.42), with only 47% short passes.",
+    "For Belgium, the hubs are centre-backs Vertonghen (70) and Kompany (68), then Eden Hazard (67).",
+    "Hazard – Chadli, 21 passes: Belgium's only attacking connection among the busiest links."
+   ],
+   "impact": "All of Brazil's play went down the same left channel, with three players who could find each other blindfolded. Great for creating, but predictable: Belgium arguably knew where to defend, and looked for space on the other side."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "C'est la Belgique qui a le plus souffert dans les transitions : 5 tirs concédés dans les 15 secondes suivant une perte, pour 0,54 xG, au-dessus de la moyenne du Mondial (0,28). Le Brésil n'en a concédé que 2, pour 0,13 xG. Pourtant, aucun des trois buts n'est né d'une transition.",
+   "keys": [
+    "Les 85 pertes belges en jeu ouvert ont offert au Brésil 5 frappes rapides.",
+    "Le Brésil, avec 93 pertes, n'a laissé que 0,13 xG en transition.",
+    "Le Mondial affiche en moyenne 2,7 tirs concédés en transition par match : la Belgique (5) est au-dessus, le Brésil (2) en dessous."
+   ],
+   "impact": "La Belgique a vécu dangereusement sur plusieurs ballons perdus, mais le Brésil n'a pas converti ces contres. Ajoutées aux occasions manquées en attaque placée, ces transitions gâchées résument une soirée brésilienne sans réussite."
+  },
+  "en": {
+   "lead": "Belgium suffered more in transition: 5 shots conceded within 15 seconds of a loss, worth 0.54 xG, above the World Cup average (0.28). Brazil conceded only 2, worth 0.13 xG. Yet none of the three goals came from a transition.",
+   "keys": [
+    "Belgium's 85 open-play losses gave Brazil 5 quick shots.",
+    "Brazil, with 93 losses, allowed only 0.13 xG in transition.",
+    "The World Cup averages 2.7 transition shots conceded per match: Belgium (5) sit above that, Brazil (2) below."
+   ],
+   "impact": "Belgium lived dangerously on several lost balls, but Brazil failed to convert those breaks. Add the misses in settled play, and these wasted transitions sum up a luckless Brazilian night."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure l'attention reçue : les actions défensives adverses de plus que la normale pour 10 touches. Deux joueurs écrasent le classement : Roberto Firmino (4,24) et Eden Hazard (4,21). Hazard, au même niveau qu'un attaquant de pointe, était la cible prioritaire de la défense brésilienne. Neymar, lui, n'est qu'à 1,28.",
+   "keys": [
+    "Pour l'échelle, le joueur le plus surveillé du Mondial est Mehdi Taremi (5,35), devant Mohamed Salah (3,82).",
+    "Gabriel Jesus (0,84), Philippe Coutinho (0,73) et Douglas Costa (0,59) complètent le top 6, tous brésiliens.",
+    "À l'opposé, Kompany (−1,50), Vertonghen (−1,36) et Miranda (−1,20) relançaient tranquillement.",
+    "Hazard porte 33 % de la menace belge, presque entièrement en conduites de balle, ce qui aide à comprendre l'attention qu'il attirait."
+   ],
+   "impact": "Le Brésil s'est jeté sur Hazard, principale source de percussion belge. Mais pendant ce temps, Neymar, moins entouré qu'on aurait pu le croire (1,28), a pu distribuer 8 passes clés : la Belgique a peut-être choisi de le laisser jouer pour mieux fermer la surface."
+  },
+  "en": {
+   "lead": "Without 360 data, we measure attention received: extra opposition defensive actions per 10 touches. Two players dominate the table: Roberto Firmino (4.24) and Eden Hazard (4.21). Hazard, at the level of a centre-forward, was the Brazilian defence's priority target. Neymar, by contrast, is only at 1.28.",
+   "keys": [
+    "For scale, the most watched player of the World Cup is Mehdi Taremi (5.35), ahead of Mohamed Salah (3.82).",
+    "Gabriel Jesus (0.84), Philippe Coutinho (0.73) and Douglas Costa (0.59) complete the top 6, all Brazilian.",
+    "At the other end, Kompany (−1.50), Vertonghen (−1.36) and Miranda (−1.20) played out in peace.",
+    "Hazard carries 33% of Belgium's threat, almost all from carries, which helps explain the attention he drew."
+   ],
+   "impact": "Brazil threw themselves at Hazard, Belgium's main ball-carrying threat. Meanwhile Neymar, less crowded than you might expect (1.28), was free to deliver 8 key passes: Belgium may have chosen to let him play in order to shut down the box."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le Brésil a créé 3,25 xT, presque quatre fois plus que la Belgique (0,87), et 2,16 rien qu'en deuxième mi-temps. Le grand créateur de la soirée s'appelle Neymar : 1,11 xT, soit 34 % de toute la menace brésilienne, à la passe (0,70) comme en conduite (0,40). À la 15e minute, sa passe à +0,35 xT, le geste le plus menaçant du match, tombe à la minute de la grosse occasion manquée de Gabriel Jesus.",
+   "keys": [
+    "Marcelo (0,66 xT) et Coutinho (0,59) suivent : le triangle gauche brésilien a produit l'essentiel de la menace.",
+    "À la 76e, la minute du but de Renato Augusto, Coutinho signe une passe de 82 à 96 m (+0,14 xT).",
+    "Côté belge, Eden Hazard est le premier créateur (0,29 xT), presque uniquement en conduites (0,27).",
+    "À la 69e, Lukaku part balle au pied de 48 à 104 m : une course de presque tout le terrain."
+   ],
+   "impact": "La menace brésilienne a explosé après la pause, mais elle n'a produit qu'un but. La Belgique a créé peu, mais dans un match où elle menait 2-0 à la demi-heure, elle n'avait pas besoin de plus."
+  },
+  "en": {
+   "lead": "Brazil created 3.25 xT, almost four times Belgium's 0.87, and 2.16 in the second half alone. The night's great creator was Neymar: 1.11 xT, 34% of Brazil's entire threat, through passes (0.70) as well as carries (0.40). In minute 15, his +0.35 xT pass, the most threatening action of the match, lands in the minute of Gabriel Jesus's big miss.",
+   "keys": [
+    "Marcelo (0.66 xT) and Coutinho (0.59) follow: Brazil's left-side triangle produced most of the threat.",
+    "In minute 76, the minute of Renato Augusto's goal, Coutinho plays a pass from 82 to 96 m (+0.14 xT).",
+    "For Belgium, Eden Hazard is the top creator (0.29 xT), almost entirely from carries (0.27).",
+    "In minute 69, Lukaku carries the ball from 48 to 104 m: a run covering almost the whole pitch."
+   ],
+   "impact": "Brazil's threat exploded after the break, but produced only one goal. Belgium created little, but having led 2-0 by the half-hour, they did not need more."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Ce quart réunissait les deux meilleurs attaquants du Mondial selon nos classements : Neymar, 1er des 68 attaquants avec une note de 94, et Eden Hazard, 2e avec 88. Et en dernier rempart, le meilleur gardien du tournoi : Thibaut Courtois, 1er sur 31. Côté brésilien, Marcelo complète le tableau, 2e des 88 latéraux.",
+   "keys": [
+    "Hazard affiche 3 buts et 2 passes décisives dans le tournoi, Neymar 2 buts et 1 passe décisive.",
+    "Nacer Chadli est 7e des 123 milieux, avec une note de 73.",
+    "Thomas Meunier, 12e des latéraux, compte 1 but et 2 passes décisives.",
+    "Romelu Lukaku, 24e des attaquants, a déjà marqué 4 buts."
+   ],
+   "impact": "Les deux meilleurs attaquants se faisaient face, mais c'est le meilleur gardien qui a fait pencher la balance : 8 arrêts de Courtois face à 2,61 xG. Quand le n°1 des attaquants rencontre le n°1 des gardiens, le gardien l'a emporté ce soir-là."
+  },
+  "en": {
+   "lead": "This quarter-final brought together the World Cup's two best forwards by our rankings: Neymar, 1st of 68 forwards with a score of 94, and Eden Hazard, 2nd with 88. And as the last line of defence, the tournament's best goalkeeper: Thibaut Courtois, 1st of 31. For Brazil, Marcelo completes the picture, 2nd of 88 full-backs.",
+   "keys": [
+    "Hazard has 3 goals and 2 assists at the tournament, Neymar 2 goals and 1 assist.",
+    "Nacer Chadli is 7th of 123 midfielders, with a score of 73.",
+    "Thomas Meunier, 12th among full-backs, has 1 goal and 2 assists.",
+    "Romelu Lukaku, 24th among forwards, has already scored 4 goals."
+   ],
+   "impact": "The two best forwards faced each other, but the best goalkeeper tipped the balance: 8 Courtois saves against 2.61 xG. When the number one forward met the number one keeper, the keeper won that night."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le plus beau clin d'œil des jumeaux : Neymar et Eden Hazard sont chacun le plus proche voisin de l'autre, similaires à 96 %, dans ce même Mondial. Les deux meilleurs attaquants du tournoi, face à face, avaient le même profil statistique. Neymar ressemble ensuite à Arjen Robben avec le Bayern Munich en finale de Ligue des champions (95 %), Hazard à Lionel Messi, version 2018 (95 %) puis 2022 (94 %).",
+   "keys": [
+    "Marcelo rappelle Jordi Alba à l'Euro 2020 (92 %) et Philipp Lahm avec le Bayern Munich en finale de Ligue des champions (90 %).",
+    "Thibaut Courtois a pour jumeau Manuel Neuer, dans le même Mondial (90 %).",
+    "Kevin De Bruyne, classé attaquant, se rapproche de Bruno Fernandes au Mondial 2022 (90 %).",
+    "Youri Tielemans ressemble à Andrés Iniesta avec Barcelone en finale de Ligue des champions (90 %)."
+   ],
+   "impact": "Deux jumeaux à 96 %, un seul qualifié : le profil était le même, la différence s'est faite autour d'eux. Hazard avait Courtois derrière lui ; Neymar avait une attaque qui n'a pas cadré ses plus grosses occasions."
+  },
+  "en": {
+   "lead": "The twins' finest wink: Neymar and Eden Hazard are each other's nearest neighbour, 96% similar, at this very World Cup. The tournament's two best forwards, face to face, shared the same statistical profile. Neymar then resembles Arjen Robben with Bayern Munich in a Champions League final (95%), Hazard looks like Lionel Messi, 2018 version (95%) then 2022 (94%).",
+   "keys": [
+    "Marcelo recalls Jordi Alba at Euro 2020 (92%) and Philipp Lahm with Bayern Munich in a Champions League final (90%).",
+    "Thibaut Courtois's twin is Manuel Neuer at the same World Cup (90%).",
+    "Kevin De Bruyne, listed as a forward, sits close to Bruno Fernandes at the 2022 World Cup (90%).",
+    "Youri Tielemans resembles Andrés Iniesta with Barcelona in a Champions League final (90%)."
+   ],
+   "impact": "Two 96% twins, only one through: the profile was the same, the difference was made around them. Hazard had Courtois behind him; Neymar had an attack that failed to hit the target with its biggest chances."
+  }
+ }
+}

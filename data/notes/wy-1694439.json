@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une demi-finale d'Euro où l'équipe qui a eu le ballon a perdu, et nettement. L'Allemagne, sortie de son quart contre l'Italie aux tirs au but, a tenu 63 % de possession et joué 676 passes, plus du double des 311 françaises. Mais c'est la France, tombeuse de l'Islande 5-2, qui a frappé : A. Griezmann transforme un penalty juste après la pause (47e), puis double la mise à la 72e. Deux buts, 6 tirs, 1,29 xG : la soirée lui appartient.",
+   "keys": [
+    "Selon le modèle maison, la France finit à 1,73 xG contre 1,19, mais sans le penalty elle retombe à 1,00 npxG, sous l'Allemagne.",
+    "La France cadre 8 tirs sur 14, l'Allemagne 6 sur 16.",
+    "La plus grosse occasion allemande tombe à la 79e : S. Mustafi, 0,23 xG, à côté. Le 1-2 aurait relancé les dix dernières minutes.",
+    "La France dégage 24 ballons, contre 5 pour l'Allemagne : les rôles étaient distribués."
+   ],
+   "impact": "Hors penalty, le match est à peu près équilibré en occasions, et l'Allemagne en a même eu un peu plus. Mais la France a été plus efficace, et le penalty de la 47e a obligé l'Allemagne à courir après le score face à un bloc qui ne demandait qu'à défendre."
+  },
+  "en": {
+   "lead": "A Euro semi-final in which the team with the ball lost, and clearly. Germany, who had come through their quarter-final against Italy on penalties, held 63% possession and played 676 passes, more than double France's 311. But it was France, 5-2 winners over Iceland, who struck: A. Griezmann converts a penalty just after the break (minute 47), then doubles the lead in minute 72. Two goals, 6 shots, 1.29 xG: the night belongs to him.",
+   "keys": [
+    "According to the in-house model, France finish on 1.73 xG to 1.19, but without the penalty they drop to 1.00 npxG, below Germany.",
+    "France put 8 of 14 shots on target, Germany 6 of 16.",
+    "Germany's biggest chance comes in minute 79: S. Mustafi, 0.23 xG, wide. A 1-2 would have reignited the final ten minutes.",
+    "France make 24 clearances, against 5 for Germany: the roles were clearly assigned."
+   ],
+   "impact": "Without the penalty, the match is roughly even on chances, and Germany even had slightly more. But France were more clinical, and the minute-47 penalty forced Germany to chase the game against a block that was happy to defend."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Les deux équipes dessinent un 3-3-4 avec le ballon, mais pas au même étage. Les quatre Allemands de devant, Kimmich, Müller, Draxler et Hector, se situent entre 72 et 80 m de leur but ; J. Boateng, défenseur central, monte à 57 m. Les quatre Français les plus avancés, eux, sont entre 62 et 72 m. Sans le ballon, l'Allemagne recule en 5-1-2-2 et la France se range en 4-1-2-3.",
+   "keys": [
+    "L'Allemagne attaque d'abord à gauche : 23 % de ses touches dans le couloir, 22 % dans le demi-espace, avec Hector à 5 m de la ligne.",
+    "La France penche nettement à droite : 30 % de ses touches dans ce couloir, celui de B. Sagna et M. Sissoko.",
+    "La France passe 29 % de ses touches dans son propre tiers, l'Allemagne 18 %.",
+    "Kimmich, latéral droit allemand, est à 79 m de son but en moyenne : presque à hauteur de Müller (80 m)."
+   ],
+   "impact": "Le couloir droit français faisait face au flanc gauche allemand, le plus utilisé par l'Allemagne. Chaque sortie de balle française par Sagna et Sissoko attaquait donc l'espace laissé derrière Hector, ce qui explique sans doute que la France ait pu respirer malgré si peu de ballon."
+  },
+  "en": {
+   "lead": "Both teams take the shape of a 3-3-4 on the ball, but at different heights. Germany's front four, Kimmich, Müller, Draxler and Hector, sit between 72 and 80 m from their goal; J. Boateng, a centre-back, pushes up to 57 m. France's four most advanced players are between 62 and 72 m. Without the ball, Germany drop into a 5-1-2-2 and France settle into a 4-1-2-3.",
+   "keys": [
+    "Germany attack down the left first: 23% of their touches in the lane, 22% in the half-space, with Hector 5 m from the line.",
+    "France lean clearly right: 30% of their touches in that lane, the lane of B. Sagna and M. Sissoko.",
+    "France spend 29% of their touches in their own third, Germany 18%.",
+    "Kimmich, Germany's right-back, averages 79 m from his goal: almost level with Müller (80 m)."
+   ],
+   "impact": "France's right lane faced Germany's left flank, the one Germany used most. Every French exit through Sagna and Sissoko therefore attacked the space behind Hector, which probably explains how France could breathe despite having so little of the ball."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression chez Wyscout, on passe par les tacles, interceptions et fautes, et l'Allemagne y affiche un chiffre spectaculaire : un PPDA de 3,8, avec 4,7 actions défensives par minute sans ballon, bien au-dessus de la moyenne du tournoi (3,6). La France a fait l'inverse : PPDA de 11,3, actions défensives à 33,0 m de son but, et 38 % de récupérations qui prennent plus de 20 secondes.",
+   "keys": [
+    "Paradoxe : la France compte 10 récupérations hautes, l'Allemagne 6 (moyenne du tournoi : 6,9).",
+    "La France récupère 26 % de ses ballons perdus en moins de 5 secondes, l'Allemagne 19 %.",
+    "Hauteur défensive allemande : 43,0 m, au-dessus de la moyenne (38,3 m).",
+    "Les deux équipes interceptent beaucoup : 53 interceptions françaises, 45 allemandes."
+   ],
+   "impact": "L'Allemagne a étouffé la France dès qu'elle perdait le ballon, mais sa pression ne s'est jamais traduite en occasions franches. La France, elle, a accepté de reculer tout en gardant la capacité de mordre haut quand l'Allemagne relâchait."
+  },
+  "en": {
+   "lead": "Without pressure events in Wyscout, we go through tackles, interceptions and fouls, and Germany post a spectacular figure: a PPDA of 3.8, with 4.7 defensive actions per minute out of possession, well above the tournament average (3.6). France did the opposite: a PPDA of 11.3, defensive actions 33.0 m from their goal, and 38% of regains taking longer than 20 seconds.",
+   "keys": [
+    "The paradox: France have 10 high recoveries, Germany 6 (tournament average: 6.9).",
+    "France win back 26% of lost balls within 5 seconds, Germany 19%.",
+    "Germany's defensive height: 43.0 m, above the average (38.3 m).",
+    "Both teams intercept a lot: 53 interceptions for France, 45 for Germany."
+   ],
+   "impact": "Germany smothered France whenever they lost the ball, but that pressure never turned into clear chances. France accepted dropping deep while keeping the ability to bite high whenever Germany eased off."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Toni Kroos était partout : 160 passes impliquées, et les trois liens les plus utilisés de l'Allemagne passent tous par lui (31 passes avec B. Höwedes, 31 avec M. Özil, 29 avec B. Schweinsteiger). C'est une étoile plus qu'un réseau. En face, le carrefour français s'appelle Griezmann, avec seulement 44 passes impliquées : la France a construit très peu, mais par petites touches, avec un indice relationniste de +0,40.",
+   "keys": [
+    "Le triangle français est à droite : Sissoko – Griezmann (13 passes), Sissoko – Sagna (11), Griezmann – Sagna (8).",
+    "La France joue 47 % de passes courtes, l'Allemagne seulement 37 % (moyenne du tournoi : 42 %).",
+    "L'Allemagne est positionniste ce soir-là (−0,20) ; sur le tournoi, elle est 14e des 24 équipes sur l'axe relationniste, la France 8e.",
+    "Özil (140) et Schweinsteiger (120) complètent un trio de carrefours allemands tous au milieu."
+   ],
+   "impact": "L'Allemagne faisait tout passer par Kroos ; la France, en quelques passes courtes à droite, allait directement vers Griezmann. Peu de ballons, mais un circuit court et sans détour : tout indique que c'est ainsi que la France a rendu sa faible possession efficace."
+  },
+  "en": {
+   "lead": "Toni Kroos was everywhere: 160 passes involved, and Germany's three busiest links all run through him (31 passes with B. Höwedes, 31 with M. Özil, 29 with B. Schweinsteiger). More of a star than a network. Opposite, France's hub is Griezmann, with just 44 passes involved: France built very little, but in short touches, with a relational index of +0.40.",
+   "keys": [
+    "France's triangle is on the right: Sissoko – Griezmann (13 passes), Sissoko – Sagna (11), Griezmann – Sagna (8).",
+    "France play 47% short passes, Germany only 37% (tournament average: 42%).",
+    "Germany are positional that night (−0.20); over the tournament they are 14th of 24 teams on the relational axis, France 8th.",
+    "Özil (140) and Schweinsteiger (120) complete a trio of German hubs, all in midfield."
+   ],
+   "impact": "Germany funnelled everything through Kroos; France, with a few short passes down the right, went straight to Griezmann. Little of the ball, but a short, direct circuit: everything suggests that is how France made their small share of possession count."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "On aurait pu attendre une France meurtrière en contre face à une Allemagne si haute. Les chiffres disent autre chose : l'Allemagne n'a concédé que 3 tirs dans les 15 secondes suivant une perte, pour 0,22 xG. C'est au-dessus de la moyenne du tournoi (0,13 xG), mais loin d'une hémorragie. La France, elle, n'a laissé qu'un tir en transition, pour 0,03 xG.",
+   "keys": [
+    "Moyenne du tournoi : 1,6 tir concédé en transition. L'Allemagne en concède 3, la France 1.",
+    "L'Allemagne a perdu 62 ballons dans le jeu, la France 48.",
+    "Aucun des deux buts de Griezmann n'est né d'une transition."
+   ],
+   "impact": "Les transitions n'ont pas décidé cette demi-finale : les deux buts sont venus d'un penalty et d'une action qui n'était pas une transition. La France a surtout fermé la porte à l'Allemagne après ses propres pertes, ce qui l'a privée d'occasions faciles."
+  },
+  "en": {
+   "lead": "You might have expected France to be lethal on the break against such a high German side. The numbers say otherwise: Germany conceded only 3 shots within 15 seconds of a loss, worth 0.22 xG. That is above the tournament average (0.13 xG), but far from a haemorrhage. France allowed just one transition shot, worth 0.03 xG.",
+   "keys": [
+    "Tournament average: 1.6 shots conceded in transition. Germany concede 3, France 1.",
+    "Germany lost 62 balls in open play, France 48.",
+    "Neither of Griezmann's two goals came from a transition."
+   ],
+   "impact": "Transitions did not decide this semi-final: the two goals came from a penalty and from a move that was not a transition. Above all, France shut the door on Germany after their own losses, denying them any easy chances."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit l'attention reçue, et l'Allemagne avait une cible claire : O. Giroud, 1,84 action défensive de plus que la normale pour 10 touches. Derrière lui, M. Sissoko (1,34), D. Payet (0,86) et A. Griezmann (0,68). Cinq des six joueurs les plus entourés sont français : chaque fois qu'un Bleu touchait le ballon, des Allemands arrivaient.",
+   "keys": [
+    "T. Müller (0,51) est le seul Allemand du top 6 : la France ne s'acharnait sur personne en particulier.",
+    "Giroud, pivot entouré, a sans doute permis à Griezmann de recevoir avec moins de monde autour (0,68).",
+    "En bas de l'échelle, L. Koscielny (−0,40) et P. Evra (−0,45) relançaient sans être gênés.",
+    "S. Mustafi est le joueur le moins surveillé du match (−0,48)."
+   ],
+   "impact": "L'Allemagne a mis du monde sur Giroud, et c'est Griezmann qui a marqué deux fois. On peut y voir le rôle de l'avant-centre qui attire et libère : un travail invisible au tableau d'affichage, mais décisif."
+  },
+  "en": {
+   "lead": "Without 360 data we read attention received, and Germany had a clear target: O. Giroud, 1.84 extra defensive actions per 10 touches. Behind him come M. Sissoko (1.34), D. Payet (0.86) and A. Griezmann (0.68). Five of the six most crowded players are French: every time a French player touched the ball, Germans arrived.",
+   "keys": [
+    "T. Müller (0.51) is the only German in the top 6: France did not single anyone out.",
+    "Giroud, a crowded target man, probably let Griezmann receive with fewer bodies around him (0.68).",
+    "At the bottom, L. Koscielny (−0.40) and P. Evra (−0.45) played out undisturbed.",
+    "S. Mustafi is the least watched player in the match (−0.48)."
+   ],
+   "impact": "Germany put bodies on Giroud, and it was Griezmann who scored twice. You can see in it the role of the centre-forward who draws and frees: invisible on the scoresheet, but decisive."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Un chiffre résume la soirée allemande : Toni Kroos, à lui seul, a créé 1,08 xT, plus que toute l'équipe de France (0,74). L'Allemagne totalise 3,30 xT, et ses six plus gros créateurs du match sont tous allemands. Le geste le plus menaçant de la rencontre est une passe de Kroos à la 79e minute (+0,36 xT), suivie d'une autre dans la même minute (+0,14) : c'est le moment de l'occasion manquée de Mustafi.",
+   "keys": [
+    "Kroos pèse 33 % de la menace allemande, presque entièrement à la passe (1,07 xT).",
+    "J. Draxler suit avec 0,54 xT, dont une passe à +0,29 à la 32e minute.",
+    "L'Allemagne accélère après la pause (1,78 xT contre 1,53), la France reste à plat (0,38 puis 0,36).",
+    "Le geste le plus menaçant de la France est une passe d'O. Giroud à la 74e minute (+0,13 xT)."
+   ],
+   "impact": "Plus de quatre fois moins de menace créée, et pourtant une victoire 2-0 : difficile d'être plus efficace. L'Allemagne a construit sans arrêt, mais n'a jamais transformé ses positions dangereuses en vraies occasions."
+  },
+  "en": {
+   "lead": "One number sums up Germany's evening: Toni Kroos alone created 1.08 xT, more than the whole French team (0.74). Germany total 3.30 xT, and the six biggest creators in the match are all German. The most threatening action of the game is a Kroos pass in minute 79 (+0.36 xT), followed by another in the same minute (+0.14): the moment of Mustafi's missed chance.",
+   "keys": [
+    "Kroos accounts for 33% of Germany's threat, almost entirely through passing (1.07 xT).",
+    "J. Draxler follows with 0.54 xT, including a +0.29 pass in minute 32.",
+    "Germany step up after the break (1.78 xT against 1.53); France stay flat (0.38 then 0.36).",
+    "France's most threatening action is an O. Giroud pass in minute 74 (+0.13 xT)."
+   ],
+   "impact": "More than four times less threat created, and still a 2-0 win: hard to be more efficient than that. Germany built relentlessly but never turned their dangerous positions into real chances."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Cette demi-finale réunissait une bonne partie de l'élite des classements de l'Euro 2016. Au milieu, N. Kanté est 2e des 90 milieux classés (note de 82, en 245 minutes) et T. Kroos 3e (80). En défense centrale, J. Boateng (2e) et L. Koscielny (3e) se suivent sur 33. Et devant, Griezmann est 3e des 46 attaquants, avec 6 buts et 2 passes décisives sur le tournoi.",
+   "keys": [
+    "P. Pogba (7e) et B. Matuidi (9e) placent trois Français dans le top 10 des milieux.",
+    "D. Payet, 17e des milieux, compte 3 buts et 2 passes décisives sur le tournoi.",
+    "M. Neuer est 4e des 24 gardiens.",
+    "M. Özil est 11e des milieux, J. Kimmich 11e des latéraux."
+   ],
+   "impact": "Sur le papier, les deux équipes alignaient des joueurs de très haut niveau à chaque ligne. La différence est venue de l'attaquant le mieux classé du match, Griezmann, qui a transformé une domination allemande en qualification française."
+  },
+  "en": {
+   "lead": "This semi-final brought together a good slice of Euro 2016's ranking elite. In midfield, N. Kanté is 2nd of 90 ranked midfielders (score of 82, in 245 minutes) and T. Kroos 3rd (80). At centre-back, J. Boateng (2nd) and L. Koscielny (3rd) sit back to back out of 33. And up front, Griezmann is 3rd of 46 forwards, with 6 goals and 2 assists in the tournament.",
+   "keys": [
+    "P. Pogba (7th) and B. Matuidi (9th) put three French players in the top 10 midfielders.",
+    "D. Payet, 17th among midfielders, has 3 goals and 2 assists in the tournament.",
+    "M. Neuer is 4th of 24 goalkeepers.",
+    "M. Özil is 11th among midfielders, J. Kimmich 11th among full-backs."
+   ],
+   "impact": "On paper, both teams fielded top-level players in every line. The difference came from the best-ranked forward on the pitch, Griezmann, who turned German dominance into French qualification."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau d'Antoine Griezmann n'est pas n'importe qui : Cristiano Ronaldo, en finale de Ligue des champions avec Manchester United, à 92 %. Viennent ensuite H. Kane à l'Euro 2016 et Wahbi Khazri au Mondial 2018 (91 % chacun). Le profil d'un attaquant qui tire beaucoup et pèse dans la surface, celui que l'Allemagne n'a jamais su contenir.",
+   "keys": [
+    "L. Koscielny ressemble à 96 % à Thomas Vermaelen à l'Euro 2020, puis à Virgil van Dijk, deux fois (95 %).",
+    "N. Kanté a pour jumeau Leandro Paredes au Mondial 2022 (93 %).",
+    "B. Matuidi se rapproche de Mateo Kovačić au Mondial 2022 (91 %).",
+    "P. Pogba ressemble à Renato Sanches à l'Euro 2020 (85 %), puis à lui-même au même tournoi (84 %)."
+   ],
+   "impact": "Griezmann jumeau d'un Ronaldo de finale, Koscielny jumeau de Van Dijk : la France avait des profils d'élite aux deux bouts du terrain. Le soir où l'Allemagne a eu le ballon, ce sont eux qui ont fait la différence dans les deux surfaces."
+  },
+  "en": {
+   "lead": "Antoine Griezmann's twin is not just anybody: Cristiano Ronaldo, in a Champions League final with Manchester United, at 92%. Then come H. Kane at Euro 2016 and Wahbi Khazri at the 2018 World Cup (91% each). The profile of a forward who shoots a lot and counts in the box, the one Germany could never contain.",
+   "keys": [
+    "L. Koscielny is 96% similar to Thomas Vermaelen at Euro 2020, then to Virgil van Dijk, twice (95%).",
+    "N. Kanté's twin is Leandro Paredes at the 2022 World Cup (93%).",
+    "B. Matuidi is close to Mateo Kovačić at the 2022 World Cup (91%).",
+    "P. Pogba resembles Renato Sanches at Euro 2020 (85%), then himself at the same tournament (84%)."
+   ],
+   "impact": "Griezmann as twin of a Champions League final Ronaldo, Koscielny as twin of Van Dijk: France had elite profiles at both ends of the pitch. On the night Germany had the ball, they made the difference in both boxes."
+  }
+ }
+}

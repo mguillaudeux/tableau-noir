@@ -63,7 +63,6 @@ def transitions(m: Match) -> pd.DataFrame:
     rows = []
     t_all, team_all, kind_all = ev["t"].to_numpy(), ev["team"].to_numpy(), ev["kind"].to_numpy()
     period_all, sp_all = ev["period"].to_numpy(), ev["set_piece"].to_numpy()
-    minute_all = ev["minute"].to_numpy(int)
     for i in np.flatnonzero(lost.fillna(False).to_numpy(bool)):
         tid, t0, per = team_all[i], t_all[i], period_all[i]
         j, opp_touched, regain, dead = i + 1, False, np.nan, False
@@ -83,13 +82,6 @@ def transitions(m: Match) -> pd.DataFrame:
             j += 1
         if dead or not opp_touched:
             continue
-        shots = ev[
-            (ev["team"] != tid)
-            & (ev["kind"] == "shot")
-            & (ev["t"] > t0)
-            & (ev["t"] <= t0 + 15)
-            & (ev["period"] == per)
-        ]
         rows.append(
             {
                 "team": tid,
@@ -101,12 +93,36 @@ def transitions(m: Match) -> pd.DataFrame:
                 if kind_all[i] == "pass" and pd.notna(ev.at[i, "ex"])
                 else ev.at[i, "x"],
                 "regain": float(regain),
-                "shots_against": int(len(shots)),
-                "xg_against": float(shots["xg"].fillna(0).sum()),
-                "goals_against": int(shots["goal"].fillna(False).astype(bool).sum()),
-                "minute": int(minute_all[i]),
+                "shots_against": 0,
+                "xg_against": 0.0,
+                "goals_against": 0,
+                "goal_minutes": [],
             }
         )
+    # chaque tir adverse compte une fois : pour la dernière perte qui le précède de 15 s au plus
+    shots = ev[ev["kind"] == "shot"]
+    for st, steam, sper, sxg, sgoal, smin in zip(
+        shots["t"].to_numpy(float),
+        shots["team"].to_numpy(),
+        shots["period"].to_numpy(int),
+        shots["xg"].fillna(0).to_numpy(float),
+        shots["goal"].fillna(False).to_numpy(bool),
+        shots["minute"].to_numpy(int),
+        strict=True,
+    ):
+        cands = [
+            k
+            for k, r in enumerate(rows)
+            if r["team"] != steam and r["period"] == sper and r["t"] < st <= r["t"] + 15
+        ]
+        if not cands:
+            continue
+        r = rows[max(cands, key=lambda k: rows[k]["t"])]
+        r["shots_against"] += 1
+        r["xg_against"] += float(sxg)
+        if sgoal:
+            r["goals_against"] += 1
+            r["goal_minutes"].append(int(smin) + 1)
     return pd.DataFrame(rows)
 
 
@@ -400,9 +416,7 @@ def recovery_runs(m: Match, tid: str, tr: pd.DataFrame) -> dict[str, Any]:
         "shots_against": int(mine["shots_against"].sum()) if len(mine) else 0,
         "xg_against": _r(mine["xg_against"].sum(), 2) if len(mine) else 0.0,
         "goals_against": int(mine["goals_against"].sum()) if len(mine) else 0,
-        "goal_minutes": sorted({int(v) + 1 for v in mine.loc[mine["goals_against"] > 0, "minute"]})
-        if len(mine)
-        else [],
+        "goal_minutes": sorted({m for ms in mine["goal_minutes"] for m in ms}) if len(mine) else [],
         "behind_ball": None,
         "behind_8s": None,
         "gain": None,

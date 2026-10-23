@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un huitième de finale de Coupe du monde qui a basculé deux fois. Harry Kane transforme un penalty à la 57e minute (0,78 xG), l'Angleterre croit tenir sa qualification, puis Yerry Mina égalise à la 93e et envoie tout le monde en prolongation. Il faudra les tirs au but, remportés 4-3 par l'Angleterre. Entre-temps, les Anglais ont dominé sur le papier : 2,24 xG contre 0,83, soit un écart de 1,41.",
+   "keys": [
+    "Sans le penalty, l'Angleterre reste devant : 1,46 npxG contre 0,83.",
+    "Mais sur 17 tirs, elle n'en cadre que 2 : un festival de frappes non cadrées.",
+    "La plus grosse occasion manquée est celle de Kane, dès la 16e minute : 0,62 xG, hors cadre. Il finit avec 1,42 xG sur 3 tirs.",
+    "La Colombie commet 23 fautes et prend 6 cartons jaunes : un huitième électrique.",
+    "Kieran Trippier distribue 6 passes clés, Juan Cuadrado en donne 4 et une passe décisive."
+   ],
+   "impact": "L'Angleterre méritait sans doute de passer avant les tirs au but, mais son manque de précision a laissé la porte ouverte jusqu'au bout. Mina s'y est engouffré à la 93e, et seule la séance a remis les choses dans l'ordre des xG."
+  },
+  "en": {
+   "lead": "A World Cup round-of-16 tie that turned twice. Harry Kane converted a penalty in minute 57 (0.78 xG), England thought they were through, then Yerry Mina equalised in minute 93 and sent everyone to extra time. It took a shoot-out, won 4-3 by England. In between, England dominated on paper: 2.24 xG to 0.83, a gap of 1.41.",
+   "keys": [
+    "Strip out the penalty and England are still ahead: 1.46 npxG to 0.83.",
+    "But of 17 shots, they put only 2 on target: a festival of efforts off target.",
+    "The biggest miss is Kane's, as early as minute 16: 0.62 xG, off target. He finishes with 1.42 xG from 3 shots.",
+    "Colombia commit 23 fouls and pick up 6 yellow cards: a heated round of 16.",
+    "Kieran Trippier supplies 6 key passes, Juan Cuadrado 4 plus an assist."
+   ],
+   "impact": "England probably deserved to go through before the shoot-out, but their lack of accuracy left the door open to the very end. Mina walked through it in minute 93, and only the penalties restored the order the xG suggested."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux équipes à trois défenseurs avec le ballon, mais pas pour les mêmes raisons. L'Angleterre, annoncée en 3-5-2, attaquait en 3-4-3 avec deux pistons très larges : Ashley Young à 3 m de la ligne gauche, Kieran Trippier à 63 m, presque collé à l'autre ligne. La Colombie, annoncée en 4-3-3, se transformait en 3-1-4-2 avec le ballon, Mojica et Arias montant de chaque côté, puis en 3-3-3-1 sans.",
+   "keys": [
+    "L'Angleterre passe 32 % de ses touches dans l'axe : elle attaquait d'abord par le centre, pistons écartés.",
+    "Sterling (74 m) et Kane (72 m) formaient un duo d'attaque très proche, devant Lingard (67 m).",
+    "Johan Mojica, à 4 m de la ligne gauche, faisait face au côté de Trippier.",
+    "La Colombie répartit ses touches de façon équilibrée : 22 % à gauche, 21 % dans l'axe, 23 % à droite."
+   ],
+   "impact": "Le duel des côtés était central : Mojica contre Trippier d'un côté, Arias et Cuadrado face à Young de l'autre. Ce n'est sans doute pas un hasard si les deux plus grands créateurs du match sont Mojica et Trippier, qui jouaient dans le même couloir."
+  },
+  "en": {
+   "lead": "Two back threes in possession, for different reasons. England, announced in a 3-5-2, attacked in a 3-4-3 with two very wide wing-backs: Ashley Young 3 m from the left touchline, Kieran Trippier at 63 m, almost hugging the other line. Colombia, announced in a 4-3-3, became a 3-1-4-2 in possession, with Mojica and Arias pushing up on either side, then a 3-3-3-1 without the ball.",
+   "keys": [
+    "England spend 32% of their touches in the centre: they attacked through the middle first, wing-backs spread wide.",
+    "Sterling (74 m) and Kane (72 m) formed a tight front pair, ahead of Lingard (67 m).",
+    "Johan Mojica, 4 m from the left touchline, faced Trippier's side.",
+    "Colombia spread their touches evenly: 22% on the left, 21% in the centre, 23% on the right."
+   ],
+   "impact": "The battle on the flanks was central: Mojica against Trippier on one side, Arias and Cuadrado against Young on the other. It is probably no coincidence that the match's two biggest creators were Mojica and Trippier, who played in the same lane."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "La Colombie a davantage pressé, l'Angleterre a mieux récupéré. Les Colombiens affichent 4,5 pressions par minute sans ballon et 190 pressions au total, contre 3,8 et 152 pour les Anglais, tous deux sous la moyenne du Mondial (5,6). Mais c'est l'Angleterre qui défendait le plus haut, à 49,3 m de son but, et qui signe 12 récupérations hautes, contre 5.",
+   "keys": [
+    "PPDA de 25,8 pour la Colombie, 19,5 pour l'Angleterre : deux pressings plutôt patients.",
+    "La Colombie récupère 57 % de ses ballons perdus en moins de 10 secondes, l'Angleterre 42 %.",
+    "Contre-pressing quasi identique : 21 % des pressions colombiennes, 22 % des anglaises, autour de la moyenne (19 %).",
+    "La Colombie perd 129 ballons en jeu ouvert, l'Angleterre 120 : un match haché."
+   ],
+   "impact": "Les 12 récupérations hautes anglaises, au-dessus de la moyenne du tournoi (8,7), traduisent une équipe qui allait chercher le ballon dans le camp colombien. Cela n'a pas suffi à faire la différence, faute de précision devant le but."
+  },
+  "en": {
+   "lead": "Colombia pressed more, England won the ball back better. The Colombians post 4.5 pressures per minute out of possession and 190 in total, against 3.8 and 152 for England, both below the World Cup average (5.6). But England defended higher, 49.3 m from their goal, and made 12 high regains, against 5.",
+   "keys": [
+    "A PPDA of 25.8 for Colombia, 19.5 for England: two fairly patient presses.",
+    "Colombia win back 57% of lost balls within 10 seconds, England 42%.",
+    "Near-identical counter-pressing: 21% of Colombia's pressures, 22% of England's, around the average (19%).",
+    "Colombia lose 129 balls in open play, England 120: a choppy match."
+   ],
+   "impact": "England's 12 high regains, above the tournament average (8.7), describe a team going after the ball in Colombia's half. It was not enough to make the difference, for lack of precision in front of goal."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La Colombie penche nettement vers le positionnisme : 23e sur 32 au classement des plus relationnistes, et −0,58 dans ce match. Chacun à son poste, 47 % de passes courtes seulement, 28 % de combinaisons rapides. Son réseau tourne autour de trois hommes à égalité ou presque : Davinson Sánchez et Juan Cuadrado (86 passes chacun), puis Yerry Mina (82).",
+   "keys": [
+    "L'Angleterre est neutre (+0,05) mais 8e du tournoi dans ce registre, avec 36 % de combinaisons rapides, au-dessus de la moyenne (33 %).",
+    "Le carrefour anglais est John Stones : 140 passes, loin devant Maguire (108) et Walker (90).",
+    "Le lien le plus utilisé du match est colombien : Sánchez – Mina, 31 passes. Côté anglais, Walker – Stones (30).",
+    "Cuadrado – Arias, 19 passes : la principale connexion offensive parmi les liens colombiens les plus utilisés."
+   ],
+   "impact": "La Colombie construisait par ses centraux puis cherchait Cuadrado, sans beaucoup de jeu court entre les lignes. L'Angleterre, plus fluide, faisait circuler par Stones, et a eu plus d'occasions, à défaut de les cadrer."
+  },
+  "en": {
+   "lead": "Colombia lean clearly positional: 23rd of 32 for relational play, and −0.58 in this match. Everyone in their spot, only 47% short passes, 28% quick combinations. Their network revolves around three men almost level: Davinson Sánchez and Juan Cuadrado (86 passes each), then Yerry Mina (82).",
+   "keys": [
+    "England are neutral (+0.05) but 8th in the tournament in that register, with 36% quick combinations, above the average (33%).",
+    "England's hub is John Stones: 140 passes, well ahead of Maguire (108) and Walker (90).",
+    "The busiest link of the match is Colombian: Sánchez – Mina, 31 passes. For England, Walker – Stones (30).",
+    "Cuadrado – Arias, 19 passes: the main attacking connection among Colombia's busiest links."
+   ],
+   "impact": "Colombia built through their centre-backs then looked for Cuadrado, with little short play between the lines. England, more fluid, circulated through Stones and created more chances, even if they failed to hit the target."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Les transitions n'ont pas décidé ce huitième, mais elles ont pesé plus d'un côté que de l'autre. La Colombie a concédé 5 tirs dans les 15 secondes suivant une perte, au-dessus de la moyenne du tournoi (2,7), mais pour seulement 0,18 xG. L'Angleterre n'en a concédé que 2, pour 0,09 xG. Aucun des deux buts n'est né d'une transition.",
+   "keys": [
+    "Les 129 pertes colombiennes en jeu ouvert ont offert 5 tirs rapides aux Anglais.",
+    "L'xG concédé en transition reste faible des deux côtés, 0,18 et 0,09, sous la moyenne du Mondial (0,28).",
+    "L'Angleterre, avec 120 pertes, n'a laissé que 2 frappes rapides à la Colombie."
+   ],
+   "impact": "Les Anglais ont tiré vite après les pertes colombiennes, mais sur des occasions de faible valeur : 0,18 xG pour 5 tirs. Le match s'est joué ailleurs : sur un penalty, une égalisation tardive et une séance de tirs au but."
+  },
+  "en": {
+   "lead": "Transitions did not decide this round of 16, but they weighed more on one side. Colombia conceded 5 shots within 15 seconds of losing the ball, above the tournament average (2.7), but worth only 0.18 xG. England conceded just 2, worth 0.09 xG. Neither goal came from a transition.",
+   "keys": [
+    "Colombia's 129 open-play losses gave England 5 quick shots.",
+    "Transition xG conceded stays low on both sides, 0.18 and 0.09, below the World Cup average (0.28).",
+    "England, with 120 losses, allowed Colombia only 2 quick efforts."
+   ],
+   "impact": "England did shoot quickly after Colombian losses, but from low-value chances: 0.18 xG from 5 shots. The match was decided elsewhere: a penalty, a late equaliser and a shoot-out."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure ici l'attention reçue : combien d'actions défensives adverses de plus que la normale un joueur attire pour 10 touches. Le joueur le plus surveillé du match est Carlos Bacca (2,03), devant Raheem Sterling (1,58) et Falcao (1,15). Les Anglais se méfiaient des attaquants colombiens, et les Colombiens de Sterling plus que de Kane (0,79).",
+   "keys": [
+    "Sterling, à 1,58 : pour 10 ballons touchés, il subissait 1,58 action défensive colombienne de plus que la normale.",
+    "Dele Alli (0,58) et Jesse Lingard (0,51) complètent le top 6 côté anglais.",
+    "À l'opposé, Santiago Arias (−1,70), Yerry Mina (−1,49) et Eric Dier (−1,42) étaient laissés tranquilles.",
+    "Pour l'échelle, le joueur le plus surveillé du Mondial est Mehdi Taremi, à 5,35."
+   ],
+   "impact": "La Colombie concentrait ses efforts sur Sterling, ce qui laissait peut-être un peu plus d'air à Kane, auteur des plus grosses occasions anglaises. Et Mina, si peu inquiété balle au pied, a fini par marquer le but de l'égalisation."
+  },
+  "en": {
+   "lead": "Without 360 data, what we measure here is attention received: how many more opposition defensive actions than normal a player draws per 10 touches. The most closely watched player of the match is Carlos Bacca (2.03), ahead of Raheem Sterling (1.58) and Falcao (1.15). England were wary of Colombia's forwards, and Colombia of Sterling more than Kane (0.79).",
+   "keys": [
+    "Sterling, at 1.58: for every 10 touches, he drew 1.58 more Colombian defensive actions than normal.",
+    "Dele Alli (0.58) and Jesse Lingard (0.51) complete England's top 6 entries.",
+    "At the other end, Santiago Arias (−1.70), Yerry Mina (−1.49) and Eric Dier (−1.42) were left alone.",
+    "For scale, the most watched player of the World Cup is Mehdi Taremi, at 5.35."
+   ],
+   "impact": "Colombia focused their efforts on Sterling, which perhaps left Kane a little more air, and he got England's biggest chances. And Mina, so rarely bothered on the ball, ended up scoring the equaliser."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Deux équipes, deux matchs différents. L'Angleterre crée 0,89 xT en première mi-temps, puis seulement 0,31 en deuxième. La Colombie fait l'inverse : 0,18 avant la pause, 0,98 après. Au final, les totaux sont presque identiques (1,65 contre 1,62), et les plus grands créateurs sont deux latéraux : Johan Mojica (0,60 xT, 36 % de la menace colombienne) et Kieran Trippier (0,54, 33 % de la menace anglaise).",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Trippier à la 16e minute (+0,36 xT) : la minute de la grosse occasion manquée de Kane.",
+    "Mojica répond à la 86e (+0,35 xT), en pleine poussée colombienne.",
+    "Cuadrado, 0,50 xT, porte 30 % de la menace colombienne.",
+    "En prolongation, la Colombie (0,48) et l'Angleterre (0,42) se rendent coup pour coup."
+   ],
+   "impact": "La deuxième mi-temps colombienne aide à comprendre l'égalisation tardive : la menace a changé de camp après la pause, et l'Angleterre n'a créé que 0,31 xT sur cette période. Il a fallu les tirs au but pour départager deux équipes à égalité de menace."
+  },
+  "en": {
+   "lead": "Two teams, two different matches. England create 0.89 xT in the first half, then only 0.31 in the second. Colombia do the opposite: 0.18 before the break, 0.98 after. In the end the totals are almost identical (1.65 to 1.62), and the biggest creators are two wide defenders: Johan Mojica (0.60 xT, 36% of Colombia's threat) and Kieran Trippier (0.54, 33% of England's).",
+   "keys": [
+    "The most threatening action of the match is a Trippier pass in minute 16 (+0.36 xT): the minute of Kane's big miss.",
+    "Mojica answers in minute 86 (+0.35 xT), in the middle of a Colombian push.",
+    "Cuadrado, 0.50 xT, carries 30% of Colombia's threat.",
+    "In extra time, Colombia (0.48) and England (0.42) trade blow for blow."
+   ],
+   "impact": "Colombia's second half helps explain the late equaliser: the threat switched sides after the break, and England created only 0.31 xT in that period. It took a shoot-out to separate two teams level on threat."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le joueur le mieux classé du match n'est pas un attaquant : c'est Kieran Trippier, classé parmi les milieux et 6e sur 123 sur tout le Mondial, avec une note de 75. Côté colombien, David Ospina est 7e des 31 gardiens, et Juan Cuadrado 15e des 68 attaquants. Pas de star absolue dans ce huitième, mais un piston anglais de très haut niveau.",
+   "keys": [
+    "Trippier compte 1 but et 1 passe décisive en 589 minutes dans le tournoi.",
+    "Kyle Walker est 16e des 88 latéraux, Harry Maguire 27e.",
+    "Raheem Sterling, 21e attaquant, n'a pas marqué dans le tournoi, mais compte 1 passe décisive.",
+    "Juan Fernando Quintero, 58e milieu, compte 1 but et 2 passes décisives en 312 minutes."
+   ],
+   "impact": "Trippier, meilleur joueur du match selon les classements, est aussi le meilleur créateur anglais de la soirée : la hiérarchie s'est vérifiée sur le terrain. Il a fallu pourtant s'en remettre aux tirs au but, où Ospina, 7e gardien, et Pickford, 11e, étaient en première ligne."
+  },
+  "en": {
+   "lead": "The best-ranked player of the match is not a forward: it is Kieran Trippier, listed among the midfielders and 6th of 123 across the whole World Cup, with a score of 75. For Colombia, David Ospina is 7th of 31 goalkeepers, and Juan Cuadrado 15th of 68 forwards. No outright star in this round of 16, but an English wing-back of very high quality.",
+   "keys": [
+    "Trippier has 1 goal and 1 assist in 589 minutes at the tournament.",
+    "Kyle Walker is 16th of 88 full-backs, Harry Maguire 27th.",
+    "Raheem Sterling, 21st among forwards, has not scored at the tournament but has 1 assist.",
+    "Juan Fernando Quintero, 58th among midfielders, has 1 goal and 2 assists in 312 minutes."
+   ],
+   "impact": "Trippier, the best player of the match by the rankings, was also England's top creator on the night: the hierarchy held on the pitch. Still, it came down to penalties, where Ospina, 7th among keepers, and Pickford, 11th, were in the front line."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de Kieran Trippier dit tout de son rôle : Kevin De Bruyne à l'Euro 2020 (80 %), à égalité avec Joey Veerman, puis Dušan Tadić (79 %). Un piston qui crée comme un meneur de jeu. Plus savoureux : le jumeau de John Stones est Thiago Silva au Mondial 2018 (95 %), juste devant Sergio Ramos avec le Real Madrid en finale de Ligue des champions (94 %).",
+   "keys": [
+    "David Ospina ressemble à Pedro Gallese, dans le même Mondial (98 %), puis à Jordan Pickford à l'Euro 2020 (90 %) : son adversaire du soir.",
+    "Juan Cuadrado rappelle E. Hazard à l'Euro 2016 (92 %), puis Florian Wirtz et K. Coman (89 % chacun).",
+    "Kyle Walker a pour jumeau Jan Vertonghen à l'Euro 2020 (94 %).",
+    "Clin d'œil : Harry Maguire, classé latéral, a pour plus proche voisin Jordi Alba avec Barcelone en finale de Ligue des champions (86 %)."
+   ],
+   "impact": "Les jumeaux confirment ce que montrait le terrain : l'Angleterre avait dans ses pistons et ses centraux des profils de créateurs de très haut niveau. La Colombie comptait sur un dribbleur à la Hazard, Cuadrado, auteur de 30 % de sa menace."
+  },
+  "en": {
+   "lead": "Kieran Trippier's statistical twin says it all about his role: Kevin De Bruyne at Euro 2020 (80%), level with Joey Veerman, then Dušan Tadić (79%). A wing-back who creates like a playmaker. Even better: John Stones's twin is Thiago Silva at the 2018 World Cup (95%), just ahead of Sergio Ramos with Real Madrid in a Champions League final (94%).",
+   "keys": [
+    "David Ospina resembles Pedro Gallese at the same World Cup (98%), then Jordan Pickford at Euro 2020 (90%): his opponent that night.",
+    "Juan Cuadrado recalls E. Hazard at Euro 2016 (92%), then Florian Wirtz and K. Coman (89% each).",
+    "Kyle Walker's twin is Jan Vertonghen at Euro 2020 (94%).",
+    "A fun one: Harry Maguire, listed as a full-back, has Jordi Alba with Barcelona in a Champions League final as his nearest neighbour (86%)."
+   ],
+   "impact": "The twins confirm what the pitch showed: England had top-level creator profiles at wing-back and centre-back. Colombia relied on a Hazard-style dribbler, Cuadrado, who produced 30% of their threat."
+  }
+ }
+}

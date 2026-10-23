@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Huit buts, une prolongation et un xG à peu près identique : 2,79 pour la Croatie, 2,78 pour l'Espagne. Ce huitième de finale est un roman en trois actes. Un but contre son camp de Pedri à la 20e minute, puis trois buts espagnols (38e, 57e, 77e) qui semblent plier l'affaire ; ensuite la Croatie revient de nulle part, à la 85e et à la 92e ; enfin Morata (100e) et Oyarzabal (103e) referment la porte en prolongation. Le plus fou : avec deux fois moins de tirs (11 contre 24), les Croates ont produit autant d'xG.",
+   "keys": [
+    "Ferrán Torres, homme du match : 1 but, 1 passe décisive, 4 passes clés et 1,00 xT en 87 minutes.",
+    "Le but de Mislav Oršić à la 85e minute pèse 0,96 xG : sur 55 minutes jouées, il cumule 1,03 xG, 1 but et 1 passe décisive.",
+    "Grosses occasions : 3 pour la Croatie, 1 seule pour l'Espagne. Les Croates tiraient moins, mais de plus près.",
+    "La plus grosse occasion manquée est aussi croate : Ante Budimir à la 85e, 0,62 xG, à côté du cadre.",
+    "L'Espagne écrase la possession (68 %) et les passes clés (21 contre 8) : elle a fabriqué en volume, la Croatie en qualité."
+   ],
+   "impact": "L'xG dit match nul, le tableau d'affichage dit 5-3. L'Espagne a gagné parce qu'elle a converti des occasions moyennes à répétition, pendant que la Croatie laissait filer ses plus grosses, notamment celle de Budimir à la 85e minute."
+  },
+  "en": {
+   "lead": "Eight goals, extra time and almost identical xG: 2.79 for Croatia, 2.78 for Spain. This round of 16 is a three-act novel. A Pedri own goal in minute 20, then three Spanish goals (38, 57, 77) that seem to settle it; then Croatia come back from nowhere, in minutes 85 and 92; and finally Morata (100) and Oyarzabal (103) close the door in extra time. The craziest part: with half as many shots (11 to 24), Croatia produced the same xG.",
+   "keys": [
+    "Ferrán Torres, man of the match: 1 goal, 1 assist, 4 key passes and 1.00 xT in 87 minutes.",
+    "Mislav Oršić's goal in minute 85 is worth 0.96 xG: in 55 minutes he racks up 1.03 xG, 1 goal and 1 assist.",
+    "Big chances: 3 for Croatia, just 1 for Spain. Croatia shot less, but from closer in.",
+    "The biggest miss is Croatian too: Ante Budimir in minute 85, 0.62 xG, off target.",
+    "Spain dominate possession (68%) and key passes (21 to 8): they created in volume, Croatia in quality."
+   ],
+   "impact": "The xG says draw, the scoreboard says 5-3. Spain won because they kept converting middling chances, while Croatia let their biggest ones slip, including Budimir's in minute 85."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Les deux équipes annonçaient le même 4-3-3, et aucune ne l'a joué. Avec le ballon, l'Espagne passait en 3-1-4-2 : Laporte, Eric García et Azpilicueta derrière, Busquets seul devant eux, José Gayá collé à la ligne gauche (7 m de la touche). Le tout dans un bloc très large, 36,1 m contre 31,1 m en moyenne dans le tournoi, sur 3,2 couloirs occupés. La Croatie, elle, se recroquevillait : seulement 19 % de ses touches dans le dernier tiers, et 34 % dans son propre camp.",
+   "keys": [
+    "Sans ballon, la dernière ligne espagnole se tenait à 34,0 m de son but, très au-dessus de la moyenne de l'Euro (27,9 m) : une défense qui vivait dans le camp adverse.",
+    "Pablo Sarabia (74 m) et Ferrán Torres (76 m) ont des positions moyennes presque superposées, côté droit : l'Espagne surchargeait ce flanc.",
+    "La Croatie passait en 3-5-2 avec le ballon, Joško Gvardiol à 9 m de la ligne gauche et Ante Rebić devant lui, à 66 m de son but.",
+    "Bloc croate sans ballon plus large que la moyenne : 27,7 m contre 24,6 m."
+   ],
+   "impact": "Ce dispositif a enfermé la Croatie pendant une heure : l'Espagne jouait haut, large, et récupérait le ballon loin de son but. Mais une défense à 34 m de son but laisse aussi beaucoup d'espace dans le dos, et les deux buts croates de la fin du temps réglementaire montrent ce que ce pari pouvait coûter."
+  },
+  "en": {
+   "lead": "Both teams announced the same 4-3-3, and neither played it. In possession, Spain switched to a 3-1-4-2: Laporte, Eric García and Azpilicueta at the back, Busquets alone in front of them, José Gayá hugging the left line (7 m from it). All in a very wide shape, 36.1 m against a tournament average of 31.1 m, across 3.2 lanes. Croatia, meanwhile, curled up: only 19% of their touches in the final third, and 34% in their own.",
+   "keys": [
+    "Without the ball, Spain's last line sat 34.0 m from goal, far above the Euro average (27.9 m): a defence that lived in the opposition half.",
+    "Pablo Sarabia (74 m) and Ferrán Torres (76 m) have almost overlapping average positions on the right: Spain overloaded that flank.",
+    "Croatia moved into a 3-5-2 on the ball, Joško Gvardiol 9 m from the left line with Ante Rebić ahead of him, 66 m from goal.",
+    "Croatia's shape without the ball was wider than average: 27.7 m against 24.6 m."
+   ],
+   "impact": "That set-up locked Croatia in for an hour: Spain played high, wide and won the ball back far from their own goal. But a defence 34 m from its own goal also leaves a lot of space behind it, and Croatia's two late goals in normal time show what that gamble could cost."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "L'Espagne a pressé comme peu d'équipes à cet Euro : 6,4 pressions par minute sans ballon, quand la moyenne est à 4,5, et un PPDA de 11,8. Ses actions défensives se situent à 50,9 m de son but et elle signe 14 récupérations hautes, presque le double de la moyenne (8,2). La Croatie a pressé moins souvent mais plus vite après la perte : 35 % de ballons récupérés en moins de 5 secondes, contre 24 % pour l'Espagne.",
+   "keys": [
+    "PPDA croate de 19,6 : les Espagnols avaient le temps de faire tourner, ce qu'ils ont fait au fil de 930 passes.",
+    "La Croatie totalise pourtant 245 pressions, plus que l'Espagne (193) : beaucoup de courses, mais face à un adversaire à 68 % de possession.",
+    "Récupérations hautes : 14 pour l'Espagne, 11 pour la Croatie, deux totaux au-dessus de la moyenne.",
+    "Contre-pressing : 19 % des pressions espagnoles suivent une perte de moins de 5 s, dans la moyenne ; 16 % côté croate."
+   ],
+   "impact": "Ce pressing espagnol explique la première heure à sens unique : la Croatie ne parvenait pas à respirer et ne touchait presque jamais le dernier tiers. Les deux équipes ont fini par s'user, et ce n'est sans doute pas un hasard si le match s'est ouvert en fin de rencontre."
+  },
+  "en": {
+   "lead": "Spain pressed like few teams at this Euro: 6.4 pressures per minute out of possession, against a 4.5 average, and a PPDA of 11.8. Their defensive actions came 50.9 m from goal and they made 14 high regains, nearly double the average (8.2). Croatia pressed less often but reacted faster after losing it: 35% of balls won back within 5 seconds, against 24% for Spain.",
+   "keys": [
+    "Croatia's PPDA of 19.6: Spain had time to circulate, which they did 930 times.",
+    "Croatia still made 245 pressures, more than Spain (193): plenty of running, but against an opponent with 68% possession.",
+    "High regains: 14 for Spain, 11 for Croatia, both above average.",
+    "Counter-pressing: 19% of Spain's pressures follow a loss within 5 s, right on average; 16% for Croatia."
+   ],
+   "impact": "Spain's press explains the one-way first hour: Croatia could not breathe and barely reached the final third. Both sides eventually tired, and it is probably no coincidence that the game opened up late on."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "On attendait de l'Espagne le tiki-taka, on a eu une circulation de défenseurs. Les trois joueurs les plus impliqués du réseau espagnol sont Aymeric Laporte (208 passes entre titulaires), Sergio Busquets (155) et Eric García (149), et le duo le plus utilisé du match est García – Laporte, 49 passes. Indice relationniste modéré (+0,19), 19e sur 24 au tournoi : une Espagne plus structurée qu'improvisatrice. La Croatie, à −0,07, n'était ni l'un ni l'autre.",
+   "keys": [
+    "Laporte est partout : 40 passes avec José Gayá, 31 avec Busquets. Toute la construction espagnole partait de lui.",
+    "L'Espagne occupe 3,62 couloirs en moyenne (360) et 37 % de ses passes sont des combinaisons rapides, au-dessus de la moyenne (34 %).",
+    "Côté croate, Marcelo Brozović est le carrefour (92 passes), et le duo le plus actif est Modrić – Brozović (19).",
+    "Paradoxe : la Croatie joue plus court que l'Espagne, 57 % de passes courtes contre 53 %."
+   ],
+   "impact": "L'Espagne a gagné avec un football de positions occupées et de largeur, piloté par ses défenseurs. Les combinaisons rapides venaient ensuite, une fois la Croatie étirée : c'est cet ordre-là qui lui a permis de trouver 21 passes clés."
+  },
+  "en": {
+   "lead": "Everyone expected tiki-taka from Spain; what we got was circulation by defenders. The three most involved players in Spain's network are Aymeric Laporte (208 passes between starters), Sergio Busquets (155) and Eric García (149), and the busiest pair of the match is García – Laporte, 49 passes. A moderate relational index (+0.19), 19th of 24 at the tournament: a Spain that was more structured than improvised. Croatia, at −0.07, were neither one thing nor the other.",
+   "keys": [
+    "Laporte is everywhere: 40 passes with José Gayá, 31 with Busquets. All of Spain's build-up started with him.",
+    "Spain occupy 3.62 lanes on average (360) and 37% of their passes are quick combinations, above average (34%).",
+    "For Croatia, Marcelo Brozović is the hub (92 passes), and the busiest pair is Modrić – Brozović (19).",
+    "Paradox: Croatia play shorter than Spain, 57% short passes against 53%."
+   ],
+   "impact": "Spain won with a game of occupied positions and width, steered by their defenders. The quick combinations came afterwards, once Croatia were stretched: that order is what produced 21 key passes."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Huit buts, et aucun en transition. Dans les 15 secondes suivant une perte, chaque équipe n'a concédé que 2 tirs. Mais les deux replis ne se ressemblent pas : la Croatie avait 6,1 joueurs derrière le ballon au moment de la perte, et 6,6 quelques secondes plus tard, avec un bloc reformé dans 49 % des cas, loin au-dessus de la moyenne (30 %). L'Espagne perdait le ballon avec 5,0 joueurs derrière lui et n'en retrouvait pas davantage ensuite (4,9).",
+   "keys": [
+    "Côté espagnol, ces 2 tirs en transition valent 0,24 xG, légèrement au-dessus de la moyenne du tournoi (0,20).",
+    "La Croatie ne concède que 0,07 xG en transition : quand elle perdait le ballon, elle était déjà repliée.",
+    "Exemple 360 côté croate à la 48e minute : 4 joueurs derrière le ballon à la perte, 10 quelques secondes plus tard.",
+    "Exemple côté espagnol à la 17e minute : 2 joueurs derrière le ballon, 8 ensuite. Le repli rattrape le retard."
+   ],
+   "impact": "Ce match ne s'est pas décidé en contre-attaque : la Croatie était trop basse pour être prise en défaut, l'Espagne récupérait trop haut pour laisser courir. Les buts sont venus d'attaques installées, ce qui colle avec la domination espagnole du ballon."
+  },
+  "en": {
+   "lead": "Eight goals, and not one in transition. Within 15 seconds of a loss, each team conceded only 2 shots. But the two recoveries look nothing alike: Croatia had 6.1 players behind the ball when they lost it and 6.6 a few seconds later, with a block rebuilt in 49% of cases, far above average (30%). Spain lost the ball with 5.0 players behind it and had no more afterwards (4.9).",
+   "keys": [
+    "For Spain, those 2 transition shots are worth 0.24 xG, slightly above the tournament average (0.20).",
+    "Croatia concede just 0.07 xG in transition: when they lost the ball, they were already back.",
+    "A 360 example for Croatia in minute 48: 4 players behind the ball at the loss, 10 a few seconds later.",
+    "A Spanish example in minute 17: 2 players behind the ball, 8 afterwards. The recovery run makes up the ground."
+   ],
+   "impact": "This game was not settled on the counter: Croatia sat too deep to be caught out, Spain won the ball too high to let anyone run. The goals came from settled attacks, which fits Spain's control of the ball."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Les six plus gros aimants du match sont tous croates. En tête, Bruno Petković : 1,51 adversaire de plus que la normale autour de chacune de ses touches, une valeur qui dépasse même celle de Goran Pandev sur tout le tournoi (1,45, 2e du classement). Derrière lui, Nikola Vlašić (0,98), Andrej Kramarić (0,92) et Mateo Kovačić (0,89). Chaque fois qu'un Croate touchait le ballon, un Espagnol de plus arrivait.",
+   "keys": [
+    "Ante Rebić et Mario Pašalić ferment le top 6 à 0,75 : la pression espagnole sur le porteur ne faisait pas de distinction.",
+    "À l'autre bout, Eric García (−0,87), Pau Torres (−0,72) et Laporte (−0,62) touchaient le ballon dans le calme le plus complet.",
+    "Kovačić à 0,89 : même au milieu, les Croates étaient entourés dès la prise de balle."
+   ],
+   "impact": "Ces chiffres prolongent ceux du pressing : l'Espagne fondait sur chaque porteur croate, et laissait ses propres défenseurs relancer sans gêne. Quand tant d'Espagnols convergeaient vers Petković et ses voisins, il restait forcément de la place ailleurs : on peut y voir l'espace qu'ont trouvé Oršić et Pašalić en fin de match."
+  },
+  "en": {
+   "lead": "The six biggest magnets of the match are all Croatian. At the top is Bruno Petković: 1.51 extra opponents around each of his touches, a value that even beats Goran Pandev's over the whole tournament (1.45, 2nd in the ranking). Behind him come Nikola Vlašić (0.98), Andrej Kramarić (0.92) and Mateo Kovačić (0.89). Every time a Croat touched the ball, one more Spaniard arrived.",
+   "keys": [
+    "Ante Rebić and Mario Pašalić round off the top 6 at 0.75: Spain's pressure on the ball carrier made no exceptions.",
+    "At the other end, Eric García (−0.87), Pau Torres (−0.72) and Laporte (−0.62) touched the ball in total peace.",
+    "Kovačić at 0.89: even in midfield, Croatians were surrounded the moment they received."
+   ],
+   "impact": "These numbers extend the pressing story: Spain swarmed every Croatian on the ball and let their own defenders build up untroubled. With so many Spaniards converging on Petković and those around him, room had to open up elsewhere, which may explain the space Oršić and Pašalić found late on."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Ferrán Torres a produit à lui seul 1,00 xT, 35 % de toute la menace espagnole, presque uniquement à la passe (0,97). Ses deux ballons les plus dangereux, à la 19e (+0,36) et à la 57e minute (+0,35), sont les deux gestes les plus menaçants du match, et le second tombe à la minute du but d'Azpilicueta. Au total, l'Espagne crée 2,83 xT contre 1,48 pour la Croatie.",
+   "keys": [
+    "L'Espagne frappe d'entrée : 1,16 xT en première mi-temps, contre 0,29 pour la Croatie.",
+    "La Croatie se réveille ensuite : 0,73 xT en deuxième période, plus que l'Espagne (0,68).",
+    "Chez Luka Modrić, la menace vient des conduites : 0,28 xT, dont une à la 85e minute (+0,27), la minute du but d'Oršić.",
+    "En prolongation, l'Espagne reprend la main avec 0,99 xT, et une passe de Daniel Olmo à la 103e (+0,14), la minute du but d'Oyarzabal."
+   ],
+   "impact": "La courbe de menace raconte le match mieux que le score : une Espagne écrasante, une Croatie qui renverse la deuxième mi-temps, puis une prolongation où les Espagnols retrouvent leur avance. Le retour croate était réel ; il est arrivé un peu tard."
+  },
+  "en": {
+   "lead": "Ferrán Torres produced 1.00 xT on his own, 35% of all Spain's threat, almost entirely through passing (0.97). His two most dangerous balls, in minute 19 (+0.36) and minute 57 (+0.35), are the two most threatening actions of the match, and the second comes in the minute of Azpilicueta's goal. Overall, Spain create 2.83 xT against 1.48 for Croatia.",
+   "keys": [
+    "Spain strike early: 1.16 xT in the first half, against 0.29 for Croatia.",
+    "Croatia then wake up: 0.73 xT in the second half, more than Spain (0.68).",
+    "Luka Modrić's threat comes from carrying: 0.28 xT, including one in minute 85 (+0.27), the minute of Oršić's goal.",
+    "In extra time Spain take control again with 0.99 xT, and a Daniel Olmo pass in minute 103 (+0.14), the minute of Oyarzabal's goal."
+   ],
+   "impact": "The threat curve tells the story better than the score: a dominant Spain, a Croatia that flips the second half, then extra time in which Spain rediscover their edge. The Croatian comeback was real; it just came a little late."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Deux numéros un du tournoi étaient sur la pelouse, tous deux espagnols : Daniel Olmo, 1er des 59 attaquants classés (note de 84), et Aymeric Laporte, 1er des 39 défenseurs centraux (74). Olmo, 51 minutes jouées ce soir-là, n'a marqué aucun but sur le tournoi mais a donné 3 passes décisives, dont 2 dans ce match. Mikel Oyarzabal, 4e des attaquants (79), n'a joué que 184 minutes de tout l'Euro.",
+   "keys": [
+    "Le milieu espagnol est massé dans le top 15 : Busquets 7e des 80 milieux (70), Pedri 9e, Rodri 10e, Koke 13e.",
+    "Pedri et Laporte affichent chacun 648 minutes sur le tournoi : les deux Espagnols les plus utilisés de cette liste.",
+    "Côté croate, Luka Modrić est 8e des milieux (68) et Mateo Kovačić 15e (63).",
+    "Álvaro Morata, 13e des attaquants, totalise 3 buts sur le tournoi."
+   ],
+   "impact": "La profondeur espagnole saute aux yeux : dix joueurs dans le top 15 de leur poste. Et c'est un duo du haut du classement qui a fait basculer la prolongation : une passe d'Olmo et un but d'Oyarzabal à la même 103e minute."
+  },
+  "en": {
+   "lead": "Two number ones of the tournament were on the pitch, both Spanish: Daniel Olmo, 1st of 59 ranked forwards (score of 84), and Aymeric Laporte, 1st of 39 centre-backs (74). Olmo, who played 51 minutes that night, scored no goals in the tournament but gave 3 assists, 2 of them in this match. Mikel Oyarzabal, 4th among forwards (79), played only 184 minutes of the whole Euro.",
+   "keys": [
+    "Spain's midfield is packed into the top 15: Busquets 7th of 80 midfielders (70), Pedri 9th, Rodri 10th, Koke 13th.",
+    "Pedri and Laporte each log 648 tournament minutes: the most-used Spaniards on this list.",
+    "For Croatia, Luka Modrić is 8th among midfielders (68) and Mateo Kovačić 15th (63).",
+    "Álvaro Morata, 13th among forwards, has 3 goals in the tournament."
+   ],
+   "impact": "Spain's depth jumps out: ten players in the top 15 of their position. And it was a pair from the top of the rankings that tipped extra time: an Olmo pass and an Oyarzabal goal in the same minute, 103."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Daniel Olmo a un jumeau de prestige : Arjen Robben en finale de Ligue des champions, similaire à 95 %. Suivent Neymar (91 %) et Lionel Messi (90 %), tous deux à la Coupe du monde 2018. Un profil d'attaquant qui crée autant qu'il frappe. Et le jumeau de Mikel Oyarzabal n'est autre que Messi, version 2022 (92 %), juste devant… Olmo lui-même (89 %).",
+   "keys": [
+    "Aymeric Laporte ressemble d'abord à Rodri au Mondial 2022 (94 %), puis à John Stones (92 %) : des centraux qui jouent comme des milieux.",
+    "Álvaro Morata a trois jumeaux à 96 % : Kai Havertz (Euro 2024), Diego Costa (Coupe du monde 2018) et Lautaro Martínez (Coupe du monde 2022).",
+    "Koke rappelle Bastian Schweinsteiger en finale de Ligue des champions et Toni Kroos à l'Euro 2024 (94 % chacun).",
+    "Luka Modrić a pour plus proche voisin Pierre-Emile Højbjerg à cet Euro (88 %), puis Gabi avec l'Atlético de Madrid en finale de Ligue des champions (87 %)."
+   ],
+   "impact": "Les jumeaux confirment ce que montraient les réseaux de passes : l'Espagne alignait des défenseurs au profil de milieux, à l'image de Laporte, et une collection de créateurs offensifs de très haut niveau. C'est cette richesse qui a fait la différence en prolongation."
+  },
+  "en": {
+   "lead": "Daniel Olmo has a prestigious twin: Arjen Robben in a Champions League final, 95% similar. Then come Neymar (91%) and Lionel Messi (90%), both at the 2018 World Cup. A forward who creates as much as he shoots. And Mikel Oyarzabal's twin is none other than Messi, 2022 version (92%), just ahead of… Olmo himself (89%).",
+   "keys": [
+    "Aymeric Laporte looks first like Rodri at the 2022 World Cup (94%), then John Stones (92%): centre-backs who play like midfielders.",
+    "Álvaro Morata has three twins at 96%: Kai Havertz (Euro 2024), Diego Costa (2018 World Cup) and Lautaro Martínez (2022 World Cup).",
+    "Koke recalls Bastian Schweinsteiger in a Champions League final and Toni Kroos at Euro 2024 (94% each).",
+    "Luka Modrić's closest match is Pierre-Emile Højbjerg at this Euro (88%), then Gabi with Atlético Madrid in a Champions League final (87%)."
+   ],
+   "impact": "The twins confirm what the passing networks showed: Spain fielded defenders with midfielders' profiles, like Laporte, and a collection of top-level attacking creators. That richness made the difference in extra time."
+  }
+ }
+}

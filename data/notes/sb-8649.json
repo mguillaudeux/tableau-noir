@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Deux tirs cadrés, deux buts : en quart de finale de Coupe du monde, la France a joué les comptables. L'Uruguay, tombeur du Portugal en huitième, a pourtant produit davantage (0,69 xG contre 0,54) et cadré 4 tentatives, toutes repoussées. Raphaël Varane ouvre le score à la 40e minute, puis Antoine Griezmann double la mise à la 61e sur un ballon que le modèle évalue à 0,01 xG. Fernando Muslera n'aura pas fait un seul arrêt de la soirée : chaque frappe française cadrée a fini au fond.",
+   "keys": [
+    "Griezmann marque et délivre une passe décisive, avec seulement 0,04 xG sur ses 2 tirs : un rendement maximal pour un volume minimal.",
+    "La France fait circuler : 567 passes contre 352, 57 % de possession et 78 % de passes réussies, contre 62 % pour l'Uruguay.",
+    "La plus grosse occasion manquée est uruguayenne : Diego Godín à la 44e minute, une occasion à 0,21 xG qui ne trouve pas le cadre, juste après l'ouverture du score.",
+    "L'Uruguay vit au contact : 22 fautes et 61 récupérations, contre 18 fautes et 38 récupérations côté français."
+   ],
+   "impact": "Sur les occasions pures, l'écart est mince (0,15 xG d'avance pour l'Uruguay), et un 1-1 avant la pause n'aurait choqué personne. Mais la France, qui sortait d'un 4-3 contre l'Argentine, a transformé un match fermé en formalité grâce à deux tirs et à une efficacité clinique."
+  },
+  "en": {
+   "lead": "Two shots on target, two goals: in a World Cup quarter-final, France played the accountants. Uruguay, who had knocked out Portugal in the last 16, actually produced more (0.69 xG to 0.54) and put 4 efforts on target, all kept out. Raphaël Varane opened the scoring in minute 40, then Antoine Griezmann doubled it in minute 61 from a chance the model rates at 0.01 xG. Fernando Muslera did not make a single save all evening: every French shot on target ended up in the net.",
+   "keys": [
+    "Griezmann scores and provides an assist from just 0.04 xG across his 2 shots: maximum return on minimal volume.",
+    "France keep it moving: 567 passes to 352, 57% possession and a 78% pass completion rate, against 62% for Uruguay.",
+    "The biggest miss belongs to Uruguay: Diego Godín in minute 44, a 0.21 xG chance that misses the target, moments after the opener.",
+    "Uruguay live in the contact zone: 22 fouls and 61 recoveries, against 18 fouls and 38 recoveries for France."
+   ],
+   "impact": "On chance quality alone the gap is thin (0.15 xG in Uruguay's favour), and 1-1 at the break would have surprised nobody. But France, fresh from a 4-3 against Argentina, turned a tight game into a formality with two shots and clinical finishing."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le 4-3-3 annoncé de l'Uruguay ressemble, ballon au pied, à un 3-2-5 très étiré. Diego Laxalt en est la signature : position moyenne à 78 m de son but et à 4 m seulement de la ligne de touche gauche, plus haut que Luis Suárez lui-même (77 m). Pourtant, c'est à droite que l'Uruguay a le plus touché le ballon (31 %), avec Cáceres et Nández empilés sur ce flanc. La France, elle, passe de son 4-2-3-1 de papier à un 3-4-3 avec le ballon, puis se range en 4-4-2 sans lui.",
+   "keys": [
+    "Les deux équipes penchent du même côté : 31 % des touches dans le couloir droit pour l'Uruguay comme pour la France.",
+    "Côté français, le flanc droit est un trio : Pavard (57 m, 63 m de large), Pogba (58 m) et Mbappé (74 m), tous postés dans la moitié droite du terrain.",
+    "Griezmann et Giroud partagent quasiment la même position moyenne (69 et 70 m de profondeur, 40 m de large) : un duo collé dans l'axe plutôt qu'une pointe et un meneur.",
+    "L'Uruguay passe 37 % de ses touches dans le dernier tiers, la France seulement 30 % : la France a laissé l'Uruguay venir."
+   ],
+   "impact": "Le couloir droit français faisait face au couloir gauche uruguayen, celui que Laxalt désertait pour aller attaquer très haut. Tout indique que la France y trouvait de quoi respirer : c'est là que passait son circuit Pogba–Pavard–Mbappé, et c'est de ce flanc qu'elle a tenu le ballon."
+  },
+  "en": {
+   "lead": "Uruguay's announced 4-3-3 looks, in possession, like a stretched 3-2-5. Diego Laxalt is its signature: average position 78 m from his own goal and just 4 m from the left touchline, higher up than Luis Suárez himself (77 m). And yet Uruguay's busiest lane was the right (31% of touches), with Cáceres and Nández stacked on that side. France went from a 4-2-3-1 on paper to a 3-4-3 on the ball, then settled into a 4-4-2 without it.",
+   "keys": [
+    "Both teams lean the same way: 31% of touches in the right lane for Uruguay and for France alike.",
+    "On France's right, a trio: Pavard (57 m up, 63 m across), Pogba (58 m) and Mbappé (74 m), all stationed in the right half of the pitch.",
+    "Griezmann and Giroud share almost the same average spot (69 and 70 m deep, 40 m across): two players side by side in the middle rather than a striker and a number 10.",
+    "Uruguay spend 37% of their touches in the final third, France only 30%: France were happy to let Uruguay come."
+   ],
+   "impact": "France's right lane faced Uruguay's left, the very lane Laxalt kept vacating to attack high up. Everything suggests France found breathing room there: that is where their Pogba–Pavard–Mbappé circuit ran, and that flank is where they held on to the ball."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Deux pressings qui ne parlent pas la même langue. La France presse fort mais bas : 6,1 pressions par minute sans ballon et un PPDA de 8,1, mais des actions défensives à 41,8 m de son but seulement, sous la moyenne du tournoi (46,3 m). L'Uruguay presse moins (4,9 pressions par minute, PPDA de 16,1) mais plus haut, à 47,1 m, et ramasse 16 récupérations hautes, plus du double des 7 françaises. Une équipe qui étouffe dans son camp, une autre qui chasse dans celui de l'adversaire.",
+   "keys": [
+    "Le contre-pressing est français : 26 % des pressions bleues tombent juste après une perte, contre 15 % pour l'Uruguay (moyenne du tournoi : 19 %).",
+    "Paradoxe : l'Uruguay récupère plus vite dans l'immédiat, 37 % de ses ballons perdus repris en moins de 5 secondes contre 30 % pour la France.",
+    "À 10 secondes, les deux courbes se rejoignent : 55 % pour l'Uruguay, 56 % pour la France.",
+    "Au total, 182 pressions uruguayennes contre 171 françaises, alors que les Bleus avaient le ballon plus souvent."
+   ],
+   "impact": "Les récupérations hautes uruguayennes n'ont débouché sur rien de décisif : 0,69 xG sur tout le match, aucun but. La France, en défendant plus bas et en refermant vite après ses pertes, a accepté de subir sans jamais vraiment s'exposer."
+  },
+  "en": {
+   "lead": "Two presses that do not speak the same language. France press hard but low: 6.1 pressures per minute out of possession and a PPDA of 8.1, yet defensive actions only 41.8 m from their goal, below the tournament average (46.3 m). Uruguay press less (4.9 per minute, PPDA of 16.1) but higher, at 47.1 m, and collect 16 high recoveries, more than double France's 7. One team smothering in its own half, the other hunting in the opponent's.",
+   "keys": [
+    "Counter-pressing is a French thing: 26% of France's pressures come straight after a loss, against 15% for Uruguay (tournament average: 19%).",
+    "The paradox: Uruguay win the ball back faster in the instant, regaining 37% of lost balls within 5 seconds against 30% for France.",
+    "At the 10-second mark the curves meet: 55% for Uruguay, 56% for France.",
+    "In total, 182 Uruguayan pressures to 171 French ones, even though France had the ball more often."
+   ],
+   "impact": "Uruguay's high regains led to nothing decisive: 0.69 xG over the whole match and no goal. By defending deeper and snapping shut after their own losses, France accepted pressure without ever really exposing themselves."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur l'axe relationniste, ce quart était un grand écart. La France affiche un indice de +0,99 : 66 % de passes courtes, 38 % de combinaisons rapides, du jeu en grappe autour du ballon. L'Uruguay est à −0,33, avec 48 % de passes courtes et 24 % de combinaisons, bien sous les moyennes du tournoi (53 % et 33 %). Et le centre de gravité du jeu français n'est pas là où on l'attend : c'est Benjamin Pavard, latéral droit, impliqué dans 133 passes.",
+   "keys": [
+    "Le duo Pogba – Pavard échange 50 passes : de loin le lien le plus utilisé du match, quatre fois plus que le meilleur duo uruguayen (Cáceres – Giménez, 12).",
+    "Mbappé – Pavard (24 passes) complète le triangle droit : tout le jeu français tournait autour de ce flanc.",
+    "À gauche, Tolisso – Hernandez (25 passes) formait l'autre petit circuit bleu.",
+    "Sur 32 équipes, la France est la 7e plus relationniste du tournoi, l'Uruguay seulement la 27e."
+   ],
+   "impact": "La France a gardé le ballon par petites touches et a usé l'Uruguay sans forcément le menacer. On peut y voir une manière de tenir le score : avec 2 buts d'avance, les triangles de Pogba et Pavard ont aussi servi à faire tourner l'horloge."
+  },
+  "en": {
+   "lead": "On the relational axis, this quarter-final was a full split. France post an index of +0.99: 66% short passes, 38% quick combinations, play clustered around the ball. Uruguay sit at −0.33, with 48% short passes and 24% combinations, well below the tournament averages (53% and 33%). And the centre of gravity of France's game was not where you would expect: it was Benjamin Pavard, the right-back, involved in 133 passes.",
+   "keys": [
+    "The Pogba – Pavard pair swap 50 passes: by far the busiest link of the match, four times Uruguay's best pair (Cáceres – Giménez, 12).",
+    "Mbappé – Pavard (24 passes) completes the right-sided triangle: France's whole game revolved around that flank.",
+    "On the left, Tolisso – Hernandez (25 passes) formed France's other small circuit.",
+    "Out of 32 teams, France are the 7th most relational of the tournament, Uruguay only 27th."
+   ],
+   "impact": "France kept the ball in short touches and wore Uruguay down without necessarily threatening them. You can read it as a way of protecting the lead: two goals up, Pogba and Pavard's triangles also helped run down the clock."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Une seule frappe concédée par l'Uruguay dans les 15 secondes suivant une perte de balle, pour 0,01 xG. Une seule, et c'est le but de Griezmann à la 61e minute. Difficile de faire plus cruel : la transition la moins dangereuse du papier a fini au fond. La France, elle, n'a laissé que 2 tirs en transition pour 0,04 xG, sans dommage.",
+   "keys": [
+    "Moyenne du tournoi : 2,7 tirs et 0,28 xG concédés en transition par match. Les deux équipes ont été bien en dessous.",
+    "L'Uruguay a perdu 131 ballons dans le jeu, la France 128 : un volume presque identique, une addition très différente.",
+    "Le seul but marqué en transition est le second but français, celui qui tue le suspense."
+   ],
+   "impact": "Sur le plan du repli, l'Uruguay n'a presque rien donné, ce qui rend le deuxième but encore plus rageant pour lui. Avec 1-0 et une seconde chance à 0,01 xG, la France n'a pas eu besoin de mieux."
+  },
+  "en": {
+   "lead": "Uruguay conceded just one shot within 15 seconds of losing the ball, worth 0.01 xG. Just one, and it is Griezmann's goal in minute 61. Hard to imagine anything crueller: the least dangerous transition on paper ended in the net. France, for their part, allowed only 2 shots in transition for 0.04 xG, with no damage done.",
+   "keys": [
+    "Tournament average: 2.7 shots and 0.28 xG conceded in transition per match. Both teams were well below that.",
+    "Uruguay lost 131 balls in open play, France 128: almost the same volume, a very different bill.",
+    "The only goal scored in transition is France's second, the one that killed the suspense."
+   ],
+   "impact": "In terms of recovery runs, Uruguay gave almost nothing away, which makes the second goal all the more galling for them. At 1-0, with another chance worth 0.01 xG, France did not need anything more."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure ici l'attention reçue : combien d'actions défensives adverses de plus que la normale un joueur déclenche pour 10 touches. Et l'aimant du match est Rodrigo Bentancur, à 5,0 : dès qu'il touchait le ballon, des Français arrivaient. Pour l'échelle, le plus gros aimant de tout le tournoi, Mehdi Taremi, est à 5,35. Cristhian Stuani suit à 4,57, puis Luis Suárez à 2,71.",
+   "keys": [
+    "Mbappé (2,70) et Giroud (2,49) sont les deux Français les plus surveillés, presque au niveau de Suárez.",
+    "Quatre des six premiers du classement sont uruguayens, avec Cristian Rodríguez (2,40) en sixième position.",
+    "En bas de l'échelle, Nzonzi (−1,61), Varane (−1,56) et Pavard (−1,29) : les Uruguayens les laissaient jouer.",
+    "Pavard, le moins dérangé, est aussi le joueur le plus impliqué du réseau français : on ne venait pas le chercher, il a donc distribué."
+   ],
+   "impact": "La France a ciblé les relais uruguayens au milieu, Bentancur en tête, et c'est sans doute ce qui a privé Suárez de bons ballons. En face, l'Uruguay laissait Pavard et Varane tranquilles : l'un a construit, l'autre a marqué."
+  },
+  "en": {
+   "lead": "Without 360 data, what we measure here is attention received: how many extra opposing defensive actions a player triggers per 10 touches. And the magnet of the match is Rodrigo Bentancur, at 5.0: every time he touched the ball, Frenchmen arrived. For scale, the biggest magnet of the whole tournament, Mehdi Taremi, sits at 5.35. Cristhian Stuani follows at 4.57, then Luis Suárez at 2.71.",
+   "keys": [
+    "Mbappé (2.70) and Giroud (2.49) are France's two most watched players, almost level with Suárez.",
+    "Four of the top six are Uruguayan, with Cristian Rodríguez (2.40) in sixth place.",
+    "At the bottom: Nzonzi (−1.61), Varane (−1.56) and Pavard (−1.29). Uruguay let them play.",
+    "Pavard, the least bothered, is also the most involved player in France's network: nobody came for him, so he ran the show."
+   ],
+   "impact": "France targeted Uruguay's midfield relays, Bentancur first, and that probably starved Suárez of good service. At the other end, Uruguay left Pavard and Varane in peace: one built the play, the other scored."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La menace française a un âge : la première mi-temps. Les Bleus produisent 0,83 xT avant la pause, puis seulement 0,32 après. L'Uruguay fait le chemin inverse, de 0,42 à 0,60, sans jamais trouver la faille. Sur l'ensemble du match, les deux équipes sont proches (1,14 contre 1,02), et les deux plus gros créateurs sont français : Pavard (0,31 xT) et Pogba (0,30).",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe d'Olivier Giroud à la 15e minute (+0,22 xT), dans la même minute que l'occasion manquée de Mbappé (0,15 xG).",
+    "Pavard et Pogba pèsent respectivement 27 % et 26 % de la menace française : plus de la moitié à eux deux.",
+    "Côté uruguayen, Nahitan Nández crée 0,25 xT, soit 25 % de la menace de son équipe, presque uniquement à la passe (0,24).",
+    "Pogba tente à la 34e une passe qui traverse le terrain, de 56 à 104 m : le genre de ballon qui fait reculer tout un bloc."
+   ],
+   "impact": "La France a fait l'essentiel de son travail offensif en première période, puis a géré. L'Uruguay a accéléré en seconde période, mais 0,60 xT en seconde mi-temps n'a pas suffi à renverser une équipe qui avait déjà marqué deux fois."
+  },
+  "en": {
+   "lead": "France's threat has a timestamp: the first half. Les Bleus generate 0.83 xT before the break and only 0.32 after it. Uruguay go the other way, from 0.42 to 0.60, without ever finding a way through. Over the whole match the two sides are close (1.14 to 1.02), and the two biggest creators are French: Pavard (0.31 xT) and Pogba (0.30).",
+   "keys": [
+    "The most threatening action of the match is an Olivier Giroud pass in minute 15 (+0.22 xT), the same minute as Mbappé's missed chance (0.15 xG).",
+    "Pavard and Pogba account for 27% and 26% of France's threat respectively: more than half between them.",
+    "For Uruguay, Nahitan Nández creates 0.25 xT, 25% of his team's threat, almost all of it through passing (0.24).",
+    "In minute 34 Pogba tries a pass that crosses the pitch, from 56 to 104 m: the kind of ball that pushes a whole block back."
+   ],
+   "impact": "France did most of their attacking work in the first half, then managed the game. Uruguay stepped it up after the break, but 0.60 xT in the second half was not enough to turn round a team that had already scored twice."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Au classement des milieux de ce Mondial, Paul Pogba pointe au 9e rang sur 123, avec une note de 70 : le joueur le mieux classé de ce quart de finale. Rodrigo Bentancur, l'aimant de la soirée, est 17e sur 123. Devant, Kylian Mbappé est 11e des 68 attaquants classés avec 4 buts, Luis Suárez 17e avec 2 buts et une passe décisive.",
+   "keys": [
+    "Fernando Muslera est 8e des 31 gardiens classés (note de 64), Hugo Lloris 17e (49) : sur le tournoi, l'Uruguayen ressort mieux.",
+    "En défense centrale, Samuel Umtiti est 16e sur 40 et José Giménez 21e.",
+    "N'Golo Kanté, lui, est 45e des milieux, avec une note de 54.",
+    "Pour être classé, il fallait au moins 180 minutes dans le tournoi."
+   ],
+   "impact": "Les classements disent un match équilibré entre individualités, sans star écrasante d'un côté ou de l'autre. La différence s'est faite ailleurs, dans l'efficacité et la gestion des temps faibles."
+  },
+  "en": {
+   "lead": "In this World Cup's midfield rankings, Paul Pogba sits 9th of 123 with a score of 70: the highest-ranked player in this quarter-final. Rodrigo Bentancur, the evening's magnet, is 17th of 123. Up front, Kylian Mbappé is 11th of 68 ranked forwards with 4 goals, Luis Suárez 17th with 2 goals and an assist.",
+   "keys": [
+    "Fernando Muslera is 8th of 31 ranked goalkeepers (score of 64), Hugo Lloris 17th (49): over the tournament, the Uruguayan comes out ahead.",
+    "At centre-back, Samuel Umtiti is 16th of 40 and José Giménez 21st.",
+    "N'Golo Kanté, for his part, is 45th among midfielders, with a score of 54.",
+    "To be ranked, a player needed at least 180 minutes in the tournament."
+   ],
+   "impact": "The rankings describe a match balanced between individuals, with no overwhelming star on either side. The difference was made elsewhere: in finishing, and in handling the difficult spells."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Petite tendresse statistique : José Giménez et Diego Godín, la charnière uruguayenne, sont chacun le jumeau de l'autre, similaires à 95 %. Deux défenseurs centraux taillés dans le même bois. Et le jumeau de Paul Pogba est Toni Kroos, deux fois : version Euro 2016 (90 %) et version Euro 2024 (86 %), avec Pierre-Emile Højbjerg glissé entre les deux (88 %).",
+   "keys": [
+    "Luis Suárez ressemble à 96 % à H. Seferović à l'Euro 2016, puis à Artem Dzyuba dans ce même Mondial (95 %) : le profil d'un avant-centre qui sert de point d'appui.",
+    "Mbappé a trois jumeaux ex aequo à 90 % : Raheem Sterling, Kvara et Marcus Rashford.",
+    "Muslera se rapproche de Mike Maignan à l'Euro 2024 et de Y. Sommer à l'Euro 2016, 94 % chacun.",
+    "Les jumeaux comparent des profils par 90 minutes, rapportés à leur compétition : on compare des styles, pas des niveaux."
+   ],
+   "impact": "Une charnière uruguayenne parfaitement assortie et un milieu français qui ressemble à Kroos : les jumeaux prolongent ce que montrait le réseau de passes, où la France construisait à partir de Pogba et de Pavard."
+  },
+  "en": {
+   "lead": "A touching statistical detail: José Giménez and Diego Godín, Uruguay's centre-back pair, are each other's twin, 95% similar. Two centre-backs cut from the same cloth. And Paul Pogba's twin is Toni Kroos, twice over: the Euro 2016 version (90%) and the Euro 2024 version (86%), with Pierre-Emile Højbjerg slipped in between (88%).",
+   "keys": [
+    "Luis Suárez is 96% similar to H. Seferović at Euro 2016, then to Artem Dzyuba at this same World Cup (95%): the profile of a centre-forward who acts as a target.",
+    "Mbappé has three joint twins at 90%: Raheem Sterling, Kvara and Marcus Rashford.",
+    "Muslera resembles Mike Maignan at Euro 2024 and Y. Sommer at Euro 2016, 94% each.",
+    "Twins compare per-90 profiles relative to their competition: they compare styles, not levels."
+   ],
+   "impact": "A perfectly matched Uruguayan centre-back pairing and a French midfielder who looks like Kroos: the twins extend what the passing network showed, with France building through Pogba and Pavard."
+  }
+ }
+}

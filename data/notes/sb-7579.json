@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un tiers du ballon, un tiers des tirs, et pourtant la qualification. L'Uruguay a eu 33 % de possession et tiré 7 fois quand le Portugal tirait 21 fois, mais c'est Edinson Cavani qui a fait la différence avec deux buts, à la 7e et à la 62e minute. Le Portugal a fabriqué 1,00 xG, l'Uruguay seulement 0,48. Aucune des deux équipes ne s'est créé une seule grosse occasion : le match s'est décidé sur des demi-chances.",
+   "keys": [
+    "Cavani marque deux fois avec 0,25 xG au total : ses deux buts valent 0,18 et 0,06 xG.",
+    "Passes clés : 16 pour le Portugal, 5 pour l'Uruguay. Le Portugal a aussi obtenu 9 corners contre 2.",
+    "Le Portugal cadre 4 tirs sur 21 : beaucoup de volume, très peu de précision.",
+    "L'égalisation de Pepe à la 55e (0,16 xG) vient d'une passe décisive de Raphaël Guerreiro, l'homme le plus créatif du match."
+   ],
+   "impact": "L'écart d'xG (0,52 en faveur du Portugal) dit qu'il dominait, sans jamais écraser. L'Uruguay a accepté de souffrir, et son attaquant a transformé deux occasions modestes en billet pour les quarts."
+  },
+  "en": {
+   "lead": "A third of the ball, a third of the shots, and yet a place in the quarter-finals. Uruguay had 33% possession and took 7 shots while Portugal took 21, but Edinson Cavani made the difference with two goals, in minutes 7 and 62. Portugal produced 1.00 xG, Uruguay only 0.48. Neither side created a single big chance: the match was settled on half-chances.",
+   "keys": [
+    "Cavani scores twice from 0.25 xG in total: his two goals are worth 0.18 and 0.06 xG.",
+    "Key passes: 16 for Portugal, 5 for Uruguay. Portugal also won 9 corners to 2.",
+    "Portugal put 4 of their 21 shots on target: plenty of volume, very little precision.",
+    "Pepe's equaliser in minute 55 (0.16 xG) comes from an assist by Raphaël Guerreiro, the most creative player on the pitch."
+   ],
+   "impact": "The xG gap (0.52 in Portugal's favour) says they were on top without ever overwhelming. Uruguay accepted the suffering, and their striker turned two modest chances into a quarter-final ticket."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux 4-4-2 sur la feuille, deux visages très différents sur le terrain. Avec le ballon, le Portugal se dessinait en 3-5-2 et vivait dans le camp adverse : 50 % de ses touches dans le dernier tiers. Ses deux latéraux, Guerreiro à gauche et Ricardo Pereira à droite, se tenaient tous les deux à 70 m de leur but. L'Uruguay, en 3-4-3 avec le ballon, passait 30 % de ses touches dans son propre tiers et attaquait surtout par sa droite.",
+   "keys": [
+    "Le couloir droit uruguayen concentre 28 % des touches, avec Nández (65 m) et Cáceres (60 m) presque collés à la ligne.",
+    "Lucas Torreira descendait à 41 m, en troisième homme derrière Godín et Giménez : l'Uruguay sortait à trois.",
+    "Cristiano Ronaldo est le Portugais le plus avancé en moyenne (82 m), décalé dans le demi-espace gauche.",
+    "Sans le ballon, le Portugal se repliait en 4-1-5, et l'Uruguay en 3-2-3-2."
+   ],
+   "impact": "Ce Portugal qui poussait ses latéraux à 70 m laissait derrière lui très peu de monde : Pepe et Fonte. Ce n'est sans doute pas un hasard si le but décisif de Cavani arrive en transition, sur une de ces pertes."
+  },
+  "en": {
+   "lead": "Two 4-4-2s on paper, two very different faces on the pitch. In possession, Portugal took the shape of a 3-5-2 and lived in the opponent's half: 50% of their touches in the final third. Both full-backs, Guerreiro on the left and Ricardo Pereira on the right, sat 70 m from their own goal. Uruguay, 3-4-3 with the ball, spent 30% of their touches in their own third and attacked mostly down the right.",
+   "keys": [
+    "Uruguay's right lane holds 28% of their touches, with Nández (65 m) and Cáceres (60 m) almost on the touchline.",
+    "Lucas Torreira dropped to 41 m, as the third man behind Godín and Giménez: Uruguay played out with three.",
+    "Cristiano Ronaldo is Portugal's most advanced player on average (82 m), shifted into the left half-space.",
+    "Out of possession, Portugal fell back into a 4-1-5, and Uruguay into a 3-2-3-2."
+   ],
+   "impact": "A Portugal pushing their full-backs up to 70 m left very few players behind: Pepe and Fonte. It is probably no coincidence that Cavani's winner came in transition, from one of those losses."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Portugal pressait plus serré (PPDA de 9,6 contre 14,3) et réagissait mieux à la perte : 31 % de ses pressions tombaient juste après avoir perdu le ballon, bien au-dessus de la moyenne du Mondial (19 %). L'Uruguay, lui, défendait plus bas, à 41,3 m de son but. Mais quand il mordait, il mordait juste : 11 récupérations hautes contre 7.",
+   "keys": [
+    "Hauteur des actions défensives : 49,0 m pour le Portugal, 41,3 m pour l'Uruguay, sous la moyenne du tournoi (46,3 m).",
+    "Le Portugal récupère 57 % de ses pertes en moins de 10 secondes, l'Uruguay 51 %.",
+    "Les deux pressent pourtant moins que la moyenne : 4,5 et 4,2 pressions par minute sans ballon, contre 5,6 dans le tournoi.",
+    "L'Uruguay est plus vif dans les 5 premières secondes (36 % contre 30 %) : une réaction courte et vive."
+   ],
+   "impact": "Le contre-pressing portugais a largement privé l'Uruguay du ballon (33 % de possession). Mais un tel jeu suppose de ne rien laisser passer, et le seul ballon qui a échappé à ce filet a suffi à Cavani."
+  },
+  "en": {
+   "lead": "Portugal pressed tighter (PPDA of 9.6 against 14.3) and reacted better to losing the ball: 31% of their pressures came right after a loss, well above the World Cup average (19%). Uruguay defended deeper, 41.3 m from their own goal. But when they bit, they bit well: 11 high regains to 7.",
+   "keys": [
+    "Height of defensive actions: 49.0 m for Portugal, 41.3 m for Uruguay, below the tournament average (46.3 m).",
+    "Portugal win back 57% of their losses within 10 seconds, Uruguay 51%.",
+    "Both teams still press less than average: 4.5 and 4.2 pressures per minute out of possession, against 5.6 in the tournament.",
+    "Uruguay are sharper in the first 5 seconds (36% against 30%): a short, sharp reaction."
+   ],
+   "impact": "Portugal's counter-press largely starved Uruguay of the ball (33% possession). But that kind of game means letting nothing through, and the one ball that slipped the net was enough for Cavani."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Un vrai miroir : +0,97 pour le Portugal, −0,97 pour l'Uruguay. Le Portugal est l'un des plus relationnistes du Mondial (5e sur 32), l'Uruguay l'un des plus positionnistes (27e). D'un côté, Bernardo Silva au centre de 132 passes et des joueurs qui viennent chercher le ballon partout ; de l'autre, un réseau minimaliste dont le carrefour est Diego Godín, avec 30 passes seulement.",
+   "keys": [
+    "Bernardo Silva – Ricardo Pereira (25 passes) est le lien le plus utilisé du match : le côté droit portugais tournait à plein.",
+    "Liberté latérale de 16,4 m pour le Portugal, contre 13,2 m en moyenne : ses joueurs bougeaient beaucoup autour du ballon.",
+    "Le lien uruguayen le plus fréquent est Godín – Muslera (12 passes) : un défenseur et son gardien.",
+    "Passes courtes : 56 % pour le Portugal, 46 % pour l'Uruguay ; combinaisons rapides : 32 % contre 25 %."
+   ],
+   "impact": "Le Portugal a fait circuler le ballon avec beaucoup plus de liberté et de mouvement, mais tous ces relais n'ont produit qu'1,00 xG. L'Uruguay, avec un jeu réduit à l'essentiel, n'avait besoin que de quelques passes pour atteindre Cavani et Suárez."
+  },
+  "en": {
+   "lead": "A true mirror: +0.97 for Portugal, −0.97 for Uruguay. Portugal are among the most relational teams at the World Cup (5th of 32), Uruguay among the most positional (27th). On one side, Bernardo Silva at the centre of 132 passes and players coming to find the ball everywhere; on the other, a minimalist network whose hub is Diego Godín, with only 30 passes.",
+   "keys": [
+    "Bernardo Silva – Ricardo Pereira (25 passes) is the busiest link of the match: Portugal's right side was in full swing.",
+    "Lateral freedom of 16.4 m for Portugal, against 13.2 m on average: their players moved a lot around the ball.",
+    "Uruguay's most frequent link is Godín – Muslera (12 passes): a defender and his goalkeeper.",
+    "Short passes: 56% for Portugal, 46% for Uruguay; quick combinations: 32% against 25%."
+   ],
+   "impact": "Portugal moved the ball with far more freedom and movement, but all those relays produced only 1.00 xG. Uruguay, with a game stripped to the essentials, needed just a few passes to reach Cavani and Suárez."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Il n'a fallu qu'un contre. Le Portugal a perdu 120 ballons dans le jeu, n'a concédé que 3 tirs dans les 15 secondes suivantes, pour 0,09 xG au total. Mais l'un d'eux est le but de Cavani à la 62e minute, une frappe à 0,06 xG qui élimine le Portugal. L'Uruguay, de son côté, n'a concédé que 2 tirs en transition, pour 0,03 xG.",
+   "keys": [
+    "Les deux équipes sont sous la moyenne du Mondial en xG : 2,7 tirs et 0,28 xG concédés en transition par match.",
+    "Le but de la 62e est le seul but en transition du match, et c'est celui de la qualification.",
+    "L'Uruguay perd 100 ballons, presque autant que le Portugal, mais ses pertes n'ont jamais coûté plus de 0,03 xG."
+   ],
+   "impact": "Statistiquement, le repli portugais a été plutôt solide. Mais un huitième de finale ne pardonne pas : 0,06 xG concédé au mauvais moment a suffi à renverser tout le reste."
+  },
+  "en": {
+   "lead": "It only took one counter. Portugal lost 120 balls in open play and conceded only 3 shots within the next 15 seconds, worth 0.09 xG in total. But one of them is Cavani's goal in minute 62, a 0.06 xG strike that knocks Portugal out. Uruguay, for their part, conceded only 2 shots in transition, worth 0.03 xG.",
+   "keys": [
+    "Both teams are below the World Cup average in xG: 2.7 shots and 0.28 xG conceded in transition per match.",
+    "The minute-62 goal is the only transition goal of the match, and it is the one that decided the tie.",
+    "Uruguay lose 100 balls, almost as many as Portugal, but their losses never cost more than 0.03 xG."
+   ],
+   "impact": "Statistically, Portugal's defensive transition held up fairly well. But a round of 16 is unforgiving: 0.06 xG conceded at the wrong moment was enough to outweigh everything else."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on regarde l'attention reçue : les actions défensives adverses de plus que la normale pour 10 touches. Le joueur que le Portugal a le plus harcelé, c'est Nahitan Nández, avec 3,70. Logique : il était l'un des carrefours uruguayens, avec 23 passes entre titulaires. Les quatre joueurs les plus ciblés du match sont uruguayens.",
+   "keys": [
+    "Cristian Rodríguez (2,84), Luis Suárez (1,82) et Matías Vecino (1,72) suivent Nández.",
+    "Cristiano Ronaldo est le Portugais le plus surveillé, mais seulement avec 0,97.",
+    "José Giménez (−1,64) et Carlos Sánchez (−1,52) ont touché le ballon sans presque jamais être dérangés.",
+    "Référence du tournoi : Mehdi Taremi, avec l'Iran, à 5,35."
+   ],
+   "impact": "Le Portugal concentrait son agressivité sur les relais uruguayens, Nández et Suárez en tête : on peut y voir une façon de couper les sorties. Cela a souvent fonctionné, mais il a suffi de deux ballons bien utilisés pour que Cavani punisse."
+  },
+  "en": {
+   "lead": "Without 360 data, we look at received attention: extra opposing defensive actions per 10 touches, compared with normal. The player Portugal hounded most was Nahitan Nández, at 3.70. It makes sense: he was one of Uruguay's hubs, with 23 passes between starters. The four most targeted players of the match are all Uruguayan.",
+   "keys": [
+    "Cristian Rodríguez (2.84), Luis Suárez (1.82) and Matías Vecino (1.72) follow Nández.",
+    "Cristiano Ronaldo is the most watched Portuguese player, but only at 0.97.",
+    "José Giménez (−1.64) and Carlos Sánchez (−1.52) touched the ball with almost nobody bothering them.",
+    "Tournament benchmark: Iran's Mehdi Taremi, at 5.35."
+   ],
+   "impact": "Portugal focused their aggression on Uruguay's outlets, Nández and Suárez first: arguably a way to cut off the exits. It often worked, but two well-used balls were enough for Cavani to punish them."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "La menace a un nom côté portugais : Raphaël Guerreiro. Le latéral gauche produit 0,94 xT à lui seul, soit 39 % de toute la menace de son équipe, et signe les deux gestes les plus dangereux du match. Le Portugal totalise 2,41 xT, plus de trois fois plus que l'Uruguay (0,74). Une domination écrasante sur le papier, une élimination sur le tableau d'affichage.",
+   "keys": [
+    "À la 11e minute, une passe de Guerreiro vaut +0,37 xT : c'est la minute de l'occasion manquée de José Fonte.",
+    "À la 55e, Guerreiro récidive (+0,35 xT) : c'est la minute de l'égalisation de Pepe, dont il est le passeur décisif.",
+    "Côté uruguayen, Nández porte 32 % de la menace (0,24 xT) et Suárez 27 % (0,20 xT).",
+    "À la 7e minute, Suárez envoie le ballon de 88 m à 102 m de son but (+0,09 xT) : c'est la minute du premier but de Cavani."
+   ],
+   "impact": "Le Portugal a produit plus de menace dans chaque mi-temps (1,08 puis 1,32 xT). Mais une grande partie de cette menace est passée par le même joueur, et l'Uruguay n'a eu besoin que de deux gestes pour faire mieux."
+  },
+  "en": {
+   "lead": "Portugal's threat had a name: Raphaël Guerreiro. The left-back produced 0.94 xT on his own, 39% of his team's entire threat, and made the two most dangerous actions of the match. Portugal totalled 2.41 xT, more than three times Uruguay's 0.74. Crushing dominance on paper, elimination on the scoreboard.",
+   "keys": [
+    "In minute 11, a Guerreiro pass is worth +0.37 xT: the minute of José Fonte's missed chance.",
+    "In minute 55, Guerreiro does it again (+0.35 xT): the minute of Pepe's equaliser, which he set up.",
+    "For Uruguay, Nández carries 32% of the threat (0.24 xT) and Suárez 27% (0.20 xT).",
+    "In minute 7, Suárez moves the ball from 88 m to 102 m from his own goal (+0.09 xT): the minute of Cavani's first goal."
+   ],
+   "impact": "Portugal produced more threat in each half (1.08 then 1.32 xT). But much of that threat went through the same player, and Uruguay needed only two moments to do better."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Raphaël Guerreiro a perdu ce match, mais pas son rang : 3e des 88 latéraux classés du Mondial, avec une note de 77, sur le podium de son poste derrière Branislav Ivanović et Marcelo. En face, Edinson Cavani est 5e des 68 attaquants, avec 3 buts en 376 minutes. Cristiano Ronaldo, 10e, en compte 4.",
+   "keys": [
+    "Rodrigo Bentancur, passeur décisif dans ce match, est 17e des 123 milieux classés.",
+    "Fernando Muslera est 8e des 31 gardiens (note de 64).",
+    "Luis Suárez est 17e des attaquants, avec 2 buts et 1 passe décisive sur le tournoi.",
+    "Bernardo Silva, carrefour du jeu portugais, est 24e des milieux."
+   ],
+   "impact": "Les meilleurs classés du match se répartissent entre les deux camps, mais les buts, eux, ont choisi l'Uruguay. Le classement de Cavani reflète exactement ce qu'il a fait ce jour-là : peu d'occasions, et beaucoup de buts."
+  },
+  "en": {
+   "lead": "Raphaël Guerreiro lost this match but not his standing: 3rd of 88 ranked full-backs at the World Cup, with a score of 77, on his position's podium behind Branislav Ivanović and Marcelo. Opposite, Edinson Cavani is 5th of 68 forwards, with 3 goals in 376 minutes. Cristiano Ronaldo, 10th, has 4.",
+   "keys": [
+    "Rodrigo Bentancur, who provided an assist in this match, is 17th of 123 ranked midfielders.",
+    "Fernando Muslera is 8th of 31 goalkeepers (score of 64).",
+    "Luis Suárez is 17th among forwards, with 2 goals and 1 assist in the tournament.",
+    "Bernardo Silva, the hub of Portugal's play, is 24th among midfielders."
+   ],
+   "impact": "The best-ranked players of the match are split between the two camps, but the goals chose Uruguay. Cavani's ranking reflects exactly what he did that day: few chances, lots of goals."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "La plus belle trouvaille de cette section : José Giménez et Diego Godín sont jumeaux l'un de l'autre, similaires à 95 % sur ce même Mondial. La charnière uruguayenne n'avait pas deux défenseurs complémentaires, mais deux copies conformes. Et Cristiano Ronaldo ? Son premier jumeau est un compatriote, João Félix au Mondial 2022 (96 %).",
+   "keys": [
+    "Edinson Cavani ressemble à 96 % à Kai Havertz (Euro 2024) et à Lautaro Martínez (Mondial 2022), puis à Karim Benzema (Euro 2020, 95 %).",
+    "Luis Suárez a pour jumeaux trois attaquants : Seferović (96 %), Artem Dzyuba (95 %) et Romelu Lukaku (94 %).",
+    "Raphaël Guerreiro se rapproche d'abord de K. Walker à l'Euro 2016 (88 %).",
+    "Fernando Muslera ressemble à Mike Maignan à l'Euro 2024 et à Y. Sommer à l'Euro 2016 (94 % chacun)."
+   ],
+   "impact": "Une charnière de jumeaux et un duo d'attaque aux profils bien identifiés : les ressemblances uruguayennes collent au match joué, solide derrière et tranchant devant. Le Portugal avait plus de talent créatif, l'Uruguay avait les bons profils pour ce match-là."
+  },
+  "en": {
+   "lead": "The best find in this section: José Giménez and Diego Godín are each other's twins, 95% similar at this same World Cup. Uruguay's centre-back pairing was not two complementary defenders but two carbon copies. And Cristiano Ronaldo? His first twin is a compatriot, João Félix at the 2022 World Cup (96%).",
+   "keys": [
+    "Edinson Cavani is 96% similar to Kai Havertz (Euro 2024) and Lautaro Martínez (2022 World Cup), then to Karim Benzema (Euro 2020, 95%).",
+    "Luis Suárez's twins are three forwards: Seferović (96%), Artem Dzyuba (95%) and Romelu Lukaku (94%).",
+    "Raphaël Guerreiro most resembles K. Walker at Euro 2016 (88%).",
+    "Fernando Muslera resembles Mike Maignan at Euro 2024 and Y. Sommer at Euro 2016 (94% each)."
+   ],
+   "impact": "A pair of twin centre-backs and a strike duo with clear-cut profiles: Uruguay's resemblances match the game they played, solid at the back and sharp up front. Portugal had more creative talent; Uruguay had the right profiles for this particular match."
+  }
+ }
+}

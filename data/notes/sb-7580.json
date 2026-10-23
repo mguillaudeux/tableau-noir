@@ -1,0 +1,204 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Sept buts dans un huitième de finale de Coupe du monde, et un scénario en montagnes russes : la France mène, l'Argentine renverse le match, puis la France marque trois fois en 11 minutes avant de trembler jusqu'au bout. Les xG sont presque à égalité (1,64 contre 1,45), mais pas leur composition : sans le penalty de Griezmann, la France ne pèse que 0,85 xG. Sa force, c'est le réalisme : 9 tirs, 4 cadrés, 4 buts.",
+   "keys": [
+    "Chaque tir cadré français a fini au fond : 4 sur 4. Le seul arrêt du match est français.",
+    "Deux buts sortent de nulle part : Di María à la 41e et Pavard à la 57e, deux frappes à 0,02 xG chacune.",
+    "Kylian Mbappé marque à la 64e et à la 68e, avec 5 dribbles en 86 minutes : c'est lui qui a cassé le match.",
+    "L'Argentine tire plus (12 contre 9) et compte plus de passes clés (7 contre 4), avec 60 % de possession.",
+    "La dernière occasion est argentine : Di María, à la 95e, une frappe à 0,32 xG non cadrée, la plus grosse occasion manquée du match."
+   ],
+   "impact": "Hors penalty, l'Argentine a créé davantage (1,45 npxG contre 0,85), et elle aurait pu arracher la prolongation dans les arrêts de jeu. Mais la France a converti presque tout ce qu'elle touchait, et c'est ce rendement hors norme qui l'envoie en quart."
+  },
+  "en": {
+   "lead": "Seven goals in a World Cup round of 16, and a rollercoaster script: France lead, Argentina turn it around, then France score three times in 11 minutes before hanging on to the very end. The xG is almost level (1.64 to 1.45), but not its make-up: without Griezmann's penalty, France are worth only 0.85 xG. Their strength was ruthlessness: 9 shots, 4 on target, 4 goals.",
+   "keys": [
+    "Every French shot on target ended up in the net: 4 out of 4. The only save of the match was made by France.",
+    "Two goals came out of nowhere: Di María in minute 41 and Pavard in minute 57, two strikes worth 0.02 xG each.",
+    "Kylian Mbappé scores in minutes 64 and 68, with 5 dribbles in 86 minutes: he is the one who broke the game open.",
+    "Argentina shoot more (12 to 9) and make more key passes (7 to 4), with 60% possession.",
+    "The last chance is Argentine: Di María in minute 95, a 0.32 xG shot off target, the biggest miss of the match."
+   ],
+   "impact": "Without penalties, Argentina created more (1.45 npxG against 0.85), and they could have forced extra time in stoppage time. But France converted almost everything they touched, and that extraordinary return is what sends them to the quarter-finals."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux équipes qui se dessinent très différemment de leur schéma annoncé. L'Argentine, en 4-3-3 sur la feuille, attaquait en 3-4-3 avec Mascherano (49 m, dans l'axe) en troisième homme de la première ligne et un couloir droit surchargé : 33 % de ses touches, avec Pavón collé à la ligne (66 m de largeur sur 68) et Mercado juste derrière. La France, en 4-2-3-1, se dessinait en 3-3-4 avec le ballon, et Mbappé décalé dans le demi-espace droit.",
+   "keys": [
+    "Le couloir droit argentin faisait face au côté gauche français, que la France utilisait peu : 13 % de ses touches seulement dans son couloir gauche.",
+    "Lucas Hernandez, latéral gauche, se tenait pourtant à 60 m de son but et à 4 m de la touche : aussi haut que Griezmann (61 m).",
+    "Messi se positionnait en moyenne à 73 m, dans le demi-espace droit, derrière Di María (80 m) et Pavón (82 m).",
+    "La France passait 31 % de ses touches dans son propre tiers, contre 18 % pour l'Argentine : l'une attendait, l'autre s'installait.",
+    "Sans le ballon, l'Argentine se repliait en 3-6-1 et la France en 4-1-3-2."
+   ],
+   "impact": "On peut penser que ce plan argentin, très chargé à droite, laissait de l'espace ailleurs. La France, qui défendait bas et partait de loin, avait en tout cas un match à la mesure des courses de Mbappé."
+  },
+  "en": {
+   "lead": "Two teams that looked very different from their announced shapes. Argentina, 4-3-3 on paper, attacked in a 3-4-3 with Mascherano (49 m, central) as the third man in the first line and an overloaded right lane: 33% of their touches, with Pavón glued to the touchline (66 m across a 68 m pitch) and Mercado just behind. France, in a 4-2-3-1, took the shape of a 3-3-4 in possession, with Mbappé shifted into the right half-space.",
+   "keys": [
+    "Argentina's right lane faced France's left side, which France barely used: only 13% of their touches in their left lane.",
+    "Lucas Hernandez, at left-back, still stood 60 m from his own goal and 4 m from the touchline: as high as Griezmann (61 m).",
+    "Messi's average position was 73 m up, in the right half-space, behind Di María (80 m) and Pavón (82 m).",
+    "France spent 31% of their touches in their own third, against 18% for Argentina: one waited, the other settled in.",
+    "Out of possession, Argentina dropped into a 3-6-1 and France into a 4-1-3-2."
+   ],
+   "impact": "Argentina's plan, heavily loaded on the right, arguably left space elsewhere. France, defending deep and starting from far back, certainly had a game made for Mbappé's runs."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Voici un paradoxe : la France presse énormément, 7,4 pressions par minute sans ballon, bien au-dessus de la moyenne du Mondial (5,6), mais elle presse bas. Ses actions défensives se situent à 39,0 m de son but, contre 46,3 m en moyenne dans le tournoi. Et son contre-pressing est quasi inexistant : 6 % de ses pressions seulement suivent immédiatement une perte, contre 22 % pour l'Argentine.",
+   "keys": [
+    "L'Argentine récupère 38 % de ses ballons perdus en moins de 5 secondes, la France 26 %.",
+    "Récupérations hautes : 12 pour l'Argentine, 6 pour la France. Les Argentins mordaient près du but adverse.",
+    "Les hauteurs défensives le confirment : 50,6 m pour l'Argentine, 39,0 m pour la France.",
+    "PPDA de 12,4 pour l'Argentine contre 14,5 : un pressing un peu plus serré côté argentin."
+   ],
+   "impact": "Deux stratégies opposées, et une seule a payé. La France acceptait de reculer et de harceler dans son camp, l'Argentine pressait haut et laissait forcément de l'espace dans son dos. On peut y voir l'origine des accélérations françaises de la deuxième mi-temps."
+  },
+  "en": {
+   "lead": "Here is a paradox: France pressed an enormous amount, 7.4 pressures per minute out of possession, well above the World Cup average (5.6), but they pressed deep. Their defensive actions sit 39.0 m from their own goal, against 46.3 m on average in the tournament. And their counter-press is almost non-existent: only 6% of their pressures come straight after a loss, against 22% for Argentina.",
+   "keys": [
+    "Argentina win back 38% of their lost balls within 5 seconds, France 26%.",
+    "High regains: 12 for Argentina, 6 for France. Argentina bit close to the opponent's goal.",
+    "Defensive heights confirm it: 50.6 m for Argentina, 39.0 m for France.",
+    "A PPDA of 12.4 for Argentina against 14.5: a slightly tighter press on the Argentine side."
+   ],
+   "impact": "Two opposite strategies, and only one paid off. France were happy to drop off and harass in their own half, Argentina pressed high and inevitably left space behind them. That may well be where France's second-half bursts came from."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Surprise : l'équipe qui avait le moins le ballon est la plus relationniste. La France affiche un indice de +0,34 (7e sur 32), avec 58 % de passes courtes et 38 % de combinaisons rapides. L'Argentine, à +0,14, n'est que 21e. Quand la France avait le ballon, elle le faisait vivre en petits groupes autour de N'Golo Kanté, carrefour de 76 passes entre titulaires.",
+   "keys": [
+    "Le lien le plus utilisé côté français : Kanté – Umtiti, 21 passes, devant Pogba – Kanté (14).",
+    "Pogba – Mbappé (13 passes) est le troisième lien français : la connexion qui lançait les courses vers l'avant.",
+    "Côté argentin, le carrefour est un latéral, Gabriel Mercado (121 passes), relié à Otamendi par 30 passes.",
+    "Le duo Enzo Pérez – Mercado (26 passes) montre où l'Argentine construisait : sur son côté droit."
+   ],
+   "impact": "L'Argentine a fait circuler beaucoup plus (535 passes contre 350), mais surtout autour de sa défense et de son côté droit. La France, avec moins de ballons, jouait court et vite, et le lien Pogba – Mbappé montre où menaient ses combinaisons."
+  },
+  "en": {
+   "lead": "Surprise: the team with less of the ball is the more relational one. France post an index of +0.34 (7th of 32), with 58% short passes and 38% quick combinations. Argentina, at +0.14, are only 21st. When France had the ball, they kept it alive in small groups around N'Golo Kanté, the hub with 76 passes between starters.",
+   "keys": [
+    "France's busiest link: Kanté – Umtiti, 21 passes, ahead of Pogba – Kanté (14).",
+    "Pogba – Mbappé (13 passes) is France's third link: the connection that launched the runs forward.",
+    "For Argentina, the hub is a full-back, Gabriel Mercado (121 passes), linked to Otamendi by 30 passes.",
+    "The Enzo Pérez – Mercado pair (26 passes) shows where Argentina built up: down their right side."
+   ],
+   "impact": "Argentina circulated far more (535 passes to 350), but mostly around their defence and their right flank. France, with fewer balls, played short and fast, and the Pogba – Mbappé link shows where those combinations led."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Sept buts, et aucun en transition. C'est l'une des curiosités de ce huitième : malgré un match ouvert, chaque équipe n'a concédé qu'un tir dans les 15 secondes suivant une perte, quand la moyenne du Mondial est de 2,7. Aucun des buts n'est né dans les secondes qui suivent une récupération : il y a eu un penalty, des frappes improbables à 0,02 xG, des actions construites.",
+   "keys": [
+    "xG concédés en transition : 0,17 pour la France, 0,18 pour l'Argentine, bien en dessous de la moyenne du tournoi (0,28).",
+    "L'Argentine a perdu 103 ballons dans le jeu, la France 86, sans que l'adversaire ne puisse presque jamais punir dans la foulée.",
+    "Aucun des sept buts du match n'est classé comme but en transition."
+   ],
+   "impact": "Ce match ne s'est pas décidé en transition immédiate. Les espaces existaient, mais ils se sont exploités en plusieurs passes plutôt qu'en un contre éclair : le genre de détail que les chiffres de transition mettent en lumière."
+  },
+  "en": {
+   "lead": "Seven goals, and not one in transition. That is one of the curiosities of this round of 16: despite an open game, each team conceded only one shot within 15 seconds of losing the ball, when the World Cup average is 2.7. None of the goals came in the seconds after a regain: there was a penalty, improbable 0.02 xG strikes, built-up moves.",
+   "keys": [
+    "xG conceded in transition: 0.17 for France, 0.18 for Argentina, well below the tournament average (0.28).",
+    "Argentina lost 103 balls in open play, France 86, and the opponent almost never managed to punish them straight away.",
+    "Not one of the match's seven goals is classed as a transition goal."
+   ],
+   "impact": "This match was not decided in immediate transition. The space was there, but it was exploited over several passes rather than in a lightning counter: the kind of detail the transition numbers bring to light."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure ici l'attention reçue : combien d'actions défensives adverses de plus que la normale un joueur attire pour 10 touches. Et le plus surveillé du match, de loin, c'est Kylian Mbappé : 3,93. L'Argentine se jetait sur lui à chaque ballon. Derrière lui, trois Argentins : Agüero (3,46), Pavón (3,44) et Messi (2,94).",
+   "keys": [
+    "Maximiliano Meza (2,92) a lui aussi attiré énormément d'attention.",
+    "Olivier Giroud (2,66) complète le tableau : le point d'appui français prenait sa part des coups.",
+    "À l'autre bout, Fazio (−1,24), Rojo (−1,14) et Otamendi (−0,77) étaient laissés tranquilles par la France.",
+    "Sur tout le tournoi, le joueur qui reçoit le plus d'attention est Mehdi Taremi, avec l'Iran (5,35)."
+   ],
+   "impact": "Toute l'attention argentine sur Mbappé n'a pas suffi : il marque deux fois. La France, elle, laissait les défenseurs argentins relancer, ce qui colle avec un bloc français très bas."
+  },
+  "en": {
+   "lead": "Without 360 data, we measure received attention here: how many extra opposing defensive actions a player draws per 10 touches, compared with normal. And the most closely watched player of the match, by far, is Kylian Mbappé: 3.93. Argentina threw themselves at him on every ball. Behind him come three Argentines: Agüero (3.46), Pavón (3.44) and Messi (2.94).",
+   "keys": [
+    "Maximiliano Meza (2.92) also drew a huge amount of attention.",
+    "Olivier Giroud (2.66) completes the picture: France's target man took his share of the knocks.",
+    "At the other end, Fazio (−1.24), Rojo (−1.14) and Otamendi (−0.77) were left alone by France.",
+    "Across the whole tournament, the player who drew the most attention is Iran's Mehdi Taremi (5.35)."
+   ],
+   "impact": "All of Argentina's attention on Mbappé was not enough: he scored twice. France, for their part, let Argentina's defenders play out, which is consistent with a very deep French block."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "En menace pure, l'Argentine a dominé : 1,82 xT contre 1,33. Et sa deuxième mi-temps a été bien plus menaçante (1,31) que la première (0,51). Le paradoxe, c'est que la France a marqué trois buts pendant ces 45 minutes avec seulement 0,58 xT. Le plus grand créateur du match s'appelle Lionel Messi : 0,50 xT, soit 27 % de toute la menace argentine.",
+   "keys": [
+    "Le geste le plus menaçant du match tombe à la 95e : une passe de Maximiliano Meza (+0,35 xT), dans la minute même où Di María manque la dernière grosse occasion.",
+    "À la 93e, Messi envoie le ballon de 74 m à 98 m de son but (+0,14 xT) : c'est la minute du but d'Agüero.",
+    "Meza pèse 0,41 xT, 23 % du total argentin : un impact énorme en fin de match.",
+    "Côté français, Mbappé crée tout balle au pied : 0,19 xT en conduites, et rien à la passe.",
+    "Paul Pogba est le premier créateur français (0,20 xT, 15 %)."
+   ],
+   "impact": "L'Argentine a fini le match en assiégeant le but de Lloris, mais la menace est arrivée trop tard. La France avait déjà converti ses moments forts, et cette efficacité a compensé une menace globale plus faible."
+  },
+  "en": {
+   "lead": "In pure threat, Argentina dominated: 1.82 xT against 1.33. Their second half was far more threatening (1.31) than their first (0.51). The paradox is that France scored three goals during those 45 minutes with only 0.58 xT. The biggest creator of the match is Lionel Messi: 0.50 xT, or 27% of all Argentina's threat.",
+   "keys": [
+    "The most threatening action of the match comes in minute 95: a Maximiliano Meza pass (+0.35 xT), in the very minute Di María missed the last big chance.",
+    "In minute 93, Messi moves the ball from 74 m to 98 m from his own goal (+0.14 xT): the minute of Agüero's goal.",
+    "Meza is worth 0.41 xT, 23% of Argentina's total: a huge impact late on.",
+    "For France, Mbappé creates everything with the ball at his feet: 0.19 xT from carries, nothing from passes.",
+    "Paul Pogba is France's top creator (0.20 xT, 15%)."
+   ],
+   "impact": "Argentina finished the match laying siege to Lloris's goal, but the threat came too late. France had already cashed in on their best moments, and that efficiency made up for a lower overall threat."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Lionel Messi termine 4e des 68 attaquants classés du Mondial 2018, avec une note de 82, mais seulement 1 but et 1 passe décisive en 379 minutes. Le tournoi s'arrête là pour lui, et le classement montre un joueur toujours au-dessus du lot dans le jeu. En face, Kylian Mbappé est 11e, avec 4 buts sur l'ensemble de la compétition.",
+   "keys": [
+    "Paul Pogba est 9e des 123 milieux classés (note de 70), juste devant Éver Banega, 10e avec 2 passes décisives en 231 minutes.",
+    "Marcos Rojo est le défenseur central le mieux classé du match : 4e sur 40.",
+    "Javier Mascherano (19e des milieux) et Nicolás Otamendi (13e des centraux) complètent un bloc argentin bien noté.",
+    "Les meneurs du tournoi par poste : Neymar chez les attaquants, Toni Kroos chez les milieux."
+   ],
+   "impact": "Individuellement, l'Argentine n'avait pas à rougir : plusieurs de ses joueurs sont classés devant leurs vis-à-vis français. Mais le classement récompense la régularité, et ce soir-là, c'est l'efficacité de Mbappé qui a fait la différence."
+  },
+  "en": {
+   "lead": "Lionel Messi finishes 4th of 68 ranked forwards at the 2018 World Cup, with a score of 82, but only 1 goal and 1 assist in 379 minutes. His tournament ends here, and the ranking shows a player still above the rest in open play. Opposite, Kylian Mbappé is 11th, with 4 goals over the whole competition.",
+   "keys": [
+    "Paul Pogba is 9th of 123 ranked midfielders (score of 70), just ahead of Éver Banega, 10th with 2 assists in 231 minutes.",
+    "Marcos Rojo is the best-ranked centre-back of the match: 4th of 40.",
+    "Javier Mascherano (19th among midfielders) and Nicolás Otamendi (13th among centre-backs) complete a well-rated Argentine spine.",
+    "The tournament's leaders by position: Neymar among forwards, Toni Kroos among midfielders."
+   ],
+   "impact": "Individually, Argentina had nothing to be ashamed of: several of their players rank above their French counterparts. But rankings reward consistency, and that evening it was Mbappé's efficiency that made the difference."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Messi version 2018 ? Eden Hazard au même Mondial, à 95 %. Mais la deuxième place est plus piquante : Kylian Mbappé version 2022, similaire à 94 %, à égalité avec Florian Wirtz à l'Euro 2024. Le joueur qui a éliminé Messi ce soir-là deviendra, quatre ans plus tard, son reflet statistique.",
+   "keys": [
+    "Mbappé 2018 ressemble à Raheem Sterling (Euro 2020), Kvara (Euro 2024) et Marcus Rashford (Mondial 2018), tous à 90 %.",
+    "Éver Banega a pour jumeau Bastian Schweinsteiger en finale de Ligue des champions avec le Bayern Munich (97 %), puis Luka Modrić en 2022 (95 %).",
+    "Javier Mascherano ressemble à 96 % à Jorginho à l'Euro 2024 : deux milieux reculés au profil très proche.",
+    "N'Golo Kanté a pour premier jumeau Mousa Dembélé, avec la Belgique au même Mondial (93 %)."
+   ],
+   "impact": "Les jumeaux disent la même chose que le terrain : l'Argentine avait des créateurs de premier plan, Banega et Messi en tête. Mais face à elle se trouvait un attaquant au profil de Sterling et Rashford, et ce profil-là, ce soir, valait deux buts."
+  },
+  "en": {
+   "lead": "Messi's 2018 twin? Eden Hazard at the same World Cup, 95%. But second place is spicier: Kylian Mbappé's 2022 version, 94% similar, level with Florian Wirtz at Euro 2024. The player who knocked Messi out that night would, four years later, become his statistical mirror.",
+   "keys": [
+    "Mbappé in 2018 resembles Raheem Sterling (Euro 2020), Kvara (Euro 2024) and Marcus Rashford (2018 World Cup), all at 90%.",
+    "Éver Banega's twin is Bastian Schweinsteiger in a Champions League final with Bayern Munich (97%), then Luka Modrić in 2022 (95%).",
+    "Javier Mascherano is 96% similar to Jorginho at Euro 2024: two deep midfielders with very close profiles.",
+    "N'Golo Kanté's first twin is Mousa Dembélé, with Belgium at the same World Cup (93%)."
+   ],
+   "impact": "The twins say what the pitch said: Argentina had top-class creators, Banega and Messi first among them. But they faced a forward in the mould of Sterling and Rashford, and that profile, that night, was worth two goals."
+  }
+ }
+}

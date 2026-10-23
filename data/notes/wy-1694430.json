@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "L'Allemagne a ouvert ce huitième de l'Euro 2016 par le but le plus improbable de la soirée : J. Boateng à la 8e minute, sur une frappe que notre modèle maison estime à 0,02 xG. Cinq minutes plus tard, M. Özil rate un penalty (0,73 xG) et ne cadre même pas. Peu importe : M. Gómez double la mise à la 43e, J. Draxler ferme la marque à la 63e. La Slovaquie, elle, n'a produit que 0,33 xG en 7 tirs.",
+   "keys": [
+    "Sans le penalty manqué, l'Allemagne reste à 1,50 npxG : la domination ne doit rien au point de penalty.",
+    "La Slovaquie ne délivre qu'une seule passe clé de tout le match, contre 4 pour l'Allemagne.",
+    "57 % de possession et 86 % de passes réussies pour l'Allemagne, 601 passes contre 382.",
+    "Boateng, buteur, est aussi un relanceur : 16 passes progressives et 0,58 xT."
+   ],
+   "impact": "Avec 1,9 xG d'écart, ce 3-0 est fidèle au match. Le penalty raté d'Özil aurait pu semer le doute à 1-0 ; la Slovaquie n'a jamais eu les armes pour en profiter."
+  },
+  "en": {
+   "lead": "Germany opened this Euro 2016 last-16 tie with the most improbable goal of the evening: J. Boateng in minute 8, from a shot our in-house model rates at 0.02 xG. Five minutes later, M. Özil misses a penalty (0.73 xG) and does not even hit the target. No matter: M. Gómez doubles the lead in minute 43, J. Draxler completes the scoring in minute 63. Slovakia produced just 0.33 xG from 7 shots.",
+   "keys": [
+    "Without the missed penalty, Germany still have 1.50 npxG: their dominance owed nothing to the spot.",
+    "Slovakia deliver a single key pass in the whole match, against 4 for Germany.",
+    "57% possession and 86% pass completion for Germany, 601 passes to 382.",
+    "Boateng, the scorer, is also a playmaker from the back: 16 progressive passes and 0.58 xT."
+   ],
+   "impact": "With a 1.9 xG gap, this 3-0 is a fair reflection of the match. Özil's missed penalty could have sown doubt at 1-0; Slovakia never had the weapons to take advantage."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Avec le ballon, l'Allemagne se présente en 3-3-4, et un détail saute aux yeux : J. Boateng, défenseur central, a une position moyenne à 58 m de son but, bien devant M. Hummels (37 m). Les deux pistons, J. Hector à gauche (8 m de la ligne) et J. Kimmich à droite, montent au-delà de 70 m. Devant, Özil, Draxler, Müller et Gómez s'étagent entre 74 et 78 m. La Slovaquie, en 4-3-1-2, passe 40 % de ses touches dans son propre tiers.",
+   "keys": [
+    "L'Allemagne touche 43 % de ses ballons dans le dernier tiers, la Slovaquie 21 %.",
+    "Côté gauche allemand, 23 % des touches dans le couloir et 22 % dans le demi-espace : Hector et Kroos (66 m, 22 m de large) en sont les moteurs.",
+    "La Slovaquie penche à droite (25 % de ses touches) ; V. Weiss, lui, reste collé à la ligne gauche (4 m) à 67 m.",
+    "Sans le ballon, l'Allemagne se range en 3-4-3, la Slovaquie en 4-4-2."
+   ],
+   "impact": "Le couloir gauche allemand faisait face au côté droit slovaque, celui où la Slovaquie aimait jouer : en y installant Hector et Kroos, l'Allemagne a sans doute à la fois attaqué et neutralisé le meilleur côté adverse."
+  },
+  "en": {
+   "lead": "On the ball Germany line up in a 3-3-4, and one detail jumps out: J. Boateng, a centre-back, has an average position 58 m from his goal, well ahead of M. Hummels (37 m). The two wing-backs, J. Hector on the left (8 m from the line) and J. Kimmich on the right, push beyond 70 m. Up front, Özil, Draxler, Müller and Gómez are staggered between 74 and 78 m. Slovakia, in a 4-3-1-2, spend 40% of their touches in their own third.",
+   "keys": [
+    "Germany take 43% of their touches in the final third, Slovakia 21%.",
+    "On Germany's left, 23% of touches in the lane and 22% in the half-space: Hector and Kroos (66 m, 22 m across) drive it.",
+    "Slovakia lean right (25% of their touches); V. Weiss stays glued to the left line (4 m) at 67 m.",
+    "Without the ball, Germany settle into a 3-4-3, Slovakia into a 4-4-2."
+   ],
+   "impact": "Germany's left lane faced Slovakia's right, the side Slovakia liked to play on: by stationing Hector and Kroos there, Germany probably attacked and neutralised the opponents' best side at the same time."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Sans événements de pression chez Wyscout, on lit le pressing dans les tacles, interceptions et fautes. Et l'Allemagne a défendu très haut : actions défensives à 51,3 m de son but, contre 38,3 m de moyenne au tournoi, avec un PPDA de 5,5. La Slovaquie s'est installée à l'opposé, à 29,2 m de son but, et 48 % de ses récupérations ont pris plus de 20 secondes.",
+   "keys": [
+    "L'Allemagne récupère 23 % de ses ballons perdus en moins de 5 secondes, au-dessus de la moyenne du tournoi (17 %).",
+    "8 récupérations hautes allemandes, 6 slovaques (moyenne : 6,9).",
+    "La Slovaquie défend en volume : 131 actions défensives et 59 interceptions, contre 95 actions pour l'Allemagne.",
+    "En intensité, les deux équipes sont proches : 3,4 et 3,5 actions par minute sans ballon."
+   ],
+   "impact": "L'Allemagne a joué tout le match dans le camp slovaque, et ses pertes étaient vite compensées. Pour la Slovaquie, chaque récupération se faisait si bas que la sortie de balle ressemblait à une montagne."
+  },
+  "en": {
+   "lead": "Wyscout has no pressure events, so the press is read through tackles, interceptions and fouls. And Germany defended very high: defensive actions 51.3 m from their goal, against a 38.3 m tournament average, with a PPDA of 5.5. Slovakia set up at the other extreme, 29.2 m from their goal, and 48% of their regains took longer than 20 seconds.",
+   "keys": [
+    "Germany win back 23% of lost balls within 5 seconds, above the tournament average (17%).",
+    "8 high recoveries for Germany, 6 for Slovakia (average: 6.9).",
+    "Slovakia defend in volume: 131 defensive actions and 59 interceptions, against 95 actions for Germany.",
+    "In intensity the two teams are close: 3.4 and 3.5 actions per minute out of possession."
+   ],
+   "impact": "Germany played the whole match in Slovakia's half, and their losses were quickly made good. For Slovakia, every regain happened so deep that playing out looked like climbing a mountain."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le réseau allemand tourne autour de Toni Kroos (142 passes impliquées), et son partenaire favori n'est pas un milieu : c'est J. Hector, le piston gauche, avec 34 passes. Derrière, la paire Boateng – Hummels (26) et le lien Boateng – Kimmich (25) organisent la relance. L'Allemagne est légèrement relationniste ce soir-là (+0,10), avec 47 % de passes courtes, au-dessus de la moyenne du tournoi (42 %).",
+   "keys": [
+    "Surprise : la Slovaquie combine plus vite que l'Allemagne, 39 % de combinaisons rapides contre 30 %.",
+    "Le carrefour slovaque est M. Hamšík, impliqué dans 70 passes, deux fois moins que Kroos.",
+    "Le lien slovaque le plus utilisé, J. Kucka – P. Pekarík (20 passes), se trouve sur le flanc droit.",
+    "Sur le tournoi, l'Allemagne n'est que 14e des 24 équipes sur l'axe relationniste, la Slovaquie 19e."
+   ],
+   "impact": "Le duo Kroos–Hector a donné à l'Allemagne une rampe de lancement côté gauche, pendant que Boateng montait d'un cran. La Slovaquie combinait vite, mais trop bas et trop rarement pour inquiéter."
+  },
+  "en": {
+   "lead": "Germany's network revolves around Toni Kroos (142 passes involved), and his favourite partner is not a midfielder: it is J. Hector, the left wing-back, with 34 passes. Behind them, the Boateng – Hummels pair (26) and the Boateng – Kimmich link (25) organise the build-up. Germany are slightly relational that night (+0.10), with 47% short passes, above the tournament average (42%).",
+   "keys": [
+    "A surprise: Slovakia combine faster than Germany, 39% quick combinations against 30%.",
+    "Slovakia's hub is M. Hamšík, involved in 70 passes, half as many as Kroos.",
+    "Slovakia's busiest link, J. Kucka – P. Pekarík (20 passes), sits on the right flank.",
+    "Over the tournament, Germany are only 14th of 24 teams on the relational axis, Slovakia 19th."
+   ],
+   "impact": "The Kroos–Hector duo gave Germany a launch pad on the left, while Boateng stepped up a level. Slovakia combined quickly, but too deep and too rarely to cause worry."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Zéro. L'Allemagne n'a concédé aucun tir dans les 15 secondes suivant une perte de balle. Sur 69 ballons perdus dans le jeu, pas une seule contre-attaque slovaque n'a abouti à une frappe. En face, la Slovaquie a laissé 3 tirs en transition, pour 0,40 xG, environ trois fois la moyenne du tournoi (0,13).",
+   "keys": [
+    "Moyenne du tournoi : 1,6 tir concédé en transition par match. L'Allemagne : 0.",
+    "La Slovaquie a perdu 49 ballons dans le jeu et en a payé le prix plus souvent.",
+    "Aucun des trois buts allemands n'est né d'une transition."
+   ],
+   "impact": "Avec une défense aussi haute, l'Allemagne prenait un risque sur chaque perte ; elle l'a neutralisé en récupérant vite. Tout indique que la Slovaquie n'a jamais pu compter sur le contre, son arme naturelle dans un match où elle subissait."
+  },
+  "en": {
+   "lead": "Zero. Germany conceded no shots within 15 seconds of losing the ball. Out of 69 balls lost in open play, not one Slovak counter ended in a shot. Slovakia, on the other hand, allowed 3 transition shots worth 0.40 xG, roughly three times the tournament average (0.13).",
+   "keys": [
+    "Tournament average: 1.6 shots conceded in transition per match. Germany: 0.",
+    "Slovakia lost 49 balls in open play and paid for it more often.",
+    "None of Germany's three goals came from a transition."
+   ],
+   "impact": "With a line that high, Germany took a risk with every loss; they neutralised it by winning the ball back quickly. Everything suggests Slovakia could never rely on the counter, the natural weapon of a side under pressure."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on lit l'attention reçue, et ce match en a distribué très peu. Le joueur le plus entouré est le Slovaque V. Weiss, à 1,03 action défensive allemande de plus que la normale pour 10 touches, suivi de J. Draxler (0,71), seul Allemand du haut de tableau. Pour l'échelle, le plus gros aimant de l'Euro, K. Lafferty, est à 4,09.",
+   "keys": [
+    "Weiss, isolé sur sa ligne gauche, était pris dès qu'il recevait : la seule vraie cible allemande.",
+    "Draxler, buteur à la 63e, attirait davantage que tous ses partenaires.",
+    "M. Özil (−0,56) et J. Kimmich (−0,59) étaient laissés libres par la Slovaquie.",
+    "L. Podolski est le moins surveillé du match (−0,73)."
+   ],
+   "impact": "La Slovaquie a laissé Özil respirer, et Özil a pu délivrer la deuxième passe la plus menaçante du match. De son côté, l'Allemagne a enfermé Weiss, le Slovaque qu'elle surveillait le plus."
+  },
+  "en": {
+   "lead": "Without 360 data we read attention received, and this match handed out very little. The most crowded player is Slovakia's V. Weiss, at 1.03 extra German defensive actions per 10 touches, followed by J. Draxler (0.71), the only German near the top. For scale, the Euro's biggest magnet, K. Lafferty, sits at 4.09.",
+   "keys": [
+    "Weiss, isolated on his left touchline, was closed down as soon as he received: Germany's one real target.",
+    "Draxler, scorer in minute 63, drew more attention than any of his team-mates.",
+    "M. Özil (−0.56) and J. Kimmich (−0.59) were left free by Slovakia.",
+    "L. Podolski is the least watched player in the match (−0.73)."
+   ],
+   "impact": "Slovakia gave Özil room to breathe, and Özil produced the second most threatening pass of the match. Germany, for their part, locked down Weiss, the Slovak they watched most closely."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "3,06 xT pour l'Allemagne, 0,59 pour la Slovaquie : plus de cinq fois plus de menace. Et les six plus gros créateurs du match sont allemands, dont quatre défenseurs ou pistons. J. Hector mène (0,62 xT, 20 % de la menace allemande), devant J. Boateng (0,58), qui a multiplié les longues passes vers la surface : à la 18e et à la 21e, deux ballons envoyés depuis 69 et 66 m jusqu'aux abords du but.",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Hector à la 43e minute (+0,39 xT), de 74 à 99 m : la minute du but de Gómez.",
+    "À la 28e, une passe d'Özil (+0,35 xT) précède l'occasion manquée de Müller dans la même minute.",
+    "L'Allemagne fait l'essentiel de son travail en première mi-temps : 2,04 xT, contre 1,02 après la pause.",
+    "La Slovaquie ne dépasse jamais 0,30 xT par période."
+   ],
+   "impact": "Toute la menace allemande est venue de la passe, et de joueurs partis de loin : Hector, Boateng, Kroos. Avec deux buts d'avance à la pause, l'Allemagne semble avoir levé le pied en seconde période, sans jamais être inquiétée."
+  },
+  "en": {
+   "lead": "3.06 xT for Germany, 0.59 for Slovakia: more than five times the threat. And the six biggest creators in the match are German, four of them defenders or wing-backs. J. Hector leads (0.62 xT, 20% of Germany's threat), ahead of J. Boateng (0.58), who kept sending long balls towards the box: in minutes 18 and 21, two passes from 69 and 66 m to the edge of goal.",
+   "keys": [
+    "The most threatening action of the match is a Hector pass in minute 43 (+0.39 xT), from 74 to 99 m: the minute of Gómez's goal.",
+    "In minute 28, an Özil pass (+0.35 xT) comes in the same minute as Müller's missed chance.",
+    "Germany do most of their work in the first half: 2.04 xT, against 1.02 after the break.",
+    "Slovakia never go above 0.30 xT in either half."
+   ],
+   "impact": "All of Germany's threat came through passing, and from players starting deep: Hector, Boateng, Kroos. Two goals up at the break, Germany seem to have eased off in the second half, without ever being troubled."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Ce match réunissait deux des meneurs de poste de tout l'Euro 2016 : J. Boateng, 2e des 33 défenseurs centraux avec une note de 81, et T. Kroos, 3e des 90 milieux (80). Derrière eux, M. Hummels, classé parmi les latéraux, est 4e sur 67, et M. Neuer 4e des 24 gardiens. L'Allemagne alignait une colonne vertébrale parmi les mieux notées du tournoi.",
+   "keys": [
+    "M. Gómez est 9e des 46 attaquants, avec 2 buts en 270 minutes.",
+    "M. Özil est 11e des milieux, avec un but et une passe décisive sur le tournoi.",
+    "T. Müller n'est que 26e des attaquants : 570 minutes, aucun but, une passe décisive.",
+    "Côté slovaque, M. Hamšík est 41e des milieux, avec un but et une passe décisive."
+   ],
+   "impact": "Entre une Allemagne dont la défense et le milieu figurent au sommet des classements, et une Slovaquie dont le seul joueur classé ici, Hamšík, est au milieu du tableau, l'écart était attendu. Le 3-0 l'a simplement confirmé."
+  },
+  "en": {
+   "lead": "This match featured two of the position leaders of the whole of Euro 2016: J. Boateng, 2nd of 33 centre-backs with a score of 81, and T. Kroos, 3rd of 90 midfielders (80). Behind them, M. Hummels, ranked among the full-backs, is 4th of 67, and M. Neuer 4th of 24 goalkeepers. Germany fielded one of the best-rated spines in the tournament.",
+   "keys": [
+    "M. Gómez is 9th of 46 forwards, with 2 goals in 270 minutes.",
+    "M. Özil is 11th among midfielders, with a goal and an assist in the tournament.",
+    "T. Müller is only 26th among forwards: 570 minutes, no goals, one assist.",
+    "For Slovakia, M. Hamšík is 41st among midfielders, with a goal and an assist."
+   ],
+   "impact": "Between a Germany whose defence and midfield sit at the top of the rankings and a Slovakia whose only ranked player here, Hamšík, is mid-table, the gap was expected. The 3-0 simply confirmed it."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Les Allemands se ressemblent beaucoup… à eux-mêmes. Le premier jumeau de T. Kroos est Toni Kroos au Mondial 2018 (93 %), celui de M. Neuer est Manuel Neuer en finale de Ligue des champions (96 %), et J. Kimmich retrouve deux fois sa propre silhouette, au Mondial 2018 (92 %) et à l'Euro 2024 (89 %). Une constance de profil d'un tournoi à l'autre.",
+   "keys": [
+    "M. Gómez a pour jumeau Richarlison au Mondial 2022 (97 %), puis le Hongrois Á. Szalai au même Euro (96 %).",
+    "M. Hummels ressemble à 97 % à Aymeric Laporte à l'Euro 2024.",
+    "J. Boateng a pour premier jumeau… Mats Hummels à l'Euro 2020 (86 %) : les deux centraux allemands finissent par se rejoindre.",
+    "M. Özil se rapproche de Mateo Kovačić à l'Euro 2024 (89 %), puis d'Andrés Iniesta (88 %)."
+   ],
+   "impact": "Des joueurs qui se ressemblent d'un tournoi à l'autre, c'est la marque d'une sélection dont les rôles étaient bien établis. Face à la Slovaquie, chacun a fait ce qu'il sait faire, et cela a largement suffi."
+  },
+  "en": {
+   "lead": "The Germans look a lot like… themselves. T. Kroos's first twin is Toni Kroos at the 2018 World Cup (93%), M. Neuer's is Manuel Neuer in a Champions League final (96%), and J. Kimmich finds his own silhouette twice, at the 2018 World Cup (92%) and Euro 2024 (89%). The same profiles from one tournament to the next.",
+   "keys": [
+    "M. Gómez's twin is Richarlison at the 2022 World Cup (97%), then Hungary's Á. Szalai at this same Euro (96%).",
+    "M. Hummels is 97% similar to Aymeric Laporte at Euro 2024.",
+    "J. Boateng's first twin is… Mats Hummels at Euro 2020 (86%): Germany's two centre-backs end up converging.",
+    "M. Özil resembles Mateo Kovačić at Euro 2024 (89%), then Andrés Iniesta (88%)."
+   ],
+   "impact": "Players who look the same from one tournament to the next are the mark of a squad with well-established roles. Against Slovakia, everyone did what they do best, and that was more than enough."
+  }
+ }
+}

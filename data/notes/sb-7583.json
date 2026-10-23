@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Le Mexique a eu le ballon (52 % de possession), le Brésil a eu le match. 19 tirs brésiliens dont 10 cadrés, 3,32 xG, deux grosses occasions transformées : à la 51e par Neymar (0,93 xG), à la 88e par Roberto Firmino (0,92 xG). En face, le Mexique a tiré 14 fois, mais un seul de ces tirs était cadré, pour 0,58 xG au total.",
+   "keys": [
+    "L'écart d'xG atteint 2,74 : sans Guillermo Ochoa et ses 8 arrêts, le score aurait pu être bien plus lourd.",
+    "Neymar tire 7 fois pour 1,51 xG, avec 4 passes clés et 4 dribbles : il est partout.",
+    "Roberto Firmino ne joue que 10 minutes, tire une fois et marque.",
+    "Willian réussit 7 dribbles et délivre une passe décisive, en 91 minutes.",
+    "Le Brésil gagne 24 tacles, contre 14 pour le Mexique : la bataille physique a aussi tourné en sa faveur."
+   ],
+   "impact": "Le score de 2-0 est presque flatteur pour le Mexique. Le Brésil a laissé le ballon à son adversaire et a frappé quand il l'a récupéré, avec une précision que le Mexique n'a jamais eue."
+  },
+  "en": {
+   "lead": "Mexico had the ball (52% possession), Brazil had the match. 19 Brazilian shots, 10 on target, 3.32 xG, and two big chances converted: in minute 51 by Neymar (0.93 xG), in minute 88 by Roberto Firmino (0.92 xG). Mexico took 14 shots, but only one of them was on target, for 0.58 xG in total.",
+   "keys": [
+    "The xG gap reaches 2.74: without Guillermo Ochoa and his 8 saves, the score could have been much heavier.",
+    "Neymar shoots 7 times for 1.51 xG, with 4 key passes and 4 dribbles: he is everywhere.",
+    "Roberto Firmino plays just 10 minutes, shoots once and scores.",
+    "Willian completes 7 dribbles and provides an assist in 91 minutes.",
+    "Brazil win 24 tackles against Mexico's 14: the physical battle went their way too."
+   ],
+   "impact": "The 2-0 scoreline almost flatters Mexico. Brazil let their opponent have the ball and struck when they won it back, with a precision Mexico never found."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le Mexique avait un plan très lisible : avec le ballon, il passait de son 4-3-3 à un 3-4-3 et chargeait tout sur sa gauche. Carlos Vela (76 m), Hirving Lozano (77 m) et Javier Hernández Balcázar (60 m) se tenaient tous les trois à 20 à 22 m de la touche gauche. Résultat : 45 % des touches mexicaines dans le couloir gauche et le demi-espace gauche. Le Brésil, en 4-4-2 sur la feuille, se dessinait en 3-3-2-2 avec Neymar (78 m) et Gabriel Jesus (77 m) devant.",
+   "keys": [
+    "Ce côté gauche mexicain faisait face au côté droit brésilien, celui de Fágner (48 m) et Willian (64 m).",
+    "Filipe Luis restait bas pour un latéral : 43 m de son but, au niveau de Paulinho.",
+    "Neymar se tenait à 16 m de la touche gauche : il attaquait le côté droit mexicain, celui d'Edson Álvarez.",
+    "Sans le ballon, le Mexique se repliait en 4-2-4, le Brésil en 4-3-3."
+   ],
+   "impact": "Le Mexique a surchargé un côté et laissé l'autre presque vide, ce qui lui donnait du volume mais exposait ses arrières. Les deux buts brésiliens sont venus de grosses occasions, le second en transition : on peut y voir ces espaces exploités au bon moment."
+  },
+  "en": {
+   "lead": "Mexico had a very readable plan: in possession, they went from their 4-3-3 to a 3-4-3 and loaded everything onto the left. Carlos Vela (76 m), Hirving Lozano (77 m) and Javier Hernández Balcázar (60 m) all stood 20 to 22 m from the left touchline. The result: 45% of Mexico's touches in the left lane and left half-space. Brazil, 4-4-2 on paper, took the shape of a 3-3-2-2 with Neymar (78 m) and Gabriel Jesus (77 m) up front.",
+   "keys": [
+    "That Mexican left side faced Brazil's right, the side of Fágner (48 m) and Willian (64 m).",
+    "Filipe Luis stayed deep for a full-back: 43 m from his goal, level with Paulinho.",
+    "Neymar stood 16 m from the left touchline: he was attacking Mexico's right side, Edson Álvarez's side.",
+    "Out of possession, Mexico dropped into a 4-2-4, Brazil into a 4-3-3."
+   ],
+   "impact": "Mexico overloaded one side and left the other almost empty, which gave them volume but exposed their back line. Brazil's two goals came from big chances, the second in transition: arguably those spaces exploited at the right moment."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Brésil a choisi de courir : 7,3 pressions par minute sans ballon, bien au-dessus de la moyenne du Mondial (5,6), et 257 pressions au total. Pourtant, ses actions défensives se situaient assez bas (44,4 m). Un pressing intense mais placé, qui a usé le Mexique sans le chercher jusque dans sa surface. Le Mexique, lui, pressait plus serré (PPDA de 11,1 contre 13,3) et plus haut (46,4 m).",
+   "keys": [
+    "Le Brésil gagne 24 tacles : chaque duel était disputé avec énergie.",
+    "Le Mexique réagit mieux à la perte : 33 % de ballons récupérés en moins de 5 secondes, contre 27 % pour le Brésil.",
+    "Côté brésilien, 38 % des pertes mettent plus de 20 secondes à revenir : quand le Brésil perdait le ballon, il acceptait de défendre.",
+    "Récupérations hautes : 7 pour le Brésil, 5 pour le Mexique."
+   ],
+   "impact": "Le Brésil a laissé le ballon au Mexique tout en multipliant les pressions dans son propre camp. Ce choix a payé : le Mexique avait la possession, mais ses pertes lui ont coûté très cher."
+  },
+  "en": {
+   "lead": "Brazil chose to run: 7.3 pressures per minute out of possession, well above the World Cup average (5.6), and 257 pressures in total. Yet their defensive actions happened fairly deep (44.4 m). An intense but positioned press that wore Mexico down without hunting them into their own box. Mexico pressed tighter (PPDA of 11.1 against 13.3) and higher (46.4 m).",
+   "keys": [
+    "Brazil win 24 tackles: every duel was fought with energy.",
+    "Mexico react better to losing the ball: 33% of balls won back within 5 seconds, against 27% for Brazil.",
+    "For Brazil, 38% of losses take more than 20 seconds to come back: when Brazil lost the ball, they accepted defending.",
+    "High regains: 7 for Brazil, 5 for Mexico."
+   ],
+   "impact": "Brazil left the ball to Mexico while piling up pressures in their own half. The choice paid off: Mexico had possession, but their losses cost them dearly."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Le Mexique est l'une des équipes les plus positionnistes du Mondial, et ce soir-là il l'a été à l'extrême : indice de −1,22, 36 % de passes courtes seulement, 30e sur 32 au classement relationniste du tournoi. Ses carrefours sont trois défenseurs : Salcedo (95 passes), Gallardo (66) et Ayala (60). Le Brésil, à +0,21, jouait court (64 % de passes courtes) et autour de Casemiro (73 passes).",
+   "keys": [
+    "Les deux liens mexicains les plus utilisés passent par Carlos Salcedo : avec Ayala et avec Gallardo, 32 passes chacun.",
+    "Le premier lien offensif mexicain, Guardado – Lozano, ne compte que 12 passes.",
+    "Côté brésilien, trois liens à égalité avec 16 passes, dont Coutinho – Neymar : le duo qui construisait à gauche.",
+    "Willian est le deuxième carrefour brésilien (71 passes) : un ailier au cœur du réseau."
+   ],
+   "impact": "Le Mexique faisait circuler derrière et jouait long vers ses attaquants, ce qui explique une possession élevée mais peu de menace. Le Brésil, avec moins de ballon, combinait plus court."
+  },
+  "en": {
+   "lead": "Mexico are one of the most positional teams at the World Cup, and that evening they took it to the extreme: an index of −1.22, only 36% short passes, 30th of 32 in the tournament's relational ranking. Their hubs are three defenders: Salcedo (95 passes), Gallardo (66) and Ayala (60). Brazil, at +0.21, played short (64% short passes) and around Casemiro (73 passes).",
+   "keys": [
+    "Mexico's two busiest links both go through Carlos Salcedo: with Ayala and with Gallardo, 32 passes each.",
+    "Mexico's first attacking link, Guardado – Lozano, has only 12 passes.",
+    "For Brazil, three links are tied on 16 passes, including Coutinho – Neymar: the duo building down the left.",
+    "Willian is Brazil's second hub (71 passes): a winger at the heart of the network."
+   ],
+   "impact": "Mexico circulated at the back and played long to their forwards, which explains high possession but little threat. Brazil, with less of the ball, combined shorter."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voilà le chiffre qui explique tout : le Mexique a concédé 1,38 xG dans les 15 secondes suivant ses pertes de balle, près de cinq fois la moyenne du Mondial (0,28). Cinq tirs brésiliens en transition, et un but : celui de Firmino à la 88e, une occasion à 0,92 xG. Le Brésil, lui, a concédé 4 tirs dans ces moments-là, mais pour seulement 0,14 xG.",
+   "keys": [
+    "Mexique : 5 tirs concédés en transition, 1,38 xG. Brésil : 4 tirs concédés, 0,14 xG. Même volume, qualité opposée.",
+    "Le Mexique perd 96 ballons dans le jeu, le Brésil 88.",
+    "Le but de Firmino est le seul but en transition du match, et il tue la rencontre à la 88e."
+   ],
+   "impact": "Le Mexique a payé son jeu offensif chargé d'un seul côté : après ses pertes, le Brésil trouvait souvent des espaces énormes. Ce n'est sans doute pas un hasard si le Brésil a dominé le match tout en ayant moins le ballon."
+  },
+  "en": {
+   "lead": "Here is the number that explains everything: Mexico conceded 1.38 xG within 15 seconds of losing the ball, almost five times the World Cup average (0.28). Five Brazilian shots in transition, and one goal: Firmino's in minute 88, a 0.92 xG chance. Brazil conceded 4 shots in those moments, but for only 0.14 xG.",
+   "keys": [
+    "Mexico: 5 shots conceded in transition, 1.38 xG. Brazil: 4 shots conceded, 0.14 xG. Same volume, opposite quality.",
+    "Mexico lose 96 balls in open play, Brazil 88.",
+    "Firmino's goal is the only transition goal of the match, and it kills the game in minute 88."
+   ],
+   "impact": "Mexico paid for an attack loaded onto one side: after their losses, Brazil often found huge spaces. It is probably no coincidence that Brazil dominated the match while having less of the ball."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure l'attention reçue : les actions défensives adverses de plus que la normale pour 10 touches. Le Brésil s'est surtout occupé des créateurs mexicains : Hirving Lozano (3,23), Héctor Herrera (3,04) et Carlos Vela (2,58) sont les trois joueurs les plus serrés du match. Et Neymar ? Il n'apparaît même pas dans le haut du classement : le Mexique ne l'a pas particulièrement encerclé.",
+   "keys": [
+    "Le seul Brésilien dans le haut du tableau est Roberto Firmino (1,88), en seulement 10 minutes.",
+    "Edson Álvarez (1,82) et Rafael Márquez (1,76) complètent un top 6 presque entièrement mexicain.",
+    "Fágner (−1,73) et Thiago Silva (−1,54) relançaient sans être inquiétés.",
+    "Lozano, à 3,23, approche les chiffres des plus surveillés du tournoi, comme Mohamed Salah (3,82)."
+   ],
+   "impact": "Les trois créateurs mexicains ont été serrés de près, et le Mexique n'a produit que 0,58 xG : on peut y voir un lien. Pendant ce temps, Neymar profitait d'une attention étonnamment faible pour tirer 7 fois."
+  },
+  "en": {
+   "lead": "Without 360 data, we measure received attention: extra opposing defensive actions per 10 touches, compared with normal. Brazil focused mostly on Mexico's creators: Hirving Lozano (3.23), Héctor Herrera (3.04) and Carlos Vela (2.58) are the three most tightly marked players of the match. And Neymar? He does not even appear near the top: Mexico did not especially crowd him.",
+   "keys": [
+    "The only Brazilian near the top is Roberto Firmino (1.88), in just 10 minutes.",
+    "Edson Álvarez (1.82) and Rafael Márquez (1.76) complete an almost entirely Mexican top 6.",
+    "Fágner (−1.73) and Thiago Silva (−1.54) played out without being troubled.",
+    "Lozano, at 3.23, approaches the levels of the tournament's most closely watched players, such as Mohamed Salah (3.82)."
+   ],
+   "impact": "Mexico's three creators were tightly marked, and Mexico produced only 0.58 xG: the two are likely linked. Meanwhile Neymar enjoyed surprisingly little attention and shot 7 times."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "En première mi-temps, la menace est parfaitement équilibrée : 0,61 xT pour le Brésil, 0,60 pour le Mexique. Puis le Brésil accélère : 1,22 xT après la pause, et les deux buts. Le plus grand créateur du match est Willian, avec 0,62 xT, soit 34 % de toute la menace brésilienne, à parts presque égales entre passes et conduites.",
+   "keys": [
+    "Le geste le plus menaçant du match est une passe de Willian à la 51e (+0,25 xT) : c'est la minute du but de Neymar.",
+    "À la 88e, Neymar conduit le ballon de 81 m à 98 m de son but (+0,09 xT) : la minute du but de Firmino.",
+    "Philippe Coutinho crée uniquement balle au pied : 0,30 xT en conduites, et un total négatif à la passe.",
+    "Côté mexicain, Carlos Vela porte 24 % de la menace (0,31 xT), mais aucun geste mexicain ne dépasse +0,08 xT."
+   ],
+   "impact": "La différence n'est pas dans le volume de menace, assez proche, mais dans la qualité des gestes : les actions brésiliennes les plus fortes ont mené à des buts. Le Mexique a menacé souvent, mais jamais franchement."
+  },
+  "en": {
+   "lead": "In the first half, the threat was perfectly balanced: 0.61 xT for Brazil, 0.60 for Mexico. Then Brazil stepped up: 1.22 xT after the break, and both goals. The biggest creator of the match is Willian, with 0.62 xT, 34% of all Brazil's threat, split almost evenly between passes and carries.",
+   "keys": [
+    "The most threatening action of the match is a Willian pass in minute 51 (+0.25 xT): the minute of Neymar's goal.",
+    "In minute 88, Neymar carries the ball from 81 m to 98 m from his own goal (+0.09 xT): the minute of Firmino's goal.",
+    "Philippe Coutinho creates only with the ball at his feet: 0.30 xT from carries, and a negative total from passes.",
+    "For Mexico, Carlos Vela carries 24% of the threat (0.31 xT), but no Mexican action exceeds +0.08 xT."
+   ],
+   "impact": "The difference was not the volume of threat, which was fairly close, but the quality of the actions: Brazil's strongest moments led to goals. Mexico threatened often, but never decisively."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur attaquant du Mondial 2018 selon nos classements était sur ce terrain : Neymar, 1er des 68 attaquants, avec une note de 94, la plus haute de toutes celles de ce match. Et le deuxième meilleur gardien du tournoi lui faisait face : Guillermo Ochoa, 2e sur 31 (note de 85), dont les 8 arrêts ont limité la casse.",
+   "keys": [
+    "Neymar termine avec 2 buts et 1 passe décisive en 478 minutes : le classement récompense bien plus que ses buts.",
+    "Hirving Lozano est 7e des attaquants, le meilleur Mexicain de champ du classement.",
+    "Casemiro est 13e des 123 milieux, Héctor Herrera 16e.",
+    "Alisson n'est que 15e des gardiens : avec un seul arrêt à faire, il a eu peu d'occasions de briller."
+   ],
+   "impact": "Le duel entre le meilleur attaquant et l'un des meilleurs gardiens du tournoi a tourné à l'avantage de l'attaquant. Mais sans Ochoa, le Mexique aurait pris bien plus que deux buts."
+  },
+  "en": {
+   "lead": "The best forward of the 2018 World Cup by our rankings was on this pitch: Neymar, 1st of 68 forwards, with a score of 94, the highest of anyone in this match. And the tournament's second-best goalkeeper faced him: Guillermo Ochoa, 2nd of 31 (score of 85), whose 8 saves kept the damage down.",
+   "keys": [
+    "Neymar finishes with 2 goals and 1 assist in 478 minutes: the ranking rewards much more than his goals.",
+    "Hirving Lozano is 7th among forwards, Mexico's best-ranked outfield player.",
+    "Casemiro is 13th of 123 midfielders, Héctor Herrera 16th.",
+    "Alisson is only 15th among goalkeepers: with a single save to make, he had few chances to shine."
+   ],
+   "impact": "The duel between the best forward and one of the best goalkeepers of the tournament went the forward's way. But without Ochoa, Mexico would have conceded far more than two."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Neymar est Eden Hazard, au même Mondial, à 96 %. Juste derrière, Arjen Robben en finale de Ligue des champions (95 %) et Lionel Messi version 2022 (91 %). Mais la ressemblance la plus savoureuse du match est ailleurs : Guillermo Ochoa a pour premier jumeau Alisson, en finale de Ligue des champions avec Liverpool (93 %). Le gardien adverse, dans une autre vie.",
+   "keys": [
+    "Hirving Lozano ressemble à Gareth Bale en finale de Ligue des champions (92 %), puis à Jamal Musiala (90 %) et Son Heung-Min (89 %).",
+    "Carlos Vela, classé milieu, se rapproche de Thomas Müller et de Daniel Olmo (92 % chacun).",
+    "Héctor Herrera a pour jumeau L. Modrić à l'Euro 2016 (89 %).",
+    "Casemiro ressemble à J. Baumgartlinger (87 %) et à N. Kanté (86 %), tous deux à l'Euro 2016."
+   ],
+   "impact": "Le Mexique avait des profils offensifs flatteurs, de Bale à Müller, mais le Brésil avait Neymar, dont les jumeaux sont Hazard, Robben et Messi. Au plus haut niveau, c'est souvent ce genre de joueur qui fait la différence."
+  },
+  "en": {
+   "lead": "Neymar's twin is Eden Hazard, at the same World Cup, 96%. Right behind come Arjen Robben in a Champions League final (95%) and Lionel Messi's 2022 version (91%). But the tastiest resemblance of the match lies elsewhere: Guillermo Ochoa's first twin is Alisson, in a Champions League final with Liverpool (93%). The opposing goalkeeper, in another life.",
+   "keys": [
+    "Hirving Lozano resembles Gareth Bale in a Champions League final (92%), then Jamal Musiala (90%) and Son Heung-Min (89%).",
+    "Carlos Vela, ranked as a midfielder, resembles Thomas Müller and Daniel Olmo (92% each).",
+    "Héctor Herrera's twin is L. Modrić at Euro 2016 (89%).",
+    "Casemiro resembles J. Baumgartlinger (87%) and N. Kanté (86%), both at Euro 2016."
+   ],
+   "impact": "Mexico had flattering attacking profiles, from Bale to Müller, but Brazil had Neymar, whose twins are Hazard, Robben and Messi. At the highest level, that kind of player is often the difference."
+  }
+ }
+}

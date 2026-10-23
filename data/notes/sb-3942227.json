@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "La Suisse, qui avait éliminé l'Italie (2-0), a eu ce quart de finale au bout des doigts. Breel Embolo ouvre le score à la 75e minute sur la seule grosse occasion du match (0,67 xG), et les Suisses terminent avec 1,20 xG contre 0,54. Mais cinq minutes plus tard, Bukayo Saka égalise d'une frappe qui ne valait que 0,03 xG. L'Angleterre, qualifiée contre la Slovaquie (2-1) au tour précédent, s'en sort ensuite aux tirs au but (5-3).",
+   "keys": [
+    "Grosses occasions : 1 pour la Suisse, 0 pour l'Angleterre. Les Anglais n'ont jamais vraiment ouvert la défense suisse.",
+    "Embolo concentre le danger suisse : 5 tirs pour 0,90 xG, quand les autres Suisses se partagent le reste.",
+    "Saka marque sur son seul vrai éclair : 3 tirs, 0,09 xG au total, mais 4 dribbles et 7 passes progressives.",
+    "L'Angleterre a plus de ballon (53 %, 738 passes) et plus de passes clés (9 contre 6), mais un volume sans tranchant."
+   ],
+   "impact": "Au regard des xG, la Suisse méritait davantage : elle a créé plus du double de ce qu'a produit l'Angleterre. Mais un but à 0,03 xG a tout remis à zéro, et la séance de tirs au but a souri aux Anglais."
+  },
+  "en": {
+   "lead": "Switzerland, who had knocked out Italy 2-0, had this quarter-final at their fingertips. Breel Embolo opened the scoring in minute 75 from the only big chance of the match (0.67 xG), and the Swiss finished with 1.20 xG against 0.54. But five minutes later Bukayo Saka equalised with a shot worth just 0.03 xG. England, through against Slovakia (2-1) in the previous round, then won the shoot-out 5-3.",
+   "keys": [
+    "Big chances: 1 for Switzerland, 0 for England. The English never really opened up the Swiss defence.",
+    "Embolo carried Switzerland's danger: 5 shots for 0.90 xG, with the other Swiss sharing what was left.",
+    "Saka scored with his one real flash: 3 shots, 0.09 xG in total, but 4 dribbles and 7 progressive passes.",
+    "England had more of the ball (53%, 738 passes) and more key passes (9 to 6), but volume without an edge."
+   ],
+   "impact": "On xG, Switzerland deserved more: they created more than twice what England produced. But a 0.03 xG goal reset everything, and the shoot-out smiled on England."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux 3-4-2-1 annoncés, deux lectures différentes. Ballon au pied, l'Angleterre se dessinait en 3-5-2, avec ses deux pistons perchés très haut : Kieran Trippier et Saka, tous deux à 80 m de leur but, l'un collé à la ligne gauche, l'autre à droite. La Suisse jouait en 3-4-3, avec Ricardo Rodríguez haut à gauche et Dan Ndoye à droite. Mais sans ballon, les Suisses s'enfonçaient : dernière ligne à 24,9 m de leur but, loin sous la moyenne du tournoi (29,2 m).",
+   "keys": [
+    "Avec le ballon, la dernière ligne anglaise montait à 50,2 m, bien au-dessus de la moyenne (42,0 m) : l'Angleterre jouait dans le camp suisse.",
+    "L'Angleterre passe 33 % de ses touches dans le dernier tiers, la Suisse 24 %.",
+    "Ezri Konsa, défenseur central, occupait le côté gauche (9 m de la touche), ce qui permettait sans doute à Trippier de monter si haut.",
+    "La Suisse délaissait son demi-espace droit (12 % des touches) et utilisait les deux couloirs (20 et 23 %)."
+   ],
+   "impact": "L'Angleterre a installé le match dans la moitié suisse, mais face à une défense aussi basse, l'espace manquait : d'où une domination sans grosse occasion. La Suisse, elle, attendait et frappait de loin en loin, ce qui lui a presque suffi."
+  },
+  "en": {
+   "lead": "Two announced 3-4-2-1s, two different readings. In possession, England took the shape of a 3-5-2, with both wing-backs perched very high: Kieran Trippier and Saka, both 80 m from goal, one hugging the left touchline, the other the right. Switzerland played a 3-4-3, with Ricardo Rodríguez high on the left and Dan Ndoye on the right. But without the ball the Swiss sank deep: back line 24.9 m from goal, well below the tournament average (29.2 m).",
+   "keys": [
+    "With the ball, England's back line rose to 50.2 m, well above the average (42.0 m): England played in the Swiss half.",
+    "England spend 33% of their touches in the final third, Switzerland 24%.",
+    "Ezri Konsa, a centre-back, covered the left side (9 m from the touchline), which probably allowed Trippier to push so high.",
+    "Switzerland neglected their right half-space (12% of touches) and used both flanks (20% and 23%)."
+   ],
+   "impact": "England settled the game in the Swiss half, but against such a deep defence there was no space: hence dominance without a big chance. Switzerland waited and struck now and then, which very nearly proved enough."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Un paradoxe anglais : 4,4 pressions par minute sans ballon, au-dessus de la moyenne du tournoi (4,2), mais un PPDA de 32,1, signe d'une équipe qui harcèle sans vraiment couper les lignes de passe. La Suisse pressait moins (3,8) mais plus efficacement, avec un PPDA de 21,0 et 11 récupérations hautes contre 7. Deux pressings qui se neutralisent, à des hauteurs presque identiques (50,2 m contre 49,0 m).",
+   "keys": [
+    "Après une perte, l'Angleterre récupère 56 % de ses ballons en moins de 10 s, contre 46 % pour la Suisse.",
+    "À 5 s, les deux équipes sont à égalité ou presque : 31 % pour l'Angleterre, 32 % pour la Suisse.",
+    "Contre-pressing : 20 % pour la Suisse, 16 % pour l'Angleterre (moyenne : 19 %).",
+    "Les Suisses ont perdu 86 ballons dans le jeu, les Anglais 97."
+   ],
+   "impact": "Le pressing anglais a beaucoup couru pour peu de récupérations dangereuses, et la Suisse a construit tranquillement à partir de son trio défensif. Personne n'a réussi à étouffer l'autre, et le match est resté fermé jusqu'au bout."
+  },
+  "en": {
+   "lead": "An English paradox: 4.4 pressures per minute out of possession, above the tournament average (4.2), yet a PPDA of 32.1, the sign of a team that harried without really cutting passing lanes. Switzerland pressed less (3.8) but more effectively, with a PPDA of 21.0 and 11 high regains to 7. Two presses cancelling each other out, at almost identical heights (50.2 m against 49.0 m).",
+   "keys": [
+    "After a loss, England win back 56% of balls within 10 s, against 46% for Switzerland.",
+    "At 5 s, the two are nearly level: 31% for England, 32% for Switzerland.",
+    "Counter-pressing: 20% for Switzerland, 16% for England (average: 19%).",
+    "The Swiss lost 86 balls in open play, the English 97."
+   ],
+   "impact": "England's press ran a lot for few dangerous regains, and Switzerland built calmly from their back three. Neither side managed to smother the other, and the match stayed closed to the end."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "La Suisse a joué le football le plus collectif de la soirée : un indice relationniste de +0,33, 4e du tournoi, et 2,69 coéquipiers près du ballon en moyenne. Au centre de tout, Granit Xhaka, impliqué dans 204 passes entre titulaires, et relié à Manuel Akanji par 62 passes. L'Angleterre, légèrement positionniste (−0,08), s'organisait d'abord autour de son côté droit, de Kyle Walker à Saka.",
+   "keys": [
+    "Xhaka – Akanji, 62 passes : de loin le lien le plus utilisé du match.",
+    "Les Suisses se donnaient de la largeur pour circuler : 14,7 m de liberté latérale, contre 12,8 m en moyenne dans le tournoi.",
+    "Côté anglais, Walker (149 passes) et Declan Rice (148) se partagent le rôle de carrefour.",
+    "Saka – Walker, 36 passes : le côté droit anglais a été la principale autoroute de la soirée."
+   ],
+   "impact": "La Suisse a eu une idée claire, tout passer par Xhaka, et cela lui a donné le contrôle des moments calmes. L'Angleterre, plus dépendante de son flanc droit, a trouvé la solution exactement là : c'est Saka, au bout de cette autoroute, qui égalise."
+  },
+  "en": {
+   "lead": "Switzerland played the more collective football of the night: a relational index of +0.33, 4th in the tournament, and 2.69 team-mates near the ball on average. At the centre of it all was Granit Xhaka, involved in 204 passes between starters and linked to Manuel Akanji by 62 passes. England, slightly positional (−0.08), organised themselves first around their right side, from Kyle Walker to Saka.",
+   "keys": [
+    "Xhaka – Akanji, 62 passes: by far the busiest link of the match.",
+    "The Swiss used width to circulate: 14.7 m of lateral freedom, against 12.8 m on average in the tournament.",
+    "For England, Walker (149 passes) and Declan Rice (148) share the hub role.",
+    "Saka – Walker, 36 passes: England's right side was the main motorway of the night."
+   ],
+   "impact": "Switzerland had a clear idea, everything through Xhaka, and it gave them control of the quiet spells. England, more reliant on their right flank, found the answer right there: Saka, at the end of that motorway, scored the equaliser."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Ce quart de finale a été un modèle de discipline sans ballon. Chaque équipe n'a concédé que 2 tirs dans les 15 secondes suivant une perte, pour 0,06 xG côté anglais et 0,08 côté suisse, bien loin de la moyenne du tournoi (0,23 xG). L'Angleterre, en particulier, reformait un bloc de 7 joueurs ou plus derrière le ballon dans la moitié des cas (50 %).",
+   "keys": [
+    "Au moment de la perte, 5,5 Anglais et 5,6 Suisses derrière le ballon en moyenne : deux équipes jamais prises en défaut de nombre.",
+    "Le bloc suisse se reformait dans 35 % des cas, juste sous la moyenne du tournoi (36 %).",
+    "Exemple 360 à la 28e minute : 1 seul Anglais derrière le ballon à la perte, 7 quelques secondes plus tard. Le retour est fulgurant.",
+    "Côté suisse, à la 11e minute : 2 joueurs à la perte, 8 ensuite."
+   ],
+   "impact": "Sans transitions, les deux buts sont venus d'attaques placées, et le match s'est enfermé dans une prudence réciproque. On peut voir dans la qualité de ces replis une bonne part de l'explication du 1-1 et de la séance de tirs au but."
+  },
+  "en": {
+   "lead": "This quarter-final was a model of discipline off the ball. Each team conceded only 2 shots within 15 seconds of a loss, worth 0.06 xG for England and 0.08 for Switzerland, far below the tournament average (0.23 xG). England in particular rebuilt a block of 7 or more players behind the ball in half of all cases (50%).",
+   "keys": [
+    "At the moment of the loss, 5.5 English and 5.6 Swiss players behind the ball on average: two teams never caught short of numbers.",
+    "The Swiss block reformed in 35% of cases, just below the tournament average (36%).",
+    "A 360 example in minute 28: just 1 English player behind the ball at the loss, 7 a few seconds later. A lightning recovery.",
+    "For Switzerland, in minute 11: 2 players at the loss, 8 afterwards."
+   ],
+   "impact": "With no transitions, both goals came from set attacks, and the match locked itself into mutual caution. The quality of those recovery runs is probably a large part of the explanation for the 1-1 and the shoot-out."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Harry Kane n'a pas marqué, mais il a aimanté toute la défense suisse : 1,24 adversaire de plus que la normale autour de chacune de ses touches, le plus haut total du match. C'est même plus que la meilleure moyenne de tout le tournoi, celle de Denis Dragus (1,22). Côté suisse, Breel Embolo (0,98) et Steven Zuber (0,96) étaient les plus surveillés.",
+   "keys": [
+    "Kobbie Mainoo (0,62) est le deuxième Anglais le plus entouré : le milieu attirait du monde dans l'axe.",
+    "Fabian Rieder (0,65) et Dan Ndoye (0,62) complètent un trio suisse très surveillé.",
+    "À l'autre bout, John Stones (−0,81), Ezri Konsa (−0,73) et Kyle Walker (−0,55) ont relancé sans la moindre pression.",
+    "Les trois joueurs les moins entourés sont tous des défenseurs anglais : la Suisse les laissait construire."
+   ],
+   "impact": "La gravité de Kane a sans doute libéré de l'espace pour les autres, et Saka a pu en profiter sur le côté droit. Mais face à un bloc suisse si bas, cet espace restait minuscule, ce qui aide à comprendre la pauvreté des occasions anglaises."
+  },
+  "en": {
+   "lead": "Harry Kane did not score, but he magnetised the whole Swiss defence: 1.24 extra opponents around each of his touches, the highest figure of the match. That is even higher than the best average of the whole tournament, Denis Dragus's (1.22). For Switzerland, Breel Embolo (0.98) and Steven Zuber (0.96) were the most closely watched.",
+   "keys": [
+    "Kobbie Mainoo (0.62) is the second most crowded Englishman: the midfielder drew bodies in the middle.",
+    "Fabian Rieder (0.65) and Dan Ndoye (0.62) complete a closely watched Swiss trio.",
+    "At the other end, John Stones (−0.81), Ezri Konsa (−0.73) and Kyle Walker (−0.55) played out under no pressure at all.",
+    "The three least crowded players are all English defenders: Switzerland let them build."
+   ],
+   "impact": "Kane's gravity probably freed space for others, and Saka may have made use of it on the right. But against such a deep Swiss block that space stayed tiny, which helps explain how few chances England created."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Une équipe, un homme : Bukayo Saka a produit 0,91 xT, soit 50 % de toute la menace anglaise. Ses passes en représentent l'essentiel (0,62 xT), dont la plus menaçante de son équipe, à la 36e minute (+0,35). La Suisse a créé presque autant au total (1,79 xT contre 1,81), mais de façon plus partagée, avec Ricardo Rodríguez en chef d'orchestre (0,60 xT).",
+   "keys": [
+    "Rodríguez signe à la 57e minute une passe de 86 à 99 m (+0,35 xT) : la minute même de l'occasion manquée d'Embolo.",
+    "Fabian Schär, défenseur, est le deuxième créateur suisse (0,38 xT), avec une passe à +0,13 xT à la 93e minute.",
+    "L'Angleterre produit 0,75 xT en première mi-temps, puis 0,72, puis seulement 0,34 en prolongation.",
+    "La Suisse fait l'inverse : 0,35 xT avant la pause, 0,84 après, 0,61 en prolongation."
+   ],
+   "impact": "La Suisse a pris le dessus en menace au fil du match, au moment où l'Angleterre s'essoufflait. Sans Saka, l'attaque anglaise aurait été presque muette ; avec lui, elle a trouvé de quoi aller aux tirs au but."
+  },
+  "en": {
+   "lead": "One team, one man: Bukayo Saka produced 0.91 xT, 50% of all of England's threat. His passing accounts for most of it (0.62 xT), including his team's most threatening pass, in minute 36 (+0.35). Switzerland created almost as much overall (1.79 xT against 1.81), but more evenly spread, with Ricardo Rodríguez as conductor (0.60 xT).",
+   "keys": [
+    "Rodríguez played a pass from 86 to 99 m in minute 57 (+0.35 xT): the very minute of Embolo's missed chance.",
+    "Fabian Schär, a defender, is Switzerland's second creator (0.38 xT), with a +0.13 xT pass in minute 93.",
+    "England produced 0.75 xT in the first half, then 0.72, then only 0.34 in extra time.",
+    "Switzerland did the opposite: 0.35 xT before the break, 0.84 after, 0.61 in extra time."
+   ],
+   "impact": "Switzerland took over in threat as the match went on, just as England were fading. Without Saka, England's attack would have been almost silent; with him, they found enough to reach penalties."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Le meilleur milieu de l'Euro selon nos classements était sur la pelouse, côté suisse : Granit Xhaka, 1er des 82 milieux classés, avec une note de 79, et ce sans le moindre but ni passe décisive sur le tournoi. C'est tout le sens de ce classement : il récompense l'influence sur le jeu, pas les statistiques de vitrine. En face, aucun Anglais ne figure dans le haut de son classement de poste.",
+   "keys": [
+    "Harry Kane, 3 buts sur le tournoi, n'est que 29e des 49 attaquants (note de 47).",
+    "Jude Bellingham est 46e des milieux (48), malgré 2 buts et 1 passe décisive.",
+    "Manuel Akanji est 10e des 30 défenseurs centraux (58), Fabian Schär 17e des latéraux (62).",
+    "Breel Embolo, 16e des attaquants, compte 2 buts en 322 minutes."
+   ],
+   "impact": "Les classements donnaient l'avantage à la Suisse, et le terrain aussi, pendant 75 minutes. Mais l'Angleterre a montré qu'une équipe peut passer un tour sans être la meilleure dans les chiffres, grâce à un éclair et à une séance de tirs au but."
+  },
+  "en": {
+   "lead": "The best midfielder at the Euro by our rankings was on the pitch, for Switzerland: Granit Xhaka, 1st of 82 ranked midfielders, with a score of 79, and without a single goal or assist in the tournament. That is the whole point of this ranking: it rewards influence on the game, not shop-window numbers. Opposite, no English player sits near the top of his position's ranking.",
+   "keys": [
+    "Harry Kane, 3 goals in the tournament, is only 29th of 49 forwards (score of 47).",
+    "Jude Bellingham is 46th among midfielders (48), despite 2 goals and 1 assist.",
+    "Manuel Akanji is 10th of 30 centre-backs (58), Fabian Schär 17th among full-backs (62).",
+    "Breel Embolo, 16th among forwards, has 2 goals in 322 minutes."
+   ],
+   "impact": "The rankings favoured Switzerland, and so did the pitch, for 75 minutes. But England showed that a team can go through without being the best on the numbers, thanks to one flash and a shoot-out."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Granit Xhaka a deux jumeaux à 92 %, et pas des moindres : Sergio Busquets à l'Euro 2020 et Rodri à l'Euro 2024. Le même profil de milieu organisateur, et c'est exactement le rôle qu'il a tenu avec ses 204 passes. Breel Embolo, lui, rappelle Aleksandar Mitrović au Mondial 2022 (95 %), puis Álvaro Morata à l'Euro 2020 (93 %) et Diego Costa au Mondial 2018 (92 %) : une lignée d'avant-centres.",
+   "keys": [
+    "Manuel Akanji ressemble à Steven Vitória au Mondial 2022 (97 %) et à Cristian Romero (96 %).",
+    "John Stones a pour jumeau Robin Le Normand, du même Euro 2024 (96 %), puis Rúben Dias (95 %).",
+    "Declan Rice se rapproche de William Carvalho au Mondial 2022 (87 %).",
+    "Dan Ndoye est un profil rare : un seul vrai jumeau, Yannick Carrasco au Mondial 2018 (91 %), puis plus rien au-dessus de 67 %."
+   ],
+   "impact": "Le profil de Xhaka, sosie de Busquets et de Rodri, explique pourquoi la Suisse a si bien contrôlé le rythme. Mais l'Angleterre avait Saka, et ce soir-là, ce n'est pas le métronome qui a eu le dernier mot."
+  },
+  "en": {
+   "lead": "Granit Xhaka has two 92% twins, and not just anyone: Sergio Busquets at Euro 2020 and Rodri at Euro 2024. The same organising midfield profile, and exactly the role he played with his 204 passes. Breel Embolo recalls Aleksandar Mitrović at the 2022 World Cup (95%), then Álvaro Morata at Euro 2020 (93%) and Diego Costa at the 2018 World Cup (92%): a line of centre-forwards.",
+   "keys": [
+    "Manuel Akanji resembles Steven Vitória at the 2022 World Cup (97%) and Cristian Romero (96%).",
+    "John Stones's twin is Robin Le Normand from the same Euro 2024 (96%), then Rúben Dias (95%).",
+    "Declan Rice is close to William Carvalho at the 2022 World Cup (87%).",
+    "Dan Ndoye is a rare profile: just one real twin, Yannick Carrasco at the 2018 World Cup (91%), then nothing above 67%."
+   ],
+   "impact": "Xhaka's profile, a lookalike of Busquets and Rodri, helps explain why Switzerland controlled the tempo so well. But England had Saka, and on this night it was not the metronome who had the last word."
+  }
+ }
+}

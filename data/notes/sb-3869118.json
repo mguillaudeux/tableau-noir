@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Un 3-0 net, pour un match beaucoup plus serré que ça. Les xG sont presque identiques : 1,02 pour l'Angleterre, 0,97 pour le Sénégal, soit un écart de 0,05. Les Sénégalais ont même tiré plus (10 contre 8). Mais ils n'ont cadré qu'un seul tir, et la plus grosse occasion du match leur appartient : Ismaïla Sarr, à la 23e minute, une frappe à 0,63 xG qui passe à côté. L'Angleterre, elle, cadre 4 tirs et en met 3.",
+   "keys": [
+    "Trois buteurs anglais, trois frappes modestes : Henderson à 0,13 xG (39e), Kane à 0,21 (48e), Saka à 0,22 (57e).",
+    "Jude Bellingham donne une passe décisive et totalise 10 actions défensives : le milieu à tout faire.",
+    "Phil Foden ajoute l'autre passe décisive, avec 2 passes clés.",
+    "L'Angleterre garde le ballon (59 %) et fait mieux circuler : 50 passes progressives contre 22."
+   ],
+   "impact": "Si Sarr cadre à la 23e, le match prend peut-être une autre tournure : à ce moment-là, le score est toujours vierge. L'Angleterre n'a pas créé beaucoup plus, mais elle a été chirurgicale, et elle a tué le match en neuf minutes juste après la pause."
+  },
+  "en": {
+   "lead": "A clean 3-0 for a match much tighter than that. The xG is almost identical: 1.02 for England, 0.97 for Senegal, a gap of 0.05. Senegal even shot more (10 to 8). But they hit the target only once, and the biggest chance of the match was theirs: Ismaïla Sarr in minute 23, a 0.63 xG shot that went wide. England put 4 on target and scored 3.",
+   "keys": [
+    "Three English scorers, three modest shots: Henderson at 0.13 xG (minute 39), Kane at 0.21 (minute 48), Saka at 0.22 (minute 57).",
+    "Jude Bellingham provided an assist and racked up 10 defensive actions: the do-it-all midfielder.",
+    "Phil Foden added the other assist, with 2 key passes.",
+    "England kept the ball (59%) and moved it better: 50 progressive passes to 22."
+   ],
+   "impact": "Had Sarr hit the target in minute 23, the game might have gone differently: at that point it was still goalless. England did not create much more, but they were surgical, and they killed the game in nine minutes just after the break."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le 4-3-3 anglais devient un 3-1-3-3 avec le ballon : Walker reste bas à droite pour former une ligne de trois avec Stones et Maguire, Rice se retrouve seul devant eux, et Luke Shaw monte très haut à gauche, collé à la ligne (à 4 m de la touche). Devant, Foden occupe le couloir gauche, Kane l'intérieur et Saka la droite. Le Sénégal, en 4-2-3-1 sur le papier, attaque en 3-4-3 et défend en 4-2-2-2.",
+   "keys": [
+    "Le couloir gauche anglais concentre 26 % des touches : Shaw et Foden, empilés sur la même ligne, faisaient le jeu de ce côté.",
+    "Avec le ballon, l'Angleterre s'étale sur 33,5 m de large, plus que la moyenne du tournoi (31,7 m).",
+    "Ismaïla Sarr se poste à gauche (10 m de la touche), face au côté droit anglais tenu par Walker, resté bas.",
+    "Sans le ballon, les deux équipes défendent assez bas : dernière ligne à 27,8 m pour l'Angleterre, 27,1 m pour le Sénégal (moyenne : 28,4 m)."
+   ],
+   "impact": "En gardant Walker derrière, l'Angleterre s'offrait une couverture face à Sarr, le joueur le plus dangereux du Sénégal. Et en libérant Shaw à gauche, elle trouvait une rampe de lancement : tout indique que la structure a été pensée pour attaquer d'un côté et se protéger de l'autre."
+  },
+  "en": {
+   "lead": "England's 4-3-3 became a 3-1-3-3 in possession: Walker stayed deep on the right to form a back three with Stones and Maguire, Rice was left alone in front of them, and Luke Shaw pushed very high on the left, glued to the line (4 m from the touchline). Up front, Foden took the left lane, Kane the inside channel and Saka the right. Senegal, a 4-2-3-1 on paper, attacked in a 3-4-3 and defended in a 4-2-2-2.",
+   "keys": [
+    "England's left lane took 26% of their touches: Shaw and Foden, stacked on the same line, ran the game on that side.",
+    "In possession, England spread 33.5 m wide, more than the tournament average (31.7 m).",
+    "Ismaïla Sarr stationed himself on the left (10 m from the touchline), facing England's right side held by Walker, who stayed back.",
+    "Out of possession, both teams defended fairly deep: back line at 27.8 m for England, 27.1 m for Senegal (average: 28.4 m)."
+   ],
+   "impact": "By keeping Walker back, England bought themselves cover against Sarr, Senegal's most dangerous player. And by freeing Shaw on the left, they found a launch pad: everything suggests the structure was designed to attack down one side and protect the other."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Même volume de pressing (3,3 pressions par minute sans ballon pour chacun), mais pas du tout la même efficacité. La PPDA anglaise est de 10,3, celle du Sénégal de 27,5 : les Anglais laissaient presque trois fois moins de passes à l'adversaire avant d'intervenir. Et ils remontaient leurs actions défensives plus haut, à 51,3 m de leur but, contre 49,0 m pour le Sénégal. Moins de courses, mais mieux placées.",
+   "keys": [
+    "L'Angleterre récupère 57 % de ses ballons perdus en moins de 10 secondes, le Sénégal 44 %.",
+    "Récupérations hautes : 10 pour l'Angleterre, 7 pour le Sénégal (moyenne du tournoi : 9,3).",
+    "Le contre-pressing reste modeste des deux côtés : 19 % des pressions anglaises, 15 % des sénégalaises (moyenne : 21 %).",
+    "Quand le Sénégal perdait le ballon, il ne le revoyait pas avant 20 secondes dans 35 % des cas."
+   ],
+   "impact": "Le Sénégal a laissé l'Angleterre construire tranquillement, et l'Angleterre en a profité pour installer son jeu. Avec une PPDA de 27,5, les Sénégalais ont rarement mis la relance anglaise en difficulté : difficile de renverser un match dans ces conditions."
+  },
+  "en": {
+   "lead": "Same pressing volume (3.3 pressures per minute out of possession each), very different efficiency. England's PPDA was 10.3, Senegal's 27.5: England allowed almost three times fewer passes before stepping in. And they won the ball higher, at 51.3 m from their goal, against 49.0 m for Senegal. Fewer runs, better placed.",
+   "keys": [
+    "England won back 57% of lost balls within 10 seconds, Senegal 44%.",
+    "High regains: 10 for England, 7 for Senegal (tournament average: 9.3).",
+    "Counter-pressing stayed modest on both sides: 19% of English pressures, 15% of Senegalese ones (average: 21%).",
+    "When Senegal lost the ball, they did not see it again for over 20 seconds 35% of the time."
+   ],
+   "impact": "Senegal let England build in peace, and England used that to settle into their game. With a PPDA of 27.5, Senegal rarely troubled the English build-up: hard to turn a match around like that."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Deux équipes légèrement positionnistes (−0,10 pour l'Angleterre, −0,16 pour le Sénégal), mais deux réseaux très différents. Celui de l'Angleterre est dense et passe par l'arrière : John Stones est impliqué dans 153 passes, et le duo Walker – Stones en échange 42. Celui du Sénégal est clairsemé : son carrefour, Nampalys Mendy, n'est impliqué que dans 69 passes.",
+   "keys": [
+    "Les trois liens anglais les plus utilisés relient des défenseurs : Walker – Stones (42), Stones – Maguire (37), Maguire – Shaw (30).",
+    "Stones (153), Maguire (121) et Walker (108) sont les trois carrefours anglais : la construction partait de la ligne de trois.",
+    "Côté sénégalais, le lien Sarr – Jakobs (15 passes) dessine l'axe gauche, le couloir de Sarr.",
+    "L'Angleterre combine un peu plus que la moyenne : 34 % de combinaisons rapides (moyenne du tournoi : 33 %)."
+   ],
+   "impact": "La construction anglaise depuis la ligne de trois a permis de faire sortir le ballon proprement face à un Sénégal qui ne pressait pas. Le Sénégal, avec un réseau peu fourni, a dû compter sur des actions isolées, comme celle de Sarr à la 23e."
+  },
+  "en": {
+   "lead": "Two slightly positional teams (−0.10 for England, −0.16 for Senegal), but two very different networks. England's is dense and runs through the back: John Stones was involved in 153 passes, and the Walker – Stones pair swapped 42. Senegal's is sparse: their hub, Nampalys Mendy, was involved in only 69 passes.",
+   "keys": [
+    "England's three busiest links all connect defenders: Walker – Stones (42), Stones – Maguire (37), Maguire – Shaw (30).",
+    "Stones (153), Maguire (121) and Walker (108) are England's three hubs: the build-up started from the back three.",
+    "For Senegal, the Sarr – Jakobs link (15 passes) traces the left-side axis, Sarr's lane.",
+    "England combined slightly more than average: 34% quick combinations (tournament average: 33%)."
+   ],
+   "impact": "England's build-up from the back three got the ball out cleanly against a Senegal side that did not press. Senegal, with a thin network, had to rely on isolated moments, like Sarr's in minute 23."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Deux des trois buts anglais naissent d'une transition : Kane à la 48e et Saka à la 57e punissent des pertes sénégalaises. Le Sénégal ne concède que 4 tirs dans les 15 secondes après une perte, pour 0,61 xG, mais c'est plus du double de la moyenne du tournoi (0,27), et surtout, ils finissent au fond. Le problème se voit dans les positions : 5,2 Sénégalais derrière le ballon au moment de la perte, puis 4,6 quelques secondes plus tard. Le repli reculait au lieu de se renforcer.",
+   "keys": [
+    "L'Angleterre concède autant de tirs en transition, 4, mais pour plus d'xG (0,73), et aucun but.",
+    "Les Anglais perdent le ballon avec seulement 4,3 joueurs derrière lui en moyenne, puis 4,7 : ils jouaient avec le feu.",
+    "Exemple 360 à la 31e minute : 1 seul Anglais derrière le ballon à la perte, 8 quelques secondes plus tard.",
+    "Le Sénégal reforme un bloc de 7 joueurs ou plus dans 28 % des cas, l'Angleterre dans 23 % (moyenne : 29 %)."
+   ],
+   "impact": "Les deux équipes étaient exposées en transition, mais une seule a converti : l'Angleterre a marqué deux fois sur 0,61 xG, quand le Sénégal n'a rien mis sur 0,73. Le score de 3-0 s'est construit sur cette différence de réalisme."
+  },
+  "en": {
+   "lead": "Two of England's three goals came from transitions: Kane in minute 48 and Saka in minute 57 punished Senegalese losses. Senegal conceded only 4 shots within 15 seconds of a loss, worth 0.61 xG, but that is more than double the tournament average (0.27), and above all, those went in. The problem shows in the positions: 5.2 Senegal players behind the ball at the moment of the loss, then 4.6 a few seconds later. The cover shrank instead of filling up.",
+   "keys": [
+    "England conceded as many transition shots, 4, but more xG (0.73), and no goals.",
+    "England lost the ball with only 4.3 players behind it on average, then 4.7: they were playing with fire.",
+    "A 360 example in minute 31: a single Englishman behind the ball at the loss, 8 a few seconds later.",
+    "Senegal rebuilt a block of 7 or more in 28% of cases, England in 23% (average: 29%)."
+   ],
+   "impact": "Both teams were exposed in transition, but only one converted: England scored twice from 0.61 xG, Senegal nothing from 0.73. The 3-0 was built on that gap in finishing."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le plus gros aimant du match est sénégalais : Bamba Dieng attirait 1,12 adversaire de plus que la normale autour de chacune de ses touches. Juste derrière, Harry Kane (1,04), dans un rôle de point d'appui. Le Sénégal place trois joueurs dans le top 4, avec Pape Gueye (0,97) et Boulaye Dia (0,88). Côté anglais, la gravité se partage entre Kane, Bellingham (0,85) et Foden (0,77).",
+   "keys": [
+    "Kane, 1,04 : chacune de ses touches attirait du monde, et on peut y voir de l'espace libéré pour Saka et Foden.",
+    "Bellingham, 0,85 : le milieu attire plus que Foden (0,77), pourtant attaquant.",
+    "Eric Dier (−0,77) et Harry Maguire (−0,67) n'ont presque jamais été pressés : le Sénégal laissait la défense anglaise tranquille.",
+    "Kyle Walker (−0,50) complète le trio des Anglais les plus libres, logique pour un défenseur resté en couverture."
+   ],
+   "impact": "La gravité de Kane et Bellingham colle avec les buts anglais : les deux hommes aimantaient la défense, et ce sont d'autres (Henderson, Saka) qui ont marqué. Les aimants sénégalais, eux, attiraient du monde mais n'ont pas trouvé de relais."
+  },
+  "en": {
+   "lead": "The biggest magnet of the match was Senegalese: Bamba Dieng drew 1.12 extra opponents around each of his touches. Right behind came Harry Kane (1.04), acting as a focal point. Senegal had three players in the top 4, with Pape Gueye (0.97) and Boulaye Dia (0.88). For England, gravity was shared between Kane, Bellingham (0.85) and Foden (0.77).",
+   "keys": [
+    "Kane, 1.04: every touch of his drew a crowd, which likely freed space for Saka and Foden.",
+    "Bellingham, 0.85: the midfielder drew more attention than Foden (0.77), a forward.",
+    "Eric Dier (−0.77) and Harry Maguire (−0.67) were barely ever pressed: Senegal left England's defence alone.",
+    "Kyle Walker (−0.50) completes the trio of freest Englishmen, logical for a defender kept back as cover."
+   ],
+   "impact": "Kane's and Bellingham's gravity fits England's goals: the two of them pulled the defence around, and others (Henderson, Saka) scored. Senegal's magnets drew a crowd too but found no one to pass the baton to."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le grand créateur du match n'est ni Kane ni Bellingham : c'est Luke Shaw, 0,43 xT, quasi exclusivement à la passe, soit 29 % de la menace anglaise. Le latéral gauche signe aussi le geste le plus menaçant du match, une passe à la 91e minute (+0,34 xT), la minute de l'occasion manquée de Rashford. Au total, l'Angleterre produit 1,48 xT contre 0,85 au Sénégal, et l'écart se creuse après la pause.",
+   "keys": [
+    "Le Sénégal produit plus de menace en première mi-temps (0,47 xT) qu'en seconde (0,38) : il s'est éteint après les buts anglais.",
+    "L'Angleterre accélère en seconde période : 0,87 xT, contre 0,61 avant la pause.",
+    "La passe de Foden à la 57e (+0,12 xT) tombe dans la minute du but de Saka.",
+    "Ismail Jakobs est le créateur sénégalais numéro un (0,21 xT, 25 % de la menace) : sa passe de la 84e (+0,14) tombe dans la même minute que l'occasion de Sarr."
+   ],
+   "impact": "La menace anglaise est venue de la gauche, par Shaw, exactement là où la structure l'avait libéré. Le Sénégal, après un bon début, a vu sa production baisser une fois mené : le 2-0 de la 48e semble l'avoir coupé dans son élan."
+  },
+  "en": {
+   "lead": "The biggest creator of the match was neither Kane nor Bellingham: it was Luke Shaw, 0.43 xT, almost all of it from passes, 29% of England's threat. The left-back also produced the most threatening action of the match, a pass in minute 91 (+0.34 xT), the minute of Rashford's missed chance. In total England generated 1.48 xT to Senegal's 0.85, and the gap widened after the break.",
+   "keys": [
+    "Senegal produced more threat in the first half (0.47 xT) than in the second (0.38): they faded after England's goals.",
+    "England stepped it up in the second half: 0.87 xT, against 0.61 before the break.",
+    "Foden's pass in minute 57 (+0.12 xT) came in the same minute as Saka's goal.",
+    "Ismail Jakobs was Senegal's top creator (0.21 xT, 25% of the threat): his pass in minute 84 (+0.14) came in the same minute as Sarr's chance."
+   ],
+   "impact": "England's threat came from the left, through Shaw, exactly where the structure had freed him. Senegal, after a decent start, saw their output drop once behind: the 2-0 in minute 48 seems to have broken their momentum."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les deux plus hautes notes du match sont sénégalaises : Ismaïla Sarr (71) et Youssouf Sabaly (70), 7e des 98 latéraux. Côté anglais, la défense brille : Harry Maguire est 4e des 42 défenseurs centraux, John Stones 6e. Et Ismaïla Sarr, malgré son occasion manquée, est 9e des 77 attaquants, mieux classé que Saka (11e), Foden (16e) et Kane (19e).",
+   "keys": [
+    "Jordan Henderson est 12e des 97 milieux, avec 1 but en 280 minutes sur le tournoi.",
+    "Bukayo Saka compte 3 buts dans la compétition pour 291 minutes jouées.",
+    "Harry Kane totalise 2 buts et 3 passes décisives, mais n'est que 19e des attaquants.",
+    "Ismail Jakobs est 12e des latéraux : le flanc gauche sénégalais était l'un des points forts de l'équipe."
+   ],
+   "impact": "Le Sénégal avait des individualités de très haut niveau, Sarr et Sabaly en tête. Mais l'Angleterre, portée par une défense centrale parmi les mieux classées du tournoi, a transformé ses rares occasions : le classement individuel n'a pas suffi."
+  },
+  "en": {
+   "lead": "The two highest scores in this match are Senegalese: Ismaïla Sarr (71) and Youssouf Sabaly (70), 7th of 98 full-backs. For England, the defence shines: Harry Maguire is 4th of 42 centre-backs, John Stones 6th. And Ismaïla Sarr, despite his miss, is 9th of 77 forwards, ranked above Saka (11th), Foden (16th) and Kane (19th).",
+   "keys": [
+    "Jordan Henderson is 12th of 97 midfielders, with 1 goal in 280 minutes over the tournament.",
+    "Bukayo Saka has 3 goals in the competition from 291 minutes played.",
+    "Harry Kane totals 2 goals and 3 assists, but is only 19th among forwards.",
+    "Ismail Jakobs is 12th among full-backs: Senegal's left flank was one of the team's strengths."
+   ],
+   "impact": "Senegal had very high-level individuals, Sarr and Sabaly first among them. But England, backed by one of the best-ranked centre-back pairings of the tournament, converted their few chances: individual rankings were not enough."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Ismaïla Sarr a un jumeau statistique de luxe : Kylian Mbappé à l'Euro 2020, similaire à 91 %. Avant lui, Marko Arnautović (Euro 2020) et Ahmed Musa (Mondial 2018), à 93 % chacun. Côté anglais, les jumeaux réservent une surprise : Phil Foden ressemble d'abord à R. Lukaku à l'Euro 2016 (93 %), puis à Karim Benzema en finale de Ligue des champions (87 %). Classé attaquant, Foden a sur le tournoi un profil plus proche de celui d'un avant-centre qu'on ne l'imagine.",
+   "keys": [
+    "Harry Maguire ressemble à 91 % à Sergio Ramos à l'Euro 2016, et à 87 % à son partenaire John Stones dans ce même Mondial.",
+    "John Stones a pour jumeaux Aymeric Laporte (Euro 2020) et G. Cahill (Euro 2016), à 92 % chacun.",
+    "Luke Shaw ressemble à 91 % à Daniel Carvajal (2018) et à Joshua Kimmich (Euro 2024), puis à Jordi Alba (90 %) : des latéraux qui créent.",
+    "Harry Kane a pour jumeau Roland Sallai à l'Euro 2020 (93 %), devant H. Seferović (91 %)."
+   ],
+   "impact": "Les jumeaux confirment le rôle de créateur de Shaw. Ils rappellent aussi que les chiffres de Sarr le placent parmi des attaquants très dangereux : rien d'étonnant à ce qu'il se soit créé la plus grosse occasion du match."
+  },
+  "en": {
+   "lead": "Ismaïla Sarr has a luxury statistical twin: Kylian Mbappé at Euro 2020, 91% similar. Ahead of him, Marko Arnautović (Euro 2020) and Ahmed Musa (2018 World Cup), at 93% each. For England, the twins hold a surprise: Phil Foden resembles first R. Lukaku at Euro 2016 (93%), then Karim Benzema in a Champions League final (87%). Listed as a forward, Foden's tournament numbers look more like a centre-forward's than you might expect.",
+   "keys": [
+    "Harry Maguire is 91% similar to Sergio Ramos at Euro 2016, and 87% to his partner John Stones at this same World Cup.",
+    "John Stones's twins are Aymeric Laporte (Euro 2020) and G. Cahill (Euro 2016), at 92% each.",
+    "Luke Shaw is 91% similar to Daniel Carvajal (2018) and Joshua Kimmich (Euro 2024), then Jordi Alba (90%): creative full-backs.",
+    "Harry Kane's twin is Roland Sallai at Euro 2020 (93%), ahead of H. Seferović (91%)."
+   ],
+   "impact": "The twins confirm Shaw's creative role. They also remind us that Sarr's numbers sit among some very dangerous forwards: no surprise that he created the biggest chance of the match."
+  }
+ }
+}

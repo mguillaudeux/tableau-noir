@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Voilà un huitième de finale qui fait mentir la possession. Les États-Unis ont eu le ballon (62 %), plus de tirs (18 contre 11), deux grosses occasions contre zéro et même un peu plus d'xG (1,65 contre 1,48). Les Pays-Bas, eux, ont marqué trois fois. Le duo de pistons Dumfries–Blind a fait tout le travail : un but et deux passes décisives pour l'un, un but et une passe décisive pour l'autre.",
+   "keys": [
+    "Denzel Dumfries signe le match parfait d'un piston : 1 but, 2 passes décisives et 12 actions défensives.",
+    "Daley Blind marque à la 46e et ajoute une passe décisive, avec 14 actions défensives.",
+    "Les Néerlandais cadrent 6 tirs sur 11, autant que les Américains sur 18.",
+    "Christian Pulisic manque la plus grosse occasion du match dès la 3e minute (0,32 xG, cadrée) ; Tim Ream suivra à la 49e (0,26 xG)."
+   ],
+   "impact": "Avec un écart d'xG de seulement 0,17, ce 3-1 est bien plus large que le match lui-même. Les Pays-Bas ont été cliniques, et les 5 arrêts de leur gardien ont fait le reste : les Américains auraient pu mener dès la 3e minute."
+  },
+  "en": {
+   "lead": "A Round of 16 tie that made a liar out of possession. The United States had the ball (62%), more shots (18 to 11), two big chances to none and even slightly more xG (1.65 to 1.48). The Netherlands scored three times. The wing-back duo of Dumfries and Blind did all the work: a goal and two assists for one, a goal and an assist for the other.",
+   "keys": [
+    "Denzel Dumfries played the perfect wing-back game: 1 goal, 2 assists and 12 defensive actions.",
+    "Daley Blind scored in minute 46 and added an assist, with 14 defensive actions.",
+    "The Dutch put 6 of their 11 shots on target, as many as the Americans managed from 18.",
+    "Christian Pulisic missed the biggest chance of the match as early as minute 3 (0.32 xG, on target); Tim Ream followed in minute 49 (0.26 xG)."
+   ],
+   "impact": "With an xG gap of only 0.17, this 3-1 is much wider than the match itself. The Netherlands were clinical, and their goalkeeper's 5 saves did the rest: the Americans could have led from minute 3."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le 3-4-1-2 néerlandais devient un 3-4-2-1 avec le ballon et un 3-5-2 sans, mais l'essentiel est ailleurs : dans les couloirs. Dumfries se poste à 64 m de la touche gauche, donc collé à la ligne droite, et Blind à 8 m de la ligne gauche. Le côté droit concentre 29 % des touches néerlandaises. En face, le 4-3-3 américain se transforme en 3-2-5 avec le ballon, avec Pulisic et Weah plantés à 77 et 78 m de leur but.",
+   "keys": [
+    "Sans le ballon, la dernière ligne néerlandaise se tient à 23,4 m de son but, bien plus bas que la moyenne du tournoi (28,4 m) : un bloc posé devant la surface.",
+    "Ce bloc est aussi très étroit : 22,5 m de large, contre 25,5 m en moyenne.",
+    "Les Américains attaquent avec une dernière ligne à 49,9 m de leur but (moyenne : 40,3 m) et passent 30 % de leurs touches dans le dernier tiers.",
+    "Les Pays-Bas touchent 40 % de leurs ballons dans leur propre tiers : ils ont accepté de défendre bas."
+   ],
+   "impact": "Le plan néerlandais se lit dans les positions : bloc bas et serré, puis des pistons qui jaillissent dans les espaces laissés par une équipe américaine montée très haut. Ce n'est sans doute pas un hasard si Dumfries a été impliqué dans les trois buts néerlandais, et Blind dans deux."
+  },
+  "en": {
+   "lead": "The Dutch 3-4-1-2 became a 3-4-2-1 on the ball and a 3-5-2 off it, but the real story is out wide. Dumfries stood 64 m from the left touchline, in other words hugging the right one, and Blind 8 m from the left line. The right lane took 29% of Dutch touches. Opposite, the American 4-3-3 turned into a 3-2-5 in possession, with Pulisic and Weah planted 77 and 78 m from their own goal.",
+   "keys": [
+    "Out of possession, the Dutch back line sat 23.4 m from goal, far deeper than the tournament average (28.4 m): a block parked in front of the box.",
+    "That block was also very narrow: 22.5 m wide, against 25.5 m on average.",
+    "The Americans attacked with a back line 49.9 m from their own goal (average: 40.3 m) and had 30% of their touches in the final third.",
+    "The Netherlands had 40% of their touches in their own third: they were happy to defend deep."
+   ],
+   "impact": "The Dutch plan is written in the positions: a low, tight block, then wing-backs bursting into the space left by an American side pushed very high. It is probably no coincidence that Dumfries was involved in all three Dutch goals, and Blind in two."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Les Pays-Bas n'ont presque pas pressé, et ils l'ont assumé. 3,0 pressions par minute sans ballon, une PPDA de 25,9 et des actions défensives à 41,2 m de leur but en moyenne, loin sous la moyenne du tournoi (48,2 m). Les États-Unis ont fait l'inverse : 29 % de contre-pressing, des récupérations à 53,6 m de leur but et 33 % de ballons repris en moins de 5 secondes. Une équipe attendait, l'autre chassait.",
+   "keys": [
+    "PPDA de 20,2 pour les États-Unis contre 25,9 : les Américains laissaient un peu moins de temps à la relance adverse.",
+    "Contre-pressing : 29 % des pressions américaines, contre 17 % pour les Néerlandais (moyenne du tournoi : 21 %).",
+    "Les États-Unis récupèrent 58 % de leurs ballons perdus en moins de 10 s ; les Pays-Bas 44 %.",
+    "Récupérations hautes : 12 pour les Américains, 10 pour les Néerlandais, malgré un pressing beaucoup plus bas."
+   ],
+   "impact": "Le pressing américain a gagné la bataille du ballon, pas celle du score. Les Pays-Bas, en refusant de presser haut, ont gardé leurs lignes groupées et attendu le bon moment pour sortir : une stratégie d'économie qui a payé."
+  },
+  "en": {
+   "lead": "The Netherlands barely pressed, and they owned it. 3.0 pressures per minute out of possession, a PPDA of 25.9 and defensive actions 41.2 m from their own goal on average, far below the tournament average (48.2 m). The United States did the opposite: 29% counter-pressing, regains 53.6 m from their goal and 33% of balls won back within 5 seconds. One team waited, the other hunted.",
+   "keys": [
+    "A PPDA of 20.2 for the United States against 25.9: the Americans gave the Dutch build-up slightly less time.",
+    "Counter-pressing: 29% of American pressures, against 17% for the Dutch (tournament average: 21%).",
+    "The United States won back 58% of lost balls within 10 s; the Netherlands 44%.",
+    "High regains: 12 for the Americans, 10 for the Dutch, despite a much deeper press."
+   ],
+   "impact": "The American press won the battle for the ball, not the battle for the scoreline. By refusing to press high, the Netherlands kept their lines tight and waited for the right moment to break: an energy-saving approach that paid off."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Aucune des deux équipes n'est vraiment relationniste, mais les États-Unis penchent un peu plus vers le jeu court (+0,25, 57 % de passes courtes) que les Pays-Bas, pile au milieu (−0,03). Le détail qui dit tout : les deux réseaux tournent autour des défenseurs. Côté américain, Tim Ream et Walker Zimmerman s'échangent 48 passes, le duo le plus actif du match de très loin. Côté néerlandais, le triangle Van Dijk – Timber – Dumfries organise la sortie par la droite.",
+   "keys": [
+    "Les Américains combinent peu : 26 % de combinaisons rapides seulement, sous la moyenne du tournoi (33 %).",
+    "Les carrefours américains sont Ream (118 passes), Zimmerman et Adams (113 chacun) : beaucoup de circulation, peu de déséquilibre.",
+    "Le réseau néerlandais est modeste : Van Dijk, le carrefour, n'est impliqué que dans 64 passes, Timber dans 59 et Dumfries dans 50.",
+    "Liberté latérale de 10,7 m seulement pour les Néerlandais (moyenne : 13,0 m) : chacun restait dans son couloir."
+   ],
+   "impact": "Les États-Unis ont fait tourner le ballon derrière sans trouver la faille, ce qui colle avec leur possession stérile. Les Pays-Bas, plus positionnistes, ont passé peu de temps avec le ballon mais l'ont envoyé vite là où il fallait : vers Dumfries, à droite."
+  },
+  "en": {
+   "lead": "Neither side was truly relational, but the United States leaned a bit more towards the short game (+0.25, 57% short passes) than the Netherlands, dead in the middle (−0.03). The telling detail: both networks revolve around defenders. For the Americans, Tim Ream and Walker Zimmerman swapped 48 passes, by far the busiest pair of the match. For the Dutch, the Van Dijk – Timber – Dumfries triangle organised the build-up down the right.",
+   "keys": [
+    "The Americans combined little: just 26% quick combinations, below the tournament average (33%).",
+    "The American hubs were Ream (118 passes), Zimmerman and Adams (113 each): plenty of circulation, little disruption.",
+    "The Dutch network was modest: Van Dijk, the hub, was involved in only 64 passes, Timber in 59 and Dumfries in 50.",
+    "Lateral freedom of just 10.7 m for the Dutch (average: 13.0 m): everyone stayed in their lane."
+   ],
+   "impact": "The United States moved the ball around at the back without finding a way through, which fits their sterile possession. The more positional Netherlands spent little time on the ball but sent it quickly where it mattered: to Dumfries, on the right."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le chiffre le plus brutal du match est américain : au moment où ils perdaient le ballon, les États-Unis n'avaient que 4,3 joueurs derrière lui, et 3,4 quelques secondes plus tard. Le repli, au lieu de se reformer, se vidait. Résultat : 7 tirs concédés dans les 15 secondes après une perte, pour 0,99 xG, plus de trois fois la moyenne du tournoi (0,27). Et le but de Blind, à la 46e, naît exactement dans ce scénario.",
+   "keys": [
+    "Bloc reformé à 7 joueurs ou plus : 4 % des cas pour les États-Unis, contre 29 % en moyenne dans le tournoi.",
+    "Les Pays-Bas concèdent 4 tirs et 0,50 xG en transition, dont le but de Haji Wright à la 76e.",
+    "Exemple 360 à la 46e minute, celle du 2-0 : 6 Américains derrière le ballon à la perte, 8 quelques secondes plus tard, et pourtant le ballon finit au fond.",
+    "Exemple néerlandais à la 94e : 2 joueurs derrière le ballon à la perte, 7 ensuite."
+   ],
+   "impact": "Monter à cinq attaquants a un prix : quand le ballon était perdu, l'arrière-garde américaine se retrouvait seule. Les Pays-Bas n'avaient besoin que de quelques secondes pour en profiter, et tout indique que le score s'est construit là, dans ces transitions."
+  },
+  "en": {
+   "lead": "The most brutal number of the match is American: when they lost the ball, the United States had only 4.3 players behind it, and 3.4 a few seconds later. Instead of filling up, the cover emptied. The result: 7 shots conceded within 15 seconds of a loss, worth 0.99 xG, more than three times the tournament average (0.27). And Blind's goal in minute 46 came from exactly that scenario.",
+   "keys": [
+    "Block rebuilt with 7 or more players: 4% of cases for the United States, against 29% on average in the tournament.",
+    "The Netherlands conceded 4 shots and 0.50 xG in transition, including Haji Wright's goal in minute 76.",
+    "A 360 example in minute 46, the minute of the 2-0: 6 Americans behind the ball at the loss, 8 a few seconds later, and still the ball ended in the net.",
+    "A Dutch example in minute 94: 2 players behind the ball at the loss, 7 afterwards."
+   ],
+   "impact": "Pushing five men forward comes at a price: when the ball was lost, the American back line was on its own. The Netherlands needed only a few seconds to exploit it, and everything suggests the scoreline was built right there, in those transitions."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Le plus gros aimant de la soirée ne marque pas et ne fait pas de passe décisive : c'est Davy Klaassen, qui attire 1,19 adversaire de plus que la normale autour de chacune de ses touches. Juste derrière, deux Américains, Brenden Aaronson (1,09) et Haji Wright (1,02), puis Cody Gakpo (1,00). Le haut du classement est très partagé : aucun joueur n'a écrasé le match par sa seule présence.",
+   "keys": [
+    "Klaassen et Gakpo, tous deux au-dessus de 1,00 : les deux Néerlandais les plus offensifs derrière Depay occupaient la défense américaine.",
+    "Jesus Ferreira (0,98) complète le trio américain, juste devant Teun Koopmeiners (0,87).",
+    "Walker Zimmerman (−0,62) et DeAndre Yedlin (−0,51) jouaient sans pression : personne ne venait les chercher.",
+    "Nathan Aké (−0,47) est le Néerlandais le plus tranquille sur le ballon."
+   ],
+   "impact": "L'attention portée à Klaassen et Gakpo a pu ouvrir les couloirs, justement là où Dumfries et Blind ont fait mal. Côté américain, la défense centrale jouait libre, ce qui explique en partie l'énorme volume de passes Ream – Zimmerman."
+  },
+  "en": {
+   "lead": "The biggest magnet of the night neither scored nor assisted: Davy Klaassen drew 1.19 extra opponents around each of his touches. Just behind came two Americans, Brenden Aaronson (1.09) and Haji Wright (1.02), then Cody Gakpo (1.00). The top of the table is evenly split: no single player dominated the match just by being there.",
+   "keys": [
+    "Klaassen and Gakpo, both above 1.00: the two most advanced Dutchmen behind Depay kept the American defence busy.",
+    "Jesus Ferreira (0.98) completes the American trio, just ahead of Teun Koopmeiners (0.87).",
+    "Walker Zimmerman (−0.62) and DeAndre Yedlin (−0.51) played without pressure: nobody came for them.",
+    "Nathan Aké (−0.47) is the calmest Dutchman on the ball."
+   ],
+   "impact": "The attention paid to Klaassen and Gakpo may well have opened the flanks, exactly where Dumfries and Blind did the damage. For the Americans, the centre-backs played unmarked, which goes some way to explaining the huge volume of Ream – Zimmerman passes."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Les États-Unis ont créé plus de menace (1,88 xT contre 1,66), mais regardez d'où vient celle des Pays-Bas : trois des quatre gestes néerlandais les plus menaçants sont des passes, et la plus forte est signée Blind à la 81e minute, +0,35 xT, de 94 à 99 m. C'est la minute du 3-1 de Dumfries. En face, le plus grand créateur du match est Pulisic (0,46 xT), et son geste le plus fort tombe à la 76e : la minute du but de Haji Wright.",
+   "keys": [
+    "Blind produit 0,42 xT, uniquement à la passe : 25 % de la menace néerlandaise.",
+    "Pulisic pèse lui aussi 25 % de la menace américaine, quasi exclusivement à la passe (0,45 xT).",
+    "En seconde période, les deux équipes produisent exactement la même menace : 1,27 xT chacune.",
+    "Sergiño Dest est le meilleur porteur de balle américain : 0,25 xT en conduites, dont une course de 67 à 92 m à la 44e (+0,15)."
+   ],
+   "impact": "Les États-Unis ont menacé plus souvent, les Pays-Bas plus juste. La passe de Dumfries à la 46e (+0,11) et celle de Blind à la 81e ont été les deux gestes qui comptaient, et ils sont venus des couloirs, comme tout le reste du plan néerlandais."
+  },
+  "en": {
+   "lead": "The United States created more threat (1.88 xT to 1.66), but look where the Dutch threat came from: three of the four most threatening Dutch actions are passes, and the biggest is Blind's in minute 81, +0.35 xT, from 94 to 99 m. That is the minute of Dumfries's 3-1. Opposite, the biggest creator of the match is Pulisic (0.46 xT), and his biggest action comes in minute 76: the minute of Haji Wright's goal.",
+   "keys": [
+    "Blind produced 0.42 xT, all from passes: 25% of the Dutch threat.",
+    "Pulisic also accounts for 25% of the American threat, almost entirely through passing (0.45 xT).",
+    "In the second half, both teams produced exactly the same threat: 1.27 xT each.",
+    "Sergiño Dest was the best American ball-carrier: 0.25 xT from carries, including a run from 67 to 92 m in minute 44 (+0.15)."
+   ],
+   "impact": "The United States threatened more often, the Netherlands more precisely. Dumfries's pass in minute 46 (+0.11) and Blind's in minute 81 were the two actions that counted, and they came from the flanks, like the rest of the Dutch plan."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur tout le tournoi, Andries Noppert est le 2e des 32 gardiens classés, avec une note de 82 : seul Thibaut Courtois le devance. Sur ce match, ses 5 arrêts ont pesé. Côté américain, la vitrine s'appelle Christian Pulisic, 5e des 77 attaquants (note de 76), avec 1 but et 2 passes décisives dans la compétition. Et Antonee Robinson pointe au 16e rang des 98 latéraux.",
+   "keys": [
+    "Tyler Adams est 17e des 97 milieux, juste devant Frenkie de Jong (19e) : le duel du milieu était équilibré.",
+    "Matt Turner, 10e des gardiens (note de 60), est lui aussi bien classé, mais loin de Noppert.",
+    "Virgil van Dijk est 13e des 42 défenseurs centraux, Tim Ream 15e.",
+    "Memphis Depay n'est que 23e des attaquants, avec 1 but en 316 minutes sur le tournoi."
+   ],
+   "impact": "Les États-Unis avaient le joueur offensif le mieux classé du match, les Pays-Bas le gardien le mieux classé : dans un match où l'équipe qui tire le plus a perdu, le classement de Noppert raconte une partie de l'histoire."
+  },
+  "en": {
+   "lead": "Across the tournament, Andries Noppert is 2nd of 32 ranked goalkeepers, with a score of 82: only Thibaut Courtois is ahead of him. In this game his 5 saves mattered. For the Americans, the shop window is Christian Pulisic, 5th of 77 forwards (score of 76), with 1 goal and 2 assists in the competition. And Antonee Robinson sits 16th of 98 full-backs.",
+   "keys": [
+    "Tyler Adams is 17th of 97 midfielders, just ahead of Frenkie de Jong (19th): the midfield duel was even.",
+    "Matt Turner, 10th among goalkeepers (score of 60), is also well ranked, but a long way behind Noppert.",
+    "Virgil van Dijk is 13th of 42 centre-backs, Tim Ream 15th.",
+    "Memphis Depay is only 23rd among forwards, with 1 goal in 316 minutes over the tournament."
+   ],
+   "impact": "The United States had the highest-ranked attacking player on the pitch, the Netherlands the higher-ranked goalkeeper: in a match lost by the team that shot more, Noppert's ranking tells part of the story."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau statistique de Christian Pulisic ? Memphis Depay, l'adversaire du jour, version Euro 2020 (90 %) puis version Euro 2024 (88 %). Les deux hommes se faisaient face avec des profils statistiques presque superposables. Matt Turner, lui, ressemble à 99 % à Thibaut Courtois à l'Euro 2020, devant G. Buffon et M. Neuer à l'Euro 2016 (94 % chacun). Une très belle galerie de portraits.",
+   "keys": [
+    "Tyler Adams a pour jumeau V. Behrami à l'Euro 2016 (98 %), puis Sergio Busquets la même année (92 %) : un profil de milieu défensif.",
+    "Virgil van Dijk ressemble à 98 % à Dejan Lovren, croisé dans ce même Mondial 2022.",
+    "Andries Noppert a pour jumeaux Koen Casteels (97 %) et Anatoliy Trubin (96 %), tous deux à l'Euro 2024.",
+    "Jurriën Timber, classé latéral, ressemble à J. Chester (92 %) et à Kyle Walker en 2018 (89 %)."
+   ],
+   "impact": "Pulisic et Depay, deux profils presque jumeaux, mais un seul a vu son équipe passer : sur ce match, c'est la structure collective qui a fait la différence, pas les individualités. Rappel : les jumeaux comparent des profils par 90 minutes réduits dans leur compétition."
+  },
+  "en": {
+   "lead": "Christian Pulisic's statistical twin? Memphis Depay, his opponent on the night, Euro 2020 version (90%) then Euro 2024 version (88%). The two men faced each other with almost overlapping statistical profiles. Matt Turner is 99% similar to Thibaut Courtois at Euro 2020, ahead of G. Buffon and M. Neuer at Euro 2016 (94% each). Quite a portrait gallery.",
+   "keys": [
+    "Tyler Adams's twin is V. Behrami at Euro 2016 (98%), then Sergio Busquets the same year (92%): a defensive midfielder's profile.",
+    "Virgil van Dijk is 98% similar to Dejan Lovren, from this very 2022 World Cup.",
+    "Andries Noppert's twins are Koen Casteels (97%) and Anatoliy Trubin (96%), both at Euro 2024.",
+    "Jurriën Timber, listed as a full-back, resembles J. Chester (92%) and Kyle Walker in 2018 (89%)."
+   ],
+   "impact": "Pulisic and Depay, two near-twin profiles, but only one saw his team go through: in this game, collective structure made the difference, not individuals. Reminder: twins compare per-90 profiles standardised within their competition."
+  }
+ }
+}

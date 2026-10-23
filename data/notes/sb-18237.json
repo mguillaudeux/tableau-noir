@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Quarante tirs. Vingt corners. 3,49 xG. Et pourtant, c'est Chelsea qui a soulevé la coupe. Le Bayern Munich a fait le siège de Chelsea pendant 120 minutes, a ouvert le score par Thomas Müller à la 83e, puis a vu Didier Drogba égaliser cinq minutes plus tard sur l'un des 3 tirs cadrés de Chelsea. La séance de tirs au but a tranché, 4-3 pour les Anglais : le genre de soirée où l'xG ressemble à une plaisanterie cruelle.",
+   "keys": [
+    "Arjen Robben tente 15 tirs pour 1,47 xG, sans marquer, et voit son penalty de la 95e minute (0,78 xG) arrêté.",
+    "À la 112e minute, Mario Gómez manque la cible sur une occasion à 0,46 xG : la balle de match avant la loterie.",
+    "Chelsea : 9 tirs, 0,29 xG, une seule réalisation. Et 38 dégagements, contre 14 côté bavarois.",
+    "Passes clés : 33 pour le Bayern, 4 pour Chelsea. Toni Kroos en délivre 5, dont la passe décisive pour Müller.",
+    "Les arrêts racontent le siège : 6 côté Chelsea, 2 côté Bayern."
+   ],
+   "impact": "Avec 3,2 xG d'écart, c'est l'un des résultats les plus improbables qu'une finale puisse produire. Même sans le penalty, le Bayern garde 2,70 npxG contre 0,29 : Chelsea a survécu en défendant, puis a gagné à la roulette."
+  },
+  "en": {
+   "lead": "Forty shots. Twenty corners. 3.49 xG. And yet it was Chelsea who lifted the trophy. Bayern Munich laid siege to Chelsea for 120 minutes, went ahead through Thomas Müller in minute 83, then watched Didier Drogba equalise five minutes later with one of Chelsea's 3 shots on target. The shoot-out settled it, 4-3 to the English side: the kind of night when xG looks like a cruel joke.",
+   "keys": [
+    "Arjen Robben fires 15 shots worth 1.47 xG without scoring, and sees his penalty in minute 95 (0.78 xG) saved.",
+    "In minute 112, Mario Gómez misses the target from a 0.46 xG chance: match point before the lottery.",
+    "Chelsea: 9 shots, 0.29 xG, one goal. And 38 clearances, against 14 for Bayern.",
+    "Key passes: 33 for Bayern, 4 for Chelsea. Toni Kroos delivers 5 of them, including the assist for Müller.",
+    "The saves tell the story of the siege: 6 for Chelsea, 2 for Bayern."
+   ],
+   "impact": "A 3.2 xG gap makes this one of the most improbable results a final can produce. Even without the penalty, Bayern still have 2.70 npxG to 0.29: Chelsea survived by defending, then won at roulette."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Le 4-2-3-1 bavarois devient, ballon au pied, un 3-3-4 qui écrase Chelsea contre sa surface : quatre hommes alignés entre 80 et 85 m du but allemand. Franck Ribéry tient la gauche (13 m de la ligne), Arjen Robben la droite, Müller et Gómez l'axe. Chelsea, annoncé lui aussi en 4-2-3-1, se replie en 5-3-2 sans ballon, avec Ryan Bertrand projeté devant Ashley Cole sur le flanc gauche.",
+   "keys": [
+    "Le Bayern passe 41 % de ses touches dans le dernier tiers, Chelsea seulement 21 %.",
+    "Chelsea touche 29 % de ses ballons dans son propre tiers : une équipe qui défendait, au sens littéral.",
+    "Bertrand, position moyenne à 64 m et à 9 m de la ligne gauche, est plus haut que Cole (47 m) : un deuxième latéral, posté devant le premier.",
+    "Les touches bavaroises sont réparties sur toute la largeur, avec un léger penchant à droite (24 % dans le couloir droit)."
+   ],
+   "impact": "Le double rideau gauche de Chelsea, Cole et Bertrand, faisait face au côté droit bavarois, celui de Robben et Lahm. On peut y voir une réponse taillée sur mesure : Robben a beaucoup tiré, mais rarement dans de bonnes conditions pour son volume."
+  },
+  "en": {
+   "lead": "Bayern's 4-2-3-1 becomes, on the ball, a 3-3-4 that pins Chelsea against their own box: four men lined up between 80 and 85 m from the German goal. Franck Ribéry holds the left (13 m from the line), Arjen Robben the right, Müller and Gómez the middle. Chelsea, also announced in a 4-2-3-1, drop into a 5-3-2 without the ball, with Ryan Bertrand pushed ahead of Ashley Cole on the left flank.",
+   "keys": [
+    "Bayern spend 41% of their touches in the final third, Chelsea just 21%.",
+    "Chelsea take 29% of their touches in their own third: a team that defended, quite literally.",
+    "Bertrand, average position 64 m up and 9 m from the left line, sits higher than Cole (47 m): a second full-back stationed ahead of the first.",
+    "Bayern's touches are spread across the whole width, with a slight lean to the right (24% in the right lane)."
+   ],
+   "impact": "Chelsea's double left-side screen, Cole and Bertrand, faced Bayern's right side, home of Robben and Lahm. You can read it as a tailor-made response: Robben shot a lot, but rarely in good positions for the volume."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Chelsea n'est pas venu chercher le ballon, il l'a attendu. Ses actions défensives se situent à 41,0 m de son but, contre 45,9 m de moyenne dans les finales, avec 3,6 pressions par minute sans ballon. 38 % de ses récupérations prennent plus de 20 secondes : la patience d'un bloc qui laisse l'adversaire tourner. Le Bayern, lui, défend à 50,9 m et contre-presse sur 22 % de ses pressions.",
+   "keys": [
+    "Le Bayern récupère 54 % de ses ballons perdus en moins de 10 secondes, Chelsea 44 %.",
+    "Contre-pressing : 22 % pour le Bayern, 13 % pour Chelsea (moyenne des finales : 20 %).",
+    "Les PPDA sont proches, 17,7 pour le Bayern et 16,0 pour Chelsea : aucune des deux ne pressait vraiment haut.",
+    "Chelsea compte pourtant 8 récupérations hautes, contre 6 pour le Bayern."
+   ],
+   "impact": "Le choix d'attendre a offert au Bayern le terrain et le ballon, mais lui a refusé l'espace. Avec un bloc aussi bas, Chelsea a limité le Bayern à beaucoup de tirs pour peu de vraies occasions, et a tenu jusqu'à la séance de tirs au but."
+  },
+  "en": {
+   "lead": "Chelsea did not come looking for the ball; they waited for it. Their defensive actions come 41.0 m from their goal, against a 45.9 m average in the finals, with 3.6 pressures per minute out of possession. 38% of their regains take longer than 20 seconds: the patience of a block that lets the opponent circulate. Bayern defend at 50.9 m and counter-press on 22% of their pressures.",
+   "keys": [
+    "Bayern win back 54% of lost balls within 10 seconds, Chelsea 44%.",
+    "Counter-pressing: 22% for Bayern, 13% for Chelsea (finals average: 20%).",
+    "The PPDAs are close, 17.7 for Bayern and 16.0 for Chelsea: neither side really pressed high.",
+    "Chelsea still record 8 high recoveries, against 6 for Bayern."
+   ],
+   "impact": "Choosing to wait handed Bayern the territory and the ball, but denied them space. With a block that deep, Chelsea held Bayern to lots of shots but few clear chances, and lasted all the way to penalties."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur l'axe relationniste, cette finale oppose les deux équipes les plus positionnistes de toute la base des finales. Chelsea est 11e et dernier des 11 finalistes classés (−0,82) ; le Bayern 10e (−0,14). Pas de petits triangles ici : chacun à son poste. Le circuit le plus emprunté du match est Philipp Lahm – Arjen Robben, 37 passes : le couloir droit bavarois en pilote automatique.",
+   "keys": [
+    "Les carrefours bavarois sont Kroos (158 passes impliquées), Schweinsteiger (146) et Lahm (138).",
+    "Côté Chelsea, tout passe par Frank Lampard (123), relié à Juan Mata par 27 passes.",
+    "Surprise : Chelsea combine plus vite que le Bayern, 34 % de combinaisons rapides contre 26 %.",
+    "Le Bayern ne joue que 54 % de passes courtes, à peine sous la moyenne des finales (55 %)."
+   ],
+   "impact": "Le Bayern a dominé par l'occupation des postes plus que par le jeu court, en s'appuyant sur ses couloirs. Face à un bloc de cinq défenseurs, cette approche a produit du volume, mais trop peu de vraies brèches."
+  },
+  "en": {
+   "lead": "On the relational axis, this final pits the two most positional teams in the whole finals database against each other. Chelsea are 11th and last of the 11 ranked finalists (−0.82); Bayern 10th (−0.14). No little triangles here: everyone in their slot. The busiest channel of the match is Philipp Lahm – Arjen Robben, 37 passes: Bayern's right flank on autopilot.",
+   "keys": [
+    "Bayern's hubs are Kroos (158 passes involved), Schweinsteiger (146) and Lahm (138).",
+    "For Chelsea, everything goes through Frank Lampard (123), linked to Juan Mata by 27 passes.",
+    "A surprise: Chelsea combine faster than Bayern, 34% quick combinations against 26%.",
+    "Bayern play only 54% short passes, just below the finals average (55%)."
+   ],
+   "impact": "Bayern dominated by occupying positions more than through short combinations, leaning on their flanks. Against a five-man back line, that approach produced volume but too few real openings."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Une finale presque sans transition. Le Bayern n'a concédé qu'un seul tir dans les 15 secondes suivant une perte, pour 0,01 xG ; Chelsea en a concédé 3, pour 0,15 xG. Aucun des deux buts n'est né d'une transition. Pour une équipe qui défendait aussi bas que Chelsea, l'absence de contre-attaques dangereuses est presque une surprise.",
+   "keys": [
+    "La moyenne des finales est de 3,0 tirs et 0,26 xG concédés en transition : les deux équipes sont en dessous en xG, Chelsea pile dans la moyenne en tirs.",
+    "Le Bayern a perdu 120 ballons dans le jeu, Chelsea 115 : presque autant, mais jamais dans des zones fatales.",
+    "Aucun but encaissé en transition, ni d'un côté ni de l'autre."
+   ],
+   "impact": "Chelsea n'a pas gagné en contre, il a gagné en résistant. Sans transitions pour souffler, les Anglais se sont reposés sur l'égalisation de Drogba, puis sur la séance de tirs au but."
+  },
+  "en": {
+   "lead": "A final almost without transitions. Bayern conceded only one shot within 15 seconds of a loss, worth 0.01 xG; Chelsea conceded 3, worth 0.15 xG. Neither goal came from a transition. For a team defending as deep as Chelsea, the lack of dangerous breaks is almost a surprise.",
+   "keys": [
+    "The finals average is 3.0 shots and 0.26 xG conceded in transition: both teams sit below it in xG, Chelsea exactly on it in shots.",
+    "Bayern lost 120 balls in open play, Chelsea 115: almost the same, but never in fatal areas.",
+    "No goal conceded in transition, on either side."
+   ],
+   "impact": "Chelsea did not win on the counter; they won by holding firm. With no transitions to relieve the pressure, they relied on Drogba's equaliser, then on the shoot-out."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Chaque fois que Fernando Torres a touché le ballon, le Bayern a fondu sur lui : 5,17 actions défensives de plus que la normale pour 10 touches. C'est plus que sa propre marque sur l'ensemble des finales (4,82), déjà la plus haute de toute la base. Derrière lui, Salomon Kalou (4,15) et Didier Drogba (3,21) : les cinq premiers aimants sont tous de Chelsea, sauf un.",
+   "keys": [
+    "Juan Mata (3,01) et Frank Lampard (2,51) complètent la liste : chaque relais de Chelsea était immédiatement entouré.",
+    "Mario Gómez (2,82) est le seul Bavarois à s'y glisser.",
+    "En bas de l'échelle, Van Buyten (−1,52), Tymoshchuk (−1,46) et Boateng (−1,29) : Chelsea laissait les défenseurs bavarois relancer sans les gêner.",
+    "Drogba compte d'ailleurs 11 actions défensives, plus que n'importe quel joueur mis en avant dans la fiche du match."
+   ],
+   "impact": "Le Bayern étouffait chaque ballon de Chelsea, ce qui explique les 0,29 xG des Anglais. Mais à force d'entourer Drogba, il ne lui a laissé qu'une seule fenêtre : il n'en a pas eu besoin d'une deuxième."
+  },
+  "en": {
+   "lead": "Every time Fernando Torres touched the ball, Bayern swarmed him: 5.17 extra defensive actions per 10 touches. That is more than his own mark across all finals (4.82), already the highest in the whole database. Behind him come Salomon Kalou (4.15) and Didier Drogba (3.21): the top five magnets are all Chelsea players but one.",
+   "keys": [
+    "Juan Mata (3.01) and Frank Lampard (2.51) complete the list: every Chelsea relay was surrounded at once.",
+    "Mario Gómez (2.82) is the only Bayern player to sneak in.",
+    "At the bottom: Van Buyten (−1.52), Tymoshchuk (−1.46) and Boateng (−1.29). Chelsea let Bayern's defenders play out undisturbed.",
+    "Drogba also has 11 defensive actions, more than any other standout player in the match sheet."
+   ],
+   "impact": "Bayern smothered every Chelsea ball, which explains the English side's 0.29 xG. But for all the bodies around Drogba, they left him one window: he did not need a second."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le Bayern a créé 3,96 xT, plus de trois fois la menace de Chelsea (1,24), et ses six meilleurs créateurs du match sont tous bavarois. Robben (0,90 xT) et Ribéry (0,82) ont porté le ballon comme des pistons, avec respectivement 0,49 et 0,48 xT en conduites. Le geste le plus menaçant de la soirée est la passe de Toni Kroos à la 83e minute (+0,35 xT), dans la minute même du but de Müller.",
+   "keys": [
+    "La menace bavaroise culmine en deuxième mi-temps (1,97 xT), puis retombe en prolongation (0,61).",
+    "Robben et Ribéry pèsent 23 % et 21 % de la menace du Bayern : près de la moitié du danger venait des ailes.",
+    "Chelsea tient bon dans la durée : 0,48 xT en première période, 0,41 en seconde, 0,34 en prolongation.",
+    "À la 90e minute, John Obi Mikel tente une longue passe de 39 à 86 m : le genre de ballon de dégagement qui faisait souffler Chelsea."
+   ],
+   "impact": "Le Bayern a produit l'essentiel de sa menace avant la 90e, mais l'égalisation de Drogba a tout remis à zéro. En prolongation, la menace bavaroise est retombée à 0,61 xT, et Chelsea a rallié la séance de tirs au but."
+  },
+  "en": {
+   "lead": "Bayern created 3.96 xT, more than three times Chelsea's threat (1.24), and the six biggest creators in the match are all Bayern players. Robben (0.90 xT) and Ribéry (0.82) drove the ball like pistons, with 0.49 and 0.48 xT from carries respectively. The most threatening action of the night is Toni Kroos's pass in minute 83 (+0.35 xT), the very minute of Müller's goal.",
+   "keys": [
+    "Bayern's threat peaks in the second half (1.97 xT), then drops in extra time (0.61).",
+    "Robben and Ribéry account for 23% and 21% of Bayern's threat: almost half the danger came from the wings.",
+    "Chelsea stay steady: 0.48 xT in the first half, 0.41 in the second, 0.34 in extra time.",
+    "In minute 90, John Obi Mikel tries a long ball from 39 to 86 m: the kind of clearance-pass that let Chelsea breathe."
+   ],
+   "impact": "Bayern produced most of their threat before minute 90, but Drogba's equaliser reset everything. In extra time Bayern's threat fell to 0.61 xT, and Chelsea made it through to the shoot-out."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Ironie des classements : le meilleur attaquant de toutes les finales de la base est Arjen Robben, 1er des 34 attaquants classés avec une note de 89. Le même Robben qui a tiré 15 fois ce soir-là sans marquer. Et le meilleur défenseur central de toutes les finales est David Luiz, 1er sur 24 avec 71, en une seule finale de 120 minutes.",
+   "keys": [
+    "Philipp Lahm est 3e des 32 latéraux (77), Bastian Schweinsteiger 3e des 37 milieux (71).",
+    "John Obi Mikel se glisse au 4e rang des milieux (70), devant Frank Lampard, 10e.",
+    "Manuel Neuer (5e) et Petr Čech (6e) se suivent au classement des 16 gardiens.",
+    "Robben a joué 308 minutes de finales pour un seul but : une note élevée qui récompense le volume plus que l'efficacité."
+   ],
+   "impact": "Le Bayern alignait plus de joueurs bien classés, mais le meilleur défenseur du match portait le maillot de Chelsea. C'est peut-être le résumé le plus juste de cette finale : l'attaque la mieux notée contre la défense la mieux notée, et la défense qui l'emporte."
+  },
+  "en": {
+   "lead": "An irony of the rankings: the best forward across every final in the database is Arjen Robben, 1st of 34 ranked forwards with a score of 89. The same Robben who shot 15 times that night without scoring. And the best centre-back across all finals is David Luiz, 1st of 24 with 71, from a single 120-minute final.",
+   "keys": [
+    "Philipp Lahm is 3rd of 32 full-backs (77), Bastian Schweinsteiger 3rd of 37 midfielders (71).",
+    "John Obi Mikel slips into 4th among midfielders (70), ahead of Frank Lampard, 10th.",
+    "Manuel Neuer (5th) and Petr Čech (6th) sit side by side among the 16 goalkeepers.",
+    "Robben played 308 minutes of finals for a single goal: a high score that rewards volume more than finishing."
+   ],
+   "impact": "Bayern fielded more highly ranked players, but the best defender on the pitch wore Chelsea blue. That may be the fairest summary of this final: the top-rated attack against the top-rated defence, and the defence winning."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau de Manuel Neuer est… Manuel Neuer, version Euro 2016, similaire à 96 %. Difficile d'être plus constant. Arjen Robben, lui, a une famille prestigieuse : Neymar au Mondial 2018 et Dani Olmo à l'Euro 2020 (95 % chacun), puis Lionel Messi au Mondial 2022 (94 %). Et Bastian Schweinsteiger ressemble à 97 % à Éver Banega au Mondial 2018.",
+   "keys": [
+    "Toni Kroos a pour premier jumeau Xavi en finale de Ligue des champions (93 %) : deux métronomes.",
+    "David Luiz ressemble à D. Grigore à l'Euro 2016 (96 %) et à Nemanja Vidić en finale (94 %).",
+    "John Obi Mikel se rapproche de Thomas Partey au Mondial 2022 (89 %), puis de N. Kanté à l'Euro 2016 (83 %).",
+    "Franck Ribéry a pour jumeau Kevin De Bruyne au Mondial 2022 (88 %) : un ailier qui crée autant qu'il percute."
+   ],
+   "impact": "Robben jumeau de Neymar et de Messi, tout indique que le Bayern misait sur des dribbleurs-tireurs pour faire céder Chelsea. Face à eux, des profils de récupérateurs et de défenseurs solides : la finale opposait des styles très tranchés."
+  },
+  "en": {
+   "lead": "Manuel Neuer's twin is… Manuel Neuer, the Euro 2016 version, 96% similar. Hard to be more consistent than that. Arjen Robben has a prestigious family: Neymar at the 2018 World Cup and Dani Olmo at Euro 2020 (95% each), then Lionel Messi at the 2022 World Cup (94%). And Bastian Schweinsteiger is 97% similar to Éver Banega at the 2018 World Cup.",
+   "keys": [
+    "Toni Kroos's first twin is Xavi in a Champions League final (93%): two metronomes.",
+    "David Luiz resembles D. Grigore at Euro 2016 (96%) and Nemanja Vidić in a final (94%).",
+    "John Obi Mikel is close to Thomas Partey at the 2022 World Cup (89%), then N. Kanté at Euro 2016 (83%).",
+    "Franck Ribéry's twin is Kevin De Bruyne at the 2022 World Cup (88%): a wide man who creates as much as he drives."
+   ],
+   "impact": "Robben as a twin of Neymar and Messi suggests Bayern were banking on dribbling shooters to break Chelsea down. Facing them were ball-winners and solid defenders: this final pitted sharply contrasting styles."
+  }
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "1157 passes, 75 % de possession, 24 tirs… et une élimination aux tirs au but. L'Espagne a fait tout ce qu'on peut faire avec un ballon, sauf l'essentiel. Le plus étonnant, c'est le bilan xG : 1,44 pour l'Espagne, 1,41 pour la Russie, soit un écart de 0,03 seulement. Avec 8 tirs et un seul cadré, la Russie a fait jeu égal en qualité d'occasions, grâce au penalty d'Artem Dzyuba à la 41e minute (0,78 xG).",
+   "keys": [
+    "Le but espagnol est un but contre son camp de Sergei Ignashevich, à la 12e minute : l'Espagne n'a pas marqué elle-même en 120 minutes.",
+    "La Russie compte 9 arrêts : 9 tirs espagnols cadrés, aucun n'est entré.",
+    "20 passes clés pour l'Espagne, mais aucune grosse occasion : du volume, très peu de franches situations.",
+    "Isco réussit 15 dribbles en 121 minutes, un chiffre hors norme, pour seulement 0,03 xG au tir.",
+    "La plus grosse occasion manquée du match est russe : Denis Cheryshev à la 93e (0,22 xG), non cadrée."
+   ],
+   "impact": "Hors penalty, la Russie ne pèse que 0,62 xG, mais l'Espagne n'a jamais transformé sa domination en occasions nettes. Une possession écrasante sans grosse occasion, c'est un match qui finit souvent comme celui-ci : à la loterie, que la Russie a gagnée 4-3."
+  },
+  "en": {
+   "lead": "1157 passes, 75% possession, 24 shots… and a penalty shoot-out exit. Spain did everything you can do with a ball except the one thing that matters. The most striking part is the xG: 1.44 for Spain, 1.41 for Russia, a gap of just 0.03. With 8 shots and only one on target, Russia matched Spain on chance quality, thanks to Artem Dzyuba's penalty in minute 41 (0.78 xG).",
+   "keys": [
+    "Spain's goal is an own goal by Sergei Ignashevich in minute 12: Spain did not score themselves in 120 minutes.",
+    "Russia make 9 saves: 9 Spanish shots on target, none of them went in.",
+    "20 key passes for Spain, but not a single big chance: plenty of volume, very few clear openings.",
+    "Isco completes 15 dribbles in 121 minutes, an extraordinary figure, for just 0.03 xG from his shot.",
+    "The biggest miss of the match is Russian: Denis Cheryshev in minute 93 (0.22 xG), off target."
+   ],
+   "impact": "Without the penalty, Russia are worth just 0.62 xG, but Spain never turned their dominance into clear chances. Overwhelming possession with no big chance is the kind of match that often ends like this one: in a lottery, which Russia won 4-3."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Avec le ballon, l'Espagne se dessinait en 4-5-1 avec une défense très haute : Gerard Piqué à 49 m de son but, Sergio Ramos à 56 m, autant dire dans le camp russe. Tout penchait à gauche : plus de la moitié des touches espagnoles dans le couloir gauche (28 %) et le demi-espace gauche (23 %), avec Jordi Alba (67 m) et Isco (71 m) en première ligne. Et par un hasard de géométrie, la Russie attaquait exactement du même côté du terrain : 47 % de ses touches dans son couloir droit.",
+   "keys": [
+    "Le côté gauche espagnol faisait face au côté droit russe : les deux équipes se sont battues sur la même bande de terrain.",
+    "Mário Fernandes, latéral droit russe, se tenait collé à la ligne (66 m de largeur), avec Samedov devant lui à 74 m.",
+    "La Russie, en 3-4-3 sur la feuille, se dessinait en 3-3-4 avec le ballon, et passait 32 % de ses touches dans son propre tiers.",
+    "L'Espagne ne touchait le ballon dans son propre tiers que 12 % du temps : le match se jouait chez les Russes."
+   ],
+   "impact": "Cette superposition des couloirs est la clé tactique du match : en attaquant par le côté de Mário Fernandes, l'Espagne tombait sur le joueur qui portait aussi l'essentiel du jeu russe. On peut y voir une raison de la difficulté espagnole à trouver de l'espace."
+  },
+  "en": {
+   "lead": "In possession, Spain took the shape of a 4-5-1 with a very high defence: Gerard Piqué 49 m from his own goal, Sergio Ramos at 56 m, effectively in Russia's half. Everything leaned left: more than half of Spain's touches in the left lane (28%) and left half-space (23%), with Jordi Alba (67 m) and Isco (71 m) in the front line. And by a quirk of geometry, Russia attacked down exactly the same strip of grass: 47% of their touches in their right lane.",
+   "keys": [
+    "Spain's left side faced Russia's right: both teams fought over the same flank.",
+    "Mário Fernandes, Russia's right-back, hugged the touchline (66 m across), with Samedov ahead of him at 74 m.",
+    "Russia, 3-4-3 on paper, took the shape of a 3-3-4 in possession, and spent 32% of their touches in their own third.",
+    "Spain touched the ball in their own third only 12% of the time: the match was played in Russia's half."
+   ],
+   "impact": "That overlap of lanes is the tactical key of the match: by attacking down Mário Fernandes's side, Spain ran into the very player who also carried most of Russia's play. It is arguably one reason Spain struggled to find space."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "La Russie n'a quasiment pas pressé : un PPDA de 27,3, des actions défensives à 39,3 m de son but, et 8 % seulement de contre-pressing. Elle attendait. L'Espagne, quand elle perdait le ballon, le récupérait très vite : 37 % en moins de 5 secondes, 59 % en moins de 10. Une possession à 75 %, ça se construit aussi comme ça.",
+   "keys": [
+    "Côté russe, la moitié des ballons perdus (50 %) mettent plus de 20 secondes à revenir : quand la Russie perdait le ballon, elle le perdait longtemps.",
+    "Le contre-pressing espagnol pèse 29 % des pressions, bien au-dessus de la moyenne du Mondial (19 %).",
+    "La Russie totalise pourtant 277 pressions, plus du double de l'Espagne (123) : elle a passé le match à courir après le ballon.",
+    "Récupérations hautes : 10 pour l'Espagne, 7 pour la Russie."
+   ],
+   "impact": "Le bloc bas russe a fait son œuvre : en défendant à 39,3 m de son but, la Russie a obligé l'Espagne à attaquer un mur. Et la réaction espagnole à la perte, aussi efficace soit-elle, ne faisait que relancer le même siège."
+  },
+  "en": {
+   "lead": "Russia barely pressed: a PPDA of 27.3, defensive actions 39.3 m from their own goal, and only 8% counter-pressing. They waited. Spain, when they lost the ball, won it back very quickly: 37% within 5 seconds, 59% within 10. A 75% possession share is built that way too.",
+   "keys": [
+    "For Russia, half of their lost balls (50%) take more than 20 seconds to come back: when Russia lost it, they lost it for a long time.",
+    "Spain's counter-press accounts for 29% of their pressures, well above the World Cup average (19%).",
+    "Russia still made 277 pressures, more than double Spain's 123: they spent the match chasing the ball.",
+    "High regains: 10 for Spain, 7 for Russia."
+   ],
+   "impact": "Russia's low block did its job: defending 39.3 m from their own goal, Russia forced Spain to attack a wall. And Spain's reaction to losing the ball, effective as it was, only restarted the same siege."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Sur l'ensemble du Mondial, l'Espagne est la 2e équipe la plus relationniste. Ce soir-là, son réseau était surtout un énorme circuit sur le côté gauche : Isco – Jordi Alba, 97 passes, devant Ramos – Alba (92). Le carrefour principal est un défenseur central, Sergio Ramos, impliqué dans 302 passes entre titulaires.",
+   "keys": [
+    "Isco et Alba sont impliqués dans 270 passes chacun : le triangle Ramos – Isco – Alba concentrait le jeu espagnol.",
+    "La Russie affiche un indice plus élevé que l'Espagne ce soir-là (+0,39 contre +0,29) et 60 % de passes courtes, mais sur seulement 326 passes.",
+    "Le carrefour russe est Mário Fernandes (71 passes), et ses trois liens les plus utilisés passent tous par lui.",
+    "Combinaisons rapides : 37 % pour l'Espagne, 30 % pour la Russie."
+   ],
+   "impact": "L'Espagne a fait tourner le ballon dans un triangle répété des centaines de fois, toujours du même côté. Tout indique que cette circulation, très sûre, manquait de variété pour déséquilibrer un bloc russe bas et regroupé."
+  },
+  "en": {
+   "lead": "Over the whole World Cup, Spain are the 2nd most relational team. That evening, their network was mostly one enormous circuit down the left: Isco – Jordi Alba, 97 passes, ahead of Ramos – Alba (92). The main hub is a centre-back, Sergio Ramos, involved in 302 passes between starters.",
+   "keys": [
+    "Isco and Alba are involved in 270 passes each: the Ramos – Isco – Alba triangle concentrated Spain's play.",
+    "Russia post a higher index than Spain that evening (+0.39 against +0.29) and 60% short passes, but from only 326 passes.",
+    "Russia's hub is Mário Fernandes (71 passes), and their three busiest links all run through him.",
+    "Quick combinations: 37% for Spain, 30% for Russia."
+   ],
+   "impact": "Spain moved the ball around a triangle repeated hundreds of times, always on the same side. Everything suggests that this very safe circulation lacked the variety to unbalance a deep, compact Russian block."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Un match sans transition, ou presque. Chaque équipe n'a concédé que 2 tirs dans les 15 secondes suivant une perte, et aucun but n'est venu d'un contre. L'Espagne, très haute, s'exposait pourtant : 0,25 xG concédés en transition, deux fois plus que la Russie (0,12). Mais la menace russe n'a jamais été au rendez-vous dans ces moments-là.",
+   "keys": [
+    "L'Espagne perd 129 ballons dans le jeu, la Russie 102.",
+    "Les deux équipes restent sous la moyenne du Mondial : 2,7 tirs et 0,28 xG concédés en transition par match.",
+    "Les deux buts du match viennent d'un but contre son camp et d'un penalty : rien en transition."
+   ],
+   "impact": "On peut penser que le contre-pressing espagnol a étouffé la plupart des contres russes avant qu'ils ne naissent. La Russie n'a pas eu besoin de transitions : un penalty et une séance de tirs au but ont suffi."
+  },
+  "en": {
+   "lead": "A match without transitions, almost. Each team conceded only 2 shots within 15 seconds of losing the ball, and no goal came from a counter. Spain, playing very high, did expose themselves: 0.25 xG conceded in transition, twice as much as Russia (0.12). But Russia's threat never really showed up in those moments.",
+   "keys": [
+    "Spain lose 129 balls in open play, Russia 102.",
+    "Both teams stay below the World Cup average: 2.7 shots and 0.28 xG conceded in transition per match.",
+    "The match's two goals came from an own goal and a penalty: nothing in transition."
+   ],
+   "impact": "Spain's counter-press very likely smothered most Russian counters before they were born. Russia did not need transitions: a penalty and a shoot-out were enough."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans données 360, on mesure l'attention reçue : les actions défensives adverses de plus que la normale pour 10 touches. Et le classement est entièrement russe en haut : Fyodor Smolov (2,08), Aleksandr Golovin (2,04), Artem Dzyuba (1,47), Roman Zobnin (1,34), Daler Kuzyaev (1,28). Avec si peu de ballons, chaque touche russe déclenchait une réaction espagnole immédiate.",
+   "keys": [
+    "Le premier Espagnol du classement, Rodrigo, n'arrive qu'à 0,68.",
+    "Koke (−1,96) et Iago Aspas (−1,76) ont reçu très peu d'attention : la Russie ne venait pas les chercher.",
+    "Côté russe, Ilya Kutepov (−1,79) relançait sans être inquiété.",
+    "Référence du tournoi : Mehdi Taremi, avec l'Iran, à 5,35."
+   ],
+   "impact": "La Russie laissait l'Espagne jouer, et l'Espagne, elle, sautait sur chaque Russe dès qu'il touchait le ballon. Deux attitudes opposées qui résument le match : une équipe qui contrôle, une autre qui attend son moment."
+  },
+  "en": {
+   "lead": "Without 360 data, we measure received attention: extra opposing defensive actions per 10 touches, compared with normal. And the top of the table is entirely Russian: Fyodor Smolov (2.08), Aleksandr Golovin (2.04), Artem Dzyuba (1.47), Roman Zobnin (1.34), Daler Kuzyaev (1.28). With so little of the ball, every Russian touch triggered an immediate Spanish reaction.",
+   "keys": [
+    "The first Spaniard in the table, Rodrigo, only reaches 0.68.",
+    "Koke (−1.96) and Iago Aspas (−1.76) drew very little attention: Russia did not come out to meet them.",
+    "For Russia, Ilya Kutepov (−1.79) played out without being troubled.",
+    "Tournament benchmark: Iran's Mehdi Taremi, at 5.35."
+   ],
+   "impact": "Russia let Spain play, while Spain jumped on every Russian the moment he touched the ball. Two opposite attitudes that sum up the match: one team in control, the other waiting for its moment."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Espagne a produit 2,62 xT, presque quatre fois plus que la Russie (0,66). Mais cette menace était étonnamment diluée : le premier créateur, Isco, ne pèse que 18 % du total (0,48 xT), et au moins six Espagnols dépassent 0,25 xT. Pas de joueur décisif, mais un collectif qui avance petit à petit, jusqu'à 1,01 xT en prolongation.",
+   "keys": [
+    "Isco crée surtout balle au pied : 0,33 xT en conduites, cohérent avec ses 15 dribbles.",
+    "Le geste le plus menaçant du match est une passe de Sergio Busquets à la 7e minute (+0,14 xT).",
+    "À la 102e, Iago Aspas conduit le ballon de 71 m à 93 m de son but (+0,10 xT), l'une des rares percées du match.",
+    "La Russie ne produit que 0,13 xT en deuxième mi-temps : 45 minutes passées à défendre."
+   ],
+   "impact": "L'Espagne a créé de la menace à toutes les périodes, mais jamais assez concentrée pour faire sauter le verrou. La Russie, avec 0,66 xT, a prouvé qu'on pouvait passer un tour en ne menaçant presque jamais."
+  },
+  "en": {
+   "lead": "Spain produced 2.62 xT, almost four times Russia's 0.66. But that threat was surprisingly spread out: the top creator, Isco, accounts for only 18% of the total (0.48 xT), and at least six Spaniards exceed 0.25 xT. No match-winner, but a collective inching forward, up to 1.01 xT in extra time.",
+   "keys": [
+    "Isco creates mostly with the ball at his feet: 0.33 xT from carries, consistent with his 15 dribbles.",
+    "The most threatening action of the match is a Sergio Busquets pass in minute 7 (+0.14 xT).",
+    "In minute 102, Iago Aspas carries the ball from 71 m to 93 m from his own goal (+0.10 xT), one of the few drives of the match.",
+    "Russia produce only 0.13 xT in the second half: 45 minutes spent defending."
+   ],
+   "impact": "Spain created threat in every period, but never concentrated enough to break the lock. Russia, with 0.66 xT, proved you can go through a round while barely threatening at all."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Deux Espagnols figurent sur le podium de leur poste pour tout le Mondial : Isco, 3e des 123 milieux (note de 77), et Gerard Piqué, 3e des 40 défenseurs centraux. Côté russe, le mieux classé est Sergei Ignashevich, 6e des centraux, le même qui a marqué contre son camp. Et Denis Cheryshev, 14e des attaquants, compte 4 buts en seulement 310 minutes.",
+   "keys": [
+    "Andrés Iniesta est 12e des milieux, Sergio Busquets 20e : l'Espagne a trois milieux dans le top 20.",
+    "Diego Costa est 16e des 68 attaquants, avec 3 buts sur le tournoi.",
+    "Mário Fernandes est 18e des 88 latéraux, avec 1 but et 1 passe décisive.",
+    "Sergio Ramos est 11e des centraux : la charnière espagnole est l'une des mieux notées du tournoi."
+   ],
+   "impact": "Sur le papier, l'Espagne avait des joueurs mieux classés à presque tous les postes. Mais ce classement mesure la qualité dans le jeu, et ce soir-là, la Russie a gagné le match qui ne se joue pas dans le jeu : les tirs au but."
+  },
+  "en": {
+   "lead": "Two Spaniards sit on their position's podium for the whole World Cup: Isco, 3rd of 123 midfielders (score of 77), and Gerard Piqué, 3rd of 40 centre-backs. For Russia, the best-ranked is Sergei Ignashevich, 6th among centre-backs, the very man who scored an own goal. And Denis Cheryshev, 14th among forwards, has 4 goals in just 310 minutes.",
+   "keys": [
+    "Andrés Iniesta is 12th among midfielders, Sergio Busquets 20th: Spain have three midfielders in the top 20.",
+    "Diego Costa is 16th of 68 forwards, with 3 goals in the tournament.",
+    "Mário Fernandes is 18th of 88 full-backs, with 1 goal and 1 assist.",
+    "Sergio Ramos is 11th among centre-backs: Spain's central pairing is one of the best rated in the tournament."
+   ],
+   "impact": "On paper, Spain had better-ranked players in almost every position. But this ranking measures quality in open play, and that evening Russia won the part of the match that is not open play: the shoot-out."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Isco a pour jumeau un coéquipier : Andrés Iniesta à l'Euro 2016, similaire à 94 %. Et Iniesta, présent dans ce Mondial, a lui-même pour jumeaux T. Kroos (92 %), Xavi (90 %) et Mesut Özil (89 %). Le milieu espagnol était une galerie de meneurs qui se ressemblent tous, ce qui dit beaucoup sur la possession à 75 %.",
+   "keys": [
+    "Sergio Busquets ressemble à 94 % à Aurélien Tchouaméni au Mondial 2022, puis à Rodri à l'Euro 2024 (84 %).",
+    "Diego Costa a trois jumeaux à 96 % : A. Gignac, Álvaro Morata et Karim Benzema.",
+    "Mário Fernandes et Henrik Dalsgaard sont jumeaux au même Mondial (91 %).",
+    "Sergei Ignashevich ressemble à Salif Sané (93 %) et à un compatriote, Igor Diveev à l'Euro 2020 (90 %)."
+   ],
+   "impact": "Des milieux tous taillés sur le même modèle, Iniesta, Xavi, Kroos : les jumeaux confirment une Espagne très homogène, maîtresse du ballon. Mais une telle homogénéité manque parfois du profil qui fait la différence autrement, et cette Espagne-là ne l'a pas trouvé."
+  },
+  "en": {
+   "lead": "Isco's twin is a teammate: Andrés Iniesta at Euro 2016, 94% similar. And Iniesta, also at this World Cup, has his own twins in T. Kroos (92%), Xavi (90%) and Mesut Özil (89%). Spain's midfield was a gallery of look-alike playmakers, which says a lot about the 75% possession.",
+   "keys": [
+    "Sergio Busquets is 94% similar to Aurélien Tchouaméni at the 2022 World Cup, then to Rodri at Euro 2024 (84%).",
+    "Diego Costa has three twins at 96%: A. Gignac, Álvaro Morata and Karim Benzema.",
+    "Mário Fernandes and Henrik Dalsgaard are twins at the same World Cup (91%).",
+    "Sergei Ignashevich resembles Salif Sané (93%) and a compatriot, Igor Diveev at Euro 2020 (90%)."
+   ],
+   "impact": "Midfielders all cut from the same cloth, Iniesta, Xavi, Kroos: the twins confirm a very uniform Spain, masters of the ball. But that kind of uniformity can lack the profile that makes the difference another way, and this Spain never found it."
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Une finale 100 % allemande, et un gardien qui a longtemps tenu tête à tout un effectif. Roman Weidenfeller réalise 7 arrêts, et les quatre plus grosses occasions manquées du match sont toutes bavaroises, toutes cadrées : Mandžukić à la 26e et à la 59e, Robben à la 30e et à la 43e. Le verrou saute à la 60e minute, Mandžukić sur un ballon à 0,60 xG. Gündoğan égalise sur penalty à la 68e, puis Arjen Robben signe le 2-1 à la 89e.",
+   "keys": [
+    "Le Bayern Munich termine à 3,08 xG contre 1,52, et sans penalty le Borussia Dortmund retombe à 0,73 npxG.",
+    "Grosses occasions : 4 pour le Bayern, 1 pour Dortmund. Les passes clés, elles, sont à égalité (10 partout).",
+    "Mario Mandžukić tire 5 fois pour 1,35 xG ; Robben 3 fois pour 1,03 xG. Deux attaquants, deux buts, mais beaucoup de ballons laissés à Weidenfeller.",
+    "Dortmund cadre 7 tirs sur 13 et Manuel Neuer en repousse 6 : le duel des gardiens a été intense des deux côtés."
+   ],
+   "impact": "Le Bayern méritait sa victoire sur l'ensemble du match, avec 1,56 xG d'avance. Mais sans les parades de Weidenfeller avant l'heure de jeu, la finale aurait sans doute été pliée bien plus tôt ; elle s'est finalement jouée à une minute du terme."
+  },
+  "en": {
+   "lead": "An all-German final, and a goalkeeper who held off an entire squad for a long time. Roman Weidenfeller makes 7 saves, and the four biggest missed chances of the match are all Bayern's, all on target: Mandžukić in minutes 26 and 59, Robben in minutes 30 and 43. The lock finally breaks in minute 60, Mandžukić from a 0.60 xG chance. Gündoğan equalises from the spot in minute 68, then Arjen Robben makes it 2-1 in minute 89.",
+   "keys": [
+    "Bayern Munich finish on 3.08 xG to 1.52, and without the penalty Borussia Dortmund drop to 0.73 npxG.",
+    "Big chances: 4 for Bayern, 1 for Dortmund. Key passes, though, are level (10 each).",
+    "Mario Mandžukić shoots 5 times for 1.35 xG; Robben 3 times for 1.03 xG. Two forwards, two goals, but plenty of chances left for Weidenfeller.",
+    "Dortmund put 7 of 13 shots on target and Manuel Neuer keeps out 6: the goalkeeping duel was intense at both ends."
+   ],
+   "impact": "Bayern deserved the win over the whole match, with a 1.56 xG edge. But without Weidenfeller's saves before the hour, the final would probably have been settled much earlier; in the end it was decided one minute from time."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Les deux équipes annoncent un 4-2-3-1, mais aucune ne le joue avec le ballon. Le Bayern passe en 3-3-4 : David Alaba monte à 45 m en restant collé à la ligne gauche (6 m), Franck Ribéry devant lui à 11 m, et Dante reste très bas, à 25 m de son but. Dortmund se dessine en 3-3-1-3, avec un trio Lewandowski–Reus–Błaszczykowski aligné autour de 70 m, puis se referme en 4-3-3 sans ballon.",
+   "keys": [
+    "Le Bayern attaque d'abord à gauche : 27 % de ses touches dans ce couloir, celui d'Alaba et Ribéry.",
+    "Dortmund penche à droite (27 % de ses touches), où Piszczek (53 m) et Błaszczykowski (72 m) occupent le même flanc.",
+    "Le flanc droit de Dortmund faisait donc face au flanc gauche bavarois : la finale s'est disputée en partie dans ce même couloir.",
+    "Surprise : le Bayern passe 32 % de ses touches dans son propre tiers, un peu plus que Dortmund (30 %)."
+   ],
+   "impact": "Le Bayern a su varier : beaucoup de jeu à gauche avec Alaba et Ribéry, mais le but de la victoire est venu de Robben, l'homme du côté droit. Dortmund, qui penchait lui aussi d'un seul côté, n'a trouvé le chemin des filets que sur penalty."
+  },
+  "en": {
+   "lead": "Both teams announce a 4-2-3-1, but neither plays it on the ball. Bayern shift into a 3-3-4: David Alaba pushes up to 45 m while hugging the left line (6 m), Franck Ribéry ahead of him at 11 m, and Dante stays very deep, 25 m from his goal. Dortmund take the shape of a 3-3-1-3, with a Lewandowski–Reus–Błaszczykowski trio lined up around 70 m, then close into a 4-3-3 without the ball.",
+   "keys": [
+    "Bayern attack down the left first: 27% of their touches in that lane, the Alaba and Ribéry lane.",
+    "Dortmund lean right (27% of their touches), where Piszczek (53 m) and Błaszczykowski (72 m) share the flank.",
+    "Dortmund's right side therefore faced Bayern's left: part of the final was fought out in that one corridor.",
+    "A surprise: Bayern spend 32% of their touches in their own third, slightly more than Dortmund (30%)."
+   ],
+   "impact": "Bayern mixed it up: plenty of play down the left with Alaba and Ribéry, but the winner came from Robben, the right-sided man. Dortmund, who also leaned to one side, only found the net from the penalty spot."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Le Bayern a très peu pressé, mais au bon moment. Seulement 102 pressions sur tout le match, 3,6 par minute sans ballon, sous la moyenne des finales (4,0). Mais un tiers d'entre elles (33 %) tombent dans les secondes qui suivent une perte : le Bayern ne courait pas après le ballon, il le reprenait aussitôt perdu. Dortmund, plus actif en volume (180 pressions, 4,4 par minute), contre-presse moitié moins (17 %).",
+   "keys": [
+    "Les deux équipes récupèrent beaucoup haut : 13 récupérations hautes pour le Bayern, 12 pour Dortmund, contre 7,6 de moyenne dans les finales.",
+    "Hauteur défensive : 48,7 m pour le Bayern, 42,1 m pour Dortmund. Le Bayern défendait plus haut en pressant moins.",
+    "Dortmund récupère 57 % de ses ballons perdus en moins de 10 secondes, le Bayern 52 %.",
+    "Les PPDA sont élevés des deux côtés, 29,6 pour Dortmund et 24,0 pour le Bayern : on se laissait relancer."
+   ],
+   "impact": "Tout indique que le contre-pressing bavarois a empêché Dortmund de lancer ses attaques rapides depuis les pertes du Bayern. Dans une finale aussi ouverte, garder le contrôle juste après la perte valait mieux que harceler sur tout le terrain."
+  },
+  "en": {
+   "lead": "Bayern pressed very little, but at the right moments. Only 102 pressures in the whole match, 3.6 per minute out of possession, below the finals average (4.0). But a third of them (33%) came within seconds of a loss: Bayern did not chase the ball, they took it back the instant they lost it. Dortmund, busier in volume (180 pressures, 4.4 per minute), counter-press half as much (17%).",
+   "keys": [
+    "Both teams win plenty of balls high: 13 high recoveries for Bayern, 12 for Dortmund, against an average of 7.6 in the finals.",
+    "Defensive height: 48.7 m for Bayern, 42.1 m for Dortmund. Bayern defended higher while pressing less.",
+    "Dortmund win back 57% of lost balls within 10 seconds, Bayern 52%.",
+    "PPDAs are high on both sides, 29.6 for Dortmund and 24.0 for Bayern: both let the other play out."
+   ],
+   "impact": "Everything suggests Bayern's counter-press stopped Dortmund launching quick attacks off Bayern's losses. In a final this open, keeping control right after losing the ball was worth more than harassing all over the pitch."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ni l'un ni l'autre n'a joué en petits triangles. Dortmund est 9e des 11 finalistes classés sur l'axe relationniste (−0,29), le Bayern 10e (−0,35). Les Bavarois ne jouent que 47 % de passes courtes, nettement sous la moyenne des finales (55 %). Leur réseau raconte un jeu de couloirs : le lien le plus utilisé est Dante – Alaba (30 passes), puis Alaba – Ribéry (24).",
+   "keys": [
+    "Bastian Schweinsteiger est le carrefour du Bayern (125 passes impliquées), devant Alaba (100) et Lahm (92).",
+    "À droite, Lahm – Robben (21 passes) forme l'autre circuit bavarois.",
+    "Côté Dortmund, le duo le plus actif est offensif : Marco Reus – Robert Lewandowski, 17 passes.",
+    "Gündoğan est le carrefour de Dortmund avec 70 passes, à peine plus de la moitié du total de Schweinsteiger."
+   ],
+   "impact": "Deux équipes positionnistes, mais avec des circuits différents : Dortmund cherchait vite ses attaquants, le Bayern faisait monter le ballon par ses latéraux. Les deux buts bavarois ont fini par venir des ailes, ce qui ressemble fort à la récompense de ce plan."
+  },
+  "en": {
+   "lead": "Neither side played in little triangles. Dortmund are 9th of the 11 ranked finalists on the relational axis (−0.29), Bayern 10th (−0.35). Bayern play only 47% short passes, well below the finals average (55%). Their network tells the story of a game played down the flanks: the busiest link is Dante – Alaba (30 passes), then Alaba – Ribéry (24).",
+   "keys": [
+    "Bastian Schweinsteiger is Bayern's hub (125 passes involved), ahead of Alaba (100) and Lahm (92).",
+    "On the right, Lahm – Robben (21 passes) forms Bayern's other circuit.",
+    "For Dortmund, the busiest pair is an attacking one: Marco Reus – Robert Lewandowski, 17 passes.",
+    "Gündoğan is Dortmund's hub with 70 passes, barely more than half of Schweinsteiger's total."
+   ],
+   "impact": "Two positional teams, but with different circuits: Dortmund looked for their forwards quickly, Bayern moved the ball up through their full-backs. Both Bayern goals involved the wings in the end, which looks very much like the plan paying off."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voici une finale qui a respiré par les transitions. Dortmund a concédé 3 tirs dans les 15 secondes suivant une perte (0,17 xG), le Bayern 6 (0,38 xG) : le Bayern est au-dessus de la moyenne des finales en nombre de tirs (3,0), Dortmund pile dans la moyenne. Le Bayern a perdu 154 ballons dans le jeu, Dortmund 134. Et pourtant, aucun des trois buts n'est né d'une transition.",
+   "keys": [
+    "Le Bayern a concédé 0,38 xG en transition, au-dessus de la moyenne des finales (0,26) : on peut y voir le prix de latéraux très hauts.",
+    "Dortmund reste sous la moyenne avec 0,17 xG concédé.",
+    "Aucun but encaissé en transition : les gardiens et les replis ont tenu à chaque fois."
+   ],
+   "impact": "Ces transitions expliquent pourquoi la finale est restée ouverte jusqu'au bout : chaque perte de balle pouvait mener à une frappe. Mais le score s'est fait sur attaques placées et sur penalty, là où le Bayern était plus fort."
+  },
+  "en": {
+   "lead": "Here is a final that breathed through its transitions. Dortmund conceded 3 shots within 15 seconds of a loss (0.17 xG), Bayern 6 (0.38 xG): Bayern are above the finals average in shot count (3.0), Dortmund exactly on it. Bayern lost 154 balls in open play, Dortmund 134. And yet none of the three goals came from a transition.",
+   "keys": [
+    "Bayern conceded 0.38 xG in transition, above the finals average (0.26): arguably the price of very high full-backs.",
+    "Dortmund stay below the average with 0.17 xG conceded.",
+    "No goal conceded in transition: goalkeepers and recovery runs held every time."
+   ],
+   "impact": "Those transitions explain why the final stayed open to the end: every lost ball could end in a shot. But the score was decided by settled attacks and a penalty, where Bayern were stronger."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Sans 360, on regarde l'attention reçue, et Dortmund avait clairement désigné ses cibles : Franck Ribéry (2,65 actions défensives de plus que la normale pour 10 touches) et Arjen Robben (1,77). Les ailiers bavarois étaient pris en étau dès qu'ils recevaient. Seul Łukasz Piszczek (1,03) représente Dortmund dans ce top 6, où figurent aussi Müller (0,96) et Mandžukić (0,90).",
+   "keys": [
+    "Les valeurs restent modestes à l'échelle des finales : le record de la base appartient à Fernando Torres, 4,82.",
+    "Neven Subotić est le joueur le plus libre du match (−1,22) : le Bayern ne venait pas le chercher.",
+    "Dante (−0,94) et Marcel Schmelzer (−0,77) complètent le bas du classement.",
+    "Cinq des six joueurs les plus entourés sont bavarois : Dortmund défendait sur l'homme qui recevait."
+   ],
+   "impact": "Dortmund a beaucoup entouré Ribéry, mais pas assez pour le faire taire : il reste le premier créateur du match. Et pendant qu'on serrait les ailiers, c'est Mandžukić qui a ouvert le score dans l'axe."
+  },
+  "en": {
+   "lead": "Without 360 data we look at attention received, and Dortmund had clearly picked their targets: Franck Ribéry (2.65 extra defensive actions per 10 touches) and Arjen Robben (1.77). Bayern's wingers were squeezed the moment they received. Łukasz Piszczek (1.03) is Dortmund's only player in this top 6, which also features Müller (0.96) and Mandžukić (0.90).",
+   "keys": [
+    "The values stay modest by finals standards: the database record belongs to Fernando Torres, 4.82.",
+    "Neven Subotić is the freest player in the match (−1.22): Bayern did not come for him.",
+    "Dante (−0.94) and Marcel Schmelzer (−0.77) complete the bottom of the table.",
+    "Five of the six most crowded players are from Bayern: Dortmund defended on whoever received."
+   ],
+   "impact": "Dortmund crowded Ribéry a lot, but not enough to silence him: he remains the biggest creator of the match. And while they squeezed the wingers, Mandžukić opened the scoring through the middle."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Le premier créateur de la finale est Franck Ribéry : 0,62 xT, soit 31 % de toute la menace bavaroise, presque tout à la passe (0,54). Son geste le plus fort tombe à la 26e minute (+0,35 xT), la minute même de la première occasion de Mandžukić. Et à la 60e, la minute du premier but, le tableau affiche deux passes menaçantes : Robben (+0,25) et Ribéry (+0,10).",
+   "keys": [
+    "Robben suit avec 0,54 xT (27 % de la menace bavaroise) : les deux ailiers produisent plus de la moitié du danger.",
+    "Côté Dortmund, Marco Reus porte 25 % de la menace (0,40 xT), devant Mats Hummels (0,20), un défenseur.",
+    "Le Bayern accélère après la pause (1,06 xT contre 0,95), quand Dortmund ralentit (0,69 contre 0,89).",
+    "À la 35e minute, Lewandowski conduit le ballon de 90 à 101 m : une percée jusque dans la surface."
+   ],
+   "impact": "Au total, 2,02 xT pour le Bayern contre 1,58 : un écart réel mais pas écrasant. La différence s'est surtout faite dans la qualité des positions de tir, et dans une seconde période où le Bayern a poussé quand Dortmund fléchissait."
+  },
+  "en": {
+   "lead": "The biggest creator of the final is Franck Ribéry: 0.62 xT, 31% of all of Bayern's threat, almost all of it through passing (0.54). His best action comes in minute 26 (+0.35 xT), the very minute of Mandžukić's first chance. And in minute 60, the minute of the opener, the table shows two threatening passes: Robben (+0.25) and Ribéry (+0.10).",
+   "keys": [
+    "Robben follows with 0.54 xT (27% of Bayern's threat): the two wingers produce more than half the danger.",
+    "For Dortmund, Marco Reus carries 25% of the threat (0.40 xT), ahead of Mats Hummels (0.20), a defender.",
+    "Bayern step up after the break (1.06 xT against 0.95), while Dortmund slow down (0.69 against 0.89).",
+    "In minute 35, Lewandowski carries the ball from 90 to 101 m: a drive right into the box."
+   ],
+   "impact": "In total, 2.02 xT for Bayern against 1.58: a real gap, but not a crushing one. The difference lay mostly in the quality of shooting positions, and in a second half where Bayern pushed as Dortmund faded."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur l'ensemble des finales de la base, Arjen Robben trône au 1er rang des 34 attaquants (note de 89), et ce soir-là il a enfin marqué. Derrière lui, la colonne vertébrale bavaroise est très bien classée : Schweinsteiger 3e des 37 milieux, Lahm 3e des 32 latéraux. Mais le gardien le mieux classé du match n'est pas Neuer : c'est Roman Weidenfeller, 4e sur 16, juste devant lui.",
+   "keys": [
+    "Weidenfeller obtient une note de 64 en une seule finale, Neuer 61 en 214 minutes.",
+    "Mandžukić est 9e des attaquants, avec 2 buts en 187 minutes de finales.",
+    "David Alaba se classe 7e des latéraux (62), Mats Hummels 7e des 24 défenseurs centraux.",
+    "Marco Reus, premier créateur de Dortmund, n'est que 14e des 37 milieux."
+   ],
+   "impact": "Le classement de Weidenfeller rend justice à sa soirée : 7 arrêts face au meilleur attaquant de la base et à son partenaire. Mais le Bayern alignait plus de joueurs au sommet de leur poste, et c'est cette profondeur qui a fait la différence en fin de match."
+  },
+  "en": {
+   "lead": "Across every final in the database, Arjen Robben sits on top of the 34 ranked forwards (score of 89), and on this night he finally scored. Behind him, Bayern's spine ranks very highly: Schweinsteiger 3rd of 37 midfielders, Lahm 3rd of 32 full-backs. But the best-ranked goalkeeper in the match is not Neuer: it is Roman Weidenfeller, 4th of 16, just ahead of him.",
+   "keys": [
+    "Weidenfeller scores 64 from a single final, Neuer 61 over 214 minutes.",
+    "Mandžukić is 9th among forwards, with 2 goals in 187 minutes of finals.",
+    "David Alaba ranks 7th among full-backs (62), Mats Hummels 7th of 24 centre-backs.",
+    "Marco Reus, Dortmund's chief creator, is only 14th of 37 midfielders."
+   ],
+   "impact": "Weidenfeller's ranking does justice to his night: 7 saves against the best forward in the database and his partner. But Bayern fielded more players at the top of their positions, and that depth made the difference late on."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Mats Hummels est un cas à part : son jumeau le plus proche, Kári Árnason au Mondial 2018, ne lui ressemble qu'à 66 %. Puis viennent Sergei Ignashevich (64 %) et Kalidou Koulibaly (61 %). Autrement dit, ce soir-là, Hummels n'avait pas vraiment d'équivalent dans toute la base. On peut y voir la trace d'un défenseur central qui créait aussi de la menace (0,20 xT).",
+   "keys": [
+    "Mario Mandžukić a pour jumeau Álvaro Morata à l'Euro 2016 (95 %), puis Olivier Giroud au Mondial 2022 (94 %) : le profil d'un avant-centre de surface.",
+    "Roman Weidenfeller ressemble à 92 % à Wojciech Szczęsny au Mondial 2022.",
+    "Neven Subotić se rapproche de Denis Vavro à l'Euro 2024 (93 %).",
+    "David Alaba a pour jumeaux Joachim Andersen à l'Euro 2024 (87 %) et Kieran Trippier au Mondial 2022 (86 %)."
+   ],
+   "impact": "Un Hummels sans jumeau et un Mandžukić qui ressemble à tous les grands avant-centres de surface : d'un côté l'originalité de Dortmund, de l'autre l'efficacité classique du Bayern. Ce soir-là, le classique l'a emporté."
+  },
+  "en": {
+   "lead": "Mats Hummels is a case apart: his closest twin, Kári Árnason at the 2018 World Cup, is only 66% similar. Then come Sergei Ignashevich (64%) and Kalidou Koulibaly (61%). In other words, on that night Hummels had no real equivalent anywhere in the database. You can perhaps see in it a centre-back who also created threat (0.20 xT).",
+   "keys": [
+    "Mario Mandžukić's twin is Álvaro Morata at Euro 2016 (95%), then Olivier Giroud at the 2022 World Cup (94%): the profile of a penalty-box striker.",
+    "Roman Weidenfeller is 92% similar to Wojciech Szczęsny at the 2022 World Cup.",
+    "Neven Subotić resembles Denis Vavro at Euro 2024 (93%).",
+    "David Alaba's twins are Joachim Andersen at Euro 2024 (87%) and Kieran Trippier at the 2022 World Cup (86%)."
+   ],
+   "impact": "A twinless Hummels and a Mandžukić who looks like every great penalty-box striker: on one side Dortmund's originality, on the other Bayern's classic efficiency. On that night, the classic won."
+  }
+ }
+}

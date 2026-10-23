@@ -1,0 +1,200 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Cent vingt minutes sans but, puis une séance de tirs au but remportée 3-0 par le Maroc : ce huitième de finale a été un siège qui n'a jamais fait tomber les murailles. L'Espagne a eu le ballon à 71 %, aligné 1068 passes contre 365 et tiré deux fois plus (12 contre 6). Et pourtant, l'xG penche légèrement côté marocain : 0,57 contre 0,49. Aucune des deux équipes n'a obtenu la moindre grosse occasion.",
+   "keys": [
+    "Un seul tir espagnol cadré sur 12 : la possession écrasante n'a jamais débouché sur un vrai danger pour Bounou.",
+    "Romain Saïss, 20 actions défensives en 123 minutes : le chef de chantier d'une muraille qui a dégagé 35 ballons, contre 10 côté espagnol.",
+    "La meilleure occasion du match est marocaine : Nayef Aguerd à la 42e minute, 0,25 xG, à côté.",
+    "Côté espagnol, la dernière cartouche part à la 123e : Pablo Sarabia, 0,10 xG, hors cadre, à quelques instants des tirs au but.",
+    "Sofiane Boufal a tenté de déchirer le rideau à lui seul : 6 dribbles réussis en 66 minutes."
+   ],
+   "impact": "Le score vierge est un miroir fidèle des chiffres : deux équipes sous les 0,6 xG, aucune grosse occasion. Le Maroc a accepté de laisser le ballon sans presque rien concéder, et le match est allé là où il voulait l'emmener : la séance de tirs au but, qu'il a gagnée sans trembler."
+  },
+  "en": {
+   "lead": "A hundred and twenty minutes without a goal, then a 3-0 shoot-out win for Morocco: this Round of 16 tie was a siege that never brought the walls down. Spain had 71% of the ball, completed 1068 passes against 365 and took twice as many shots (12 to 6). And yet the xG leans slightly Morocco's way: 0.57 to 0.49. Neither side created a single big chance.",
+   "keys": [
+    "Just one of Spain's 12 shots was on target: all that possession never turned into real danger for Bounou.",
+    "Romain Saïss made 20 defensive actions in 123 minutes, the foreman of a wall that cleared the ball 35 times against Spain's 10.",
+    "The best chance of the match was Moroccan: Nayef Aguerd in minute 42, 0.25 xG, wide.",
+    "Spain's last shot at it came in minute 123: Pablo Sarabia, 0.10 xG, off target, moments before the shoot-out.",
+    "Sofiane Boufal tried to tear the curtain open on his own: 6 successful dribbles in 66 minutes."
+   ],
+   "impact": "The goalless score is a faithful mirror of the numbers: both teams under 0.6 xG, no big chances at all. Morocco were happy to give up the ball while conceding almost nothing, and the match went exactly where they wanted it: the shoot-out, which they won without a wobble."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "Deux 4-3-3 sur le papier, deux mondes sur le terrain. L'Espagne s'installait en 3-4-3 dans la moitié adverse, avec une dernière ligne à 52,7 m de son but, loin au-dessus de la moyenne du tournoi (40,3 m). Le Maroc, lui, se repliait en 3-5-2 très compact : dernière ligne à 24,3 m et un bloc de 16,5 m de profondeur seulement. Entre les deux, un mur, et l'Espagne qui tournait autour.",
+   "keys": [
+    "Le Maroc joue 29 % de ses touches dans le couloir droit : Hakimi, Ounahi et Ziyech formaient un triangle serré de ce côté.",
+    "Ce côté droit marocain faisait face au côté gauche espagnol, celui de Jordi Alba (9 m de la touche) et de Daniel Olmo (8 m), deux joueurs collés à la même ligne.",
+    "L'Espagne occupe 3,7 couloirs en moyenne avec le ballon, contre 2,5 dans le tournoi : la largeur était là, l'espace derrière la défense non.",
+    "Le Maroc fait 44 % de ses touches dans son propre tiers et seulement 16 % dans le dernier : une équipe qui vivait sur ses 35 premiers mètres."
+   ],
+   "impact": "La géométrie explique le blocage : l'Espagne étirait le terrain en largeur, mais un bloc de 16,5 m de profondeur ne laisse aucun intervalle à attaquer. Tout indique que le Maroc a préféré fermer l'axe et le dos de sa défense plutôt que les côtés, et l'Espagne n'a jamais trouvé la clé."
+  },
+  "en": {
+   "lead": "Two 4-3-3s on paper, two different worlds on the pitch. Spain set up in a 3-4-3 in the opposition half, with their back line 52.7 m from their own goal, far above the tournament average (40.3 m). Morocco dropped into a very compact 3-5-2: back line at 24.3 m and a block just 16.5 m deep. In between stood a wall, and Spain kept walking around it.",
+   "keys": [
+    "Morocco play 29% of their touches in the right lane: Hakimi, Ounahi and Ziyech formed a tight triangle on that side.",
+    "That Moroccan right faced Spain's left, home to Jordi Alba (9 m from the line) and Daniel Olmo (8 m), two players hugging the same touchline.",
+    "Spain occupy 3.7 lanes on average in possession, against 2.5 across the tournament: the width was there, the space behind the defence was not.",
+    "Morocco make 44% of their touches in their own third and only 16% in the final third: a team living in its first 35 metres."
+   ],
+   "impact": "The geometry explains the deadlock: Spain stretched the pitch wide, but a block only 16.5 m deep leaves no gaps to attack. Everything suggests Morocco chose to shut the middle and the space behind them rather than the flanks, and Spain never found the key."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Un PPDA de 38,5 : le Maroc laissait l'Espagne enchaîner les passes avant de tenter quoi que ce soit. Ce n'est pas de la paresse, c'est un choix : 2,7 pressions par minute sans ballon (moyenne du tournoi : 3,7), des actions défensives à 38,8 m de son but. L'Espagne faisait exactement l'inverse : 5,7 pressions par minute et 22 récupérations hautes, plus du double de la moyenne (9,3).",
+   "keys": [
+    "Hauteur des actions défensives espagnoles : 57,4 m, contre 48,2 m en moyenne dans le tournoi. L'Espagne défendait chez l'adversaire.",
+    "32 % des pressions espagnoles tombent juste après une perte, bien au-dessus de la norme (21 %).",
+    "Mais ce contre-pressing ne récupère que 21 % des ballons en moins de 5 secondes : les Marocains se débarrassaient vite du cuir.",
+    "Le Maroc, lui, laisse filer : 39 % de ses ballons perdus ne sont récupérés qu'après plus de 20 secondes."
+   ],
+   "impact": "Les deux plans se sont neutralisés. L'Espagne récupérait haut, mais face à un bloc déjà regroupé, ses 22 récupérations hautes n'ont produit aucune grosse occasion. Le Maroc, en renonçant au pressing, a sans doute économisé ses forces pour 123 minutes de concentration."
+  },
+  "en": {
+   "lead": "A PPDA of 38.5: Morocco let Spain string pass after pass together before attempting anything. It was not laziness, it was a choice: 2.7 pressures per minute out of possession (tournament average: 3.7), with defensive actions 38.8 m from their own goal. Spain did the exact opposite: 5.7 pressures per minute and 22 high regains, more than double the average (9.3).",
+   "keys": [
+    "Height of Spain's defensive actions: 57.4 m, against a tournament average of 48.2 m. Spain were defending in the opponent's half.",
+    "32% of Spain's pressures came straight after a loss, well above the norm (21%).",
+    "Yet that counter-press regained only 21% of balls within 5 seconds: Morocco moved the ball on quickly.",
+    "Morocco, for their part, let it go: 39% of their lost balls were only won back after more than 20 seconds."
+   ],
+   "impact": "The two plans cancelled each other out. Spain won the ball high, but against a block that was already in shape, their 22 high regains produced no big chances. By giving up on pressing, Morocco probably saved their legs for 123 minutes of concentration."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Surprise : dans ce match, la plus positionniste des deux, c'est l'Espagne. Indice de −0,59, 27e équipe sur 32 au classement des plus relationnistes, et seulement 49 % de passes courtes, sous la moyenne (53 %). Le réseau tourne autour d'un axe unique : Laporte – Rodri, 127 passes entre eux. Le Maroc (−0,25) jouait plus près du ballon, simplement avec très peu de ballons.",
+   "keys": [
+    "Rodri est impliqué dans 357 passes, Laporte dans 322 : la circulation espagnole passait d'abord par les deux joueurs les plus reculés.",
+    "Le Maroc combine sur son côté droit : Ounahi – Hakimi et Ziyech – Hakimi, 21 passes chacun, puis Ounahi – Ziyech (19).",
+    "Hakimi est le carrefour marocain (59 passes) : le latéral droit servait de point d'appui à chaque sortie.",
+    "Latitude latérale espagnole : 11,8 m, sous la moyenne du tournoi (13,0 m). Chacun restait dans son couloir."
+   ],
+   "impact": "Une possession organisée par postes fixes est facile à lire pour un bloc bas : chaque passe latérale entre Laporte et Rodri laissait au Maroc le temps de coulisser. Le Maroc, avec peu de ballons, misait sur un petit trio du côté droit pour respirer."
+  },
+  "en": {
+   "lead": "Surprise: in this match, the more positional side was Spain. An index of −0.59, 27th of 32 in the most-relational ranking, and only 49% short passes, below the average (53%). The network spun around a single axis: Laporte – Rodri, 127 passes between them. Morocco (−0.25) played closer to the ball, just with very little of it.",
+   "keys": [
+    "Rodri is involved in 357 passes, Laporte in 322: Spain's circulation went first through their two deepest players.",
+    "Morocco combine on their right: Ounahi – Hakimi and Ziyech – Hakimi, 21 passes each, then Ounahi – Ziyech (19).",
+    "Hakimi is Morocco's hub (59 passes): the right-back was the outlet for every attempt to play out.",
+    "Spain's lateral freedom: 11.8 m, below the tournament average (13.0 m). Everyone stayed in their lane."
+   ],
+   "impact": "Possession organised around fixed positions is easy to read for a low block: every sideways pass between Laporte and Rodri gave Morocco time to shuffle across. With little of the ball, Morocco leaned on a small right-sided trio to breathe."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Le Maroc ne s'est quasiment jamais fait surprendre : 1 seul tir concédé dans les 15 secondes suivant une perte, pour 0,03 xG. Logique, quand on perd le ballon avec 5,6 joueurs déjà derrière lui. L'Espagne, avec sa dernière ligne si haute, prenait davantage de risques : 3 tirs concédés en transition pour 0,39 xG, au-dessus de la moyenne du tournoi (0,27).",
+   "keys": [
+    "Au moment de la perte, l'Espagne n'a que 4,3 joueurs derrière le ballon en moyenne, 4,9 quelques secondes plus tard.",
+    "Bloc reformé à 7 joueurs ou plus : 38 % des cas pour le Maroc, 21 % pour l'Espagne (moyenne : 29 %).",
+    "Exemple 360 à la 24e minute : aucun Espagnol derrière le ballon au moment de la perte, 7 ensuite. Le repli a sauvé la situation.",
+    "Côté marocain, à la 75e : 2 joueurs derrière le ballon à la perte, 7 quelques secondes plus tard."
+   ],
+   "impact": "La seule vraie faille du plan espagnol se trouvait là, dans le dos d'une défense très haute, et le Maroc l'a entrouverte sans parvenir à l'exploiter. En face, le Maroc n'a jamais offert de contre : avec un tel repli, l'Espagne n'avait que des attaques placées à jouer."
+  },
+  "en": {
+   "lead": "Morocco were hardly ever caught out: just 1 shot conceded within 15 seconds of a loss, worth 0.03 xG. No surprise when you lose the ball with 5.6 players already behind it. Spain, with their very high back line, took more risks: 3 shots conceded in transition for 0.39 xG, above the tournament average (0.27).",
+   "keys": [
+    "When they lost the ball, Spain had only 4.3 players behind it on average, 4.9 a few seconds later.",
+    "Block rebuilt with 7 or more players: 38% of the time for Morocco, 21% for Spain (average: 29%).",
+    "A 360 example in minute 24: no Spaniard behind the ball at the moment of the loss, 7 afterwards. The recovery runs saved the day.",
+    "On Morocco's side, in minute 75: 2 players behind the ball at the loss, 7 a few seconds later."
+   ],
+   "impact": "The only real crack in Spain's plan was there, behind a very high defence, and Morocco prised it open without managing to exploit it. Morocco, meanwhile, never offered a counter: with recovery like that, Spain only had set attacks to play."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "Youssef En-Nesyri a vécu un match de pilier de mêlée : 1,76 adversaire de plus que la normale autour de chacune de ses touches, le chiffre le plus haut du match. Derrière lui, Álvaro Morata (1,44), qui est d'ailleurs le 2e plus gros aimant de tout le tournoi (1,24). Et le podium marocain se prolonge au milieu : Ounahi (1,30) et Amrabat (1,11) étaient enveloppés dès qu'ils recevaient.",
+   "keys": [
+    "Quatre des six joueurs les plus entourés sont marocains, Amallah (1,00) compris : chaque ballon marocain se jouait au milieu d'une forêt de maillots adverses.",
+    "À l'autre extrémité, Laporte (−1,13) et Rodri (−0,75) touchaient le ballon dans le désert : personne ne venait les chercher.",
+    "Alejandro Balde (−0,61) complète ce trio d'Espagnols laissés tranquilles."
+   ],
+   "impact": "Cette carte de la gravité résume le plan marocain : laisser relancer Laporte et Rodri, étouffer tout ce qui entre dans le bloc. Les Espagnols étaient libres là où ça ne comptait pas, et à l'étroit là où ça comptait."
+  },
+  "en": {
+   "lead": "Youssef En-Nesyri had a night like a rugby prop: 1.76 extra opponents around each of his touches, the highest figure of the match. Behind him comes Álvaro Morata (1.44), who happens to be the 2nd biggest magnet of the whole tournament (1.24). And Morocco's podium carries on in midfield: Ounahi (1.30) and Amrabat (1.11) were swallowed up as soon as they received.",
+   "keys": [
+    "Four of the six most crowded players are Moroccan, Amallah (1.00) included: every Moroccan possession was played in a forest of opposing shirts.",
+    "At the other extreme, Laporte (−1.13) and Rodri (−0.75) were on the ball in a desert: nobody came to press them.",
+    "Alejandro Balde (−0.61) completes the trio of Spaniards left in peace."
+   ],
+   "impact": "This gravity map is Morocco's plan in a nutshell: let Laporte and Rodri build, smother everything that enters the block. Spain's players were free where it did not matter and cramped where it did."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "L'Espagne a créé deux fois plus de menace que le Maroc (2,21 xT contre 1,05), et une grosse part en prolongation : 0,98 xT, plus qu'en première (0,58) ou en deuxième mi-temps (0,65). Son geste le plus menaçant arrive à la 123e minute, une passe de Rodri de 83 à 102 m (0,36 xT), la minute même de la frappe ratée de Sarabia : ce n'est sans doute pas un hasard. Côté marocain, presque tout partait de Sofiane Boufal.",
+   "keys": [
+    "Boufal produit à lui seul 43 % de la menace marocaine (0,45 xT), dont une passe à 0,34 xT à la 42e minute, celle de l'occasion d'Aguerd.",
+    "Rodri est le plus grand créateur du match : 0,61 xT, soit 28 % de la menace espagnole, devant Pedri (0,48 xT, 22 %).",
+    "Laporte apporte 0,15 xT balle au pied : le défenseur central avançait faute de trouver des lignes de passe.",
+    "Le Maroc s'éteint au fil du match : 0,58 xT en première mi-temps, 0,30 en deuxième, 0,18 en prolongation."
+   ],
+   "impact": "La menace espagnole venait de loin, des pieds de Rodri et de Laporte, ce qui en dit long sur la difficulté à pénétrer le bloc. Le Maroc a vécu de quelques éclairs de Boufal, et sa baisse de régime en fin de match n'a jamais été punie."
+  },
+  "en": {
+   "lead": "Spain created twice as much threat as Morocco (2.21 xT to 1.05), with a big slice of it in extra time: 0.98 xT, more than in the first (0.58) or second half (0.65). Their most threatening action came in minute 123, a Rodri pass from 83 to 102 m (0.36 xT), in the very minute of Sarabia's missed shot: probably no coincidence. For Morocco, almost everything went through Sofiane Boufal.",
+   "keys": [
+    "Boufal alone produces 43% of Morocco's threat (0.45 xT), including a 0.34 xT pass in minute 42, the minute of Aguerd's chance.",
+    "Rodri is the match's top creator: 0.61 xT, 28% of Spain's threat, ahead of Pedri (0.48 xT, 22%).",
+    "Laporte adds 0.15 xT from carries: the centre-back pushed forward for lack of passing lanes.",
+    "Morocco faded as the game wore on: 0.58 xT in the first half, 0.30 in the second, 0.18 in extra time."
+   ],
+   "impact": "Spain's threat came from deep, from Rodri and Laporte, which says a lot about how hard it was to get inside the block. Morocco lived on a few flashes from Boufal, and their late dip was never punished."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Les classements du tournoi lisent ce match d'une drôle de façon : le meilleur défenseur central du Mondial selon nos critères s'appelle Rodri, 1er sur 42 avec une note de 79. Placé à côté de Laporte, il occupait bien ce rôle dans les positions moyennes. Jordi Alba est 3e des 98 latéraux classés, Pedri 4e des 97 milieux : l'Espagne alignait une batterie de joueurs très bien notés.",
+   "keys": [
+    "Rodri devance au classement des centraux Ibrahima Konaté et Thiago Silva, les deux autres meneurs du poste.",
+    "Jordi Alba, 3e des latéraux avec 2 passes décisives en 271 minutes (note de 75).",
+    "Côté marocain, Achraf Hakimi est 38e des latéraux, avec 661 minutes jouées dans le tournoi.",
+    "Romain Saïss est 20e des 42 défenseurs centraux, avec 1 but dans la compétition."
+   ],
+   "impact": "Sur le papier, l'Espagne avait plusieurs des individualités les mieux classées du tournoi. Le résultat rappelle qu'un bloc collectif bien réglé peut neutraliser des joueurs notés bien plus haut que les siens."
+  },
+  "en": {
+   "lead": "The tournament rankings read this match in a funny way: the best centre-back of the World Cup by our measures is Rodri, 1st of 42 with a score of 79. Lined up next to Laporte, he did occupy that role in the average positions. Jordi Alba is 3rd of 98 ranked full-backs, Pedri 4th of 97 midfielders: Spain fielded a battery of very highly rated players.",
+   "keys": [
+    "Rodri tops the centre-back ranking ahead of Ibrahima Konaté and Thiago Silva, the other two leaders in that role.",
+    "Jordi Alba, 3rd among full-backs with 2 assists in 271 minutes (score of 75).",
+    "For Morocco, Achraf Hakimi is 38th among full-backs, with 661 minutes played in the tournament.",
+    "Romain Saïss is 20th of 42 centre-backs, with 1 goal in the competition."
+   ],
+   "impact": "On paper, Spain had several of the best-ranked individuals of the tournament. The result is a reminder that a well-drilled collective block can neutralise players rated far higher than its own."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Les jumeaux de Rodri confirment son rôle dans ce Mondial : Aymeric Laporte à l'Euro 2020 (94 %) et Pau Torres au même Euro (93 %). Un profil de défenseur central relanceur, plus que de milieu. Le plus savoureux concerne Álvaro Morata : Aleksandar Mitrović au Mondial 2018 et Olivier Giroud au Mondial 2022, tous deux à 98 %. L'avant-centre de surface dans toute sa pureté.",
+   "keys": [
+    "Jordi Alba ressemble à Dani Alves en finale de Ligue des champions (94 %) puis à Marcelo dans le même cadre (92 %) : des latéraux qui jouent comme des milieux.",
+    "Le jumeau de Marco Asensio est Cristiano Ronaldo au Mondial 2018 (93 %) : un attaquant qui frappe beaucoup.",
+    "Achraf Hakimi se rapproche de Fágner au Mondial 2018 (88 %), une ressemblance plus lâche que celle de ses voisins : son profil sort de l'ordinaire.",
+    "Pedri a trois jumeaux à 91 %, dont Granit Xhaka à l'Euro 2020 : un relayeur qui distribue."
+   ],
+   "impact": "La plupart des Espagnols ont des jumeaux à 90 % et plus : des profils très lisibles, cohérents avec le jeu positionnel décrit plus haut. Face à une équipe aussi prévisible, le Maroc savait à peu près à quoi s'attendre."
+  },
+  "en": {
+   "lead": "Rodri's twins confirm his role at this World Cup: Aymeric Laporte at Euro 2020 (94%) and Pau Torres at the same Euro (93%). A ball-playing centre-back profile rather than a midfielder's. The tastiest one is Álvaro Morata: Aleksandar Mitrović at the 2018 World Cup and Olivier Giroud at the 2022 World Cup, both at 98%. The penalty-box striker in its purest form.",
+   "keys": [
+    "Jordi Alba resembles Dani Alves in a Champions League final (94%) and then Marcelo in the same setting (92%): full-backs who play like midfielders.",
+    "Marco Asensio's twin is Cristiano Ronaldo at the 2018 World Cup (93%): a forward who shoots a lot.",
+    "Achraf Hakimi is closest to Fágner at the 2018 World Cup (88%), a looser match than his neighbours get: an out-of-the-ordinary profile.",
+    "Pedri has three twins at 91%, including Granit Xhaka at Euro 2020: a distributing midfielder."
+   ],
+   "impact": "Most Spaniards have twins at 90% or above: very readable profiles, consistent with the positional play described earlier. Against a team that predictable, Morocco knew more or less what was coming."
+  }
+ }
+}

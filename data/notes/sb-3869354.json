@@ -1,0 +1,198 @@
+{
+ "s1": {
+  "fr": {
+   "lead": "Quart de finale, Angleterre contre France, et un tableau de bord qui ment à moitié. Sur le papier, l'Angleterre écrase tout : 16 tirs contre 8, 2,35 xG contre 0,84, 59 % de possession. Mais retirez les deux penaltys de Harry Kane et la balance s'inverse : 0,79 npxG pour les Anglais, 0,84 pour les Français. Les Bleus ont gagné avec moins de ballons, mais pas avec moins d'occasions dans le jeu.",
+   "keys": [
+    "Tchouaméni ouvre le score à la 17e minute sur une frappe à 0,03 xG : le genre de tir qu'on ne réussit presque jamais, et qu'il a réussi.",
+    "Kane obtient deux penaltys à 0,78 xG chacun : il marque le premier à la 54e, envoie le second au-dessus à la 84e. Le match tient dans cet écart.",
+    "Antoine Griezmann ne tente pas un seul tir mais délivre 2 passes décisives et produit 0,44 xT : le chef d'orchestre sans partition de buteur.",
+    "Grosses occasions : 2 pour l'Angleterre, 0 pour la France. Et pourtant Lloris doit faire 6 arrêts, Pickford seulement 3."
+   ],
+   "impact": "L'Angleterre a eu le volume, la France a eu la précision : 5 tirs cadrés sur 8 et deux buts sur des occasions modestes. Les deux penaltys pèsent l'essentiel de l'avance anglaise en xG ; le second, manqué à la 84e minute, a envoyé la France en demi-finale."
+  },
+  "en": {
+   "lead": "A quarter-final, England against France, and a dashboard that only half tells the truth. On paper England crush everything: 16 shots to 8, 2.35 xG to 0.84, 59% possession. But strip out Harry Kane's two penalties and the scales tip the other way: 0.79 npxG for England, 0.84 for France. Les Bleus won with less of the ball, not with fewer chances from open play.",
+   "keys": [
+    "Tchouaméni opens the scoring in minute 17 with a 0.03 xG strike: the kind of shot that almost never goes in, and his did.",
+    "Kane wins two penalties worth 0.78 xG each: he scores the first in minute 54 and sends the second over in minute 84. The whole match lives in that gap.",
+    "Antoine Griezmann does not attempt a single shot but delivers 2 assists and 0.44 xT: a conductor with no interest in the scoresheet.",
+    "Big chances: 2 for England, 0 for France. Yet Lloris has to make 6 saves, Pickford only 3."
+   ],
+   "impact": "England had the volume, France had the precision: 5 of 8 shots on target and two goals from modest chances. The two penalties account for most of England's xG lead; the second, missed in minute 84, sent France into the semi-finals."
+  }
+ },
+ "s2": {
+  "fr": {
+   "lead": "L'Angleterre annonçait un 4-3-3 et l'a joué tel quel avec le ballon, mais en le penchant à gauche : Luke Shaw à 4 m de la touche et Phil Foden juste devant lui, à 11 m. Sans ballon, le dessin devient un étrange 3-6-1, une ligne de six qui s'étire devant la défense. La France, elle, passe d'un 4-2-3-1 annoncé à un 4-3-3 avec le ballon, puis à un 4-2-1-3 sans : trois attaquants qui restent devant, quoi qu'il arrive.",
+   "keys": [
+    "L'Angleterre fait 26 % de ses touches dans le couloir gauche et seulement 12 % dans le demi-espace droit : le jeu partait vers Shaw et Foden.",
+    "La France répartit parfaitement : 24 % à gauche, 24 % à droite, avec Theo Hernández (6 m de la touche) et Dembélé (64 m) comme deux pistons.",
+    "Sans le ballon, la dernière ligne française recule à 19,6 m de son but, très loin de la moyenne du tournoi (28,4 m) : une équipe qui accepte de défendre dans sa surface.",
+    "Avec le ballon, la dernière ligne anglaise monte à 43,4 m, au-dessus de la moyenne de 40,3 m : les Anglais jouaient dans le camp français."
+   ],
+   "impact": "Le bloc bas français a obligé l'Angleterre à attaquer sur des espaces minuscules, et tout indique que c'était accepté : la France ne laissait que des miettes devant sa surface. Avec trois attaquants restés haut, elle gardait en même temps de quoi faire mal à chaque ballon récupéré."
+  },
+  "en": {
+   "lead": "England announced a 4-3-3 and played it as such in possession, but tilted to the left: Luke Shaw 4 m from the touchline and Phil Foden just ahead of him, at 11 m. Out of possession, the shape turns into an odd 3-6-1, a line of six stretched in front of the defence. France went from an announced 4-2-3-1 to a 4-3-3 with the ball, then a 4-2-1-3 without it: three forwards who stay up front no matter what.",
+   "keys": [
+    "England make 26% of their touches in the left lane and only 12% in the right half-space: the play kept flowing towards Shaw and Foden.",
+    "France split it perfectly: 24% left, 24% right, with Theo Hernández (6 m from the line) and Dembélé (64 m) working as two pistons.",
+    "Without the ball, France's back line drops to 19.6 m from goal, far below the tournament average (28.4 m): a team happy to defend in its own box.",
+    "With the ball, England's back line pushes up to 43.4 m, above the average of 40.3 m: England were living in France's half."
+   ],
+   "impact": "France's low block forced England to attack through tiny spaces, and everything suggests that was by design: France left only crumbs in front of their box. With three forwards staying high, they also kept enough to hurt England on every regain."
+  }
+ },
+ "s3": {
+  "fr": {
+   "lead": "Deux philosophies opposées. L'Angleterre presse : 4,0 pressions par minute sans ballon, un PPDA de 12,0 et 34 % de contre-pressing, loin au-dessus de la moyenne du tournoi (21 %). La France, elle, laisse venir : PPDA de 29,8, 2,9 pressions par minute. Les Bleus laissaient les Anglais enchaîner les passes avant de tenter la moindre action défensive. Un pressing en mode économie d'énergie, assumé.",
+   "keys": [
+    "Paradoxe : malgré leur contre-pressing, les Anglais ne récupèrent que 20 % de leurs ballons perdus en moins de 5 s, contre 31 % pour la France.",
+    "Récupérations hautes : 13 pour l'Angleterre, 7 pour la France. L'agressivité anglaise a au moins payé sur ce plan.",
+    "Hauteur moyenne des actions défensives : 48,7 m pour l'Angleterre, 41,6 m pour la France, nettement sous la moyenne du tournoi (48,2 m).",
+    "Après une perte, l'Angleterre met plus de 20 secondes à récupérer le ballon dans 35 % des cas : quand la France le gardait, elle le gardait vraiment."
+   ],
+   "impact": "La France a choisi de ne pas courir après le ballon, et le score lui a donné raison. Ce pressing tranquille explique en partie les 59 % de possession anglaise, sans que l'Angleterre parvienne à en faire des buts dans le jeu."
+  },
+  "en": {
+   "lead": "Two opposite philosophies. England press: 4.0 pressures per minute out of possession, a PPDA of 12.0 and 34% counter-pressing, far above the tournament average (21%). France sit back: a PPDA of 29.8, 2.9 pressures per minute. Les Bleus let England string passes together before attempting any defensive action at all. Energy-saving mode, fully embraced.",
+   "keys": [
+    "The paradox: for all their counter-pressing, England win back only 20% of lost balls within 5 s, against 31% for France.",
+    "High regains: 13 for England, 7 for France. England's aggression at least paid off there.",
+    "Average height of defensive actions: 48.7 m for England, 41.6 m for France, well below the tournament average (48.2 m).",
+    "After a loss, England need more than 20 seconds to win the ball back in 35% of cases: when France kept it, they really kept it."
+   ],
+   "impact": "France chose not to chase the ball, and the scoreline proved them right. That relaxed press partly explains England's 59% possession, which England never managed to turn into an open-play goal."
+  }
+ },
+ "s4": {
+  "fr": {
+   "lead": "Ni l'une ni l'autre n'est vraiment relationniste, mais pas pour les mêmes raisons. L'Angleterre (−0,14, 15e sur 32) fait tourner derrière : son réseau passe par Maguire, impliqué dans 159 passes, et Stones (131). La France (−0,47, 24e) est plus rigide encore, mais son réseau est éclaté : le carrefour principal, Tchouaméni, ne touche que 74 passes. Deux façons d'être positionniste, l'une patiente, l'autre directe.",
+   "keys": [
+    "Le lien le plus utilisé du match : Stones – Maguire, 49 passes. Suivi de Maguire – Shaw (47) : la circulation anglaise partait de la gauche de la défense.",
+    "Côté français, les duos les plus actifs sont sur les ailes : Koundé – Dembélé (20) et Mbappé – Hernández (17).",
+    "La France fait pourtant plus de combinaisons rapides que l'Angleterre : 32 % contre 27 %, presque la moyenne du tournoi (33 %).",
+    "Liberté latérale : 13,2 m pour l'Angleterre, 11,3 m pour la France. Les Français restaient plus fidèles à leur couloir."
+   ],
+   "impact": "L'Angleterre a eu le ballon, mais ses relayeurs principaux étaient des défenseurs centraux : beaucoup de passes, loin du but. La France a peu combiné, mais vite et sur les côtés, là où Griezmann et ses ailiers ont trouvé les deux passes qui ont fait les buts."
+  },
+  "en": {
+   "lead": "Neither side is truly relational, but for different reasons. England (−0.14, 15th of 32) circulate at the back: their network runs through Maguire, involved in 159 passes, and Stones (131). France (−0.47, 24th) are even more rigid, but their network is scattered: the main hub, Tchouaméni, only touches 74 passes. Two ways of being positional, one patient, the other direct.",
+   "keys": [
+    "The busiest link of the match: Stones – Maguire, 49 passes. Followed by Maguire – Shaw (47): England's circulation started on the left of their defence.",
+    "For France, the busiest pairs are out wide: Koundé – Dembélé (20) and Mbappé – Hernández (17).",
+    "France still combine more quickly than England: 32% against 27%, close to the tournament average (33%).",
+    "Lateral freedom: 13.2 m for England, 11.3 m for France. The French stuck more faithfully to their lanes."
+   ],
+   "impact": "England had the ball, but their main hubs were centre-backs: lots of passes, far from goal. France combined little, but quickly and out wide, which is where Griezmann and his wingers found the two passes that produced the goals."
+  }
+ },
+ "s5": {
+  "fr": {
+   "lead": "Voilà un quart de finale presque sans transitions. L'Angleterre n'a concédé qu'1 tir dans les 15 secondes suivant une perte, pour 0,03 xG ; la France 4 tirs pour 0,07 xG. La moyenne du tournoi est de 0,27 xG. Aucun des trois buts ne vient d'une transition. Ce match s'est décidé face à des défenses en place, pas dans le désordre.",
+   "keys": [
+    "Le chiffre étonnant : l'Angleterre ne reforme un bloc de 7 joueurs ou plus derrière le ballon que dans 5 % des cas, contre 29 % en moyenne dans le tournoi.",
+    "Pire, le nombre d'Anglais derrière le ballon baisse après la perte : 5,0 au moment de la perte, 4,5 six à dix secondes plus tard.",
+    "Exemple 360 à la 34e minute : 1 seul Anglais derrière le ballon à la perte, 5 quelques secondes après.",
+    "La France, plus prudente, passe de 4,7 à 5,0 joueurs derrière le ballon, et reforme son bloc dans 18 % des cas."
+   ],
+   "impact": "L'Angleterre a pris un vrai risque en se projetant aussi nombreuse, mais la France n'en a presque jamais profité : 0,03 xG en transition, c'est quasiment rien. Ce n'est sans doute pas un hasard : avec un pressing aussi bas, les Bleus récupéraient le ballon trop loin pour contrer vite."
+  },
+  "en": {
+   "lead": "A quarter-final with almost no transitions. England conceded just 1 shot within 15 seconds of losing the ball, worth 0.03 xG; France 4 shots worth 0.07 xG. The tournament average is 0.27 xG. None of the three goals came from a transition. This game was settled against set defences, not in chaos.",
+   "keys": [
+    "The surprising figure: England rebuild a block of 7 or more players behind the ball in only 5% of cases, against 29% on average in the tournament.",
+    "Worse, the number of English players behind the ball drops after the loss: 5.0 at the moment of the loss, 4.5 six to ten seconds later.",
+    "A 360 example in minute 34: just 1 English player behind the ball at the loss, 5 a few seconds later.",
+    "France, more careful, go from 4.7 to 5.0 players behind the ball and rebuild their block in 18% of cases."
+   ],
+   "impact": "England took a real risk by committing so many bodies forward, but France almost never made them pay: 0.03 xG in transition is next to nothing. That is probably no accident: with such a deep press, Les Bleus won the ball back too far from goal to break quickly."
+  }
+ },
+ "s6": {
+  "fr": {
+   "lead": "L'aimant du match porte le numéro de buteur anglais : Harry Kane, avec 0,82 adversaire de plus que la normale autour de chacune de ses touches. La défense française ne le lâchait pas d'une semelle. Côté bleu, ce n'est pas Mbappé (0,35) qui attire le plus, mais Griezmann (0,56) et Adrien Rabiot (0,52) : les milieux étaient les vraies cibles anglaises.",
+   "keys": [
+    "Foden (0,49) et Saka (0,41) complètent le trio anglais qui aimantait les Français : tout le danger anglais venait de devant.",
+    "À l'inverse, Maguire (−0,72), Walker (−0,47) et Stones (−0,46) n'étaient presque jamais pressés : la France leur laissait la relance.",
+    "Griezmann attire 0,56 défenseur de plus que la normale et délivre quand même 2 passes décisives : être entouré ne l'a pas empêché de trouver la faille."
+   ],
+   "impact": "Tout se passe comme si la France avait choisi qui laisser jouer : les centraux anglais, libres mais loin du but. En concentrant son attention sur Kane, elle a limité le danger dans le jeu, et ce sont deux penaltys, pas des actions construites, qui ont fait exister l'avant-centre anglais."
+  },
+  "en": {
+   "lead": "The magnet of the match wore England's number nine: Harry Kane, with 0.82 extra opponents around each of his touches. France's defence never left his side. For France, the biggest pull did not come from Mbappé (0.35) but from Griezmann (0.56) and Adrien Rabiot (0.52): the midfielders were England's real targets.",
+   "keys": [
+    "Foden (0.49) and Saka (0.41) complete the English trio who drew French bodies: all of England's danger came from up front.",
+    "Conversely, Maguire (−0.72), Walker (−0.47) and Stones (−0.46) were almost never pressed: France handed them the build-up.",
+    "Griezmann draws 0.56 extra defenders and still delivers 2 assists: being crowded did not stop him finding the gap."
+   ],
+   "impact": "It looks as if France chose who to let play: England's centre-backs, free but far from goal. By focusing on Kane, they limited the danger from open play, and it took two penalties, not built moves, for England's centre-forward to make his mark."
+  }
+ },
+ "s7": {
+  "fr": {
+   "lead": "Deux mi-temps, deux propriétaires. En première période, l'Angleterre produit 1,21 xT et la France seulement 0,48. Après la pause, tout bascule : 1,04 xT pour la France, 0,54 pour l'Angleterre. Et le plus grand créateur du match n'est ni Kane ni Mbappé, mais Jordan Henderson, 0,72 xT à lui seul, 41 % de toute la menace anglaise.",
+   "keys": [
+    "Henderson signe les deux gestes anglais les plus dangereux : une passe à la 22e minute (+0,35 xT) puis une autre à la 30e (+0,27), toutes deux tout près du but adverse.",
+    "Cette passe de la 22e tombe la même minute que la grosse occasion de Bellingham (0,22 xG) : on peut y voir la plus belle action anglaise du match.",
+    "Le geste le plus menaçant de toute la rencontre est français : une passe de Griezmann à la 78e minute (+0,38 xT), de 86 à 100 m, la minute même du but de Giroud.",
+    "Rabiot lance une conduite de balle de 49 à 92 m à la 15e minute (+0,10 xT) : une traversée de presque tout le terrain."
+   ],
+   "impact": "La France a attendu la deuxième mi-temps pour peser, et c'est exactement là qu'elle a marqué le but de la qualification. L'Angleterre, elle, a mis toute sa menace dans une première période qui ne lui a rapporté aucun but."
+  },
+  "en": {
+   "lead": "Two halves, two owners. In the first half England produce 1.21 xT and France only 0.48. After the break it all flips: 1.04 xT for France, 0.54 for England. And the biggest creator of the match is neither Kane nor Mbappé but Jordan Henderson, 0.72 xT on his own, 41% of all of England's threat.",
+   "keys": [
+    "Henderson produces England's two most dangerous actions: a pass in minute 22 (+0.35 xT) and another in minute 30 (+0.27), both right next to the French goal.",
+    "That minute-22 pass comes in the same minute as Bellingham's big chance (0.22 xG): arguably England's best move of the match.",
+    "The most threatening action of the whole game is French: a Griezmann pass in minute 78 (+0.38 xT), from 86 to 100 m, the very minute Giroud scored.",
+    "Rabiot sets off on a carry from 49 to 92 m in minute 15 (+0.10 xT): a run across almost the entire pitch."
+   ],
+   "impact": "France waited until the second half to make their weight felt, and that is exactly when they scored the winner. England poured all their threat into a first half that brought them no goals."
+  }
+ },
+ "s8": {
+  "fr": {
+   "lead": "Sur toute la compétition, Kylian Mbappé reste le patron : 1er des 77 attaquants classés, note de 90, 8 buts et 2 passes décisives. Mais ce quart de finale réunissait aussi une vraie colonne vertébrale anglaise : Harry Maguire, 4e des 42 défenseurs centraux, et John Stones, 6e. Une charnière parmi les meilleures du tournoi, battue sur deux ballons.",
+   "keys": [
+    "Theo Hernández est 9e des 98 latéraux classés, avec 1 but et 2 passes décisives.",
+    "Au milieu, Tchouaméni (10e sur 97), Henderson (12e) et Griezmann (13e) se tiennent dans un mouchoir : 69, 66 et 66 de note.",
+    "Griezmann compte 3 passes décisives sur le tournoi, Kane aussi, avec 2 buts : l'Anglais est pourtant seulement 19e des attaquants.",
+    "Saka est 11e des attaquants avec 3 buts en 291 minutes : un rendement qui tient en peu de temps de jeu."
+   ],
+   "impact": "Les classements disent que ce match opposait deux équipes de niveau très proche, avec un écart : le meilleur attaquant du tournoi jouait en bleu. Il n'a pas marqué ce jour-là : ce sont Tchouaméni et Giroud qui s'en sont chargés, sur deux passes de Griezmann."
+  },
+  "en": {
+   "lead": "Across the whole competition, Kylian Mbappé is still the boss: 1st of 77 ranked forwards, a score of 90, 8 goals and 2 assists. But this quarter-final also featured a genuine English spine: Harry Maguire, 4th of 42 centre-backs, and John Stones, 6th. One of the best partnerships of the tournament, beaten by two balls.",
+   "keys": [
+    "Theo Hernández is 9th of 98 ranked full-backs, with 1 goal and 2 assists.",
+    "In midfield, Tchouaméni (10th of 97), Henderson (12th) and Griezmann (13th) are separated by a whisker: scores of 69, 66 and 66.",
+    "Griezmann has 3 assists in the tournament, as does Kane, who adds 2 goals: yet the Englishman is only 19th among forwards.",
+    "Saka is 11th among forwards with 3 goals in 291 minutes: big output in limited playing time."
+   ],
+   "impact": "The rankings say this match pitted two teams of very similar level, with one difference: the tournament's best forward wore blue. He did not score that day: Tchouaméni and Giroud did it instead, both from Griezmann passes."
+  }
+ },
+ "s9": {
+  "fr": {
+   "lead": "Le jumeau d'Aurélien Tchouaméni ? Sergio Busquets à la Coupe du monde 2018, similaire à 94 %, puis Rodri à l'Euro 2024 (92 %). Un milieu qui fait jouer, récupère et oriente, dans la plus pure tradition espagnole. Côté anglais, Harry Maguire ressemble d'abord à Sergio Ramos à l'Euro 2016 (91 %) : un central qui relance beaucoup, ce que confirment ses 159 passes de carrefour.",
+   "keys": [
+    "Bukayo Saka a pour premier jumeau Serge Gnabry au Mondial 2022 (92 %), puis Mislav Oršić (91 %) : des ailiers qui percutent.",
+    "Phil Foden ressemble surtout à R. Lukaku à l'Euro 2016 (93 %) : un rapprochement inattendu, qui dit que ses chiffres de ce tournoi ressemblent à ceux d'un attaquant de surface.",
+    "Luke Shaw est le jumeau à 91 % de Daniel Carvajal et de Joshua Kimmich : un latéral qui construit autant qu'il défend.",
+    "Antoine Griezmann rappelle A. Ramsey à l'Euro 2016 (89 %) : un milieu offensif qui fait marquer."
+   ],
+   "impact": "Les jumeaux racontent un match de milieux constructeurs : Tchouaméni façon Busquets d'un côté, Henderson et Griezmann en passeurs de l'autre. Dans cette bataille de cerveaux, c'est la France qui a eu le dernier mot, et deux de ses buts sont venus de son milieu."
+  },
+  "en": {
+   "lead": "Aurélien Tchouaméni's twin? Sergio Busquets at the 2018 World Cup, 94% similar, then Rodri at Euro 2024 (92%). A midfielder who dictates, recovers and directs, in the purest Spanish tradition. For England, Harry Maguire looks most like Sergio Ramos at Euro 2016 (91%): a centre-back who builds a lot, as his 159 passes as a hub confirm.",
+   "keys": [
+    "Bukayo Saka's first twin is Serge Gnabry at the 2022 World Cup (92%), then Mislav Oršić (91%): wingers who drive at defenders.",
+    "Phil Foden looks most like R. Lukaku at Euro 2016 (93%): an unexpected match, suggesting his numbers in this tournament resemble those of a penalty-box forward.",
+    "Luke Shaw is a 91% twin of both Daniel Carvajal and Joshua Kimmich: a full-back who builds as much as he defends.",
+    "Antoine Griezmann recalls A. Ramsey at Euro 2016 (89%): an attacking midfielder who makes others score."
+   ],
+   "impact": "The twins tell the story of a match between playmaking midfielders: a Busquets-style Tchouaméni on one side, Henderson and Griezmann as providers on the other. In that battle of brains France had the last word, and two of their goals came from midfield."
+  }
+ }
+}
