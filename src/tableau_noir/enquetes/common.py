@@ -31,6 +31,7 @@ LABELS = {
     "copa-2024": "Copa América 2024",
     "can-2023": "CAN 2023",
     "ucl-finals": "Finales de LDC 2009–2019",
+    "liga-barca": "Liga (matchs du Barça)",
 }
 
 

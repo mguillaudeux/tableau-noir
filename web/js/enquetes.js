@@ -56,8 +56,8 @@ function frame(svg, title, source) {
   svg.replaceChildren();
   svg.append(el("rect", { x: 0, y: 0, width: W, height: H, fill: "#1c2421" }));
   svg.append(text(50, 64, title, { "font-family": HAND, "font-size": title.length > 48 ? 34 : 40 }));
-  svg.append(text(50, H - 28, source, { fill: HEX.gris, "font-size": 13 }));
-  svg.append(text(W - 50, H - 28, "TABLEAU NOIR", { fill: HEX.gris, "font-size": 15, "text-anchor": "end", "font-family": TITRE, "font-weight": 600, "letter-spacing": 3 }));
+  svg.append(text(50, H - 28, source, { fill: HEX.gris, "font-size": 12 }));
+  svg.append(text(W - 50, H - 28, "TABLEAU NOIR", { fill: HEX.gris, "font-size": 14, "text-anchor": "end", "font-family": TITRE, "font-weight": 600, "letter-spacing": 3 }));
 }
 
 /** Fig. 1 — l'équipe qui a « plus de … » : victoires, nuls, défaites, en barres empilées. */
@@ -469,7 +469,88 @@ function steady(svg, e, ctx) {
   return t("fig_steady_caption");
 }
 
-const FIGURES = { outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady };
+
+// --- Enquête 4 · la possession ------------------------------------------------------------------------
+
+function bandsFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_bands_title"), t("fig_source_cs", { a: e.data.clubs_matches, b: e.data.selections_matches }));
+  const sets = [["bands_club", t("cs_club"), HEX.home], ["bands_selection", t("cs_selection"), HEX.away]];
+  const left = 90; const pw = 480; const top = 150; const ph = 330;
+  sets.forEach(([key, title, col], si) => {
+    const x0 = left + si * (pw + 70);
+    const b = e.data[key];
+    const X = (i) => x0 + 30 + (i * (pw - 60)) / 5;
+    const Y = (v) => top + ph - ((v - 20) / 40) * ph;
+    const g = el("g", { class: "chalk" });
+    g.append(el("path", { d: chalkPath([[x0, top + ph], [x0 + pw, top + ph]], { seed: si }), stroke: HEX.craie, "stroke-width": 1.4, fill: "none", opacity: 0.6 }));
+    g.append(el("path", { d: chalkPath([[x0, Y(50)], [x0 + pw, Y(50)]], { seed: 9 }), stroke: HEX.gris, "stroke-width": 1, "stroke-dasharray": "5 7", fill: "none", opacity: 0.6 }));
+    for (const [k, colr, dash] of [["win_pct", col, null], ["loss_pct", HEX.corail, "6 6"]]) {
+      g.append(el("path", { d: chalkPath(b.map((r, i) => [X(i), Y(r[k])]), { amp: 1, step: 10, seed: seedOf(key + k) }), stroke: colr, "stroke-width": 5, fill: "none", "stroke-linejoin": "round", "stroke-dasharray": dash }));
+      b.forEach((r, i) => {
+        g.append(el("circle", { cx: X(i), cy: Y(r[k]), r: 6, fill: colr }));
+        svg.append(text(X(i), Y(r[k]) + (k === "win_pct" ? -14 : 24), `${r[k]} %`, { "text-anchor": "middle", fill: colr, "font-size": 15 }));
+      });
+    }
+    b.forEach((r, i) => svg.append(text(X(i), top + ph + 24, `${r.band} %`, { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 })));
+    svg.append(g);
+    svg.append(text(x0, top - 24, title, { "font-family": TITRE, "font-size": 26, "font-weight": 600, fill: col, "letter-spacing": 1 }));
+    svg.append(text(x0 + pw, top - 24, `${t("o_win")} ●  ${t("o_loss")} ◌`, { "text-anchor": "end", fill: HEX.gris, "font-size": 14 }));
+    svg.append(text(x0, top + ph + 48, t("bands_axis"), { fill: HEX.gris, "font-size": 13 }));
+  });
+  svg.append(text(W - 60, H - 62, t("fig_bands_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_bands_caption");
+}
+
+function equalFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_equal_title"), t("fig_source_leagues", { n: e.data.clubs_matches }));
+  const rows = [["favourite", t("fav_favourite")], ["equal_strength", t("fav_equal")], ["outsider", t("fav_outsider")]];
+  const x0 = 360; const x1 = W - 70; const X = (v) => x0 + ((x1 - x0) * v) / 70;
+  const g = el("g", { class: "chalk" });
+  for (const v of [25, 50]) { g.append(el("path", { d: `M${X(v)} 110V${110 + 3 * 150}`, stroke: HEX.craie, "stroke-width": 0.6, opacity: 0.18 })); svg.append(text(X(v), 100, `${v} %`, { "text-anchor": "middle", fill: HEX.gris, "font-size": 14 })); }
+  rows.forEach(([k, lab], i) => {
+    const o = e.data[k];
+    const y = 130 + i * 150;
+    svg.append(text(x0 - 20, y + 4, lab, { "text-anchor": "end", "font-family": TITRE, "font-size": 26, "font-weight": 600, "letter-spacing": 1 }));
+    svg.append(text(x0 - 20, y + 26, t("outcome_n", { n: o.n }), { "text-anchor": "end", fill: HEX.gris, "font-size": 13 }));
+    [["win_pct", t("o_win"), HEX.home], ["loss_pct", t("o_loss"), HEX.corail]].forEach(([kk, sub, col], j) => {
+      const yy = y + 22 + j * 44;
+      g.append(el("path", { d: chalkPath([[x0, yy + 12], [X(o[kk]), yy + 12]], { amp: 0.8, step: 14, seed: seedOf(k + kk) }), stroke: col, "stroke-width": 26, fill: "none", opacity: 0.9 }));
+      svg.append(text(X(o[kk]) + 12, yy + 19, `${sub} ${o[kk]} %`, { fill: col, "font-size": 20, "font-weight": 600 }));
+    });
+  });
+  svg.append(g);
+  svg.append(text(x0, H - 62, t("fig_equal_note"), { "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_equal_caption");
+}
+
+function bycompFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_bycomp_title"), t("fig_source_cs", { a: e.data.clubs_matches, b: e.data.selections_matches }));
+  const rows = e.data.by_competition;
+  const x0 = 360; const x1 = W - 80; const y0 = 105; const rowH = 46;
+  const X = (v) => x0 + ((x1 - x0) * (v - 10)) / 60;
+  const g = el("g", { class: "chalk" });
+  g.append(el("path", { d: `M${X(50)} ${y0 - 10}V${y0 + rows.length * rowH}`, stroke: HEX.gris, "stroke-width": 1, "stroke-dasharray": "5 7", opacity: 0.6 }));
+  svg.append(text(X(50), y0 - 16, "50 %", { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 }));
+  rows.forEach((r, i) => {
+    const y = y0 + i * rowH + 16;
+    const isClub = r.comp.includes("2015");
+    g.append(el("path", { d: chalkPath([[X(r.loss_pct), y], [X(r.win_pct), y]], { amp: 0.5, step: 16, seed: seedOf(r.comp) }), stroke: HEX.craie, "stroke-width": 2, fill: "none", opacity: 0.35 }));
+    g.append(el("circle", { cx: X(r.loss_pct), cy: y, r: 9, fill: HEX.corail, opacity: 0.9 }));
+    g.append(el("circle", { cx: X(r.win_pct), cy: y, r: 9, fill: isClub ? HEX.home : HEX.away }));
+    svg.append(text(X(r.win_pct) + (r.win_pct >= r.loss_pct ? 16 : -16), y + 5, `${r.win_pct} %`, { "text-anchor": r.win_pct >= r.loss_pct ? "start" : "end", fill: isClub ? HEX.home : HEX.away, "font-size": 15 }));
+    svg.append(text(x0 - 20, y + 5, r.label.replace("Coupe du monde", "CM"), { "text-anchor": "end", "font-size": 16, fill: isClub ? HEX.home : HEX.away }));
+  });
+  svg.append(g);
+  svg.append(el("circle", { cx: x0, cy: H - 70, r: 7, fill: HEX.corail }));
+  svg.append(text(x0 + 14, H - 65, t("bycomp_legend"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(text(W - 60, H - 65, t("fig_bycomp_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_bycomp_caption");
+}
+
+const FIGURES = { outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady, bands: bandsFig, equal: equalFig, bycomp: bycompFig };
 
 // --- Export PNG ---------------------------------------------------------------------------------
 

@@ -12,11 +12,12 @@ from typing import Any
 
 import pandas as pd
 
-from tableau_noir.enquetes import clubs, pressing, temps
+from tableau_noir.enquetes import clubs, possession, pressing, temps
 
 Compute = Callable[[pd.DataFrame, pd.DataFrame], dict[str, Any]]
 REGISTRY: dict[str, Compute] = {
     "pressing": lambda c, s: pressing.compute(c),
     "clubs": clubs.compute,
     "temps": temps.compute,
+    "possession": possession.compute,
 }
