@@ -11,7 +11,7 @@ from collections.abc import Iterable
 from pathlib import Path
 from typing import Any
 
-from tableau_noir import analyst, classic, players, replay, team
+from tableau_noir import analyst, classic, players, team
 from tableau_noir.model import Match
 from tableau_noir.xt import XTModel
 
@@ -91,7 +91,6 @@ def match_data(m: Match, comp: str, xt_model: XTModel) -> tuple[dict[str, Any], 
     for row in data["players"]:
         row |= mp["rows"].get(row["id"], {})
     data["value"] = {"actions": mp["actions"], "xt_minutes": mp["xt_minutes"]}
-    data["replays"] = replay.goals(m) if not str(m.stage).startswith("Group") else []
     return data, mp
 
 
@@ -224,32 +223,42 @@ def check_notes(out: Path, only: set[str] | None = None) -> dict[str, list[str]]
     return problems
 
 
-def build_dossier(out: Path, source: Path = Path("data/editorial/dossier-2022.py")) -> list[str]:
-    """Vérifie les nombres du dossier contre la fiche du match et écrit web/data/dossier.json.
-    Renvoie les nombres introuvables (liste vide si tout est sourcé)."""
+ENQUETES = Path("data/enquetes")
+
+
+def build_enquetes(out: Path) -> dict[str, list[str]]:
+    """Calcule chaque enquête sur le corpus, vérifie les nombres de son texte et écrit
+    web/data/enquetes.json. Renvoie, par enquête, les nombres introuvables."""
     import runpy
 
-    from tableau_noir import facts
+    from tableau_noir import corpus, facts
+    from tableau_noir.enquetes import REGISTRY
 
-    dossier: dict[str, Any] = runpy.run_path(str(source))["DOSSIER"]
-    mid = dossier["match"]
-    d = json.loads((out / "matches" / f"{mid}.json").read_text(encoding="utf-8"))
-    comp = d["meta"]["comp"]
-    ctx = json.loads((out / "context" / f"{comp}.json").read_text(encoding="utf-8"))
-    table = json.loads((out / "players" / f"{comp}.json").read_text(encoding="utf-8"))
-    cat = json.loads((out / "catalogue.json").read_text(encoding="utf-8"))
-    f = facts.facts(d, ctx, table, cat)
-    blocks = [("standfirst", dossier["standfirst"])] + [
-        (c["title"]["fr"], {lang: " ".join(c["text"][lang]) for lang in ("fr", "en")})
-        for c in dossier["chapters"]
-    ]
-    note = {
-        name: {lang: {"lead": txt[lang], "keys": [], "impact": ""} for lang in ("fr", "en")}
-        for name, txt in blocks
-    }
-    bad = facts.check(note, f)
-    write_json(dossier, out / "dossier.json")
-    return bad
+    df = corpus.load()
+    problems: dict[str, list[str]] = {}
+    published = []
+    for slug, compute in REGISTRY.items():
+        text: dict[str, Any] = runpy.run_path(str(ENQUETES / f"{slug}.py"))["ENQUETE"]
+        data = compute(df)
+        blocks = [("standfirst", text["standfirst"]), ("answer", text["answer"])]
+        blocks += [
+            (c["title"]["fr"], {lang: " ".join(c["text"][lang]) for lang in ("fr", "en")})
+            for c in text["chapters"]
+        ]
+        blocks += [
+            (k, {lang: " ".join(text[k][lang]) for lang in ("fr", "en")})
+            for k in ("takeaways", "limits")
+        ]
+        note = {
+            name: {lang: {"lead": txt[lang], "keys": [], "impact": ""} for lang in ("fr", "en")}
+            for name, txt in blocks
+        }
+        bad = facts.check(note, data)
+        if bad:
+            problems[slug] = bad
+        published.append(text | {"data": data})
+    write_json(published, out / "enquetes.json")
+    return problems
 
 
 def write_catalogue(entries: list[dict[str, Any]], out: Path) -> dict[str, Any]:

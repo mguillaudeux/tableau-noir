@@ -1,89 +1,11 @@
-// Les pages éditoriales : le dossier Argentine–France et la salle des archives des finales de LDC.
+// La salle des archives : les finales de Ligue des champions, fiche par fiche.
 
 import { HEX, el } from "./draw.js";
 import { chalkPath, seedOf } from "./logic.js";
 import { fillTeams } from "./i18n.js";
-import { mountReplay } from "./replay.js";
-import { mountRace } from "./anim.js";
 
 const $ = (s, root = document) => root.querySelector(s);
-const SECTIONS = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9"];
 
-/** Démarre une animation seulement quand elle devient visible (une à la fois). */
-function whenVisible(node, fn) {
-  const io = new IntersectionObserver((es) => { if (es.some((e) => e.isIntersecting)) { io.disconnect(); fn(); } }, { threshold: 0.35 });
-  io.observe(node);
-}
-
-function goalTitle(g, ctx) {
-  return `${g.scorer} ${g.minute}'${g.penalty ? ` (${ctx.t("pen_short")})` : ""}`;
-}
-
-// --- Le dossier -----------------------------------------------------------------------------------
-
-export async function showDossier(app, ctx) {
-  const { t, esc, json, state, team } = ctx;
-  const dossier = await json("data/dossier.json");
-  const [d, cat] = await Promise.all([json(`data/matches/${dossier.match}.json`), state.catalogue ?? json("data/catalogue.json")]);
-  state.catalogue = cat;
-  const L = state.lang;
-  const m = d.meta;
-  document.title = `${dossier.title[L]} · Tableau Noir`;
-  const media = dossier.media.map((x) => `<li><span>${esc(t(`media_${x.kind}`, { label: x.kind === "goal" ? goalTitle(d.replays.find((g) => g.minute === x.minute), ctx) : t(`race_${x.race}`) }))}</span>
-      <a href="media/${x.file}.mp4" download>MP4</a><a href="media/${x.file}.gif" download>GIF</a></li>`).join("");
-  app.innerHTML = `${ctx.masthead(true)}
-    <article class="dossier">
-      <p class="kicker">${esc(dossier.kicker[L])}</p>
-      <h1>${esc(dossier.title[L])}</h1>
-      <div class="mini-board"><span class="home">${esc(team(m.home.name))}</span><b>${m.home.score} – ${m.away.score}</b><span class="away">${esc(team(m.away.name))}</span>
-        <small>${esc(t("aet"))} · ${m.home.penalties} – ${m.away.penalties} ${esc(t("tab"))}</small></div>
-      <p class="standfirst">${esc(dossier.standfirst[L])}</p>
-      ${dossier.chapters.map((c, i) => `<section class="chapter">
-          <h2>${esc(c.title[L])}</h2>
-          ${c.text[L].map((p) => `<p>${esc(p)}</p>`).join("")}
-          <div class="figure" data-i="${i}"></div>
-        </section>`).join("")}
-      <section class="chapter downloads">
-        <h2>${esc(t("media_title"))}</h2>
-        <p>${esc(t("media_lead"))}</p>
-        <ul class="media">${media}</ul>
-      </section>
-      <p class="back-link"><a href="#/m/${m.id}">${esc(t("dossier_open_match"))} →</a></p>
-    </article>`;
-  dossier.chapters.forEach((c, i) => figure($(`.figure[data-i="${i}"]`, app), c.figure, d, ctx));
-  window.scrollTo({ top: 0 });
-}
-
-function figure(host, f, d, ctx) {
-  const { t, esc, team, state } = ctx;
-  const m = d.meta;
-  if (!f) return;
-  if (f.type === "paths") {
-    const comp = state.catalogue.competitions.find((c) => c.id === m.comp);
-    const col = (side) => {
-      const name = m[side].name;
-      const rows = comp.matches.filter((x) => x.date < m.date && [x.home.name, x.away.name].includes(name));
-      return `<div class="path ${side}"><h3>${esc(team(name))}</h3><ol>${rows.map((x) => `<li><a href="#/m/${x.id}"><small>${esc(ctx.stageName(x.stage, state.lang))}</small>
-        ${esc(team(x.home.name))} ${x.home.score} – ${x.away.score} ${esc(team(x.away.name))}${x.home.penalties != null ? ` <small>(${x.home.penalties} – ${x.away.penalties} ${esc(t("tab"))})</small>` : ""}</a></li>`).join("")}</ol></div>`;
-    };
-    host.innerHTML = `<div class="paths">${col("home")}${col("away")}</div>`;
-  } else if (f.type === "replay") {
-    const i = d.replays.findIndex((g) => g.minute === f.minute);
-    const g = d.replays[i];
-    const sub = `${team(m.home.name)} ${m.home.score}–${m.away.score} ${team(m.away.name)}`;
-    const box = document.createElement("div");
-    host.append(box);
-    whenVisible(box, () => mountReplay(box, g, { t, title: goalTitle(g, ctx), sub, file: `tableau-noir-${m.id}-${g.minute}` }));
-    box.style.minHeight = "300px";
-  } else if (f.type === "race") {
-    const sub = `${team(m.home.name)} – ${team(m.away.name)} · ${t("race_minutes")}`;
-    mountRace(host, d, f.kind, { t, title: t(`race_${f.kind}`), sub, decimal: state.lang === "fr" ? "," : "." });
-  } else if (f.type === "link") {
-    host.innerHTML = `<a class="go" href="#/m/${m.id}/${f.section}">${esc(t("dossier_see_section", { s: t(f.section) }))} →</a>`;
-  } else if (f.type === "sections") {
-    host.innerHTML = `<ul class="sections dossier-sections">${SECTIONS.map((s) => `<li><a href="#/m/${m.id}/${s}">${esc(t(s))}</a></li>`).join("")}</ul>`;
-  }
-}
 
 // --- La salle des archives ----------------------------------------------------------------------
 
@@ -130,14 +52,12 @@ export async function showArchives(app, ctx) {
         const w = winnerSide(d);
         const lose = w === "home" ? "away" : "home";
         const hook = d.analyst?.s1?.[L]?.lead ? fillTeams(firstSentence(d.analyst.s1[L].lead), d.meta, L) : "";
-        const reps = (d.replays ?? []).filter((g) => g.steps.length > 1);
         return `<li class="card">
           <p class="season">${esc(d.meta.season.replace("/", " – "))}</p>
           <h2><span class="w">${esc(team(d.meta[w].name))}</span> <b>${d.meta[w].score} – ${d.meta[lose].score}</b> <span class="l">${esc(team(d.meta[lose].name))}</span>
             ${d.meta.home.penalties != null ? `<small>${d.meta[w].penalties} – ${d.meta[lose].penalties} ${esc(t("tab"))}</small>` : ""}</h2>
           <p class="hook">${esc(hook)}</p>
           <p class="mini">xG ${ctx.num(d.stats[w].xg, 2)} – ${ctx.num(d.stats[lose].xg, 2)} · ${esc(t("k_possession"))} ${ctx.pct(d.stats[w].possession)}</p>
-          ${reps.length ? `<div class="chips">${reps.map((g, j) => `<button type="button" data-f="${i}" data-g="${j}">▶ ${esc(goalTitle(g, ctx))}</button>`).join("")}</div><div class="card-replay" hidden></div>` : ""}
           <a class="go" href="#/m/${d.meta.id}">${esc(t("archives_open"))} →</a>
         </li>`;
       }).join("")}</ol>
@@ -148,13 +68,6 @@ export async function showArchives(app, ctx) {
       <div class="method"><h3>${esc(t("method_title"))}</h3><p>${esc(t("archives_method"))}</p></div>
     </article>`;
   drawArchiveXg($("#arch-xg", app), details, winnerSide, ctx);
-  app.querySelectorAll(".cards .chips button").forEach((b) => b.addEventListener("click", () => {
-    const d = details[Number(b.dataset.f)];
-    const g = d.replays.filter((x) => x.steps.length > 1)[Number(b.dataset.g)];
-    const host = b.closest(".card").querySelector(".card-replay");
-    host.hidden = false;
-    mountReplay(host, g, { t, title: goalTitle(g, ctx), sub: `${team(d.meta.home.name)} – ${team(d.meta.away.name)} · ${d.meta.season}`, file: `tableau-noir-${d.meta.id}-${g.minute}` });
-  }));
   window.scrollTo({ top: 0 });
 }
 

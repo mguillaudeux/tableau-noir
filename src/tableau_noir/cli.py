@@ -11,8 +11,8 @@ from typing import Any
 
 import pandas as pd
 
+from tableau_noir import corpus, xg, xt
 from tableau_noir import export as ex
-from tableau_noir import xg, xt
 from tableau_noir.model import Match
 from tableau_noir.sources import statsbomb as sb
 from tableau_noir.sources import wyscout as wy
@@ -79,6 +79,22 @@ def _statsbomb_matches(cid: int, seasons: list[int]) -> Iterator[Match]:
             m.frames = None
 
 
+def all_matches(with_frames: bool = False) -> Iterator[tuple[str, Match]]:
+    """Tous les matchs de toutes les compétitions (poules comprises), sans le 360 par défaut."""
+    model = xg.XGModel.load(XG_PATH)
+    for gid, cid, seasons, _ in STATSBOMB:
+        for sid in seasons:
+            for meta in sb.matches(cid, sid):
+                m = sb.load_match(meta)
+                if with_frames and m.has_360:
+                    m.frames = sb.load_frames(int(meta["match_id"]))
+                yield gid, m
+                m.frames = None
+    for gid, key, _ in WYSCOUT:
+        for m in wy.load_competition(key):
+            yield gid, with_xg(m, model)
+
+
 def build(out: Path = WEB_DATA, only: set[str] | None = None) -> dict[str, Any]:
     model = xg.XGModel.load(XG_PATH)
     xt_model = xt.XTModel.load(XT_PATH)
@@ -130,10 +146,11 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="tableau-noir")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("xg", help="entraîne le modèle d'xG sur les tirs Wyscout")
+    sub.add_parser("enquetes", help="calcule, vérifie et publie les enquêtes")
+    sub.add_parser("corpus", help="une ligne par équipe et par match, pour les enquêtes")
     sub.add_parser("notes", help="réécrit le coin de l'analyste sans tout recalculer")
     fa = sub.add_parser("facts", help="écrit la fiche de faits de chaque match publié")
     fa.add_argument("--out", default="data/facts", help="dossier de sortie")
-    sub.add_parser("dossier", help="vérifie et publie le dossier France–Argentine")
     cn = sub.add_parser("check-notes", help="vérifie les chiffres des textes écrits à la main")
     cn.add_argument("ids", nargs="*", help="identifiants de matchs (tous par défaut)")
     sub.add_parser("xt", help="calcule la grille d'expected threat sur les championnats Wyscout")
@@ -151,10 +168,15 @@ def main(argv: list[str] | None = None) -> int:
             print(mid, ", ".join(bad))
         print(f"{len(problems)} match(s) à corriger")
         return 1 if problems else 0
-    elif args.command == "dossier":
-        bad = ex.build_dossier(WEB_DATA)
-        print("dossier écrit" + (f" ; nombres introuvables : {', '.join(bad)}" if bad else ""))
-        return 1 if bad else 0
+    elif args.command == "enquetes":
+        problems = ex.build_enquetes(WEB_DATA)
+        for slug, bad in problems.items():
+            print(slug, ", ".join(bad))
+        print(f"{len(problems)} enquête(s) à corriger")
+        return 1 if problems else 0
+    elif args.command == "corpus":
+        df = corpus.build(all_matches())
+        print(f"corpus : {len(df)} lignes, {df['match_id'].nunique()} matchs → {corpus.CORPUS}")
     elif args.command == "notes":
         print(f"{ex.rewrite_notes(WEB_DATA)} matchs commentés")
     elif args.command == "xt":

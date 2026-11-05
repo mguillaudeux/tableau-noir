@@ -77,7 +77,6 @@ def test_pas_de_donnees_brutes_publiees() -> None:
         "team",
         "value",
         "analyst",
-        "replays",
     }
     # le 360 ne sort que sous forme de deux images d'exemple par équipe, jamais en entier
     for side in ("home", "away"):
@@ -141,19 +140,6 @@ def test_grille_xt() -> None:
     assert max(map(max, grid)) == max(grid[15][5], grid[15][6])  # devant le but
 
 
-def test_buts_rejoues_finale_2022() -> None:
-    d = load("sb-3869685")
-    minutes = [g["minute"] for g in d["replays"]]
-    assert minutes == [23, 36, 80, 81, 108, 118]
-    di_maria = d["replays"][1]
-    assert di_maria["scorer"] == "Ángel Di María" and di_maria["has_360"]
-    assert [s["name"] for s in di_maria["steps"]][-1] == "Ángel Di María"
-    assert all(s["steps"][-1]["kind"] == "shot" for s in d["replays"])
-    # chaque point garde un numéro d'une image à l'autre ; l'équipe qui marque attaque à droite
-    shot = di_maria["steps"][-1]
-    assert shot["x"] > 80 and all(len(p) == 6 for st in di_maria["steps"] for p in st["dots"])
-
-
 def test_textes_ecrits_a_la_main() -> None:
     notes = ROOT / "data" / "notes"
     for f in (DATA / "matches").glob("*.json"):
@@ -162,12 +148,15 @@ def test_textes_ecrits_a_la_main() -> None:
         assert d["analyst"] == own, f.name
 
 
-def test_dossier() -> None:
-    dossier = json.loads((DATA / "dossier.json").read_text(encoding="utf-8"))
-    d = load(dossier["match"])
-    for c in dossier["chapters"]:
-        if c["figure"]["type"] == "replay":
-            assert any(g["minute"] == c["figure"]["minute"] for g in d["replays"])
-    for item in dossier["media"]:
-        for ext in ("mp4", "gif"):
-            assert (ROOT / "web" / "media" / f"{item['file']}.{ext}").exists()
+def test_enquetes_publiees() -> None:
+    enquetes = json.loads((DATA / "enquetes.json").read_text(encoding="utf-8"))
+    slugs = {e["slug"] for e in enquetes}
+    assert "pressing" in slugs
+    e = next(x for x in enquetes if x["slug"] == "pressing")
+    o = e["data"]["outcomes"]["ppda"]
+    assert o["win"] + o["draw"] + o["loss"] == o["n"]
+    assert (
+        e["data"]["outcomes"]["xg"]["win_pct"] > o["win_pct"]
+    )  # les xG prédisent, le pressing non
+    for lang in ("fr", "en"):
+        assert e["answer"][lang] and len(e["chapters"]) >= 3

@@ -8,6 +8,20 @@
 
 ![Le catalogue](docs/captures/0-catalogue.png)
 
+## Les enquêtes
+
+![Enquête n° 1 : le pressing, mythe de YouTube](docs/captures/13-enquete-pressing.png)
+
+Le cœur du site. Une enquête, c'est une question qu'un fan se pose vraiment, une réponse chiffrée sur tout le corpus (292 matchs, poules comprises), trois ou quatre figures, ce qu'il faut retenir et ce qui limite la réponse. Chaque figure se télécharge en PNG 16:9, avec la source dessus, prête pour une vidéo.
+
+**N° 1 · [Le pressing, mythe de YouTube](https://mguillaudeux.github.io/tableau-noir/#/e/pressing).** Sur 239 matchs, l'équipe qui presse le plus gagne 43 % du temps et perd 40 % du temps. Le pressing crée des occasions (+0,62 xG entre le quart qui presse le plus et celui qui presse le moins) mais ne rapporte pas de points, et deux champions sur quatre pressaient moins que la moitié de leur tournoi.
+
+![Une figure exportée](docs/captures/14-figure-export.png)
+
+Comment c'est fait : les calculs sont dans [`src/tableau_noir/enquetes/`](src/tableau_noir/enquetes) (testés), sur le corpus produit par `tableau-noir corpus` (une ligne par équipe et par match, [`corpus.py`](src/tableau_noir/corpus.py)). Le texte est dans [`data/enquetes/`](data/enquetes), écrit à la main ; `tableau-noir enquetes` vérifie que chaque nombre cité sort des calculs, puis publie `web/data/enquetes.json`.
+
+À venir : « La possession ne sert à rien en phase finale », « Le but le plus cher jamais raté », « Messi et Mbappé sont le même joueur », « Où meurent les attaques », « Les formations annoncées les plus mensongères ».
+
 ## Les données
 
 | Source | Contenu utilisé | Conditions |
@@ -107,27 +121,11 @@ Le site ne garde que les **phases finales** : 88 matchs, des huitièmes à la fi
 
 Pour chacun de ces 88 matchs et chacune des 9 sections, le coin de l'analyste est **écrit à la main**, en français et en anglais ([`data/notes/`](data/notes)) : une accroche, les clés, et ce que ça a changé dans le match. Chaque texte part d'une **fiche de faits** ([`facts.py`](src/tableau_noir/facts.py)) qui rassemble tout ce qui est publié sur le match ; `tableau-noir check-notes` vérifie que chaque nombre cité figure dans la fiche. Les noms d'équipe sont accordés à l'affichage (« l'Argentine », « du Portugal », « Argentina's »). Le générateur automatique ([`analyst.py`](src/tableau_noir/analyst.py)) reste en secours pour un match sans texte.
 
-## Jalon 4 · Le dossier, les archives, les buts rejoués
-
-### Le dossier Argentine–France
-
-![Le dossier Argentine–France](docs/captures/10-dossier.png)
-
-Un long format sur la finale 2022 ([`#/dossier`](https://mguillaudeux.github.io/tableau-noir/#/dossier)) : huit chapitres écrits à partir de la fiche du match ([`data/editorial/dossier-2022.py`](data/editorial/dossier-2022.py), vérifié par `tableau-noir dossier`), avec les trois buts du jeu rejoués, les courses aux xG et à la menace animées, et tout à télécharger en MP4 et en GIF.
-
-### La salle des archives
+## La salle des archives
 
 ![La salle des archives](docs/captures/11-archives.png)
 
-Les onze finales de Ligue des champions 2009–2019 rangées comme de vieilles fiches ([`#/archives`](https://mguillaudeux.github.io/tableau-noir/#/archives)) : xG du vainqueur et du perdant finale par finale, l'accroche de l'analyste, les buts rejoués, les buteurs et les créateurs de toutes les finales.
-
-### Les buts rejoués, vus du dessus
-
-![Le but de Di María, rejoué](docs/captures/12-but-rejoue.png)
-
-Pas d'images de match : chaque but est rejoué par des points sur un terrain ([`replay.py`](src/tableau_noir/replay.py), [`replay.js`](web/js/replay.js)). Le ballon suit les événements de l'action ; avec le 360, les joueurs visibles apparaissent à chaque événement, et on suit chaque point d'une image à l'autre (appariement par l'algorithme hongrois), puisque le 360 ne dit pas qui est qui. Bouton ▶ à côté de chaque buteur, et « Enregistrer en vidéo » dans le navigateur. La course aux xG de chaque match s'anime aussi (« ▶ animer », section 1).
-
-Les MP4 et GIF du dossier sont produits par [`scripts/media.py`](scripts/media.py) : chaque image est dessinée dans `web/studio.html` à 25 images par seconde, puis assemblée par ffmpeg.
+Les onze finales de Ligue des champions 2009–2019 rangées comme de vieilles fiches ([`#/archives`](https://mguillaudeux.github.io/tableau-noir/#/archives)) : xG du vainqueur et du perdant finale par finale, l'accroche de l'analyste, les buteurs et les créateurs de toutes les finales.
 
 ## La DA « Craie Exacte »
 
@@ -142,8 +140,8 @@ just xt         # grille d'expected threat Wyscout
 just export     # télécharge StatsBomb, calcule tout, écrit web/data/ (≈ 15 min)
 uv run tableau-noir facts --out data/facts   # les fiches de faits, pour écrire
 uv run tableau-noir check-notes             # vérifie les chiffres des textes
-uv run tableau-noir dossier                 # vérifie et publie le dossier
-uv run --with playwright python scripts/media.py   # MP4 et GIF du dossier (ffmpeg requis)
+uv run tableau-noir corpus                  # une ligne par équipe et par match (≈ 6 min)
+uv run tableau-noir enquetes                # calcule, vérifie et publie les enquêtes
 just serve      # le site : http://localhost:8000
 just test       # tests Python et JavaScript
 ```
