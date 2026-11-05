@@ -12,7 +12,7 @@ from typing import Any
 
 import pandas as pd
 
-from tableau_noir.enquetes import clubs, possession, pressing, temps
+from tableau_noir.enquetes import clubs, manques, possession, pressing, temps
 
 Compute = Callable[[pd.DataFrame, pd.DataFrame], dict[str, Any]]
 REGISTRY: dict[str, Compute] = {
@@ -20,4 +20,5 @@ REGISTRY: dict[str, Compute] = {
     "clubs": clubs.compute,
     "temps": temps.compute,
     "possession": possession.compute,
+    "manques": manques.compute,
 }

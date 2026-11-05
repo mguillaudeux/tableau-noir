@@ -24,10 +24,10 @@ export async function showEnquete(app, slug, ctx) {
       ${e.chapters.map((c, i) => `<section class="chapter">
           <h2>${esc(c.title[L])}</h2>
           ${c.text[L].map((p) => `<p>${esc(p)}</p>`).join("")}
-          <figure class="fig-card" data-fig="${c.figure}" data-i="${i}">
+          ${c.figure ? `<figure class="fig-card" data-fig="${c.figure}" data-i="${i}">
             <figcaption><span></span><button type="button" class="dl">${esc(t("fig_download"))}</button></figcaption>
             <svg class="chart"></svg>
-          </figure>
+          </figure>` : ""}
         </section>`).join("")}
       <section class="chapter boxes">
         <div class="box take"><h3>${esc(t("takeaways"))}</h3><ul>${e.takeaways[L].map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
@@ -275,8 +275,9 @@ function compareRowsFig(svg, rows, left, right, ctx) {
   for (const [x, col, title] of cols) svg.append(text(x, 100, title, { fill: col, "font-family": TITRE, "font-size": 22, "font-weight": 600, "letter-spacing": 1 }));
   rows.forEach((r, i) => {
     const y = y0 + i * rowH + 20;
-    const max = Math.max(r.a, r.b) || 1;
+    const max = Math.max(r.a ?? 0, r.b ?? 0) || 1;
     for (const [x, col, , k] of cols) {
+      if (r[k] == null) { svg.append(text(x, y + 7, "–", { fill: HEX.gris, "font-size": 20 })); continue; }
       const w = ((colW - 90) * r[k]) / max;
       g.append(el("path", { d: chalkPath([[x, y], [x + w, y]], { amp: 0.7, step: 14, seed: seedOf(r.label + k) }), stroke: col, "stroke-width": 24, fill: "none", opacity: 0.9 }));
       svg.append(text(x + w + 10, y + 7, r.fmt(r[k]), { fill: col, "font-size": 20, "font-weight": 600 }));
@@ -550,7 +551,88 @@ function bycompFig(svg, e, ctx) {
   return t("fig_bycomp_caption");
 }
 
-const FIGURES = { outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady, bands: bandsFig, equal: equalFig, bycomp: bycompFig };
+// --- Enquête 5 · le but le plus cher jamais raté --------------------------------------------------
+
+/** Les occasions décisives manquées en phase finale : une barre par tir, longueur = xG. */
+function missesFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_misses_title"), t("fig_source_misses", { n: e.data.n_decisive_tournaments }));
+  const rows = e.data.top_tournaments.slice(0, 8);
+  const x0 = 560; const x1 = W - 170; const y0 = 115; const rowH = 62;
+  const X = (v) => x0 + ((x1 - x0) * v) / 0.7;
+  const g = el("g", { class: "chalk" });
+  rows.forEach((r, i) => {
+    const y = y0 + i * rowH + 18;
+    g.append(el("path", { d: chalkPath([[x0, y], [X(r.xg), y]], { amp: 0.7, step: 14, seed: seedOf(r.match_id + r.minute) }), stroke: r.on_target ? HEX.home : HEX.corail, "stroke-width": 22, fill: "none", opacity: 0.9 }));
+    svg.append(text(X(r.xg) + 10, y + 7, `${ctx.num(r.xg, 2)} xG`, { fill: r.on_target ? HEX.home : HEX.corail, "font-size": 19, "font-weight": 600 }));
+    svg.append(text(x0 - 16, y - 4, `${r.player} · ${r.minute}'`, { "text-anchor": "end", "font-family": TITRE, "font-size": 23, "font-weight": 600, "letter-spacing": 1 }));
+    svg.append(text(x0 - 16, y + 17, `${ctx.team(r.team)} – ${ctx.team(r.opponent)}, ${t(`comp_${r.comp}`)} · ${t("score_then", { s: r.score.replace("-", "–"), f: r.final.replace("-", "–") })}`, { "text-anchor": "end", fill: HEX.gris, "font-size": 12 }));
+  });
+  svg.append(g);
+  [[HEX.corail, t("miss_off")], [HEX.home, t("miss_on")]].forEach(([c, lab], i) => {
+    svg.append(el("rect", { x: x0 + i * 230, y: 86, width: 14, height: 14, fill: c }));
+    svg.append(text(x0 + i * 230 + 22, 98, lab, { fill: HEX.gris, "font-size": 14 }));
+  });
+  svg.append(text(x1, H - 62, t("fig_misses_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_misses_caption");
+}
+
+function conversionFig(svg, e, ctx) {
+  const { t } = ctx;
+  const c = e.data.conversion.club; const s = e.data.conversion.selection;
+  frame(svg, t("fig_conversion_title"), t("fig_source_conv", { a: c.shots, b: s.shots }));
+  compareRowsFig(svg, [
+    { label: t("cv_goals_xg"), sub: t("cv_goals_xg_sub"), a: c.goals_per_xg, b: s.goals_per_xg, fmt: (v) => ctx.num(v, 2) },
+    { label: t("cv_big"), sub: t("cv_big_sub", { a: c.big_chances, b: s.big_chances }), a: c.big_chance_pct, b: s.big_chance_pct, fmt: (v) => `${v} %` },
+    { label: t("cv_pen"), sub: t("cv_pen_sub", { a: c.penalties, b: s.penalties }), a: c.penalty_pct, b: s.penalty_pct, fmt: (v) => `${v} %` },
+    { label: t("cv_big_xg"), sub: t("cv_big_xg_sub"), a: c.big_chance_xg, b: s.big_chance_xg, fmt: (v) => ctx.num(v, 2) },
+    { label: t("cv_ko"), sub: t("cv_ko_sub", { n: e.data.conversion.selection_knockout.big_chances }), a: null, b: e.data.conversion.selection_knockout.big_chance_pct, fmt: (v) => `${v} %` },
+  ], t("cv_club"), t("cv_selection"), ctx);
+  svg.append(text(W - 60, H - 62, t("fig_conversion_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_conversion_caption");
+}
+
+function erasFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_eras_title"), t("fig_source_eras"));
+  panels(svg, e.data.eras, [
+    { label: t("er_big"), sub: t("er_big_sub"), get: (x) => x.big_chance_pct, fmt: (v) => `${v} %`, min: 35, max: 62 },
+    { label: t("er_goals_xg"), sub: t("er_goals_xg_sub"), get: (x) => x.goals_per_xg, fmt: (v) => ctx.num(v, 2), min: 0.75, max: 1.2, color: HEX.craie },
+    { label: t("er_pen"), sub: t("er_pen_sub"), get: (x) => x.penalty_pct, fmt: (v) => `${v} %`, min: 55, max: 90, color: HEX.away },
+  ], ctx, { xlabel: (x) => x.era, top: 150, height: 340 });
+  svg.append(text(W - 60, H - 62, t("fig_eras_note", { b: e.data.barca_big_chance_pct }), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_eras_caption");
+}
+
+/** Les finales où le perdant avait plus d'xG : une paire de points par finale. */
+function finalsFig(svg, e, ctx) {
+  const { t } = ctx;
+  const f = e.data.finals;
+  frame(svg, t("fig_finals_title", { k: f.xg_lied, n: f.n }), t("fig_source_finals", { n: f.n }));
+  const x0 = 440; const x1 = W - 90; const y0 = 170; const rowH = 135;
+  const X = (v) => x0 + ((x1 - x0) * v) / 3.6;
+  const g = el("g", { class: "chalk" });
+  f.rows.forEach((r, i) => {
+    const y = y0 + i * rowH;
+    g.append(el("path", { d: chalkPath([[X(r.xg_winner), y], [X(r.xg_loser), y]], { amp: 0.6, step: 16, seed: seedOf(r.match_id) }), stroke: HEX.craie, "stroke-width": 2, fill: "none", opacity: 0.35, "stroke-dasharray": "4 6" }));
+    g.append(el("circle", { cx: X(r.xg_loser), cy: y, r: 12, fill: HEX.away, opacity: 0.9 }));
+    g.append(el("circle", { cx: X(r.xg_winner), cy: y, r: 12, fill: HEX.home }));
+    svg.append(text(X(r.xg_loser), y - 20, ctx.num(r.xg_loser, 2), { "text-anchor": "middle", fill: HEX.away, "font-size": 17 }));
+    svg.append(text(X(r.xg_winner), y - 20, ctx.num(r.xg_winner, 2), { "text-anchor": "middle", fill: HEX.home, "font-size": 17 }));
+    svg.append(text(x0 - 24, y - 6, `${ctx.team(r.winner)} ${r.score.replace("-", "–")} ${ctx.team(r.loser)}${r.penalties ? ` (${t("tab")})` : ""}`, { "text-anchor": "end", "font-family": TITRE, "font-size": 26, "font-weight": 600, "letter-spacing": 1 }));
+    svg.append(text(x0 - 24, y + 18, t(`comp_${r.comp}`), { "text-anchor": "end", fill: HEX.gris, "font-size": 14 }));
+  });
+  svg.append(g);
+  for (const v of [0, 1, 2, 3]) svg.append(text(X(v), y0 + f.rows.length * rowH - 40, `${v} xG`, { "text-anchor": "middle", fill: HEX.gris, "font-size": 14 }));
+  svg.append(el("circle", { cx: x0, cy: 108, r: 7, fill: HEX.home }));
+  svg.append(text(x0 + 14, 113, t("legend_winner"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(el("circle", { cx: x0 + 220, cy: 108, r: 7, fill: HEX.away }));
+  svg.append(text(x0 + 234, 113, t("legend_loser"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(text(W - 60, H - 62, t("fig_finals_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_finals_caption");
+}
+
+const FIGURES = { outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady, bands: bandsFig, equal: equalFig, bycomp: bycompFig, misses: missesFig, conversion: conversionFig, eras: erasFig, finals: finalsFig };
 
 // --- Export PNG ---------------------------------------------------------------------------------
 

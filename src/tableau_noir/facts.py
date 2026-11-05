@@ -476,6 +476,10 @@ def allowed_numbers(f: dict[str, Any]) -> set[str]:
     return out
 
 
+GROUPED = re.compile(r"(?<=\d)[ \u202f\u00a0](?=\d{3}\b)")  # « 61 138 » → 61138
+GROUPED_EN = re.compile(r"(?<=\d),(?=\d{3}\b)")  # “61,138” → 61138
+
+
 def check(note: dict[str, Any], f: dict[str, Any]) -> list[str]:
     """Les nombres d'un texte absents de la fiche (petits entiers de 0 à 11 tolérés)."""
     ok = allowed_numbers(f)
@@ -483,6 +487,9 @@ def check(note: dict[str, Any], f: dict[str, Any]) -> list[str]:
     for sec, by_lang in note.items():
         for lang, n in by_lang.items():
             text = " ".join([n["lead"], n["impact"], *n["keys"]])
+            text = GROUPED.sub("", text)
+            if lang == "en":
+                text = GROUPED_EN.sub("", text)
             for raw in NUM.findall(text):
                 v = raw.lstrip("−-").replace(" ", "").replace(" ", "")
                 if lang == "en" and re.fullmatch(r"[1-9]\d{0,2}(,\d{3})+", v):

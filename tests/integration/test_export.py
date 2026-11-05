@@ -160,3 +160,15 @@ def test_enquetes_publiees() -> None:
     )  # les xG prédisent, le pressing non
     for lang in ("fr", "en"):
         assert e["answer"][lang] and len(e["chapters"]) >= 3
+
+
+def test_enquete_manques() -> None:
+    enquetes = json.loads((DATA / "enquetes.json").read_text(encoding="utf-8"))
+    e = next(x for x in enquetes if x["slug"] == "manques")
+    d = e["data"]
+    assert d["top_tournaments"] and all(not m["penalty"] for m in d["top_tournaments"])
+    assert all(m["result"] != "W" for m in d["top_tournaments"] + d["penalties_missed"])
+    assert (
+        d["conversion"]["club"]["big_chance_pct"] > d["conversion"]["selection"]["big_chance_pct"]
+    )
+    assert d["finals"]["rows"][0]["winner"] == "Chelsea"

@@ -26,7 +26,11 @@ Comment c'est fait : les calculs sont dans [`src/tableau_noir/enquetes/`](src/ta
 
 Chaque enquête regarde aussi **le temps** (2004 → 2024) et **le club face à la sélection**, quand les données le permettent. Le corpus des enquêtes compte 4 331 matchs : les tournois du site, quatre championnats complets 2015/16, les cinq grands championnats 2017/18 (Wyscout), les matchs du Barça en Liga 2004–2021, Leverkusen 2023/24, le PSG 2021–2023, la Copa América 2024 et la CAN 2023.
 
-À venir : « La possession ne sert à rien », « Le but le plus cher jamais raté », « 2012, l'année où les xG se sont trompés », « Les formations annoncées les plus mensongères », « Où meurent les attaques ».
+**N° 4 · [La possession ne sert à rien (sauf au plus fort)](https://mguillaudeux.github.io/tableau-noir/#/e/possession).** De 40 % à 60 % de possession, la même part de victoires ; à force égale, l'équipe qui a nettement plus le ballon perd plus souvent qu'elle ne gagne.
+
+**N° 5 · [Le but le plus cher jamais raté](https://mguillaudeux.github.io/tableau-noir/#/e/manques).** 830 occasions décisives manquées sur 61 138 tirs ; en sélection on marque 0,97 but par xG contre 1,07 en club ; la conversion ne bouge pas depuis 2015 ; et les xG désignent le vainqueur de 15 finales sur 18, Chelsea 2012 restant la seule vraie injustice.
+
+À venir : « Les formations annoncées les plus mensongères », « Où meurent les attaques ».
 
 ## Les données
 
