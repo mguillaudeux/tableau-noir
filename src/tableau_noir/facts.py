@@ -449,7 +449,7 @@ def _paths(catalogue: dict[str, Any], meta: dict[str, Any]) -> dict[str, list[st
 # constantes du jeu et de la méthode : durées, distances de référence, nom des données
 CONSTANTS = {"15", "20", "35", "45", "60", "90", "105", "120", "360"}
 YEARS = {str(y) for y in range(2008, 2027)}
-NUM = re.compile(r"(?<![\w.,])[−-]?\d+(?:[.,]\d+)?")
+NUM = re.compile(r"(?<![\w.,])[−-]?\d{1,3}(?:[  ]\d{3})+|(?<![\w.,])[−-]?\d+(?:[.,]\d+)?")
 
 
 def _flatten(x: Any) -> list[Any]:
@@ -484,7 +484,9 @@ def check(note: dict[str, Any], f: dict[str, Any]) -> list[str]:
         for lang, n in by_lang.items():
             text = " ".join([n["lead"], n["impact"], *n["keys"]])
             for raw in NUM.findall(text):
-                v = raw.lstrip("−-").replace(",", ".")
+                v = raw.lstrip("−-").replace(" ", "").replace(" ", "")
+                v = v.replace(",", "") if re.fullmatch(r"\d{1,3}(,\d{3})+", v) else v
+                v = v.replace(",", ".")
                 if v in ok or v in CONSTANTS or v in YEARS or (v.isdigit() and int(v) <= 11):
                     continue
                 if "." in v and any(o.startswith(v) for o in ok):  # 0,4 pour 0,40

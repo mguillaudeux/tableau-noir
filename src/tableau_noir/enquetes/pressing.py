@@ -69,8 +69,123 @@ def quartiles(df: pd.DataFrame, key: str, ascending: bool = True) -> list[dict[s
     return out
 
 
+LEAGUES_SB = ("pl-2015", "liga-2015", "seriea-2015", "ligue1-2015")
+LEAGUES_WY = ("england-2017", "france-2017", "germany-2017", "italy-2017", "spain-2017")
+TOURNAMENTS = ("wc-2018", "euro-2020", "wc-2022", "euro-2024")
+
+
+def strength_table(df: pd.DataFrame) -> pd.DataFrame:
+    """Chaque équipe-match d'une saison complète, avec la force de l'équipe (points par match
+    sur le reste de la saison) et celle de l'adversaire, et l'écart de pressing."""
+    full = df.copy()
+    full["pts"] = full["result"].map(PTS)
+    g = full.groupby(["comp", "team"])["pts"]
+    full["strength"] = (g.transform("sum") - full["pts"]) / (g.transform("count") - 1)
+    full["gd"] = full["goals"] - full["goals_against"]
+    opp = full[["match_id", "team", "ppda", "strength"]].rename(
+        columns={"team": "opponent", "ppda": "ppda_o", "strength": "strength_o"}
+    )
+    m = full.merge(opp, on=["match_id", "opponent"]).dropna(subset=["ppda", "ppda_o"])
+    m["dstr"] = m["strength"] - m["strength_o"]
+    m["dpress"] = m["ppda_o"] - m["ppda"]  # > 0 : je presse plus que l'adversaire
+    return m
+
+
+def z(v: pd.Series) -> np.ndarray:
+    out: np.ndarray = ((v - v.mean()) / v.std()).to_numpy(float)
+    return out
+
+
+def _win(g: pd.DataFrame) -> dict[str, Any]:
+    return {
+        "n": int(len(g)),
+        "win_pct": int(round(100 * (g["result"] == "W").mean())) if len(g) else None,
+        "loss_pct": int(round(100 * (g["result"] == "L").mean())) if len(g) else None,
+    }
+
+
+def leagues(df: pd.DataFrame, comps: tuple[str, ...]) -> dict[str, Any]:
+    """En championnat : l'avantage apparent du presseur, et ce qu'il en reste à force égale."""
+    m = strength_table(df[df["comp"].isin(comps)])
+    x1 = np.column_stack([np.ones(len(m)), z(m["dpress"])])
+    x2 = np.column_stack([np.ones(len(m)), z(m["dpress"]), z(m["dstr"])])
+    b1 = np.linalg.lstsq(x1, m["gd"].to_numpy(float), rcond=None)[0]
+    b2 = np.linalg.lstsq(x2, m["gd"].to_numpy(float), rcond=None)[0]
+    net = m[m["dpress"].abs() > 3]
+    equal = net[net["dstr"].abs() < 0.3]
+    fav = m[m["dstr"] > 0.5]
+    out = m[m["dstr"] < -0.5]
+    seasons = (
+        m.groupby(["comp", "team"])
+        .agg(ppda=("ppda", "mean"), pts=("pts", "mean"), possession=("possession", "mean"))
+        .reset_index()
+    )
+    return {
+        "n_matches": int(m["match_id"].nunique()),
+        "n_team_seasons": int(len(seasons)),
+        "effect_alone": _r(b1[1]),
+        "effect_with_strength": _r(b2[1]),
+        "strength_effect": _r(b2[2]),
+        "equal_presser": _win(equal[equal["dpress"] > 0]),
+        "favourite": _win(fav),
+        "favourite_pressing_more": _win(fav[fav["dpress"] > 0]),
+        "favourite_pressing_less": _win(fav[fav["dpress"] < 0]),
+        "outsider": _win(out),
+        "outsider_pressing_more": _win(out[out["dpress"] > 0]),
+        "outsider_pressing_less": _win(out[out["dpress"] < 0]),
+        "corr_season_ppda_pts": _r(seasons["ppda"].corr(seasons["pts"])),
+        "corr_season_possession_pts": _r(seasons["possession"].corr(seasons["pts"])),
+    }
+
+
+def barca(df: pd.DataFrame) -> list[dict[str, Any]]:
+    b = df[df["comp"].isin(("liga-barca", "liga-2015")) & (df["team"] == "Barcelona")].copy()
+    b["pts"] = b["result"].map(PTS)
+    g = b.groupby("season").agg(
+        n=("match_id", "nunique"),
+        ppda=("ppda", "mean"),
+        counterpress=("counterpress", "mean"),
+        possession=("possession", "mean"),
+        pts=("pts", "mean"),
+    )
+    return [
+        {
+            "season": str(k),
+            "n": int(r["n"]),
+            "ppda": _r(r["ppda"], 1),
+            "counterpress": int(round(100 * r["counterpress"])),
+            "possession": int(round(100 * r["possession"])),
+            "pts": _r(r["pts"]),
+        }
+        for k, r in g.iterrows()
+    ]
+
+
+def by_tournament(df: pd.DataFrame) -> list[dict[str, Any]]:
+    out = []
+    for comp in TOURNAMENTS + ("copa-2024", "can-2023"):
+        g = df[df["comp"] == comp]
+        if g.empty:
+            continue
+        p = paired(g)
+        o = outcome(p, "ppda", False)
+        out.append(
+            {
+                "comp": comp,
+                "year": int(g["year"].median()),
+                "n": o["n"],
+                "presser_win_pct": o["win_pct"],
+                "presser_loss_pct": o["loss_pct"],
+                "ppda": _r(g["ppda"].mean(), 1),
+                "press_per_min": _r(g["press_per_min"].mean(), 1),
+            }
+        )
+    return out
+
+
 def compute(corpus: pd.DataFrame) -> dict[str, Any]:
-    df = corpus[corpus["source"] == "statsbomb"].copy()
+    allsb = corpus[corpus["source"] == "statsbomb"]
+    df = allsb[allsb["comp"].isin(TOURNAMENTS + ("ucl-finals",))].copy()
     df["pts"] = df["result"].map(PTS)
     p = paired(df)
     ko = p[p["knockout"]]
@@ -85,10 +200,6 @@ def compute(corpus: pd.DataFrame) -> dict[str, Any]:
     outcomes_ko = {k: outcome(ko, k, k not in ("ppda",)) for k in outcomes}
     # pressing ≈ possession : corrélation, et effet du PPDA une fois la possession retirée
     s = df.dropna(subset=["ppda", "possession"])
-
-    def z(v: pd.Series) -> np.ndarray:
-        out: np.ndarray = ((v - v.mean()) / v.std()).to_numpy(float)
-        return out
 
     x = np.column_stack([np.ones(len(s)), z(s["ppda"]), z(s["possession"])])
     gd = (s["goals"] - s["goals_against"]).to_numpy(float)
@@ -146,7 +257,19 @@ def compute(corpus: pd.DataFrame) -> dict[str, Any]:
     # un vrai bloc bas : moins de 45 % de possession (sinon le PPDA ne mesure que le ballon qu'on a)
     low_wins = [x for x in rows if x["low_result"] == "W" and x["possession_low"] < 45][:8]
     pq = quartiles(df, "ppda")
+    clubs = allsb[allsb["kind"] == "club"]
+    sels = allsb[allsb["kind"] == "selection"]
     return {
+        "leagues_sb": leagues(corpus, LEAGUES_SB),
+        "leagues_wy": leagues(corpus, LEAGUES_WY),
+        "club_vs_selection": {
+            "club": outcome(paired(clubs), "ppda", False),
+            "selection": outcome(paired(sels), "ppda", False),
+            "club_xg": outcome(paired(clubs), "xg", True),
+            "selection_xg": outcome(paired(sels), "xg", True),
+        },
+        "barca": barca(corpus),
+        "tournaments": by_tournament(allsb),
         "n_matches": int(len(p)),
         "n_rows": int(len(df)),
         "xg_gap_q1_q4": _r(pq[0]["xg"] - pq[3]["xg"]),

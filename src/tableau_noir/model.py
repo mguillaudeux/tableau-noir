@@ -87,9 +87,9 @@ def frame(rows: list[dict[str, Any]]) -> pd.DataFrame:
 def chains(df: pd.DataFrame) -> pd.Series:
     """Numérote les possessions quand la source ne le fait pas : une nouvelle possession commence
     chaque fois que l'équipe qui a le ballon change (ou à chaque nouvelle période)."""
-    team = df["possession"].ffill()
-    new = (team != team.shift()) | (df["period"] != df["period"].shift())
-    return new.cumsum().astype("int64")
+    team = df["possession"].ffill().fillna("")
+    new = (team != team.shift()).fillna(True) | (df["period"] != df["period"].shift())
+    return new.fillna(True).astype(bool).cumsum().astype("int64")
 
 
 @dataclass

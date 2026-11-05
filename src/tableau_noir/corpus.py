@@ -17,6 +17,7 @@ from tableau_noir import classic, team
 from tableau_noir.model import Match
 
 CORPUS = Path("data/processed/corpus.csv")
+SELECTIONS = ("FIFA World Cup", "UEFA Euro", "Copa America", "African Cup of Nations")
 
 
 def rows(m: Match, comp: str) -> list[dict[str, Any]]:
@@ -37,6 +38,8 @@ def rows(m: Match, comp: str) -> list[dict[str, Any]]:
             {
                 "match_id": m.id,
                 "comp": comp,
+                "kind": "selection" if m.competition in SELECTIONS else "club",
+                "year": int(str(m.date)[:4]),
                 "competition": m.competition,
                 "season": m.season,
                 "stage": m.stage,
@@ -84,10 +87,90 @@ def rows(m: Match, comp: str) -> list[dict[str, Any]]:
     return out
 
 
-def build(matches: Iterable[tuple[str, Match]], out: Path = CORPUS) -> pd.DataFrame:
-    df = pd.DataFrame([r for comp, m in matches for r in rows(m, comp)])
+SHOTS = Path("data/processed/shots.csv")
+
+
+def shot_rows(m: Match, comp: str) -> list[dict[str, Any]]:
+    """Chaque tir, avec le score au moment du tir : la matière des occasions manquées."""
+    ev = m.events
+    shots = ev[ev["kind"] == "shot"].sort_values(["period", "t"])
+    goals = ev[(ev["kind"].isin(("shot", "own_goal"))) & ev["goal"].fillna(False).astype(bool)]
+    names = {m.home.id: m.home.name, m.away.id: m.away.name}
+    out = []
+    for rec in shots.to_dict("records"):
+        r = _Row(rec)
+        before = goals[goals["t"] < r.t]
+        own = ev[(ev["kind"] == "own_goal") & (ev["t"] < r.t)]
+        # un csc porte l'équipe qui le concède : il compte pour l'autre
+        shots_b = before[before["kind"] == "shot"]
+        gf = int((shots_b["team"] == r.team).sum()) + int((own["team"] != r.team).sum())
+        ga = int((shots_b["team"] != r.team).sum()) + int((own["team"] == r.team).sum())
+        p = m.players.get(str(r.player))
+        out.append(
+            {
+                "match_id": m.id,
+                "comp": comp,
+                "kind": "selection" if m.competition in SELECTIONS else "club",
+                "competition": m.competition,
+                "season": m.season,
+                "stage": m.stage,
+                "knockout": not str(m.stage).startswith("Group"),
+                "date": m.date,
+                "team": names.get(str(r.team), str(r.team)),
+                "opponent": names.get(m.away.id if r.team == m.home.id else m.home.id, "?"),
+                "player": p.name if p else "?",
+                "minute": int(r.minute) + 1,
+                "period": int(r.period),
+                "x": r.x,
+                "y": r.y,
+                "xg": r.xg,
+                "goal": bool(r.goal) if pd.notna(r.goal) else False,
+                "on_target": bool(r.ok) if pd.notna(r.ok) else False,
+                "set_piece": r.set_piece,
+                "body": r.body,
+                "score_for": gf,
+                "score_against": ga,
+                "final_for": us_score(m, str(r.team)),
+                "final_against": them_score(m, str(r.team)),
+                "duration": m.duration,
+            }
+        )
+    return out
+
+
+class _Row:
+    """Accès par attribut à une ligne (typé Any, pour mypy)."""
+
+    def __init__(self, d: dict[Any, Any]) -> None:
+        self.__dict__.update(d)
+
+    def __getattr__(self, k: str) -> Any:
+        return self.__dict__[k]
+
+
+def us_score(m: Match, tid: str) -> int:
+    return m.home.score if tid == m.home.id else m.away.score
+
+
+def them_score(m: Match, tid: str) -> int:
+    return m.away.score if tid == m.home.id else m.home.score
+
+
+def build(
+    matches: Iterable[tuple[str, Match]], out: Path = CORPUS, shots_out: Path = SHOTS
+) -> pd.DataFrame:
+    team_rows: list[dict[str, Any]] = []
+    shot_list: list[dict[str, Any]] = []
+    for comp, m in matches:
+        try:
+            team_rows += rows(m, comp)
+            shot_list += shot_rows(m, comp)
+        except Exception as e:  # noqa: BLE001 — un match cassé ne doit pas perdre les autres
+            print(f"{comp} {m.id} ignoré : {e}", flush=True)
+    df = pd.DataFrame(team_rows)
     out.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(out, index=False)
+    pd.DataFrame(shot_list).to_csv(shots_out, index=False)
     return df
 
 

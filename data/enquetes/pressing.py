@@ -13,8 +13,8 @@ ENQUETE = {
         "en": "Do the teams that press the most win more often?",
     },
     "answer": {
-        "fr": "Non. Sur 241 matchs, l'équipe qui presse le plus gagne 43 % du temps et perd 40 % du temps. En phase finale, c'est pire : elle perd plus souvent qu'elle ne gagne.",
-        "en": "No. Across 241 matches, the team that presses more wins 43% of the time and loses 40% of the time. In knockout matches it gets worse: it loses more often than it wins.",
+        "fr": "Non. Dans les tournois, l'équipe qui presse le plus gagne 43 % du temps et perd 40 % du temps. En club, son avantage apparent disparaît dès qu'on tient compte de la force des équipes. Et rien, dans les données, ne dit que ça change avec le temps.",
+        "en": "No. In tournaments, the team that presses more wins 43% of the time and loses 40% of the time. In club football, its apparent edge vanishes as soon as team strength is accounted for. And nothing in the data says this is changing over time.",
     },
     "standfirst": {
         "fr": "Ouvrez n'importe quelle vidéo d'analyse : le pressing y est la clé de tout. Le gegenpressing, la meute, « le pressing est le meilleur des meneurs de jeu ». On a pris 241 matchs de Coupe du monde, d'Euro et de finales de Ligue des champions, et on a posé la question la plus bête possible : quand une équipe presse plus que l'autre, est-ce qu'elle gagne ? La réponse tient en une pièce qu'on lance en l'air.",
@@ -66,7 +66,37 @@ ENQUETE = {
             "figure": "quartiles",
         },
         {
-            "title": {"fr": "4. Les blocs bas qui ont gagné", "en": "4. The low blocks that won"},
+            "title": {"fr": "4. En club, le piège du favori", "en": "4. In club football, the favourite's trap"},
+            "text": {
+                "fr": [
+                    "C'est là que l'impression des amateurs de football de club vient de quelque part. Sur une saison complète de Premier League, de Liga, de Serie A et de Ligue 1 (2015/16, 1 517 matchs), l'équipe qui presse le plus gagne 46 % de ses matchs et en perd 31 %. Un vrai avantage, cette fois. Les cinq grands championnats 2017/18 disent la même chose avec une autre source de données.",
+                    "Sauf que les gros presseurs sont les gros clubs. Sur 80 équipes-saisons, la corrélation entre le PPDA et les points vaut −0,43, mais celle entre la possession et les points vaut 0,64. Alors on a refait le calcul en tenant compte de la force de chaque équipe, mesurée par ses points sur le reste de la saison. L'effet du pressing sur la différence de buts passe de 0,35 but par écart-type à 0,03. Il disparaît.",
+                    "Le test le plus parlant : à force égale, l'équipe qui presse nettement plus que l'autre gagne 32 % de ses matchs et en perd 39 %. Le favori net gagne 62 % de ses matchs ; quand il presse plus que l'adversaire, 61 % ; quand il presse moins, 65 %. L'outsider gagne 15 % de ses matchs, qu'il presse ou non. En club comme en sélection, ce n'est pas le pressing qui gagne : c'est l'équipe qui presse.",
+                ],
+                "en": [
+                    "This is where the club football fan's impression comes from. Over a full season of the Premier League, La Liga, Serie A and Ligue 1 (2015/16, 1,517 matches), the team that presses more wins 46% of its matches and loses 31%. A real edge, this time. The big five leagues of 2017/18 say the same with another data source.",
+                    "Except that the heavy pressers are the big clubs. Across 80 team-seasons, the correlation between PPDA and points is −0.43, but the one between possession and points is 0.64. So we ran the numbers again accounting for each team's strength, measured by its points over the rest of the season. The effect of pressing on goal difference drops from 0.35 goals per standard deviation to 0.03. It vanishes.",
+                    "The most telling test: at equal strength, the team that presses clearly more than the other wins 32% of its matches and loses 39%. A clear favourite wins 62% of its matches; when it presses more than the opponent, 61%; when it presses less, 65%. The underdog wins 15% of its matches, pressing or not. In club and international football alike, it is not pressing that wins: it is the team that presses.",
+                ],
+            },
+            "figure": "favourite",
+        },
+        {
+            "title": {"fr": "5. Et dans le temps ? Barcelone, 2004–2021", "en": "5. And over time? Barcelona, 2004–2021"},
+            "text": {
+                "fr": [
+                    "Le mythe a une date de naissance : Barcelone, 2008–2011, la règle des six secondes de Guardiola. Les données du Barça, saison après saison, racontent la suite. Entre 2005 et 2010, le Barça laissait 10,6 à 10,8 passes à l'adversaire avant d'intervenir. En 2020/21, il en laissait 15,8. Son contre-pressing est passé de 31 % des pressions en 2011/12 à 26 %. Et ses points par match, de 2,63 en 2009/10 à 2,06.",
+                    "Les sélections, elles, n'ont pas suivi le mouvement inverse. Dans les tournois, l'équipe qui presse le plus gagne 48 % de ses matchs en 2018, 45 % à l'Euro 2020, 36 % au Mondial 2022, 40 % à l'Euro 2024. Rien ne monte. L'Espagne championne d'Europe est 3e presseur de son tournoi sur 24, et c'est bien le seul champion récent qui donne raison au mythe. L'impression que le pressing paie de plus en plus vient du football de club, et nos données récentes de club sont trop minces pour la confirmer : une saison de Leverkusen, deux demi-saisons du PSG, et des équipes qui gagnent de toute façon.",
+                ],
+                "en": [
+                    "The myth has a birth date: Barcelona, 2008–2011, Guardiola's six-second rule. Barça's own numbers, season after season, tell what came next. Between 2005 and 2010, Barça allowed the opponent 10.6 to 10.8 passes before stepping in. In 2020/21, they allowed 15.8. Their counter-pressing went from 31% of pressures in 2011/12 to 26%. And their points per match, from 2.63 in 2009/10 to 2.06.",
+                    "International teams did not move the other way. In tournaments, the team that presses more wins 48% of its matches in 2018, 45% at Euro 2020, 36% at the 2022 World Cup, 40% at Euro 2024. Nothing is rising. European champions Spain rank 3rd heaviest presser of their tournament out of 24, and they are the only recent champion who proves the myth right. The feeling that pressing pays more and more comes from club football, and our recent club data is too thin to confirm it: one Leverkusen season, two half-seasons of PSG, and teams that win anyway.",
+                ],
+            },
+            "figure": "time",
+        },
+        {
+            "title": {"fr": "6. Les blocs bas qui ont gagné", "en": "6. The low blocks that won"},
             "text": {
                 "fr": [
                     "Les contre-exemples ne sont pas des accidents, ce sont des tournois entiers. La France de 2018 bat la Belgique en demi-finale avec un PPDA de 49,4 contre 13,2, soit presque quatre fois moins de pressing que l'adversaire, et 40 % de possession. Le Maroc de 2022 élimine l'Espagne puis le Portugal avec 29 % et 25 % du ballon, et des PPDA de 38,5 et 39,8. L'Inter de 2010 gagne sa finale avec 30 % de possession face au Bayern.",
@@ -87,6 +117,8 @@ ENQUETE = {
             "Le pressing crée des occasions (+0,62 xG par match entre le quart qui presse le plus et celui qui presse le moins) mais ne rapporte pas de points (1,46 contre 1,42).",
             "Le PPDA mesure à moitié la possession (corrélation −0,50). Une fois la possession retirée, le pressing ne pèse presque plus rien.",
             "Deux champions sur quatre pressaient moins que la moitié des équipes de leur tournoi.",
+            "En championnat, l'avantage apparent du presseur (46 % de victoires, 31 % de défaites) disparaît quand on tient compte de la force des équipes : à force égale, le presseur gagne 32 % et perd 39 %.",
+            "Le Barça est passé de 10,8 passes laissées à l'adversaire en 2009/10 à 15,8 en 2020/21 ; dans les tournois, le presseur ne gagne pas plus en 2024 qu'en 2018.",
         ],
         "en": [
             "In 239 matches, the team that presses more wins 43% of the time and loses 40% of the time: a coin toss.",
@@ -94,17 +126,21 @@ ENQUETE = {
             "Pressing creates chances (+0.62 xG per match between the top and bottom pressing quarters) but does not earn points (1.46 against 1.42).",
             "PPDA is half a possession measure (correlation −0.50). Once possession is removed, pressing barely weighs anything.",
             "Two champions out of four pressed less than half of the teams in their tournament.",
+            "In league football, the presser's apparent edge (46% wins, 31% losses) vanishes once team strength is accounted for: at equal strength, the presser wins 32% and loses 39%.",
+            "Barça went from allowing 10.8 opponent passes in 2009/10 to 15.8 in 2020/21; in tournaments, the presser wins no more in 2024 than in 2018.",
         ],
     },
     "limits": {
         "fr": [
-            "Les événements de pression n'existent que chez StatsBomb : l'Euro 2016 (Wyscout) est hors du corpus. Restent 241 matchs, 73 à élimination directe.",
+            "Les événements de pression n'existent que chez StatsBomb : l'Euro 2016 (Wyscout) est hors du corpus des tournois. Restent 241 matchs, 73 à élimination directe. Les championnats 2017/18 (Wyscout) ne sont comparés qu'entre eux : leurs PPDA ne se comparent pas à ceux de StatsBomb.",
+            "Les données de club récentes (2021–2024) ne couvrent qu'un club dominant et ses adversaires : elles ne permettent pas de dire si le pressing paie plus aujourd'hui qu'en 2015.",
             "Le PPDA et ses cousins mesurent une quantité de pressing, pas sa qualité : un pressing coordonné et un pressing désordonné comptent pareil.",
             "Un match de tournoi n'est pas une saison : sur 38 journées, les petits avantages s'additionnent. Ici, ils ont rarement le temps.",
             "Corrélation n'est pas causalité, dans les deux sens : rien ne dit que presser moins ferait gagner.",
         ],
         "en": [
-            "Pressure events only exist in StatsBomb data: Euro 2016 (Wyscout) is outside the corpus. That leaves 241 matches, 73 of them knockouts.",
+            "Pressure events only exist in StatsBomb data: Euro 2016 (Wyscout) is outside the tournament corpus. That leaves 241 matches, 73 of them knockouts. The 2017/18 leagues (Wyscout) are only compared with each other: their PPDAs are not comparable with StatsBomb's.",
+            "Recent club data (2021–2024) only covers one dominant club and its opponents: it cannot tell whether pressing pays more today than in 2015.",
             "PPDA and its cousins measure a quantity of pressing, not its quality: a coordinated press and a chaotic one count the same.",
             "A tournament match is not a season: over 38 rounds, small edges add up. Here, they rarely get the time.",
             "Correlation is not causation, in either direction: nothing says pressing less would make you win.",

@@ -6,7 +6,9 @@ Les fichiers sont téléchargés depuis https://github.com/hudl/open-data puis g
 
 from __future__ import annotations
 
+import http.client
 import json
+import time
 import urllib.request
 from pathlib import Path
 from typing import Any
@@ -38,8 +40,16 @@ def fetch(path: str, cache: Path = CACHE) -> Any:
     local = cache / path
     if not local.exists():
         local.parent.mkdir(parents=True, exist_ok=True)
-        with urllib.request.urlopen(BASE + path, timeout=60) as r:
-            local.write_bytes(r.read())
+        for attempt in range(4):  # le dépôt coupe parfois un transfert : on réessaie
+            try:
+                with urllib.request.urlopen(BASE + path, timeout=120) as r:
+                    data = r.read()
+                break
+            except (OSError, http.client.HTTPException):
+                if attempt == 3:
+                    raise
+                time.sleep(2 * (attempt + 1))
+        local.write_bytes(data)
     return json.loads(local.read_text(encoding="utf-8"))
 
 

@@ -11,9 +11,9 @@ def corpus() -> pd.DataFrame:
     results = ["W", "W", "W", "W", "W", "D", "L", "L"]
     for i, r in enumerate(results):
         opp = {"W": "L", "L": "W", "D": "D"}[r]
-        for team, res, ppda, poss, xg, xga in (
-            (f"A{i}", r, 8.0 + i, 0.6, 1.5, 0.8),
-            (f"B{i}", opp, 20.0 + i, 0.4, 0.8, 1.5),
+        for team, other, res, ppda, poss, xg, xga in (
+            (f"A{i}", f"B{i}", r, 8.0 + i, 0.6, 1.5, 0.8),
+            (f"B{i}", f"A{i}", opp, 20.0 + i, 0.4, 0.8, 1.5),
         ):
             g = 2 if res == "W" else 1 if res == "D" else 0
             rows.append(
@@ -23,6 +23,7 @@ def corpus() -> pd.DataFrame:
                     "stage": "Final" if i % 2 else "Group A",
                     "knockout": bool(i % 2),
                     "team": team,
+                    "opponent": other,
                     "result": res,
                     "goals": g,
                     "goals_against": 2 - g if res != "D" else 1,
@@ -35,6 +36,9 @@ def corpus() -> pd.DataFrame:
                     "high_recoveries": 20 - ppda / 2,
                     "tr_xg_against": 0.2,
                     "source": "statsbomb",
+                    "kind": "selection",
+                    "year": 2022,
+                    "season": "2022",
                 }
             )
     df = pd.DataFrame(rows)

@@ -55,9 +55,9 @@ function frame(svg, title, source) {
   svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
   svg.replaceChildren();
   svg.append(el("rect", { x: 0, y: 0, width: W, height: H, fill: "#1c2421" }));
-  svg.append(text(50, 64, title, { "font-family": HAND, "font-size": 40 }));
-  svg.append(text(50, H - 28, source, { fill: HEX.gris, "font-size": 14 }));
-  svg.append(text(W - 50, 60, "TABLEAU NOIR", { fill: HEX.gris, "font-size": 18, "text-anchor": "end", "font-family": TITRE, "font-weight": 600, "letter-spacing": 3 }));
+  svg.append(text(50, 64, title, { "font-family": HAND, "font-size": title.length > 48 ? 34 : 40 }));
+  svg.append(text(50, H - 28, source, { fill: HEX.gris, "font-size": 13 }));
+  svg.append(text(W - 50, H - 28, "TABLEAU NOIR", { fill: HEX.gris, "font-size": 15, "text-anchor": "end", "font-family": TITRE, "font-weight": 600, "letter-spacing": 3 }));
 }
 
 /** Fig. 1 — l'équipe qui a « plus de … » : victoires, nuls, défaites, en barres empilées. */
@@ -184,7 +184,87 @@ function cases(svg, e, ctx) {
   return t("fig_cases_caption");
 }
 
-const FIGURES = { outcomes, champions, quartiles, cases };
+
+/** Fig. — en championnat : favori, force égale, outsider × presse plus / presse moins. */
+function favourite(svg, e, ctx) {
+  const { t } = ctx;
+  const L = e.data.leagues_sb;
+  frame(svg, t("fig_fav_title"), t("fig_source_leagues", { n: L.n_matches }));
+  const groups = [
+    { label: t("fav_favourite"), more: L.favourite_pressing_more, less: L.favourite_pressing_less },
+    { label: t("fav_equal"), more: L.equal_presser, less: null },
+    { label: t("fav_outsider"), more: L.outsider_pressing_more, less: L.outsider_pressing_less },
+  ];
+  const x0 = 330; const x1 = W - 70; const y0 = 130;
+  const X = (v) => x0 + ((x1 - x0) * v) / 100;
+  const g = el("g", { class: "chalk" });
+  for (const v of [25, 50, 75]) {
+    g.append(el("path", { d: `M${X(v)} ${y0 - 20}V${y0 + 3 * 150}`, stroke: HEX.craie, "stroke-width": 0.6, opacity: 0.18 }));
+    svg.append(text(X(v), y0 - 28, `${v} %`, { "text-anchor": "middle", fill: HEX.gris, "font-size": 14 }));
+  }
+  groups.forEach((gr, i) => {
+    const y = y0 + i * 150;
+    svg.append(text(x0 - 20, y, gr.label, { "text-anchor": "end", "font-family": TITRE, "font-size": 26, "font-weight": 600, "letter-spacing": 1 }));
+    const bars = gr.less ? [["more", t("fav_more"), HEX.home], ["less", t("fav_less"), HEX.away]] : [["more", t("fav_equal_sub"), HEX.home]];
+    bars.forEach(([k, lab, col], j) => {
+      const o = gr[k];
+      const yy = y + 16 + j * 42;
+      g.append(el("path", { d: chalkPath([[x0, yy + 12], [X(o.win_pct), yy + 12]], { amp: 0.8, step: 14, seed: seedOf(gr.label + k) }), stroke: col, "stroke-width": 26, fill: "none", opacity: 0.9 }));
+      svg.append(text(x0 - 20, yy + 17, lab, { "text-anchor": "end", fill: HEX.gris, "font-size": 14 }));
+      svg.append(text(X(o.win_pct) + 12, yy + 19, `${o.win_pct} %`, { fill: col, "font-size": 21, "font-weight": 600 }));
+      svg.append(text(X(o.win_pct) + 82, yy + 19, t("outcome_n", { n: o.n }), { fill: HEX.gris, "font-size": 13 }));
+    });
+  });
+  svg.append(g);
+  svg.append(text(x0, H - 62, t("fig_fav_note"), { "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_fav_caption", { n: L.n_matches });
+}
+
+/** Fig. — le temps : le Barça saison par saison, et les tournois 2018–2024. */
+function time(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_time_title"), t("fig_source_time"));
+  const b = e.data.barca;
+  // panneau gauche : PPDA du Barça par saison
+  const lx0 = 70; const lx1 = 640; const ty = 130; const by = 520;
+  const X = (i) => lx0 + ((lx1 - lx0) * i) / (b.length - 1);
+  const Y = (v) => by - ((v - 8) / (18 - 8)) * (by - ty);
+  const g = el("g", { class: "chalk" });
+  g.append(el("path", { d: chalkPath([[lx0, by], [lx1, by]], { seed: 3 }), stroke: HEX.craie, "stroke-width": 1.4, fill: "none", opacity: 0.6 }));
+  g.append(el("path", { d: chalkPath(b.map((r, i) => [X(i), Y(r.ppda)]), { amp: 1, step: 10, seed: 7 }), stroke: HEX.home, "stroke-width": 5, fill: "none", "stroke-linejoin": "round" }));
+  b.forEach((r, i) => {
+    g.append(el("circle", { cx: X(i), cy: Y(r.ppda), r: 5, fill: HEX.home }));
+    if (i % 4 === 0 || i === b.length - 1) {
+      svg.append(text(X(i), by + 24, r.season.slice(0, 4), { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 }));
+      svg.append(text(X(i), Y(r.ppda) - 14, ctx.num(r.ppda, 1), { "text-anchor": "middle", fill: HEX.home, "font-size": 16 }));
+    }
+  });
+  svg.append(g);
+  svg.append(text(lx0, ty - 24, t("time_barca"), { "font-family": TITRE, "font-size": 26, "font-weight": 600, "letter-spacing": 1 }));
+  svg.append(text(lx0, by + 50, t("time_barca_sub"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(text(lx0, by + 90, t("time_barca_note"), { "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  // panneau droit : presseur gagne, tournoi par tournoi
+  const T = e.data.tournaments.filter((x) => ["wc-2018", "euro-2020", "wc-2022", "euro-2024"].includes(x.comp));
+  const rx0 = 760; const rx1 = W - 60;
+  const RX = (i) => rx0 + ((rx1 - rx0) * i) / (T.length - 1);
+  const RY = (v) => by - ((v - 20) / (70 - 20)) * (by - ty);
+  const g2 = el("g", { class: "chalk" });
+  g2.append(el("path", { d: chalkPath([[rx0 - 20, RY(50)], [rx1 + 20, RY(50)]], { seed: 9 }), stroke: HEX.gris, "stroke-width": 1.2, fill: "none", "stroke-dasharray": "5 7", opacity: 0.7 }));
+  g2.append(el("path", { d: chalkPath(T.map((r, i) => [RX(i), RY(r.presser_win_pct)]), { amp: 1, step: 10, seed: 11 }), stroke: HEX.craie, "stroke-width": 5, fill: "none", "stroke-linejoin": "round" }));
+  T.forEach((r, i) => {
+    g2.append(el("circle", { cx: RX(i), cy: RY(r.presser_win_pct), r: 7, fill: HEX.craie }));
+    svg.append(text(RX(i), RY(r.presser_win_pct) - 16, `${r.presser_win_pct} %`, { "text-anchor": "middle", fill: HEX.craie, "font-size": 18 }));
+    svg.append(text(RX(i), by + 24, t(`comp_${r.comp}`), { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 }));
+  });
+  svg.append(text(rx1 + 22, RY(50) + 5, "50 %", { fill: HEX.gris, "font-size": 13 }));
+  svg.append(g2);
+  svg.append(text(rx0, ty - 24, t("time_tournaments"), { "font-family": TITRE, "font-size": 26, "font-weight": 600, "letter-spacing": 1 }));
+  svg.append(text(rx0, by + 50, t("time_tournaments_sub"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(text(rx0, by + 90, t("time_tournaments_note"), { "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_time_caption");
+}
+
+const FIGURES = { outcomes, champions, quartiles, cases, favourite, time };
 
 // --- Export PNG ---------------------------------------------------------------------------------
 

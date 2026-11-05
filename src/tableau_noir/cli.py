@@ -32,6 +32,25 @@ STATSBOMB = [
 ]
 WYSCOUT = [("euro-2016", "European_Championship", "tournament")]
 
+# Le corpus élargi des enquêtes : ces compétitions ne sont pas publiées match par match, mais
+# elles donnent du temps (2004 → 2024) et des clubs face aux sélections.
+# (identifiant, compétition StatsBomb, saisons, genre : club ou selection)
+CORPUS_STATSBOMB = [
+    ("pl-2015", 2, [27], "club"),  # Premier League 2015/16, saison complète
+    ("liga-2015", 11, [27], "club"),  # La Liga 2015/16, saison complète
+    ("seriea-2015", 12, [27], "club"),  # Serie A 2015/16, saison complète
+    ("ligue1-2015", 7, [27], "club"),  # Ligue 1 2015/16, saison complète
+    ("bundesliga-2015", 9, [27], "club"),  # Bundesliga 2015/16 (un club)
+    ("bundesliga-2023", 9, [281], "club"),  # Bundesliga 2023/24 (Leverkusen)
+    ("ligue1-2021", 7, [108], "club"),
+    ("ligue1-2022", 7, [235], "club"),
+    # La Liga, les matchs du Barça de 2004/05 à 2020/21 (sauf 2015/16, déjà complète)
+    ("liga-barca", 11, [37, 38, 39, 40, 41, 21, 22, 23, 24, 25, 26, 2, 1, 4, 42, 90], "club"),
+    ("copa-2024", 223, [282], "selection"),
+    ("can-2023", 1267, [107], "selection"),
+]
+CORPUS_WYSCOUT = [(f"{k.lower()}-2017", k, "club") for k in LEAGUES]
+
 
 def train_xg(raw: Path = wy.RAW) -> xg.XGModel:
     shots: list[pd.DataFrame] = []
@@ -79,10 +98,12 @@ def _statsbomb_matches(cid: int, seasons: list[int]) -> Iterator[Match]:
             m.frames = None
 
 
-def all_matches(with_frames: bool = False) -> Iterator[tuple[str, Match]]:
-    """Tous les matchs de toutes les compétitions (poules comprises), sans le 360 par défaut."""
+def all_matches(with_frames: bool = False, extended: bool = False) -> Iterator[tuple[str, Match]]:
+    """Tous les matchs de toutes les compétitions (poules comprises), sans le 360 par défaut ;
+    `extended` ajoute le corpus élargi des enquêtes (championnats, Copa América, CAN)."""
     model = xg.XGModel.load(XG_PATH)
-    for gid, cid, seasons, _ in STATSBOMB:
+    groups = STATSBOMB + (CORPUS_STATSBOMB if extended else [])
+    for gid, cid, seasons, _ in groups:
         for sid in seasons:
             for meta in sb.matches(cid, sid):
                 m = sb.load_match(meta)
@@ -90,7 +111,7 @@ def all_matches(with_frames: bool = False) -> Iterator[tuple[str, Match]]:
                     m.frames = sb.load_frames(int(meta["match_id"]))
                 yield gid, m
                 m.frames = None
-    for gid, key, _ in WYSCOUT:
+    for gid, key, _ in WYSCOUT + (CORPUS_WYSCOUT if extended else []):
         for m in wy.load_competition(key):
             yield gid, with_xg(m, model)
 
@@ -175,7 +196,7 @@ def main(argv: list[str] | None = None) -> int:
         print(f"{len(problems)} enquête(s) à corriger")
         return 1 if problems else 0
     elif args.command == "corpus":
-        df = corpus.build(all_matches())
+        df = corpus.build(all_matches(extended=True))
         print(f"corpus : {len(df)} lignes, {df['match_id'].nunique()} matchs → {corpus.CORPUS}")
     elif args.command == "notes":
         print(f"{ex.rewrite_notes(WEB_DATA)} matchs commentés")
