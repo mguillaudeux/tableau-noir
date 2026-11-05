@@ -264,7 +264,212 @@ function time(svg, e, ctx) {
   return t("fig_time_caption");
 }
 
-const FIGURES = { outcomes, champions, quartiles, cases, favourite, time };
+
+// --- Outils de figures génériques ----------------------------------------------------------------
+
+/** Deux colonnes de valeurs face à face (club | sélection), une ligne par indicateur. */
+function compareRowsFig(svg, rows, left, right, ctx) {
+  const lx = 300; const colW = 380; const gap = 90; const y0 = 125; const rowH = Math.min(78, (H - 210) / rows.length);
+  const cols = [[lx, HEX.home, left, "a"], [lx + colW + gap, HEX.away, right, "b"]];
+  const g = el("g", { class: "chalk" });
+  for (const [x, col, title] of cols) svg.append(text(x, 100, title, { fill: col, "font-family": TITRE, "font-size": 22, "font-weight": 600, "letter-spacing": 1 }));
+  rows.forEach((r, i) => {
+    const y = y0 + i * rowH + 20;
+    const max = Math.max(r.a, r.b) || 1;
+    for (const [x, col, , k] of cols) {
+      const w = ((colW - 90) * r[k]) / max;
+      g.append(el("path", { d: chalkPath([[x, y], [x + w, y]], { amp: 0.7, step: 14, seed: seedOf(r.label + k) }), stroke: col, "stroke-width": 24, fill: "none", opacity: 0.9 }));
+      svg.append(text(x + w + 10, y + 7, r.fmt(r[k]), { fill: col, "font-size": 20, "font-weight": 600 }));
+    }
+    svg.append(text(lx - 22, y + 5, r.label, { "text-anchor": "end", "font-size": 17, fill: HEX.craie }));
+    if (r.sub) svg.append(text(lx - 22, y + 24, r.sub, { "text-anchor": "end", "font-size": 12, fill: HEX.gris }));
+  });
+  svg.append(g);
+}
+
+/** Petits multiples : une courbe par panneau, x = étiquettes, y = valeurs. */
+function panels(svg, items, panelsSpec, ctx, opts = {}) {
+  const n = panelsSpec.length;
+  const left = 70; const gap = 40; const pw = (W - 2 * left - gap * (n - 1)) / n; const top = opts.top ?? 140; const ph = opts.height ?? 360;
+  panelsSpec.forEach((p, pi) => {
+    const x0 = left + pi * (pw + gap);
+    const vals = items.map((it) => p.get(it)).filter((v) => v != null);
+    const lo = p.min ?? Math.min(...vals) - (Math.max(...vals) - Math.min(...vals)) * 0.5;
+    const hi = p.max ?? Math.max(...vals) + (Math.max(...vals) - Math.min(...vals)) * 0.3;
+    const X = (i) => x0 + 24 + (i * (pw - 48)) / Math.max(1, items.length - 1);
+    const Y = (v) => top + ph - ((v - lo) / (hi - lo || 1)) * ph;
+    const g = el("g", { class: "chalk" });
+    g.append(el("path", { d: chalkPath([[x0, top + ph], [x0 + pw, top + ph]], { seed: pi }), stroke: HEX.craie, "stroke-width": 1.4, fill: "none", opacity: 0.6 }));
+    const pts = items.map((it, i) => [X(i), Y(p.get(it))]).filter((q) => !Number.isNaN(q[1]));
+    g.append(el("path", { d: chalkPath(pts, { amp: 1, step: 10, seed: seedOf(p.label) }), stroke: p.color ?? HEX.home, "stroke-width": 5, fill: "none", "stroke-linejoin": "round" }));
+    items.forEach((it, i) => {
+      const v = p.get(it);
+      if (v == null) return;
+      g.append(el("circle", { cx: X(i), cy: Y(v), r: 6, fill: p.color ?? HEX.home }));
+      const show = opts.labelEvery ? i % opts.labelEvery === 0 || i === items.length - 1 : true;
+      const showValue = opts.values === "ends" ? i === 0 || i === items.length - 1 : show;
+      if (showValue) svg.append(text(X(i), Y(v) - 14, p.fmt ? p.fmt(v) : ctx.num(v, 1), { "text-anchor": "middle", fill: p.color ?? HEX.home, "font-size": 16 }));
+      if (show) svg.append(text(X(i), top + ph + 24, opts.xlabel(it), { "text-anchor": "middle", fill: HEX.gris, "font-size": 12 }));
+    });
+    svg.append(g);
+    svg.append(text(x0, top - 20, p.label, { "font-family": TITRE, "font-size": 24, "font-weight": 600, fill: p.color ?? HEX.home, "letter-spacing": 1 }));
+    if (p.sub) svg.append(text(x0, top - 2, p.sub, { fill: HEX.gris, "font-size": 12 }));
+  });
+}
+
+// --- Enquête 2 · club et sélection ------------------------------------------------------------------
+
+function same(svg, e, ctx) {
+  const { t } = ctx;
+  const c = e.data.club; const s = e.data.selection;
+  frame(svg, t("fig_same_title"), t("fig_source_cs", { a: c.matches, b: s.matches }));
+  const rows = [
+    { label: t("cs_goals"), a: c.goals_per_match, b: s.goals_per_match, fmt: (v) => ctx.num(v, 2) },
+    { label: t("cs_xg"), a: c.xg_per_match, b: s.xg_per_match, fmt: (v) => ctx.num(v, 2) },
+    { label: t("cs_shots"), a: c.shots_per_match, b: s.shots_per_match, fmt: (v) => ctx.num(v, 1) },
+    { label: t("cs_xg_shot"), a: c.shots.xg_per_shot, b: s.shots.xg_per_shot, fmt: (v) => ctx.num(v, 3) },
+    { label: t("cs_dist"), a: c.shots.distance_m, b: s.shots.distance_m, fmt: (v) => `${ctx.num(v, 1)} m` },
+    { label: t("cs_headers"), a: c.shots.header_pct, b: s.shots.header_pct, fmt: (v) => ctx.pct(v / 100) },
+  ];
+  compareRowsFig(svg, rows, t("cs_club"), t("cs_selection"), ctx);
+  svg.append(text(W - 60, H - 62, t("fig_same_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_same_caption");
+}
+
+function handbrake(svg, e, ctx) {
+  const { t } = ctx;
+  const c = e.data.club; const s = e.data.selection;
+  frame(svg, t("fig_hb_title"), t("fig_source_cs", { a: c.matches, b: s.matches }));
+  const rows = [
+    { label: t("cs_losses"), sub: t("cs_losses_sub"), a: c.losses_per_team, b: s.losses_per_team, fmt: (v) => ctx.num(v, 1) },
+    { label: t("cs_press"), sub: t("cs_press_sub"), a: c.press_per_min, b: s.press_per_min, fmt: (v) => ctx.num(v, 2) },
+    { label: t("cs_cp"), sub: t("cs_cp_sub"), a: c.counterpress_pct, b: s.counterpress_pct, fmt: (v) => ctx.pct(v / 100) },
+    { label: t("cs_tr"), sub: t("cs_tr_sub"), a: c.transition_goals_pct, b: s.transition_goals_pct, fmt: (v) => ctx.pct(v / 100) },
+    { label: t("cs_short"), a: c.short_pass_pct, b: s.short_pass_pct, fmt: (v) => ctx.pct(v / 100) },
+    { label: t("cs_gap"), sub: t("cs_gap_sub"), a: c.possession_gap, b: s.possession_gap, fmt: (v) => ctx.num(v, 1) },
+  ];
+  compareRowsFig(svg, rows, t("cs_club"), t("cs_selection"), ctx);
+  svg.append(text(W - 60, H - 62, t("fig_hb_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_hb_caption");
+}
+
+function deciders(svg, e, ctx) {
+  const { t } = ctx;
+  const c = e.data.club; const s = e.data.selection;
+  frame(svg, t("fig_dec_title"), t("fig_source_cs", { a: c.matches, b: s.matches }));
+  const keys = [["more_xg", t("more_xg")], ["more_possession", t("more_possession")], ["more_pressing", t("more_ppda")]];
+  const x0 = 320; const x1 = W - 70; const X = (v) => x0 + ((x1 - x0) * v) / 70;
+  const g = el("g", { class: "chalk" });
+  for (const v of [25, 50]) { g.append(el("path", { d: `M${X(v)} 110V${110 + 3 * 160}`, stroke: HEX.craie, "stroke-width": 0.6, opacity: 0.18 })); svg.append(text(X(v), 100, `${v} %`, { "text-anchor": "middle", fill: HEX.gris, "font-size": 14 })); }
+  keys.forEach(([k, lab], i) => {
+    const y = 130 + i * 160;
+    svg.append(text(x0 - 20, y + 4, lab, { "text-anchor": "end", "font-family": TITRE, "font-size": 26, "font-weight": 600, "letter-spacing": 1 }));
+    [[c[k], t("cs_club"), HEX.home], [s[k], t("cs_selection"), HEX.away]].forEach(([o, sub, col], j) => {
+      const yy = y + 22 + j * 44;
+      g.append(el("path", { d: chalkPath([[x0, yy + 12], [X(o.win_pct), yy + 12]], { amp: 0.8, step: 14, seed: seedOf(k + sub) }), stroke: col, "stroke-width": 26, fill: "none", opacity: 0.9 }));
+      svg.append(text(X(o.win_pct) + 12, yy + 19, `${o.win_pct} %`, { fill: col, "font-size": 21, "font-weight": 600 }));
+      svg.append(text(X(o.win_pct) + 82, yy + 19, t("dec_loss", { p: o.loss_pct }), { fill: HEX.gris, "font-size": 13 }));
+      svg.append(text(x0 - 20, yy + 17, sub, { "text-anchor": "end", fill: HEX.gris, "font-size": 14 }));
+    });
+  });
+  svg.append(g);
+  svg.append(text(x0, H - 62, t("fig_dec_note"), { "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_dec_caption");
+}
+
+function tournaments(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_tour_title"), t("fig_source_tour"));
+  const items = e.data.tournaments;
+  panels(svg, items, [
+    { label: t("p_losses"), sub: t("p_losses_sub"), get: (x) => x.losses_per_team, fmt: (v) => ctx.num(v, 0) },
+    { label: t("p_goals"), sub: t("p_goals_sub"), get: (x) => x.goals_per_match, fmt: (v) => ctx.num(v, 2), color: HEX.craie },
+    { label: t("p_draws"), sub: t("p_draws_sub"), get: (x) => x.draws_pct, fmt: (v) => `${v} %`, color: HEX.away },
+    { label: t("p_ppda"), sub: t("p_ppda_sub"), get: (x) => x.ppda, fmt: (v) => ctx.num(v, 1), color: HEX.corail },
+  ], ctx, { xlabel: (x) => t(`short_${x.comp}`), top: 150, height: 360, values: "ends" });
+  svg.append(text(W - 60, H - 62, t("fig_tour_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_tour_caption");
+}
+
+// --- Enquête 3 · le temps --------------------------------------------------------------------------
+
+function shotsFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_shots_title"), t("fig_source_barca"));
+  const b = e.data.barca;
+  panels(svg, b, [
+    { label: t("p_outside"), sub: t("p_outside_barca"), get: (x) => x.barca.outside_box_pct, fmt: (v) => `${ctx.num(v, 0)} %` },
+    { label: t("p_outside_opp"), sub: t("p_outside_opp_sub"), get: (x) => x.opponents.outside_box_pct, fmt: (v) => `${ctx.num(v, 0)} %`, color: HEX.away },
+    { label: t("p_distance"), sub: t("p_distance_sub"), get: (x) => x.barca.shot_distance_m, fmt: (v) => `${ctx.num(v, 1)} m`, color: HEX.craie },
+  ], ctx, { xlabel: (x) => x.season.slice(0, 4), labelEvery: 4, top: 150, height: 360 });
+  svg.append(text(W - 60, H - 62, t("fig_shots_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_shots_caption");
+}
+
+function lossesFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_losses_title"), t("fig_source_barca_tour"));
+  const b = e.data.barca; const T = e.data.tournaments;
+  const left = 70; const pw = 520; const top = 150; const ph = 360;
+  const draw = (items, x0, spec, xlabel, every) => {
+    const vals = items.map(spec.get);
+    const lo = Math.min(...vals) - 8; const hi = Math.max(...vals) + 8;
+    const X = (i) => x0 + 24 + (i * (pw - 48)) / Math.max(1, items.length - 1);
+    const Y = (v) => top + ph - ((v - lo) / (hi - lo)) * ph;
+    const g = el("g", { class: "chalk" });
+    g.append(el("path", { d: chalkPath([[x0, top + ph], [x0 + pw, top + ph]], { seed: 1 }), stroke: HEX.craie, "stroke-width": 1.4, fill: "none", opacity: 0.6 }));
+    g.append(el("path", { d: chalkPath(items.map((it, i) => [X(i), Y(spec.get(it))]), { amp: 1, step: 10, seed: seedOf(spec.label) }), stroke: spec.color, "stroke-width": 5, fill: "none", "stroke-linejoin": "round" }));
+    items.forEach((it, i) => {
+      g.append(el("circle", { cx: X(i), cy: Y(spec.get(it)), r: 6, fill: spec.color }));
+      if (i % every === 0 || i === items.length - 1) {
+        svg.append(text(X(i), Y(spec.get(it)) - 14, ctx.num(spec.get(it), 1), { "text-anchor": "middle", fill: spec.color, "font-size": 16 }));
+        svg.append(text(X(i), top + ph + 24, xlabel(it), { "text-anchor": "middle", fill: HEX.gris, "font-size": 12 }));
+      }
+    });
+    svg.append(g);
+    svg.append(text(x0, top - 20, spec.label, { "font-family": TITRE, "font-size": 24, "font-weight": 600, fill: spec.color, "letter-spacing": 1 }));
+    svg.append(text(x0, top - 2, spec.sub, { fill: HEX.gris, "font-size": 12 }));
+  };
+  draw(b, left, { label: t("p_losses_barca"), sub: t("p_losses_barca_sub"), get: (x) => x.barca.losses, color: HEX.home }, (x) => x.season.slice(0, 4), 4);
+  draw(T, left + pw + 40, { label: t("p_losses_tour"), sub: t("p_losses_sub"), get: (x) => x.losses_per_team, color: HEX.away }, (x) => t(`short_${x.comp}`), 1);
+  svg.append(text(W - 60, H - 62, t("fig_losses_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_losses_caption");
+}
+
+function pressingFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_press_time_title"), t("fig_source_barca_tour"));
+  const b = e.data.barca; const T = e.data.tournaments;
+  panels(svg, b, [
+    { label: t("p_ppda_barca"), sub: t("p_ppda_barca_sub"), get: (x) => x.barca.ppda, fmt: (v) => ctx.num(v, 1) },
+    { label: t("p_cp_barca"), sub: t("p_cp_sub"), get: (x) => x.barca.counterpress_pct, fmt: (v) => `${ctx.num(v, 0)} %`, color: HEX.craie },
+  ], ctx, { xlabel: (x) => x.season.slice(0, 4), labelEvery: 4, top: 150, height: 300 });
+  // les tournois, en dessous : une petite table
+  const y0 = H - 118;
+  svg.append(text(70, y0, t("p_tour_line"), { "font-family": TITRE, "font-size": 22, "font-weight": 600, fill: HEX.away, "letter-spacing": 1 }));
+  T.forEach((x, i) => {
+    const cx = 70 + i * 200;
+    svg.append(text(cx, y0 + 28, t(`short_${x.comp}`), { fill: HEX.gris, "font-size": 13 }));
+    svg.append(text(cx, y0 + 50, `PPDA ${ctx.num(x.ppda, 1)} · CP ${ctx.num(x.counterpress_pct, 0)} %`, { fill: HEX.away, "font-size": 16 }));
+  });
+  svg.append(text(W - 60, y0 + 50, t("fig_press_time_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_press_time_caption");
+}
+
+function steady(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_steady_title"), t("fig_source_barca_tour"));
+  const T = e.data.tournaments;
+  panels(svg, T, [
+    { label: t("p_xg_shot"), sub: t("p_xg_shot_sub"), get: (x) => x.shots.xg_per_shot, fmt: (v) => ctx.num(v, 3), min: 0, max: 0.16 },
+    { label: t("p_goals"), sub: t("p_goals_sub"), get: (x) => x.goals_per_match, fmt: (v) => ctx.num(v, 2), color: HEX.craie, min: 0, max: 3.5 },
+    { label: t("p_draws"), sub: t("p_draws_sub"), get: (x) => x.draws_pct, fmt: (v) => `${v} %`, color: HEX.away, min: 0, max: 40 },
+  ], ctx, { xlabel: (x) => t(`short_${x.comp}`), top: 150, height: 360 });
+  svg.append(text(W - 60, H - 62, t("fig_steady_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 24, fill: HEX.home }));
+  return t("fig_steady_caption");
+}
+
+const FIGURES = { outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady };
 
 // --- Export PNG ---------------------------------------------------------------------------------
 

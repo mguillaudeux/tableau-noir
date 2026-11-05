@@ -11,6 +11,8 @@ from collections.abc import Iterable
 from pathlib import Path
 from typing import Any
 
+import pandas as pd
+
 from tableau_noir import analyst, classic, players, team
 from tableau_noir.model import Match
 from tableau_noir.xt import XTModel
@@ -235,11 +237,15 @@ def build_enquetes(out: Path) -> dict[str, list[str]]:
     from tableau_noir.enquetes import REGISTRY
 
     df = corpus.load()
+    shots = pd.read_csv(corpus.SHOTS)
     problems: dict[str, list[str]] = {}
     published = []
     for slug, compute in REGISTRY.items():
-        text: dict[str, Any] = runpy.run_path(str(ENQUETES / f"{slug}.py"))["ENQUETE"]
-        data = compute(df)
+        path = ENQUETES / f"{slug}.py"
+        if not path.exists():
+            continue
+        text: dict[str, Any] = runpy.run_path(str(path))["ENQUETE"]
+        data = compute(df, shots)
         blocks = [("standfirst", text["standfirst"]), ("answer", text["answer"])]
         blocks += [
             (c["title"]["fr"], {lang: " ".join(c["text"][lang]) for lang in ("fr", "en")})

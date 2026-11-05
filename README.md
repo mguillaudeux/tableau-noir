@@ -20,7 +20,13 @@ Le cœur du site. Une enquête, c'est une question qu'un fan se pose vraiment, u
 
 Comment c'est fait : les calculs sont dans [`src/tableau_noir/enquetes/`](src/tableau_noir/enquetes) (testés), sur le corpus produit par `tableau-noir corpus` (une ligne par équipe et par match, [`corpus.py`](src/tableau_noir/corpus.py)). Le texte est dans [`data/enquetes/`](data/enquetes), écrit à la main ; `tableau-noir enquetes` vérifie que chaque nombre cité sort des calculs, puis publie `web/data/enquetes.json`.
 
-À venir : « La possession ne sert à rien en phase finale », « Le but le plus cher jamais raté », « Messi et Mbappé sont le même joueur », « Où meurent les attaques », « Les formations annoncées les plus mensongères ».
+**N° 2 · [Club et sélection : le même sport ?](https://mguillaudeux.github.io/tableau-noir/#/e/clubs).** Mêmes buts, mêmes xG, mêmes tirs ; mais en sélection on perd le ballon 20 % moins souvent, on presse moins, on encaisse moins en transition, et la possession appartient au plus fort.
+
+**N° 3 · [2004 → 2024 : ce qui a vraiment changé](https://mguillaudeux.github.io/tableau-noir/#/e/temps).** Le tir de loin a disparu (52 % des tirs du Barça hors surface en 2004/05, 28 % en 2015/16), on perd de moins en moins le ballon, et le pressing recule dans toutes nos séries.
+
+Chaque enquête regarde aussi **le temps** (2004 → 2024) et **le club face à la sélection**, quand les données le permettent. Le corpus des enquêtes compte 4 331 matchs : les tournois du site, quatre championnats complets 2015/16, les cinq grands championnats 2017/18 (Wyscout), les matchs du Barça en Liga 2004–2021, Leverkusen 2023/24, le PSG 2021–2023, la Copa América 2024 et la CAN 2023.
+
+À venir : « La possession ne sert à rien », « Le but le plus cher jamais raté », « 2012, l'année où les xG se sont trompés », « Les formations annoncées les plus mensongères », « Où meurent les attaques ».
 
 ## Les données
 
@@ -140,7 +146,7 @@ just xt         # grille d'expected threat Wyscout
 just export     # télécharge StatsBomb, calcule tout, écrit web/data/ (≈ 15 min)
 uv run tableau-noir facts --out data/facts   # les fiches de faits, pour écrire
 uv run tableau-noir check-notes             # vérifie les chiffres des textes
-uv run tableau-noir corpus                  # une ligne par équipe et par match (≈ 6 min)
+uv run tableau-noir corpus                  # une ligne par équipe et par match, 4 331 matchs (≈ 45 min)
 uv run tableau-noir enquetes                # calcule, vérifie et publie les enquêtes
 just serve      # le site : http://localhost:8000
 just test       # tests Python et JavaScript

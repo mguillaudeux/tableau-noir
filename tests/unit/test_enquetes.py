@@ -72,3 +72,24 @@ def test_quarts_et_effet() -> None:
     assert out["xg_gap_q1_q4"] == round(q[0]["xg"] - q[3]["xg"], 2)
     assert out["corr_ppda_possession"] < 0
     assert {c["team"] for c in out["champions"]} == {"Argentina", "Spain", "Italy", "France"}
+
+
+def test_portrait_et_comparaison() -> None:
+    from tableau_noir.enquetes import clubs, common
+
+    df = corpus()
+    # les deux équipes d'un même match restent dans la même compétition
+    df["comp"] = df["match_id"].map(lambda m: "pl-2015" if m in ("m0", "m2", "m4") else "wc-2018")
+    df["losses"] = 100.0
+    df["tr_goals_against"] = 1
+    df["tr_xg_against"] = 0.3
+    df["def_height"] = 45.0
+    df["short_share"] = 0.5
+    df["regain_5s"] = 0.3
+    df["shots"] = 12
+    df["year"] = 2016
+    p = common.portrait(df)
+    assert p["matches"] == df["match_id"].nunique() and p["losses_per_team"] == 100.0
+    assert p["more_xg"]["win_pct"] is not None
+    out = clubs.compute(df, None)
+    assert set(out) >= {"club", "selection", "leagues", "tournaments"}

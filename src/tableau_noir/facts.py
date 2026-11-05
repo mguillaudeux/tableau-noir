@@ -468,7 +468,7 @@ def allowed_numbers(f: dict[str, Any]) -> set[str]:
             continue
         if isinstance(v, int | float):
             fv = float(v)
-            for d in (0, 1, 2):
+            for d in (0, 1, 2, 3):
                 out.add(f"{abs(fv):.{d}f}")
         elif isinstance(v, str):
             for n in NUM.findall(v):
@@ -485,7 +485,8 @@ def check(note: dict[str, Any], f: dict[str, Any]) -> list[str]:
             text = " ".join([n["lead"], n["impact"], *n["keys"]])
             for raw in NUM.findall(text):
                 v = raw.lstrip("−-").replace(" ", "").replace(" ", "")
-                v = v.replace(",", "") if re.fullmatch(r"\d{1,3}(,\d{3})+", v) else v
+                if lang == "en" and re.fullmatch(r"[1-9]\d{0,2}(,\d{3})+", v):
+                    v = v.replace(",", "")
                 v = v.replace(",", ".")
                 if v in ok or v in CONSTANTS or v in YEARS or (v.isdigit() and int(v) <= 11):
                     continue
