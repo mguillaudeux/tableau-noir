@@ -11,7 +11,7 @@ from typing import Any
 
 import pandas as pd
 
-from tableau_noir import corpus, xg, xt
+from tableau_noir import corpus, corpus_extra, corpus_shape, xg, xt
 from tableau_noir import export as ex
 from tableau_noir.model import Match
 from tableau_noir.sources import statsbomb as sb
@@ -116,6 +116,17 @@ def all_matches(with_frames: bool = False, extended: bool = False) -> Iterator[t
             yield gid, with_xg(m, model)
 
 
+MLS_2023 = ("mls-2023", 44, [107], "club")  # les matchs d'Inter Miami avec Messi
+
+
+def player_matches() -> Iterator[tuple[str, Match]]:
+    """Les matchs StatsBomb du corpus (les joueurs n'ont de sens qu'avec eux), plus la MLS 2023."""
+    for gid, cid, seasons, _ in STATSBOMB + CORPUS_STATSBOMB + [MLS_2023]:
+        for sid in seasons:
+            for meta in sb.matches(cid, sid):
+                yield gid, sb.load_match(meta)
+
+
 def build(out: Path = WEB_DATA, only: set[str] | None = None) -> dict[str, Any]:
     model = xg.XGModel.load(XG_PATH)
     xt_model = xt.XTModel.load(XT_PATH)
@@ -169,6 +180,8 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("xg", help="entraîne le modèle d'xG sur les tirs Wyscout")
     sub.add_parser("enquetes", help="calcule, vérifie et publie les enquêtes")
     sub.add_parser("corpus", help="une ligne par équipe et par match, pour les enquêtes")
+    sub.add_parser("corpus-players", help="une ligne par joueur et par match (StatsBomb)")
+    sub.add_parser("corpus-shape", help="formations et lieux des pertes, deuxième passe du corpus")
     sub.add_parser("notes", help="réécrit le coin de l'analyste sans tout recalculer")
     fa = sub.add_parser("facts", help="écrit la fiche de faits de chaque match publié")
     fa.add_argument("--out", default="data/facts", help="dossier de sortie")
@@ -195,6 +208,12 @@ def main(argv: list[str] | None = None) -> int:
             print(slug, ", ".join(bad))
         print(f"{len(problems)} enquête(s) à corriger")
         return 1 if problems else 0
+    elif args.command == "corpus-players":
+        df = corpus_extra.build_players(player_matches(), xt.XTModel.load(XT_PATH))
+        print(f"joueurs : {len(df)} lignes → {corpus_extra.PLAYERS}")
+    elif args.command == "corpus-shape":
+        sh, lo = corpus_shape.build(all_matches(extended=True))
+        print(f"formes : {len(sh)} lignes, pertes : {len(lo)} lignes")
     elif args.command == "corpus":
         df = corpus.build(all_matches(extended=True))
         print(f"corpus : {len(df)} lignes, {df['match_id'].nunique()} matchs → {corpus.CORPUS}")

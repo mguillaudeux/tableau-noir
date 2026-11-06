@@ -172,3 +172,16 @@ def test_enquete_manques() -> None:
         d["conversion"]["club"]["big_chance_pct"] > d["conversion"]["selection"]["big_chance_pct"]
     )
     assert d["finals"]["rows"][0]["winner"] == "Chelsea"
+
+
+def test_neuf_enquetes() -> None:
+    """Les neuf enquêtes sont publiées, dans l'ordre, chaque figure connue du site."""
+    enquetes = json.loads((DATA / "enquetes.json").read_text(encoding="utf-8"))
+    assert [e["number"] for e in enquetes] == list(range(1, 10))
+    js = Path("web/js/enquetes.js").read_text(encoding="utf-8")
+    figures = js[js.index("const FIGURES") :]
+    for e in enquetes:
+        for c in e["chapters"]:
+            if c["figure"]:
+                assert re.search(rf"\b{c['figure']}\b", figures), (e["slug"], c["figure"])
+            assert len(c["text"]["fr"]) == len(c["text"]["en"]) >= 1

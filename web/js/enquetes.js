@@ -1,6 +1,6 @@
 // Les enquêtes : une question, une réponse chiffrée, trois ou quatre figures qu'on peut emporter.
 
-import { HEX, el } from "./draw.js";
+import { HEX, el, drawPitch } from "./draw.js";
 import { chalkPath, seedOf } from "./logic.js";
 
 const $ = (s, root = document) => root.querySelector(s);
@@ -268,8 +268,7 @@ function time(svg, e, ctx) {
 // --- Outils de figures génériques ----------------------------------------------------------------
 
 /** Deux colonnes de valeurs face à face (club | sélection), une ligne par indicateur. */
-function compareRowsFig(svg, rows, left, right, ctx) {
-  const lx = 300; const colW = 380; const gap = 90; const y0 = 125; const rowH = Math.min(78, (H - 210) / rows.length);
+function compareRowsFig(svg, rows, left, right, ctx, { lx = 300, colW = 380 } = {}) { const gap = 90; const y0 = 125; const rowH = Math.min(78, (H - 210) / rows.length);
   const cols = [[lx, HEX.home, left, "a"], [lx + colW + gap, HEX.away, right, "b"]];
   const g = el("g", { class: "chalk" });
   for (const [x, col, title] of cols) svg.append(text(x, 100, title, { fill: col, "font-family": TITRE, "font-size": 22, "font-weight": 600, "letter-spacing": 1 }));
@@ -317,8 +316,6 @@ function panels(svg, items, panelsSpec, ctx, opts = {}) {
     if (p.sub) svg.append(text(x0, top - 2, p.sub, { fill: HEX.gris, "font-size": 12 }));
   });
 }
-
-// --- Enquête 2 · club et sélection ------------------------------------------------------------------
 
 function same(svg, e, ctx) {
   const { t } = ctx;
@@ -632,7 +629,395 @@ function finalsFig(svg, e, ctx) {
   return t("fig_finals_caption");
 }
 
-const FIGURES = { outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady, bands: bandsFig, equal: equalFig, bycomp: bycompFig, misses: missesFig, conversion: conversionFig, eras: erasFig, finals: finalsFig };
+// --- Enquête 6 · formations mensongères ------------------------------------------------------------
+
+/** Ce que devient chaque schéma annoncé, avec le ballon : trois barres par schéma. */
+// --- Enquête 6 · la défense à trois, et les formations qui mentent ----------------------------------
+
+const pctFmt = (ctx) => (v) => `${ctx.num(v, v < 10 ? 1 : 0)} %`;
+const compBar = (ctx, c, value, extra = {}) => ({ label: ctx.t(`comp_short_${c.comp}`), sub: seasonOf(ctx.t(`comp_label_${c.comp}`)), value, ...extra });
+const seasonOf = (label) => (label.match(/\d{4}(\/\d{2})?/) ?? [""])[0];
+
+function backThreeFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  const comp = (c) => d.by_comp.find((x) => x.comp === c);
+  frame(svg, t("fig_backthree_title"), t("fig_source_shapes", { n: ctx.num(d.teams, 0) }));
+  groupedBars(svg, [
+    { label: t("bt_barca"), color: HEX.home, items: d.barca.map((x) => ({ label: x.era, value: x.opp.back_three_pct })) },
+    { label: t("bt_leagues"), color: HEX.craie, items: ["pl-2015", "liga-2015", "seriea-2015", "ligue1-2015"].map((c) => compBar(ctx, comp(c), comp(c).back_three_pct)) },
+    { label: t("bt_elite"), color: HEX.corail, items: ["bundesliga-2015", "bundesliga-2023", "ligue1-2021", "ligue1-2022"].map((c) => compBar(ctx, comp(c), comp(c).back_three_pct, { dim: c.endsWith("2015"), label: c.startsWith("bundes") ? "Lev." : "PSG" })) },
+    { label: t("bt_sel"), color: HEX.away, items: ["wc-2018", "euro-2020", "wc-2022", "euro-2024"].map((c) => compBar(ctx, comp(c), comp(c).back_three_pct)) },
+  ], null, ctx, { max: 85, fmt: pctFmt(ctx), top: 170, height: 330 });
+  svg.append(text(W - 60, H - 62, t("fig_backthree_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_backthree_caption");
+}
+
+function topShapesFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  frame(svg, t("fig_topshapes_title"), t("fig_source_shapes", { n: ctx.num(d.leagues_2015.n + d.tournaments.n, 0) }));
+  const rows = d.shapes_compare.map((x) => ({ label: x.shape, sub: t("ts_sub"), a: x.leagues_pct, b: x.tournaments_pct, fmt: (v) => `${ctx.num(v, 1)} %` }));
+  compareRowsFig(svg, rows, t("ts_leagues"), t("ts_tournaments"), ctx);
+  svg.append(text(W - 60, H - 62, t("fig_topshapes_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_topshapes_caption");
+}
+
+/** Trois petits terrains : la défense « médiane », symétrique, bancale, à trois. */
+function lopsidedFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  frame(svg, t("fig_lopsided_title"), t("fig_source_lines", { n: ctx.num(d.four.n + d.three.n, 0) }));
+  const k = 3.3; const top = 190; const pw = 105 * k; const gap = (W - 120 - 3 * pw) / 2;
+  const cases = [
+    [d.shape_level, t("ls_level"), t("ls_level_sub"), HEX.home],
+    [d.shape_lopsided, t("ls_lop"), t("ls_lop_sub", { p: ctx.num(d.four.lopsided_pct, 1) }), HEX.corail],
+    [d.shape_three, t("ls_three"), t("ls_three_sub", { n: ctx.num(d.three.n, 0) }), HEX.away],
+  ];
+  cases.forEach(([pts, title, sub, col], i) => {
+    const ox = 60 + i * (pw + gap);
+    const g = el("g", { class: "chalk" });
+    drawPitch(g, k, ox, top, 11 + i);
+    svg.append(g);
+    const P = (p) => [ox + p.x * k, top + p.y * k];
+    const line = el("g", { class: "chalk" });
+    line.append(el("path", { d: chalkPath(pts.map(P), { amp: 0.8, step: 10, seed: 40 + i }), stroke: col, "stroke-width": 3, fill: "none", opacity: 0.8 }));
+    svg.append(line);
+    pts.forEach((p) => {
+      const [x, y] = P(p);
+      svg.append(el("circle", { cx: x, cy: y, r: 9, fill: col, stroke: "#1c2421", "stroke-width": 2 }));
+      svg.append(text(x + 14, y + 5, `${ctx.num(p.x, 0)} m`, { "text-anchor": "start", "font-size": 13, fill: HEX.craie, "paint-order": "stroke", stroke: "#1c2421", "stroke-width": 4 }));
+    });
+    svg.append(text(ox, top - 38, title, { "font-family": TITRE, "font-size": 24, "font-weight": 600, fill: col, "letter-spacing": 1 }));
+    svg.append(text(ox, top - 16, sub, { fill: HEX.gris, "font-size": 13 }));
+  });
+  svg.append(text(60, top + 68 * k + 26, t("ls_goal"), { fill: HEX.gris, "font-size": 13 }));
+  svg.append(text(W - 60, H - 62, t("fig_lopsided_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_lopsided_caption");
+}
+
+function lopsideTimeFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  const comp = (c) => d.four_by_comp.find((x) => x.comp === c);
+  frame(svg, t("fig_lopsidetime_title"), t("fig_source_lines", { n: ctx.num(d.four.n, 0) }));
+  groupedBars(svg, [
+    { label: t("lt2_barca"), color: HEX.home, items: d.four_barca.map((x) => ({ label: x.era, value: x.barca.lopsided_pct })) },
+    { label: t("lt2_opp"), color: HEX.craie, items: d.four_barca.map((x) => ({ label: x.era, value: x.opp.lopsided_pct })) },
+    { label: t("lt2_leagues"), color: HEX.corail, items: ["pl-2015", "liga-2015", "seriea-2015", "ligue1-2015"].map((c) => compBar(ctx, comp(c), comp(c).lopsided_pct)) },
+    { label: t("lt2_sel"), color: HEX.away, items: ["wc-2018", "euro-2020", "wc-2022", "euro-2024"].map((c) => compBar(ctx, comp(c), comp(c).lopsided_pct)) },
+  ], { value: d.four.lopsided_pct, label: t("lt2_ref", { v: ctx.num(d.four.lopsided_pct, 1) }) }, ctx, { max: 42, fmt: pctFmt(ctx), top: 170, height: 320 });
+  svg.append(text(W - 60, H - 62, t("fig_lopsidetime_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_lopsidetime_caption");
+}
+
+// --- Enquête 7 · où meurent les attaques ------------------------------------------------------------
+
+/** Six bandes de terrain : part des pertes, et coût de chaque perte. */
+function bandsLossFig(svg, e, ctx) {
+  const { t } = ctx;
+  const b = e.data.overall.bands;
+  frame(svg, t("fig_bandsloss_title"), t("fig_source_losses", { n: e.data.overall.matches }));
+  const left = 90; const pw = 1020; const top = 140; const ph = 180;
+  const draw = (key, yTop, color, label, fmt, max) => {
+    const g = el("g", { class: "chalk" });
+    const bw = pw / 6;
+    b.forEach((r, i) => {
+      const x = left + i * bw;
+      const h = (r[key] / max) * ph;
+      g.append(el("path", { d: chalkPath([[x + bw / 2, yTop + ph], [x + bw / 2, yTop + ph - h]], { amp: 0.8, step: 12, seed: seedOf(key + i) }), stroke: color, "stroke-width": bw * 0.55, fill: "none", opacity: 0.85 }));
+      svg.append(text(x + bw / 2, yTop + ph - h - 10, fmt(r[key]), { "text-anchor": "middle", fill: color, "font-size": 18, "font-weight": 600 }));
+      if (key === "xg_per_100") svg.append(text(x + bw / 2, yTop + ph + 24, r.label, { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 }));
+    });
+    g.append(el("path", { d: chalkPath([[left, yTop + ph], [left + pw, yTop + ph]], { seed: 2 }), stroke: HEX.craie, "stroke-width": 1.4, fill: "none", opacity: 0.6 }));
+    svg.append(g);
+    svg.append(text(left, yTop - 10, label, { "font-family": TITRE, "font-size": 24, "font-weight": 600, fill: color, "letter-spacing": 1 }));
+  };
+  draw("share_pct", top, HEX.craie, t("bl_share"), (v) => `${ctx.num(v, 0)} %`, 40);
+  draw("xg_per_100", top + ph + 70, HEX.corail, t("bl_cost"), (v) => ctx.num(v, 2), Math.max(...b.map((r) => r.xg_per_100)) * 1.15);
+  svg.append(text(left, H - 52, t("bl_axis"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(text(W - 60, 104, t("fig_bandsloss_note", { r: ctx.num(e.data.cost_ratio_band1_band4, 1) }), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_bandsloss_caption");
+}
+
+function lossKindFig(svg, e, ctx) {
+  const { t } = ctx;
+  const c = e.data.by_kind.club; const s = e.data.by_kind.selection;
+  frame(svg, t("fig_losskind_title"), t("fig_source_losskind", { a: c.matches, b: s.matches }));
+  const rows = [
+    { label: t("lk_losses"), sub: t("lk_losses_sub"), a: c.losses_per_team, b: s.losses_per_team, fmt: (v) => ctx.num(v, 1) },
+    { label: t("lk_own_half"), sub: t("lk_own_half_sub"), a: c.own_half_pct, b: s.own_half_pct, fmt: (v) => `${ctx.num(v, 0)} %` },
+    { label: t("lk_cost1"), sub: t("lk_cost1_sub"), a: c.bands[1].xg_per_100, b: s.bands[1].xg_per_100, fmt: (v) => ctx.num(v, 2) },
+    { label: t("lk_cost4"), sub: t("lk_cost4_sub"), a: c.bands[4].xg_per_100, b: s.bands[4].xg_per_100, fmt: (v) => ctx.num(v, 2) },
+    { label: t("lk_regain"), sub: t("lk_regain_sub"), a: c.bands[4].regained_5s_pct, b: s.bands[4].regained_5s_pct, fmt: (v) => `${ctx.num(v, 0)} %` },
+  ];
+  compareRowsFig(svg, rows, t("cv_club"), t("cv_selection"), ctx);
+  svg.append(text(W - 60, H - 62, t("fig_losskind_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_losskind_caption");
+}
+
+function lossTimeFig(svg, e, ctx) {
+  const { t } = ctx;
+  frame(svg, t("fig_losstime_title"), t("fig_source_barca"));
+  panels(svg, e.data.barca_years, [
+    { label: t("lt_losses"), sub: t("lt_losses_sub"), get: (x) => x.losses_per_team, fmt: (v) => ctx.num(v, 0) },
+    { label: t("lt_own_half"), sub: t("lt_own_half_sub"), get: (x) => x.own_half_pct, fmt: (v) => `${ctx.num(v, 0)} %`, color: HEX.away },
+  ], ctx, { xlabel: (x) => String(x.year), labelEvery: 4, top: 150, height: 340 });
+  const er = e.data.eras;
+  if (er.length) svg.append(text(70, H - 70, t("lt_eras", { a: ctx.num(er[0].own_half_pct, 1), b: ctx.num(er[er.length - 1].own_half_pct, 1) }), { "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_losstime_caption");
+}
+
+/** Barres groupées : plusieurs fils de comparaison côte à côte, avec une ligne de référence. */
+function groupedBars(svg, groups, ref, ctx, { max, fmt, top = 150, height = 330 }) {
+  const left = 70; const right = W - 50; const gap = 50;
+  const n = groups.reduce((a, g) => a + g.items.length, 0);
+  const bw = (right - left - gap * (groups.length - 1)) / n;
+  const Y = (v) => top + height - (v / max) * height;
+  let x = left;
+  const g = el("g", { class: "chalk" });
+  groups.forEach((grp, gi) => {
+    const x0 = x;
+    grp.items.forEach((it, i) => {
+      const cx = x + bw / 2;
+      g.append(el("path", { d: chalkPath([[cx, top + height], [cx, Y(it.value)]], { amp: 0.7, step: 12, seed: seedOf(grp.label + i) }), stroke: it.color ?? grp.color, "stroke-width": bw * 0.58, fill: "none", opacity: it.dim ? 0.45 : 0.9 }));
+      svg.append(text(cx, Y(it.value) - 10, fmt(it.value), { "text-anchor": "middle", fill: it.color ?? grp.color, "font-size": bw < 72 ? 15 : 18, "font-weight": 600 }));
+      svg.append(text(cx, top + height + 22, it.label, { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 }));
+      if (it.sub) svg.append(text(cx, top + height + 40, it.sub, { "text-anchor": "middle", fill: HEX.gris, "font-size": 11 }));
+      x += bw;
+    });
+    svg.append(text(x0, top - 22, grp.label, { "font-family": TITRE, "font-size": 22, "font-weight": 600, fill: grp.color, "letter-spacing": 1 }));
+    x += gap;
+  });
+  g.append(el("path", { d: chalkPath([[left, top + height], [right, top + height]], { seed: 3 }), stroke: HEX.craie, "stroke-width": 1.4, fill: "none", opacity: 0.6 }));
+  if (ref) {
+    g.append(el("path", { d: `M${left} ${Y(ref.value)}H${right}`, stroke: HEX.craie, "stroke-width": 1.2, "stroke-dasharray": "6 6", opacity: 0.5 }));
+    // la légende de la ligne, sous le titre (jamais sur les barres)
+    svg.append(el("path", { d: `M60 ${H - 62}H100`, stroke: HEX.craie, "stroke-width": 1.2, "stroke-dasharray": "6 6", opacity: 0.7 }));
+    svg.append(text(110, H - 57, ref.label, { fill: HEX.gris, "font-size": 14 }));
+  }
+  svg.append(g);
+}
+
+/** Le coût d'une perte dans ses 17–35 m : chez les adversaires du Barça, en club, en sélection. */
+function costTimeFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  frame(svg, t("fig_costtime_title"), t("fig_source_costtime"));
+  const short = (label) => label.replace("Coupe du monde", t("short_wc")).replace("Copa América", "Copa").replace("Bundesliga", "Bundes.");
+  const clubs = d.clubs_then_now.map((c) => ({ label: short(c.label.split(" ").slice(0, -1).join(" ")), sub: c.label.split(" ").slice(-1)[0], value: c.xg_per_100, dim: c.label.endsWith("2015/16") }));
+  const groups = [
+    { label: t("ct_barca"), color: HEX.home, items: d.barca_opp.map((x) => ({ label: x.era, value: x.opp_xg_per_100 })) },
+    { label: t("ct_clubs"), color: HEX.corail, items: clubs },
+    { label: t("ct_sel"), color: HEX.away, items: d.selections.slice(0, 4).map((c) => ({ label: short(c.label.split(" ").slice(0, -1).join(" ")), sub: c.label.split(" ").slice(-1)[0], value: c.xg_per_100 })) },
+  ];
+  const max = Math.max(...groups.flatMap((g) => g.items.map((i) => i.value))) * 1.18;
+  groupedBars(svg, groups, { value: d.leagues_2015.xg_per_100, label: t("ct_ref", { v: ctx.num(d.leagues_2015.xg_per_100, 2) }) }, ctx, { max, fmt: (v) => ctx.num(v, 2) });
+  svg.append(text(W - 50, H - 62, t("fig_costtime_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_costtime_caption");
+}
+
+/** Fig. hold-up 1 — selon l'écart d'xG, le résultat de l'équipe qui en a le moins. */
+function gapFig(svg, e, ctx) {
+  const { t } = ctx;
+  const bins = e.data.bins;
+  frame(svg, t("fig_gap_title"), t("fig_source_holdups", { n: e.data.matches }));
+  const x0 = 300; const x1 = W - 60; const y0 = 130; const rowH = 76;
+  const g = el("g", { class: "chalk" });
+  bins.forEach((r, i) => {
+    const y = y0 + i * rowH;
+    let x = x0;
+    for (const [k, col] of [["win_pct", HEX.home], ["draw_pct", HEX.gris], ["loss_pct", HEX.away]]) {
+      const ww = ((x1 - x0) * r[k]) / 100;
+      g.append(el("path", { d: chalkPath([[x, y + 22], [x + ww, y + 22]], { amp: 0.8, step: 14, seed: seedOf(k + i) }), stroke: col, "stroke-width": 30, fill: "none", opacity: k === "draw_pct" ? 0.45 : 0.9, "stroke-linecap": "butt" }));
+      if (ww > 56) svg.append(text(x + ww / 2, y + 29, `${ctx.num(r[k], 0)} %`, { "text-anchor": "middle", fill: HEX.craie, "font-size": 19, "font-weight": 600, "paint-order": "stroke", stroke: "#1c2421", "stroke-width": 5 }));
+      x += ww;
+    }
+    const lab = r.hi == null ? t("gap_more", { a: ctx.num(r.lo, 1) }) : t("gap_range", { a: ctx.num(r.lo, 2), b: ctx.num(r.hi, 2) });
+    svg.append(text(x0 - 18, y + 20, lab, { "text-anchor": "end", "font-family": TITRE, "font-size": 22, "font-weight": 600 }));
+    svg.append(text(x0 - 18, y + 42, t("outcome_n", { n: r.n }), { "text-anchor": "end", fill: HEX.gris, "font-size": 13 }));
+  });
+  svg.append(g);
+  [["win", t("o_win"), HEX.home], ["draw", t("o_draw"), HEX.gris], ["loss", t("o_loss"), HEX.away]].forEach(([, lab, col], i) => {
+    svg.append(el("rect", { x: x0 + i * 170, y: 92, width: 16, height: 16, fill: col, opacity: 0.9 }));
+    svg.append(text(x0 + i * 170 + 24, 106, lab, { fill: HEX.gris, "font-size": 15 }));
+  });
+  svg.append(text(60, 106, t("gap_axis"), { fill: HEX.gris, "font-size": 15 }));
+  return t("fig_gap_caption");
+}
+
+/** Fig. hold-up 2 — compétition par compétition, la part des hold-up. */
+function holdCompFig(svg, e, ctx) {
+  const { t } = ctx;
+  const rows = e.data.by_comp;
+  frame(svg, t("fig_holdcomp_title"), t("fig_source_holdups", { n: e.data.matches }));
+  const x0 = 360; const x1 = W - 90; const y0 = 110; const rowH = (H - 190) / rows.length;
+  const max = 35;
+  const X = (v) => x0 + ((x1 - x0) * v) / max;
+  const g = el("g", { class: "chalk" });
+  for (const v of [0, 10, 20, 30]) {
+    g.append(el("path", { d: `M${X(v)} ${y0 - 10}V${y0 + rows.length * rowH}`, stroke: HEX.craie, "stroke-width": 0.6, opacity: 0.15 }));
+    svg.append(text(X(v), y0 + rows.length * rowH + 20, `${v} %`, { "text-anchor": "middle", fill: HEX.gris, "font-size": 13 }));
+  }
+  rows.forEach((r, i) => {
+    const y = y0 + i * rowH + rowH / 2;
+    const col = r.kind === "selection" ? HEX.away : HEX.home;
+    g.append(el("path", { d: chalkPath([[x0, y], [X(r.win_pct), y]], { amp: 0.5, step: 14, seed: seedOf(r.comp) }), stroke: col, "stroke-width": Math.min(18, rowH * 0.6), fill: "none", opacity: 0.85 }));
+    svg.append(text(X(r.win_pct) + 10, y + 6, `${ctx.num(r.win_pct, 1)} %`, { fill: col, "font-size": 15 }));
+    svg.append(text(x0 - 14, y + 5, t(`comp_label_${r.comp}`) || r.label, { "text-anchor": "end", "font-size": 15, fill: HEX.craie }));
+  });
+  svg.append(g);
+  svg.append(el("rect", { x: x0, y: 84, width: 14, height: 14, fill: HEX.home }));
+  svg.append(text(x0 + 22, 96, t("cv_club"), { fill: HEX.gris, "font-size": 14 }));
+  svg.append(el("rect", { x: x0 + 120, y: 84, width: 14, height: 14, fill: HEX.away }));
+  svg.append(text(x0 + 142, 96, t("cv_selection"), { fill: HEX.gris, "font-size": 14 }));
+  return t("fig_holdcomp_caption");
+}
+
+/** Fig. hold-up 3 — les dix plus gros hold-up du corpus. */
+function heistsFig(svg, e, ctx) {
+  const { t } = ctx;
+  const rows = e.data.heists.slice(0, 8);
+  frame(svg, t("fig_heists_title"), t("fig_source_holdups", { n: e.data.matches }));
+  const y0 = 120; const rowH = 62; const xb = 760; const max = Math.max(...rows.map((r) => r.gap));
+  const g = el("g", { class: "chalk" });
+  rows.forEach((r, i) => {
+    const y = y0 + i * rowH;
+    svg.append(text(60, y + 14, `${ctx.team(r.team)} ${r.goals}–${r.goals_against} ${ctx.team(r.opponent)}${r.penalties ? ` (${t("tab")})` : ""}`, { "font-family": TITRE, "font-size": 24, "font-weight": 600, "letter-spacing": 1, fill: i === 0 ? HEX.home : HEX.craie }));
+    svg.append(text(60, y + 36, `${t(`comp_label_${r.comp}`) || r.label} · ${ctx.stageName(r.stage)}`, { fill: HEX.gris, "font-size": 13 }));
+    g.append(el("path", { d: chalkPath([[xb, y + 12], [xb + (360 * r.gap) / max, y + 12]], { amp: 0.6, step: 14, seed: seedOf(r.match_id) }), stroke: HEX.corail, "stroke-width": 16, fill: "none", opacity: 0.85 }));
+    svg.append(text(xb - 14, y + 18, `${ctx.num(r.xg, 2)} – ${ctx.num(r.xg_against, 2)}`, { "text-anchor": "end", fill: HEX.gris, "font-size": 15 }));
+    svg.append(text(xb + (360 * r.gap) / max + 10, y + 18, `−${ctx.num(r.gap, 2)}`, { fill: HEX.corail, "font-size": 16 }));
+  });
+  svg.append(g);
+  svg.append(text(xb - 14, 96, t("heists_xg"), { "text-anchor": "end", fill: HEX.gris, "font-size": 13 }));
+  svg.append(text(xb, 96, t("heists_gap"), { fill: HEX.gris, "font-size": 13 }));
+  return t("fig_heists_caption");
+}
+
+
+/** Fig. hold-up 4 — le temps : le Barça par période, les tournois, les clubs. */
+function holdTimeFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  frame(svg, t("fig_holdtime_title"), t("fig_source_holdups", { n: d.matches }));
+  const comp = (c) => d.by_comp.find((x) => x.comp === c);
+  const short = (c) => t(`comp_short_${c}`);
+  const groups = [
+    { label: t("ht_barca"), color: HEX.home, items: d.barca.map((x) => ({ label: x.era, value: x.win_pct })) },
+    { label: t("ht_clubs"), color: HEX.corail, items: ["pl-2015", "liga-2015", "seriea-2015", "ligue1-2015", "ligue1-2022", "bundesliga-2023"].map(comp).filter(Boolean).map((x) => ({ label: short(x.comp), sub: seasonOf(t(`comp_label_${x.comp}`)), value: x.win_pct, dim: x.year < 2020 })) },
+    { label: t("ht_sel"), color: HEX.away, items: ["wc-2018", "euro-2020", "wc-2022", "euro-2024"].map(comp).filter(Boolean).map((x) => ({ label: short(x.comp), sub: seasonOf(t(`comp_label_${x.comp}`)), value: x.win_pct })) },
+  ];
+  groupedBars(svg, groups, { value: d.overall.win_pct, label: t("ht_ref", { v: ctx.num(d.overall.win_pct, 1) }) }, ctx, { max: 36, fmt: (v) => `${ctx.num(v, 0)} %` });
+  svg.append(text(W - 50, H - 62, t("fig_holdtime_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_holdtime_caption");
+}
+
+// --- Enquête 8 · Messi et Mbappé ------------------------------------------------------------------
+
+const METRICS = [["npxg", "mm_m_npxg", 2], ["shots", "mm_m_shots", 2], ["box", "mm_m_box", 1], ["touches", "mm_m_touches", 1], ["dribbles", "mm_m_dribbles", 2], ["progressive", "mm_m_prog", 2], ["key_passes", "mm_m_kp", 2]];
+
+function twinsFig(svg, e, ctx) {
+  const { t } = ctx;
+  const { messi, mbappe } = e.data.same_age;
+  frame(svg, t("fig_twins_title"), t("fig_source_twins", { a: messi.matches, b: mbappe.matches }));
+  const rows = METRICS.map(([k, lab, dec]) => ({ label: t(lab), sub: t("mm_per90"), a: messi[k], b: mbappe[k], fmt: (v) => ctx.num(v, dec) }));
+  compareRowsFig(svg, rows, t("tw_messi"), t("tw_mbappe"), ctx);
+  svg.append(text(W - 60, H - 62, t("fig_twins_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_twins_caption");
+}
+
+function messiTimeFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  frame(svg, t("fig_messitime_title"), t("fig_source_messi"));
+  panels(svg, d.messi_seasons, [
+    { label: t("mt_dribbles"), sub: t("mt_sub"), get: (x) => x.dribbles, fmt: (v) => ctx.num(v, 1), min: 0, max: 10 },
+    { label: t("mt_prog"), sub: t("mt_sub"), get: (x) => x.progressive, fmt: (v) => ctx.num(v, 1), min: 0, max: 9, color: HEX.away },
+  ], ctx, { xlabel: (x) => `${x.season.slice(2, 4)}/${x.season.slice(7, 9)}`, labelEvery: 3, top: 150, height: 330 });
+  const psg = d.psg.messi;
+  svg.append(text(70, H - 70, t("mt_psg", { d: ctx.num(psg.dribbles, 2), p: ctx.num(psg.progressive, 2) }), { "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_messitime_caption");
+}
+
+/** Un terrain : la médiane des ballons touchés, saison après saison. */
+function touchMapFig(svg, e, ctx) {
+  const { t } = ctx;
+  const d = e.data;
+  frame(svg, t("fig_touchmap_title"), t("fig_source_messi"));
+  const k = 7; const ox = 50; const oy = 120;
+  const g = el("g", { class: "chalk" });
+  drawPitch(g, k, ox, oy, 21);
+  svg.append(g);
+  const P = (p) => [ox + p.touch_x * k, oy + p.touch_y * k];
+  // Messi au Barça : un chemin, du plus pâle (2005) au plus vif (2021)
+  const seasons = d.messi_seasons;
+  const path = el("g", { class: "chalk" });
+  path.append(el("path", { d: chalkPath(seasons.map(P), { amp: 0.6, step: 8, seed: 5 }), stroke: HEX.home, "stroke-width": 2.5, fill: "none", opacity: 0.6 }));
+  svg.append(path);
+  seasons.forEach((s, i) => {
+    const [x, y] = P(s);
+    svg.append(el("circle", { cx: x, cy: y, r: 7, fill: HEX.home, opacity: 0.35 + (0.65 * i) / (seasons.length - 1) }));
+  });
+  const lab = (p, s, col, dx = 12, dy = 5, anchor = "start") => {
+    const [x, y] = P(p);
+    svg.append(text(x + dx, y + dy, s, { fill: col, "font-size": 14, "text-anchor": anchor, "paint-order": "stroke", stroke: "#1c2421", "stroke-width": 4 }));
+  };
+  lab(seasons[0], seasons[0].season.replace(/^20(\d\d)\/20(\d\d)$/, "$1/$2"), HEX.home);
+  lab(seasons[seasons.length - 1], seasons[seasons.length - 1].season.replace(/^20(\d\d)\/20(\d\d)$/, "$1/$2"), HEX.home, 12, -8);
+  const psgMe = d.psg.messi;
+  const [mx, my] = P(psgMe);
+  svg.append(el("circle", { cx: mx, cy: my, r: 9, fill: "none", stroke: HEX.home, "stroke-width": 3 }));
+  lab(psgMe, "PSG", HEX.home, -14, 5, "end");
+  // Mbappé : PSG et France
+  const mb = [...d.mbappe_psg_seasons.map((x) => [x, `PSG ${t(`comp_label_${x.key}`).match(/\d{4}\/\d{2}/)[0].slice(2)}`]),
+    ...d.mbappe_tournaments.map((x) => [x, t(`short_${x.key}`)])];
+  // étiquettes placées à la main : les points de Mbappé se serrent sur le couloir gauche
+  const at = { "ligue1-2021": [-12, 16, "end"], "ligue1-2022": [-12, -6, "end"], "euro-2020": [12, 14], "wc-2022": [-12, -4, "end"], "euro-2024": [12, 2], "wc-2018": [12, 5] };
+  mb.forEach(([p, s]) => {
+    svg.append(el("circle", { cx: P(p)[0], cy: P(p)[1], r: 7, fill: HEX.away }));
+    lab(p, s, HEX.away, ...(at[p.key] ?? [12, 5]));
+  });
+  svg.append(text(ox + 4, oy + 68 * k + 22, `${t("ls_goal")}   ·   ${t("tm_attack")}`, { fill: HEX.gris, "font-size": 13 }));
+  // légende
+  const lx = ox + 105 * k + 40;
+  [[HEX.home, t("tm_messi"), 0.7], [HEX.home, t("tm_messi_psg"), 0], [HEX.away, t("tm_mbappe"), 1]].forEach(([c, s, o], i) => {
+    const y = 150 + i * 34;
+    svg.append(el("circle", { cx: lx + 7, cy: y - 5, r: 7, fill: o ? c : "none", stroke: c, "stroke-width": o ? 0 : 3, opacity: o || 1 }));
+    svg.append(text(lx + 24, y, s, { fill: HEX.craie, "font-size": 14 }));
+  });
+  svg.append(text(lx, 270, t("tm_how"), { fill: HEX.gris, "font-size": 12 }));
+  const note = el("text", { x: lx, y: 330, "font-family": HAND, "font-size": 20, fill: HEX.home });
+  wrap(t("tm_note"), 22).forEach((ln, i) => note.append(el("tspan", { x: lx, dy: i ? 30 : 0 }, ln)));
+  svg.append(note);
+  return t("fig_touchmap_caption");
+}
+
+const wrap = (s, n) => s.split(" ").reduce((lines, w) => {
+  const last = lines[lines.length - 1];
+  if (last && (last + " " + w).length <= n) lines[lines.length - 1] = `${last} ${w}`; else lines.push(w);
+  return lines;
+}, []);
+
+function clubSelFig(svg, e, ctx) {
+  const { t } = ctx;
+  const c = e.data.club_vs_selection;
+  frame(svg, t("fig_clubsel_title"), t("fig_source_twins", { a: c.messi_club.matches + c.messi_selection.matches, b: c.mbappe_club.matches + c.mbappe_selection.matches }));
+  const row = (who, sub, a, b, k, lab, dec) => ({ label: t(who, { m: t(lab) }), sub: t(sub), a: a[k], b: b[k], fmt: (v) => ctx.num(v, dec) });
+  const rows = [
+    row("mm_cs_messi", "mm_cs_messi_sub", c.messi_club, c.messi_selection, "npxg", "mm_m_npxg", 2),
+    row("mm_cs_messi", "mm_cs_messi_sub", c.messi_club, c.messi_selection, "touches", "mm_m_touches", 1),
+    row("mm_cs_messi", "mm_cs_messi_sub", c.messi_club, c.messi_selection, "key_passes", "mm_m_kp", 2),
+    row("mm_cs_mbappe", "mm_cs_mbappe_sub", c.mbappe_club, c.mbappe_selection, "npxg", "mm_m_npxg", 2),
+    row("mm_cs_mbappe", "mm_cs_mbappe_sub", c.mbappe_club, c.mbappe_selection, "box", "mm_m_box", 1),
+    row("mm_cs_mbappe", "mm_cs_mbappe_sub", c.mbappe_club, c.mbappe_selection, "dribbles", "mm_m_dribbles", 2),
+  ];
+  compareRowsFig(svg, rows, t("mm_cs_club"), t("mm_cs_sel"), ctx, { lx: 410, colW: 330 });
+  svg.append(text(W - 60, H - 62, t("fig_clubsel_note"), { "text-anchor": "end", "font-family": HAND, "font-size": 22, fill: HEX.home }));
+  return t("fig_clubsel_caption");
+}
+
+const FIGURES = { gap: gapFig, holdcomp: holdCompFig, heists: heistsFig, holdtime: holdTimeFig, costtime: costTimeFig, backthree: backThreeFig, topshapes: topShapesFig, lopsided: lopsidedFig, lopsidetime: lopsideTimeFig, twins: twinsFig, messitime: messiTimeFig, touchmap: touchMapFig, clubsel: clubSelFig, bandsloss: bandsLossFig, losskind: lossKindFig, losstime: lossTimeFig, outcomes, champions, quartiles, cases, favourite, time, same, handbrake, deciders, tournaments, shots: shotsFig, losses: lossesFig, pressing: pressingFig, steady, bands: bandsFig, equal: equalFig, bycomp: bycompFig, misses: missesFig, conversion: conversionFig, eras: erasFig, finals: finalsFig };
 
 // --- Export PNG ---------------------------------------------------------------------------------
 

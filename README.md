@@ -30,7 +30,15 @@ Chaque enquête regarde aussi **le temps** (2004 → 2024) et **le club face à 
 
 **N° 5 · [Le but le plus cher jamais raté](https://mguillaudeux.github.io/tableau-noir/#/e/manques).** 830 occasions décisives manquées sur 61 138 tirs ; en sélection on marque 0,97 but par xG contre 1,07 en club ; la conversion ne bouge pas depuis 2015 ; et les xG désignent le vainqueur de 15 finales sur 18, Chelsea 2012 restant la seule vraie injustice.
 
-À venir : « Les formations annoncées les plus mensongères », « Où meurent les attaques ».
+**N° 6 · [La défense à trois est revenue (et la défense à quatre ment)](https://mguillaudeux.github.io/tableau-noir/#/e/formations).** La défense à trois annoncée passe de 0,8 % à 22,7 % des compositions des adversaires du Barça entre 2004–09 et 2016–21, 75 % dans les matchs de Leverkusen 2023/24 ; les sélections l'ont adoptée plus largement (28,9 % des équipes dans les grands tournois 2018–2024). Et dans un match sur quatre, la défense à quatre annoncée joue à trois avec le ballon : un latéral monte, l'autre reste.
+
+**N° 7 · [Où meurent les attaques](https://mguillaudeux.github.io/tableau-noir/#/e/pertes).** Une perte entre 17 et 35 m de son but coûte 3,9 fois une perte dans le camp adverse ; on perd de moins en moins le ballon ; et le prix d'une perte près de son but a grimpé chez les clubs d'élite, pas en sélection.
+
+**N° 8 · [Messi et Mbappé, le même joueur ?](https://mguillaudeux.github.io/tableau-noir/#/e/messi)** À 23–24 ans, les mêmes occasions (0,68 et 0,66 xG hors penalty pour 90 minutes), mais pas le même football : 7,11 dribbles réussis contre 2,57, 164,9 ballons touchés contre 100,6. Messi a ensuite changé de métier (de dribbleur à passeur), et en sélection les deux perdent une bonne part de leurs occasions.
+
+**N° 9 · [Les hold-up : quand les xG se trompent](https://mguillaudeux.github.io/tableau-noir/#/e/holdups).** L'équipe qui a le moins d'xG gagne 16,6 % du temps (2,6 % au-delà de 2 xG d'écart) ; 24,8 % en sélection et 40,7 % en phase finale. Pas de tendance dans le temps : le hasard habite les tournois.
+
+Ce que disent les enquêtes du temps et du club face à la sélection, en deux lignes : le football de club d'élite a changé (pertes plus chèrement punies, défense à trois, moins de hold-up chez les dominants), le football de sélection beaucoup moins. Limite commune : pas de données ouvertes après 2024, et les échantillons de club récents sont ceux d'équipes dominantes (Leverkusen, PSG).
 
 ## Les données
 
@@ -151,6 +159,8 @@ just export     # télécharge StatsBomb, calcule tout, écrit web/data/ (≈ 15
 uv run tableau-noir facts --out data/facts   # les fiches de faits, pour écrire
 uv run tableau-noir check-notes             # vérifie les chiffres des textes
 uv run tableau-noir corpus                  # une ligne par équipe et par match, 4 331 matchs (≈ 45 min)
+uv run tableau-noir corpus-shape            # formations annoncées et lieux des pertes (2e passe)
+uv run tableau-noir corpus-players          # une ligne par joueur et par match, StatsBomb (≈ 15 min)
 uv run tableau-noir enquetes                # calcule, vérifie et publie les enquêtes
 just serve      # le site : http://localhost:8000
 just test       # tests Python et JavaScript

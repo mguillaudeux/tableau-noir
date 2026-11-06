@@ -233,19 +233,24 @@ def build_enquetes(out: Path) -> dict[str, list[str]]:
     web/data/enquetes.json. Renvoie, par enquête, les nombres introuvables."""
     import runpy
 
-    from tableau_noir import corpus, facts
+    from tableau_noir import corpus, corpus_extra, corpus_shape, facts
     from tableau_noir.enquetes import REGISTRY
 
     df = corpus.load()
     shots = pd.read_csv(corpus.SHOTS)
+    tables = {
+        "shapes": pd.read_csv(corpus_shape.SHAPES) if corpus_shape.SHAPES.exists() else None,
+        "losses": pd.read_csv(corpus_shape.LOSSES) if corpus_shape.LOSSES.exists() else None,
+        "players": pd.read_csv(corpus_extra.PLAYERS) if corpus_extra.PLAYERS.exists() else None,
+    }
     problems: dict[str, list[str]] = {}
     published = []
-    for slug, compute in REGISTRY.items():
+    for slug, (compute, needs) in REGISTRY.items():
         path = ENQUETES / f"{slug}.py"
-        if not path.exists():
+        if not path.exists() or any(tables.get(n) is None for n in needs):
             continue
         text: dict[str, Any] = runpy.run_path(str(path))["ENQUETE"]
-        data = compute(df, shots)
+        data = compute(df, shots, *(tables[n] for n in needs))
         blocks = [("standfirst", text["standfirst"]), ("answer", text["answer"])]
         blocks += [
             (c["title"]["fr"], {lang: " ".join(c["text"][lang]) for lang in ("fr", "en")})

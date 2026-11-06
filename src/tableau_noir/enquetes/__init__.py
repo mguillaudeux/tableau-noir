@@ -10,15 +10,28 @@ from __future__ import annotations
 from collections.abc import Callable
 from typing import Any
 
-import pandas as pd
+from tableau_noir.enquetes import (
+    clubs,
+    formations,
+    holdups,
+    manques,
+    messi,
+    pertes,
+    possession,
+    pressing,
+    temps,
+)
 
-from tableau_noir.enquetes import clubs, manques, possession, pressing, temps
-
-Compute = Callable[[pd.DataFrame, pd.DataFrame], dict[str, Any]]
-REGISTRY: dict[str, Compute] = {
-    "pressing": lambda c, s: pressing.compute(c),
-    "clubs": clubs.compute,
-    "temps": temps.compute,
-    "possession": possession.compute,
-    "manques": manques.compute,
+Compute = Callable[..., dict[str, Any]]
+# slug → (calcul, tables supplémentaires nécessaires, parmi "shapes", "losses" et "players")
+REGISTRY: dict[str, tuple[Compute, tuple[str, ...]]] = {
+    "pressing": (lambda c, s: pressing.compute(c), ()),
+    "clubs": (clubs.compute, ()),
+    "temps": (temps.compute, ()),
+    "possession": (possession.compute, ()),
+    "manques": (manques.compute, ()),
+    "formations": (formations.compute, ("shapes", "players")),
+    "pertes": (pertes.compute, ("losses",)),
+    "messi": (messi.compute, ("players",)),
+    "holdups": (holdups.compute, ()),
 }
